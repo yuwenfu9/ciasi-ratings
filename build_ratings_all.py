@@ -95,8 +95,22 @@ def clean_target(tl):
     for t in tl:
         name = (t.get("targetName") or "").replace("\\VRU保护", "/VRU保护").replace("\\", "")
         if name:
-            out[name] = t.get("score")
+            out[name] = norm_pct(t.get("score"))
     return out or None
+
+
+def norm_pct(v):
+    """源站 C-NCAP/CCRT 分数格式不统一：有的带 '%'（"85.4%"），有的是纯数字（"56.300"）。
+    统一规范化为含百分号的字符串（'XX.X%'），避免界面上「百分制」与「百分之」并存。"""
+    if v is None:
+        return None
+    s = str(v).replace("%", "").strip()
+    if s == "" or not re.search(r"\d", s):
+        return None
+    try:
+        return "%g%%" % float(s)
+    except ValueError:
+        return None
 
 
 def main():
@@ -135,7 +149,7 @@ def main():
                 "carName": carName,
                 "brand": derive_brand(carName, r.get("manufacturer")),
                 "year": r.get("testYear", ""),
-                "score": r.get("score"),
+                "score": norm_pct(r.get("score")),
                 "targets": clean_target(r.get("targetList")),
                 "evaluationId": r.get("evaluationId"),
                 "detail_url": ("https://www.c-ncap.org.cn/evaluation/" + r["evaluationId"]

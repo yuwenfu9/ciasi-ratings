@@ -63,12 +63,13 @@ TPL = r"""<!DOCTYPE html>
   .view-toggle button.on{background:var(--brand);color:#fff;}
   .order-btn{padding:9px 11px;border:1px solid var(--line);border-radius:9px;background:#fff;cursor:pointer;font-size:13px;}
 
-  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px;margin-top:10px;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px;margin-top:10px;}
   .vcard{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px 12px;cursor:pointer;transition:box-shadow .12s;}
   .vcard:active{box-shadow:0 2px 10px rgba(0,0,0,.08);}
   .vcard .nm{font-weight:700;font-size:15px;display:flex;justify-content:space-between;align-items:baseline;gap:6px;}
   .vcard .yr{font-size:12px;color:var(--sub);font-weight:400;}
   .vcard .dims{display:flex;flex-wrap:wrap;align-items:center;gap:5px;margin-top:8px;}
+  .vcard .dim{display:inline-flex;align-items:center;gap:4px;background:#f4f6f9;border-radius:6px;padding:2px 6px;}
   .vcard .diml{font-size:11px;color:var(--sub);font-weight:600;}
   .vcard .pr{margin-top:8px;font-size:13px;}
   .vcard .pr.has{color:var(--gp);font-weight:600;}
@@ -234,10 +235,10 @@ function sortVal(r){
   const cfg=ORG_CFG[state.org];
   if(state.sort==="model") return norm(cfg.name(r));
   if(state.sort==="year") return parseInt(cfg.year(r)||"0",10);
-  if(state.sort==="price"){ const p=r.msrp_guide; return p? -((p.low+p.high)/2): 1e9; }
+  if(state.sort==="price"){ const p=r.msrp_guide; return p? ((p.low+p.high)/2): 1e9; }
   if(state.sort==="score"){
-    if(cfg.scoreKind==="ciasi") return -ciasiScore(r);
-    if(cfg.scoreKind==="pct"){ const s=getVal(r,"score"); return s? -parseFloat(s): 1e9; }
+    if(cfg.scoreKind==="ciasi") return ciasiScore(r);
+    if(cfg.scoreKind==="pct"){ const s=getVal(r,"score"); return (s!=null&&s!=="")? parseFloat(String(s).replace("%","")) : -1e9; }
   }
   return norm(cfg.name(r));
 }
@@ -275,8 +276,10 @@ function buildFilters(){
   yr.innerHTML='<option value="">全部年份</option>'+years.map(y=>'<option>'+y+'</option>').join("");
   const so=document.getElementById("sort");
   let opts='<option value="model">车型名</option><option value="year">年份</option><option value="price">指导价</option>';
-  if(cfg.scoreKind==="ciasi") opts+='<option value="score">综合安全分</option>';
-  if(cfg.scoreKind==="pct") opts+='<option value="score">综合分</option>';
+  const hasScore=(cfg.scoreKind==="ciasi"||cfg.scoreKind==="pct");
+  if(hasScore) opts+='<option value="score">'+(cfg.scoreKind==="ciasi"?"综合安全分":"综合分")+'</option>';
+  // 切到没有「综合分」的机构时，若之前选了 score 则回退到车型名
+  if((state.sort==="score"&&!hasScore) || !["model","year","price","score"].includes(state.sort)) state.sort="model";
   so.innerHTML=opts; so.value=state.sort;
 }
 
@@ -297,8 +300,7 @@ function cardHTML(r){
   const cfg=ORG_CFG[state.org];
   let dims="";
   if(cfg.dims.length){
-    dims='<div class="dims">'+cfg.dims.map(d=> d.t==="ciasi"
-        ? '<span class="diml">综合安全分</span>'+dimCell(r,d) : dimCell(r,d) ).join("")+'</div>';
+    dims='<div class="dims">'+cfg.dims.map(d=> '<span class="dim"><span class="diml">'+d.l+'</span>'+dimCell(r,d)+'</span>').join("")+'</div>';
   } else {
     dims='<div class="dims"><span class="badge b-g">已测评</span></div>';
   }
@@ -312,7 +314,7 @@ function cssEsc(s){return (s||"").replace(/'/g,"\\'");}
 
 function renderGrid(a){
   const g=document.getElementById("grid");
-  g.style.display="block"; document.getElementById("twrap").style.display="none";
+  g.style.display="grid"; document.getElementById("twrap").style.display="none";
   document.getElementById("recos").innerHTML=""; document.getElementById("empty").innerHTML="";
   g.innerHTML=a.map(cardHTML).join("");
 }
@@ -420,14 +422,23 @@ document.getElementById("ord").onclick=()=>{state.ord=state.ord==="desc"?"asc":"
 document.getElementById("vc").onclick=()=>{state.view="card";document.getElementById("vc").classList.add("on");document.getElementById("vt").classList.remove("on");render();};
 document.getElementById("vt").onclick=()=>{state.view="table";document.getElementById("vt").classList.add("on");document.getElementById("vc").classList.remove("on");render();};
 
-/* 拉取最新（jsDelivr）；失败用内嵌兜底 */
+/* 拉取最新（jsDelivr）；失败用内嵌兜底。
+   关键：以 generated_at 比较，只采纳「比内嵌快照更新」的在线数据——
+   避免 jsDelivr @main 边缘缓存尚未刷新时，用旧数据覆盖掉已修正的内嵌快照。 */
 function loadLive(){
   fetch(API_URL,{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("http");return r.json();}).then(j=>{
-    if(j&&j.orgs&&j.orgs.c_iasi){ DATA.orgs=j.orgs;
-      const sl=document.getElementById("srcline"); sl.style.display="inline"; sl.classList.remove("bad");
-      sl.textContent="在线 · "+(j.metadata&&j.metadata.generated_at?j.metadata.generated_at.slice(0,10):"最新");
-      renderTabs(); buildFilters(); render();
-    }
+    const sl=document.getElementById("srcline"); sl.style.display="inline";
+    if(j&&j.orgs&&j.orgs.c_iasi){
+      const live=(j.metadata&&j.metadata.generated_at)||"";
+      const cur=(DATA.metadata&&DATA.metadata.generated_at)||"";
+      if(live>cur){
+        DATA.orgs=j.orgs; DATA.metadata=j.metadata;
+        sl.classList.remove("bad"); sl.textContent="在线 · "+live.slice(0,10);
+        renderTabs(); buildFilters(); render();
+      } else {
+        sl.classList.remove("bad"); sl.textContent="内嵌快照 · "+cur.slice(0,10);
+      }
+    } else { sl.classList.add("bad"); sl.textContent="内嵌兜底"; }
   }).catch(()=>{ const sl=document.getElementById("srcline"); sl.style.display="inline"; sl.classList.add("bad"); sl.textContent="内嵌兜底"; });
 }
 
