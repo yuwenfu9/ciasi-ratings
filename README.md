@@ -3,7 +3,7 @@
 自动抓取[中保研官网](https://ciasi.org.cn/products/list-492.html)与[中汽测评](https://www.c-ncap.org.cn/)（C-NCAP / CCRT / C-ICAP / C-GCAP）的车型安全评级，整理成结构化数据，并通过 [jsDelivr](https://www.jsdelivr.com/) 提供**免费、公开、带 CORS 的只读数据接口**。
 
 > 数据来自官方公开发布，本仓库仅做整理与转发，**非官方**，评级以官网为准。
-> 各机构评级刻度不可通约（C-IASI 等级制 / C-NCAP 百分制 / CCRT 百分制 / 其余仅状态），**跨机构不折算、不求平均**；但每家机构自己的综合分（C-IASI 综合安全分、C-NCAP/CCRT 百分制综合）会在卡片与表格中展示并可用于排序。C-ICAP / C-GCAP 官方列表接口仅返回"已测评"状态、不含分数，故只标"已测评"（详情页为 JS 渲染，公开接口无法抓取，未硬凑）。
+> 各机构评级刻度不可通约（C-IASI 等级制 / C-NCAP 百分制 / CCRT 百分制 / 其余仅状态），**跨机构不折算、不求平均**；但每家机构自己的综合分（C-IASI 综合分、C-NCAP/CCRT/C-ICAP/C-GCAP 综合分）会在看板与排序中展示。C-ICAP / C-GCAP 的列表接口仅返回"已测评"状态、不含分数，但其官方详情页为**服务端渲染（内嵌结构化 JSON）**，已由 `scrape_details.py` 每日自动爬取并回填子项得分（`targets`，如 基础行车辅助 97.9%、车内空气 90.3/100）；CCRT 官方详情页目前全站报错、列表接口不暴露子项，故 CCRT 仅保留综合分。
 
 ## 公开接口
 
@@ -96,9 +96,10 @@ GET https://cdn.jsdelivr.net/gh/yuwenfu9/ciasi-ratings@main/ratings_all.json
 }
 ```
 
-- `orgs.c_iasi[].occupant/pedestrian/assist/repairability` 为等级制（`G+`/`G`/`A`/`M`/`P`）。
+- `orgs.c_iasi[].occupant/pedestrian/assist/repairability` 为等级制（`G+`/`G`/`A`/`M`/`P`）；本仓库派生的「综合分」= 乘员40% + 行人20% + 辅助20% + 维修经济20%（`G+/G/A/M/P`→`5/4/3/2` 折算，维修经济为 `--` 时按缺失归一化）。
 - `orgs.c_ncap[].score` 为百分制综合分，`targets` 含乘员保护 / 行人保护 / 主动安全子项。
-- `orgs.ccrt / c_icap / c_gcap` 列表接口仅返回测评状态与年份（无数值子项），详细评级见各记录 `detail_url`。
+- `orgs.c_icap / c_gcap[].score` 为各子项得分均值折算的综合分（百分制），`targets` 含各分项得分率 / 得分（由 `scrape_details.py` 爬详情页回填）。
+- `orgs.ccrt[].score` 为百分制综合分；官方详情页故障、列表接口不暴露子项，故仅综合分。
 
 ## 调用示例
 
@@ -113,9 +114,12 @@ const res = await fetch("https://cdn.jsdelivr.net/gh/yuwenfu9/ciasi-ratings@main
 const { records } = await res.json();
 // 按综合安全分（示例：乘员50% + 行人25% + 辅助25%，折算百分制）
 const S = { "G+": 5, G: 4, A: 3, M: 2, P: 1 };
+// 综合分 = 乘员40% + 行人20% + 辅助20% + 维修经济20%；"--" 视为缺失，按其余三项归一
 const score = r => {
-  const dims = ["occupant","pedestrian","assist"].map(k => S[r[k]] ?? 0);
-  return (dims.reduce((a,b)=>a+b,0) / dims.length) / 5 * 100;
+  const w = { occupant:0.4, pedestrian:0.2, assist:0.2, repairability:0.2 };
+  let num = 0, den = 0;
+  for (const k in w){ const v = S[r[k]]; if (v) { num += v*w[k]; den += w[k]; } }
+  return den ? num/den/5*100 : 0;
 };
 records.sort((a,b)=>score(b)-score(a));
 ```
@@ -142,7 +146,9 @@ python fetch_ciasi.py        # 仅抓取中保研，输出 ciasi_ratings.json + 
 - `feasibility.py` — 中汽测评 / 汽车之家抓取与车型名匹配（被下方脚本复用）
 - `fetch_cncap_prices.py` — 抓取中汽测评四体系 + 汽车之家指导价
 - `build_ratings_all.py` — 合并五体系 + 价格，生成 `ratings_all.json`
-- `refresh_all.py` — 一键统一刷新（抓取 + 合并）
+- `scrape_details.py` — 爬中汽测评详情页，回填 C-ICAP / C-GCAP 子项得分（`targets`）
+- `refresh_all.py` — 一键统一刷新（抓取 + 合并 + 回填子分）
+- `dashboard.html` — 交互式多机构切换看板（含「分享给 AI」按钮，可一键复制数据接口与提示词给任意 AI 做分析）
 - `ciasi_ratings.json` — 中保研结构化数据（单机构，兼容旧调用方）
 - `ciasi_ratings.csv` — 中保研数据表格版
 - `ratings_all.json` — 多机构合并数据（推荐接口载体）

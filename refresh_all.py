@@ -22,7 +22,12 @@ def main():
     # 3) 合并生成 ratings_all.json
     ok = run("build_ratings_all.py")
     print("✅ ratings_all.json 刷新完成" if ok else "❌ build 失败")
-    return 0 if ok else 1
+    if not ok:
+        return 1
+    # 4) 回填 C-ICAP / C-GCAP 详情页子项得分（列表接口不暴露，需爬详情页）
+    if not run("scrape_details.py"):
+        print("⚠ C-ICAP/C-GCAP 子分爬取失败，保留已有数据")
+    return 0
 
 
 if __name__ == "__main__":

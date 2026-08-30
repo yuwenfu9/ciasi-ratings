@@ -118,6 +118,12 @@ TPL = r"""<!DOCTYPE html>
   .mtab th,.mtab td{padding:8px 9px;text-align:center;border-bottom:1px solid var(--line);white-space:nowrap;}
   .mtab th{background:#fafbfc;color:var(--sub);font-weight:600;}
   .mtab td.nm{text-align:left;}
+  .perwrap{margin-top:6px;display:flex;flex-direction:column;gap:8px;}
+  .per{border:1px solid var(--line);border-radius:10px;padding:8px 10px;background:#fff;}
+  .perh{display:flex;align-items:center;gap:10px;margin-bottom:6px;}
+  .perh .yr{font-weight:600;color:var(--ink);}
+  .perh .ps{font-size:12px;}
+  .perh .pp{margin-left:auto;font-size:12px;color:var(--sub);}
   .modal .acts{margin-top:12px;display:flex;gap:10px;flex-wrap:wrap;}
   .modal .acts a{color:#fff;background:var(--brand);text-decoration:none;padding:8px 14px;border-radius:9px;font-size:13px;}
   .modal .price{margin-top:10px;font-size:14px;}
@@ -128,13 +134,31 @@ TPL = r"""<!DOCTYPE html>
     .grid{grid-template-columns:1fr;}
     header h1{font-size:18px;}
   }
-</style>
+  header{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;}
+  .htext{min-width:0;}
+  .share-btn{flex:none;padding:9px 14px;border:1px solid var(--brand);color:var(--brand);background:#fff;border-radius:10px;font-size:13px;cursor:pointer;font-weight:600;white-space:nowrap;}
+  .share-btn:hover{background:var(--brand);color:#fff;}
+  .apibox{margin-top:10px;background:#f8fafc;border:1px solid var(--line);border-radius:10px;padding:10px 12px;}
+  .apibox .lbl{font-size:12px;color:var(--sub);margin-bottom:5px;}
+  .apibox code{display:block;word-break:break-all;font-size:12px;color:#0f172a;background:#fff;border:1px dashed var(--line);border-radius:7px;padding:7px 9px;line-height:1.5;}
+  .copybtn{margin-top:8px;padding:6px 12px;border:1px solid var(--brand);color:var(--brand);background:#fff;border-radius:8px;font-size:12px;cursor:pointer;}
+  .copybtn.big{padding:9px 16px;font-size:13px;font-weight:600;}
+  .copybtn:hover{background:var(--brand);color:#fff;}
+  .promptwrap{width:100%;height:240px;margin-top:6px;border:1px solid var(--line);border-radius:9px;padding:9px 11px;font-size:12.5px;line-height:1.6;font-family:inherit;resize:vertical;color:#0f172a;box-sizing:border-box;}
+  @media(max-width:560px){
+    header{flex-wrap:wrap;}
+    .share-btn{font-size:12px;padding:7px 10px;}
+  }
+  </style>
 </head>
 <body>
 <div class="wrap">
   <header>
-    <h1>汽车安全测评 · 多机构切换台</h1>
-    <p><span class="tag">买车看安全</span>中保研 / 中汽测评 五套体系 · 不合并只切换<span class="srcline" id="srcline">内嵌</span></p>
+    <div class="htext">
+      <h1>汽车安全测评 · 多机构切换台</h1>
+      <p><span class="tag">买车看安全</span>中保研 / 中汽测评 五套体系 · 不合并只切换<span class="srcline" id="srcline">内嵌</span></p>
+    </div>
+    <button class="share-btn" id="shareBtn" title="把数据接口分享给任意 AI（豆包 / 通义 / Kimi / ChatGPT 等）做分析">📤 分享给 AI</button>
   </header>
 
   <div class="orgtabs" id="orgtabs"></div>
@@ -165,6 +189,7 @@ TPL = r"""<!DOCTYPE html>
 </div>
 
 <div class="modal" id="detail"><div class="box"><div id="dbody"></div></div></div>
+<div class="modal" id="shareModal"><div class="box"><div id="shareBody"></div></div></div>
 
 <script>
 const DATA = __DATA__;
@@ -174,10 +199,11 @@ const API_URL = "https://cdn.jsdelivr.net/gh/yuwenfu9/ciasi-ratings@main/ratings
 const ORG_CFG = {
   c_iasi:{ label:"中保研 C-IASI", short:"C-IASI", color:"#2b6cf0",
     name:r=>r.brand+" "+r.model, key:r=>r.brand+" "+r.model, brand:r=>r.brand, year:r=>r.year,
-    dims:[{k:"__ciasi__",l:"综合安全分",t:"ciasi",bold:true},
+    dims:[{k:"__ciasi__",l:"综合分",t:"ciasi",bold:true},
           {k:"occupant",l:"乘员",t:"grade"},{k:"pedestrian",l:"行人",t:"grade"},
           {k:"assist",l:"辅助",t:"grade"},{k:"repairability",l:"维修经济",t:"grade"}],
-    scoreKind:"ciasi", detail:r=>r.detail_url, nev:r=>r.nev_special },
+    scoreKind:"ciasi", detail:r=>r.detail_url, nev:r=>r.nev_special,
+    note:"综合分 = 乘员40% + 行人20% + 辅助20% + 维修经济20%（G+/G/A/M/P→5/4/3/2 折算）。维修经济为 '--' 时按缺失归一化，不计入分母。" },
   c_ncap:{ label:"C-NCAP", short:"C-NCAP", color:"#e0532a",
     name:r=>r.carName, key:r=>r.carName, brand:r=>r.brand, year:r=>r.year,
     dims:[{k:"score",l:"综合",t:"pct",bold:true},
@@ -187,28 +213,41 @@ const ORG_CFG = {
     scoreKind:"pct", detail:r=>r.detail_url },
   ccrt:{ label:"CCRT", short:"CCRT", color:"#7c3aed",
     name:r=>r.carName, key:r=>r.carName, brand:r=>r.brand, year:r=>r.year,
-    dims:[{k:"score",l:"综合",t:"pct",bold:true}], scoreKind:"pct", detail:r=>r.detail_url },
+    dims:[{k:"score",l:"综合",t:"pct",bold:true}], scoreKind:"pct", detail:r=>r.detail_url,
+    note:"CCRT 官方详情页目前全站返回服务器错误，列表接口仅提供综合分（满分100，越高越好），暂无法解析分项。待官网恢复后可补。" },
   c_icap:{ label:"C-ICAP", short:"C-ICAP", color:"#0d9488",
     name:r=>r.carName, key:r=>r.carName, brand:r=>r.brand, year:r=>r.year,
-    dims:[], note:"C-ICAP 列表接口仅含测评状态，详细评级请见官方详情页。", scoreKind:"none", detail:r=>r.detail_url },
+    dims:[], autoTargets:true, scoreKind:"pct", detail:r=>r.detail_url,
+    note:"综合分 = 各子项「得分率」均值（已抓取官方详情页）。单位 %，越高越好。" },
   c_gcap:{ label:"C-GCAP", short:"C-GCAP", color:"#16a34a",
     name:r=>r.carName, key:r=>r.carName, brand:r=>r.brand, year:r=>r.year,
-    dims:[], note:"C-GCAP 列表接口仅含测评状态，详细评级请见官方详情页。", scoreKind:"none", detail:r=>r.detail_url },
+    dims:[], autoTargets:true, scoreKind:"pct", detail:r=>r.detail_url,
+    note:"综合分 = 各子项「得分」均值（满分100，已抓取官方详情页）。" },
 };
 const ORG_ORDER = ["c_iasi","c_ncap","ccrt","c_icap","c_gcap"];
 
 const GRADE = {"G+":["G+","b-gp"],"G":["G","b-g"],"A":["A","b-a"],"M":["M","b-m"],"P":["P","b-p"]};
 const GN = {"G+":5,"G":4,"A":3,"M":2,"P":1};
 
-let state = { org:"c_iasi", q:"", seg:"", brand:"", year:"", inprod:false, sort:"model", ord:"asc", view:"card" };
+let state = { org:"c_iasi", q:"", seg:"", brand:"", year:"", inprod:false, sort:"score", ord:"desc", view:"card" };
 
 function norm(s){return (s||"").toLowerCase().replace(/\s+/g,"");}
 function getVal(r,path){return path.split(".").reduce((o,k)=> (o==null?null:o[k]), r);}
+/* 维度解析：有显式 dims 用显式；否则若机构开启 autoTargets 且有 targets，按 targets 键动态生成子分维度 */
+function effDims(r){
+  const cfg=ORG_CFG[state.org];
+  if(cfg.dims && cfg.dims.length) return cfg.dims;
+  if(cfg.autoTargets && r.targets && Object.keys(r.targets).length){
+    const head=[{k:"score",l:"综合",t:"pct",bold:true}];
+    return head.concat(Object.keys(r.targets).map(k=>({k:"targets."+k, l:k, t:"pct"})));
+  }
+  return [];
+}
 function gradeBadge(g){
   if(!g) return '<span class="badge b-none">—</span>';
   const m=GRADE[g]; return m? '<span class="badge '+m[1]+'">'+m[0]+'</span>' : '<span class="badge b-none">'+g+'</span>';
 }
-/* 分数配色：越高越绿（安全），越低越红。用于 C-NCAP / CCRT / 综合安全分 */
+/* 分数配色：越高越绿（安全），越低越红。用于 C-NCAP / CCRT / C-IASI 综合分 */
 function pctClass(v){ if(v>=90)return 'pct-gp'; if(v>=80)return 'pct-g'; if(v>=70)return 'pct-m'; return 'pct-p'; }
 function pctPill(v, bold){
   const n=parseFloat(v);
@@ -226,16 +265,19 @@ function priceHtml(r){
   if(p) return '<span class="pr has">指导价 '+p.text+'</span>';
   return '<span class="pr none">暂无报价</span>';
 }
+/* 综合分 = 乘员40% + 行人20% + 辅助20% + 维修经济20%（G+/G/A/M/P→5/4/3/2）。
+   维修经济为 '--'（早期车未评/未公开）时按缺失处理：仅对其余三项归一化，不按 0 罚分。 */
 function ciasiScore(r){
-  const a=GN[r.occupant]||0,b=GN[r.pedestrian]||0,c=GN[r.assist]||0;
-  if(!a&&!b&&!c) return 0;
-  return Math.round((a*0.5+b*0.25+c*0.25)/5*100);
+  const W={occupant:0.4, pedestrian:0.2, assist:0.2, repairability:0.2};
+  let sw=0, sv=0, any=false;
+  for(const k in W){ const v=GN[r[k]]; if(v){ sw+=W[k]; sv+=W[k]*v; any=true; } }
+  if(!any) return 0;
+  return Math.round(sv/sw/5*100);
 }
 function sortVal(r){
   const cfg=ORG_CFG[state.org];
   if(state.sort==="model") return norm(cfg.name(r));
   if(state.sort==="year") return parseInt(cfg.year(r)||"0",10);
-  if(state.sort==="price"){ const p=r.msrp_guide; return p? ((p.low+p.high)/2): 1e9; }
   if(state.sort==="score"){
     if(cfg.scoreKind==="ciasi") return ciasiScore(r);
     if(cfg.scoreKind==="pct"){ const s=getVal(r,"score"); return (s!=null&&s!=="")? parseFloat(String(s).replace("%","")) : -1e9; }
@@ -275,11 +317,12 @@ function buildFilters(){
   const years=[...new Set(recs.map(r=>cfg.year(r)).filter(Boolean))].sort().reverse();
   yr.innerHTML='<option value="">全部年份</option>'+years.map(y=>'<option>'+y+'</option>').join("");
   const so=document.getElementById("sort");
-  let opts='<option value="model">车型名</option><option value="year">年份</option><option value="price">指导价</option>';
   const hasScore=(cfg.scoreKind==="ciasi"||cfg.scoreKind==="pct");
-  if(hasScore) opts+='<option value="score">'+(cfg.scoreKind==="ciasi"?"综合安全分":"综合分")+'</option>';
-  // 切到没有「综合分」的机构时，若之前选了 score 则回退到车型名
-  if((state.sort==="score"&&!hasScore) || !["model","year","price","score"].includes(state.sort)) state.sort="model";
+  // 排序只看分数，不提供价格排序；有分的机构默认按分降序，无分的机构按车型名
+  const valid=hasScore?["model","year","score"]:["model","year"];
+  if(!valid.includes(state.sort)){ state.sort=hasScore?"score":"model"; state.ord=hasScore?"desc":"asc"; }
+  let opts='<option value="model">车型名</option><option value="year">年份</option>';
+  if(hasScore) opts+='<option value="score">综合分</option>';
   so.innerHTML=opts; so.value=state.sort;
 }
 
@@ -299,8 +342,11 @@ function filtered(){
 function cardHTML(r){
   const cfg=ORG_CFG[state.org];
   let dims="";
-  if(cfg.dims.length){
-    dims='<div class="dims">'+cfg.dims.map(d=> '<span class="dim"><span class="diml">'+d.l+'</span>'+dimCell(r,d)+'</span>').join("")+'</div>';
+  const ds=effDims(r);
+  if(ds.length){
+    dims='<div class="dims">'+ds.map(d=> '<span class="dim"><span class="diml">'+d.l+'</span>'+dimCell(r,d)+'</span>').join("")+'</div>';
+  } else if(cfg.scoreKind==="pct" && r.score){
+    dims='<div class="dims"><span class="dim"><span class="diml">综合</span>'+pctCell(r.score)+'</span></div>';
   } else {
     dims='<div class="dims"><span class="badge b-g">已测评</span></div>';
   }
@@ -320,6 +366,8 @@ function renderGrid(a){
 }
 function tableHead(){
   const cfg=ORG_CFG[state.org];
+  if(cfg.autoTargets)
+    return '<tr><th class="nm">车型</th><th>年份</th><th>综合分</th><th>指导价</th><th>官方</th></tr>';
   let h='<th class="nm">车型</th><th>年份</th>';
   cfg.dims.forEach(d=>h+='<th>'+d.l+'</th>');
   h+='<th>指导价</th><th>官方</th>';
@@ -328,7 +376,9 @@ function tableHead(){
 function tableRow(r){
   const cfg=ORG_CFG[state.org];
   let c='<td class="nm">'+cfg.name(r)+'</td><td>'+cfg.year(r)+'</td>';
-  if(cfg.dims.length){
+  if(cfg.autoTargets){
+    c+='<td>'+(r.score?pctCell(r.score):'<span class="badge b-none">—</span>')+'</td>';
+  } else if(cfg.dims.length){
     c+=cfg.dims.map(d=>'<td>'+(d.t==="grade"?gradeBadge(getVal(r,d.k)):pctCell(getVal(r,d.k)))+'</td>').join("");
   } else { c+='<td><span class="badge b-g">已测评</span></td>'; }
   c+='<td>'+(r.msrp_guide?r.msrp_guide.text:'<span class="badge b-none">暂无</span>')+'</td>';
@@ -376,17 +426,31 @@ function openDetail(org, key){
   let html='<div class="hd"><b>'+cfg.name(r0)+'</b><span class="x" onclick="closeDetail()">✕</span></div>';
   html+='<div class="meta">'+(cfg.brand(r0))+' · 共 '+grp.length+' 期测评'+(grp.length>1?'（一年一行）':'')+'</div>';
   if(cfg.note) html+='<div class="note">'+cfg.note+'</div>';
-  // 多期表格：一年一行
-  let h='<th class="nm">年份</th>'; cfg.dims.forEach(d=>h+='<th>'+d.l+'</th>'); h+='<th>指导价</th><th>官方详情</th>';
-  let rows=grp.map(r=>{
-    let c='<td class="nm">'+cfg.year(r)+'</td>';
-    if(cfg.dims.length) c+=cfg.dims.map(d=>'<td>'+(d.t==="grade"?gradeBadge(getVal(r,d.k)):pctCell(getVal(r,d.k)))+'</td>').join("");
-    else c+='<td><span class="badge b-g">已测评</span></td>';
-    c+='<td>'+(r.msrp_guide?r.msrp_guide.text:'<span class="badge b-none">暂无</span>')+'</td>';
-    c+='<td>'+(cfg.detail(r)?'<a href="'+cfg.detail(r)+'" target="_blank" rel="noopener">↗</a>':'—')+'</td>';
-    return '<tr>'+c+'</tr>';
-  }).join("");
-  html+='<table class="mtab"><tr>'+h+'</tr>'+rows+'</table>';
+  if(cfg.autoTargets){
+    // 子分维度因车而异，按「一年一段」渲染：综合分 + 子项列表
+    let blocks=grp.map(r=>{
+      let b='<div class="per"><div class="perh"><span class="yr">'+cfg.year(r)+'</span>'
+        +'<span class="ps">综合 '+(r.score?pctCell(r.score):'<span class="badge b-none">—</span>')+'</span>'
+        +'<span class="pp">'+(r.msrp_guide?r.msrp_guide.text:'<span class="badge b-none">暂无报价</span>')+'</span></div>';
+      const ks=Object.keys(r.targets||{});
+      if(ks.length) b+='<div class="dims">'+ks.map(k=> '<span class="dim"><span class="diml">'+k+'</span>'+pctCell(r.targets[k])+'</span>').join("")+'</div>';
+      b+='</div>';
+      return b;
+    }).join("");
+    html+='<div class="perwrap">'+blocks+'</div>';
+  } else {
+    // 多期表格：一年一行
+    let h='<th class="nm">年份</th>'; cfg.dims.forEach(d=>h+='<th>'+d.l+'</th>'); h+='<th>指导价</th><th>官方详情</th>';
+    let rows=grp.map(r=>{
+      let c='<td class="nm">'+cfg.year(r)+'</td>';
+      if(cfg.dims.length) c+=cfg.dims.map(d=>'<td>'+(d.t==="grade"?gradeBadge(getVal(r,d.k)):pctCell(getVal(r,d.k)))+'</td>').join("");
+      else c+='<td><span class="badge b-g">已测评</span></td>';
+      c+='<td>'+(r.msrp_guide?r.msrp_guide.text:'<span class="badge b-none">暂无</span>')+'</td>';
+      c+='<td>'+(cfg.detail(r)?'<a href="'+cfg.detail(r)+'" target="_blank" rel="noopener">↗</a>':'—')+'</td>';
+      return '<tr>'+c+'</tr>';
+    }).join("");
+    html+='<table class="mtab"><tr>'+h+'</tr>'+rows+'</table>';
+  }
   // 价格
   const priced=grp.find(r=>r.msrp_guide);
   html+='<div class="price '+(priced?'has':'none')+'">'+(priced?('指导价（'+priced.msrp_guide.fetched_at+' 快照）：'+priced.msrp_guide.text+'　来源：汽车之家'):'指导价：暂无报价（停售 / 换代 / 待上市）')+'</div>';
@@ -417,7 +481,7 @@ document.getElementById("seg").onchange=e=>{state.seg=e.target.value;render();};
 document.getElementById("brand").onchange=e=>{state.brand=e.target.value;render();};
 document.getElementById("year").onchange=e=>{state.year=e.target.value;render();};
 document.getElementById("inprod").onchange=e=>{state.inprod=e.target.checked;render();};
-document.getElementById("sort").onchange=e=>{state.sort=e.target.value;state.ord=(state.sort==="model"||state.sort==="brand")?"asc":"desc";document.getElementById("ord").textContent=state.ord==="desc"?"降序 ↓":"升序 ↑";render();};
+document.getElementById("sort").onchange=e=>{state.sort=e.target.value;state.ord=(state.sort==="score")?"desc":"asc";document.getElementById("ord").textContent=state.ord==="desc"?"降序 ↓":"升序 ↑";render();};
 document.getElementById("ord").onclick=()=>{state.ord=state.ord==="desc"?"asc":"desc";document.getElementById("ord").textContent=state.ord==="desc"?"降序 ↓":"升序 ↑";render();};
 document.getElementById("vc").onclick=()=>{state.view="card";document.getElementById("vc").classList.add("on");document.getElementById("vt").classList.remove("on");render();};
 document.getElementById("vt").onclick=()=>{state.view="table";document.getElementById("vt").classList.add("on");document.getElementById("vc").classList.remove("on");render();};
@@ -441,6 +505,56 @@ function loadLive(){
     } else { sl.classList.add("bad"); sl.textContent="内嵌兜底"; }
   }).catch(()=>{ const sl=document.getElementById("srcline"); sl.style.display="inline"; sl.classList.add("bad"); sl.textContent="内嵌兜底"; });
 }
+
+/* 分享给 AI：把数据接口 + 提示词模板发给任意 AI（豆包/通义/Kimi/ChatGPT 等）做分析 */
+function escHtml(s){ return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
+function doCopy(text){
+  if(navigator.clipboard && window.isSecureContext) return navigator.clipboard.writeText(text);
+  return new Promise((res,rej)=>{ try{
+    const ta=document.createElement("textarea"); ta.value=text; ta.style.position="fixed"; ta.style.opacity="0";
+    document.body.appendChild(ta); ta.select(); document.execCommand("copy"); document.body.removeChild(ta); res();
+  }catch(e){ rej(e); } });
+}
+function buildShare(){
+  const orgs = Object.entries(ORG_CFG).map(([k,c])=> c.short+"（"+c.label.replace(/^.*? /,"")+"）").join("、");
+  const cnt = Object.entries(DATA.orgs).map(([k,recs])=>{
+    const scored=recs.filter(r=>r.score&&r.score!=="--").length;
+    return ORG_CFG[k].short+": "+recs.length+" 款"+(scored?("（"+scored+" 款有分）"):"");
+  }).join("；");
+  const url = API_URL;
+  const raw = "https://raw.githubusercontent.com/yuwenfu9/ciasi-ratings/main/ratings_all.json";
+  const prompt =
+`请读取这份「中国汽车安全测评数据集」（JSON 格式）：
+${url}
+
+（若上方链接因 CDN 缓存打不开，用备用源：${raw}）
+
+数据说明：
+- 根对象含 orgs 字段，下分五套体系：${orgs}。
+- 每条车型记录常见字段：carName / brand / model / year / score（综合分或评级折算）/ targets（各分项得分率或得分）/ msrp_guide（指导价区间）/ detail_url（官方详情页）。
+- 五套体系评级口径不同（C-IASI 用 G/A/M/P、C-NCAP 用百分制与星级、CCRT/C-ICAP/C-GCAP 各有刻度），跨机构比较请勿直接平均，应分别陈述。
+- 综合分为本项目派生指标（非官方）：C-IASI 综合分 = 乘员40% + 行人20% + 辅助20% + 维修经济20%（G+/G/A/M/P→5/4/3/2）。
+- 当前覆盖：${cnt}。数据每日自动刷新。
+
+请基于以上真实数据帮我分析：[在此填写你的需求，例如：在 20 万内 SUV 中按综合分排序 / 找出「安全分高但维修经济分低」的车型 / 对比各机构评分差异]`;
+  document.getElementById("shareBody").innerHTML =
+    '<div class="hd"><b>分享数据给 AI</b><span class="x" onclick="closeShare()">✕</span></div>'+
+    '<div class="meta">把下面任意链接发给豆包 / 通义 / Kimi / ChatGPT 等任意 AI，它就能读取我们抓取的测评数据，帮你做更多元分析。</div>'+
+    '<div class="apibox"><div class="lbl">数据接口（jsDelivr，推荐）</div><code id="apiUrl">'+url+'</code>'+
+      '<button class="copybtn" onclick="copyText(\'apiUrl\',this,\'复制链接\')">复制链接</button></div>'+
+    '<div class="apibox"><div class="lbl">备用源（GitHub 直连）</div><code id="apiRaw">'+raw+'</code>'+
+      '<button class="copybtn" onclick="copyText(\'apiRaw\',this,\'复制链接\')">复制链接</button></div>'+
+    '<div class="lbl" style="margin-top:12px">一键复制下面的提示词，粘贴给 AI 即可：</div>'+
+    '<textarea id="sharePrompt" class="promptwrap" readonly>'+escHtml(prompt)+'</textarea>'+
+    '<div class="acts" style="margin-top:10px"><button class="copybtn big" onclick="copyPrompt(this)">复制提示词</button>'+
+      '<a href="'+url+'" target="_blank" rel="noopener">在新标签打开数据 ↗</a></div>';
+}
+function openShare(){ buildShare(); document.getElementById("shareModal").style.display="block"; }
+function closeShare(){ document.getElementById("shareModal").style.display="none"; }
+function copyText(id,btn,reset){ const t=document.getElementById(id).textContent; doCopy(t).then(()=>{btn.textContent="已复制 ✓";setTimeout(()=>btn.textContent=reset,1500);}).catch(()=>{btn.textContent="复制失败";setTimeout(()=>btn.textContent=reset,1500);}); }
+function copyPrompt(btn){ const t=document.getElementById("sharePrompt").value; doCopy(t).then(()=>{btn.textContent="已复制 ✓";setTimeout(()=>btn.textContent="复制提示词",1500);}).catch(()=>{btn.textContent="复制失败";setTimeout(()=>btn.textContent="复制提示词",1500);}); }
+document.getElementById("shareBtn").onclick=openShare;
+document.getElementById("shareModal").onclick=e=>{if(e.target.id==="shareModal")closeShare();};
 
 renderTabs(); buildFilters(); render(); loadLive();
 </script>
