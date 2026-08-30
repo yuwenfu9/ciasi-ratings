@@ -1,4 +1,4 @@
-name: 自动更新中保研评级
+name: 自动更新汽车安全测评数据
 
 on:
   schedule:
@@ -20,16 +20,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: 抓取最新评级
-        run: python fetch_ciasi.py
+      - name: 抓取并合并（C-IASI + 中汽测评四体系 + 汽车之家指导价）
+        run: python refresh_all.py
       - name: 提交变更
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ciasi_ratings.json ciasi_ratings.csv
+          git add ciasi_ratings.json ciasi_ratings.csv cncap_all.json prices.json ratings_all.json
           if git diff --cached --quiet; then
             echo "数据无变化，跳过提交"
           else
-            git commit -m "chore: 自动更新中保研 C-IASI 评级 $(date +%F)"
+            git commit -m "chore: 自动更新测评数据 $(date +%F)"
             git push
           fi
