@@ -66,8 +66,13 @@ GET https://cdn.jsdelivr.net/gh/yuwenfu9/ciasi-ratings@main/ciasi_ratings.json
 ## 多机构合并接口（推荐）
 
 ```
-GET https://cdn.jsdelivr.net/gh/yuwenfu9/ciasi-ratings@main/ratings_all.json
+GET https://raw.githubusercontent.com/yuwenfu9/ciasi-ratings/main/ratings_all.json
 ```
+
+- **推荐用上面这个 GitHub 直连地址**：始终返回最新提交、响应头带 `access-control-allow-origin: *`（CORS），浏览器 / 任意 AI（豆包 / 通义 / Kimi / ChatGPT 等）可直接 `fetch` 读取，无 CDN 缓存延迟。
+- CDN 镜像（jsDelivr，全球加速，但 `@main` 偶发缓存延迟，约数小时）：
+  `https://cdn.jsdelivr.net/gh/yuwenfu9/ciasi-ratings@main/ratings_all.json`
+- 每天（北京时间 09:17）由 GitHub Actions 自动重抓并提交，数据自动更新。
 
 单文件聚合五套体系（C-IASI / C-NCAP / CCRT / C-ICAP / C-GCAP），按机构分命名空间，**各自保留原始字段与原始刻度，不折算、不合并**。每条记录另附汽车之家厂商指导价快照（`msrp_guide`，无价则为 `null`）。
 
@@ -104,31 +109,30 @@ GET https://cdn.jsdelivr.net/gh/yuwenfu9/ciasi-ratings@main/ratings_all.json
 ## 调用示例
 
 ```bash
-# curl
-curl -s "https://cdn.jsdelivr.net/gh/yuwenfu9/ciasi-ratings@main/ciasi_ratings.json" | head
+# curl（推荐：GitHub 直连，始终最新）
+curl -s "https://raw.githubusercontent.com/yuwenfu9/ciasi-ratings/main/ratings_all.json" | head
 ```
 
 ```js
-// 浏览器 / Node fetch
-const res = await fetch("https://cdn.jsdelivr.net/gh/yuwenfu9/ciasi-ratings@main/ciasi_ratings.json");
-const { records } = await res.json();
-// 按综合安全分（示例：乘员50% + 行人25% + 辅助25%，折算百分制）
+// 浏览器 / Node fetch（GitHub 直连，带 CORS）
+const res = await fetch("https://raw.githubusercontent.com/yuwenfu9/ciasi-ratings/main/ratings_all.json");
+const { orgs } = await res.json();
+// 按 C-IASI 综合分（乘员40% + 行人20% + 辅助20% + 维修经济20%）排序
 const S = { "G+": 5, G: 4, A: 3, M: 2, P: 1 };
-// 综合分 = 乘员40% + 行人20% + 辅助20% + 维修经济20%；"--" 视为缺失，按其余三项归一
 const score = r => {
   const w = { occupant:0.4, pedestrian:0.2, assist:0.2, repairability:0.2 };
   let num = 0, den = 0;
   for (const k in w){ const v = S[r[k]]; if (v) { num += v*w[k]; den += w[k]; } }
   return den ? num/den/5*100 : 0;
 };
-records.sort((a,b)=>score(b)-score(a));
+orgs.c_iasi.sort((a,b)=>score(b)-score(a));
 ```
 
 ```python
 import json, urllib.request
 data = json.load(urllib.request.urlopen(
-    "https://cdn.jsdelivr.net/gh/yuwenfu9/ciasi-ratings@main/ciasi_ratings.json"))
-print(len(data["records"]), "款车型")
+    "https://raw.githubusercontent.com/yuwenfu9/ciasi-ratings/main/ratings_all.json"))
+print(sum(len(v) for v in data["orgs"].values()), "款车型")
 ```
 
 ## 本地抓取

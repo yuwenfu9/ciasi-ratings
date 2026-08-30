@@ -193,7 +193,7 @@ TPL = r"""<!DOCTYPE html>
 
 <script>
 const DATA = __DATA__;
-const API_URL = "https://cdn.jsdelivr.net/gh/yuwenfu9/ciasi-ratings@main/ratings_all.json";
+const API_URL = "https://raw.githubusercontent.com/yuwenfu9/ciasi-ratings/main/ratings_all.json";
 
 /* 各机构配置：只保留各自原始刻度，不折算 */
 const ORG_CFG = {
@@ -522,12 +522,12 @@ function buildShare(){
     return ORG_CFG[k].short+": "+recs.length+" 款"+(scored?("（"+scored+" 款有分）"):"");
   }).join("；");
   const url = API_URL;
-  const raw = "https://raw.githubusercontent.com/yuwenfu9/ciasi-ratings/main/ratings_all.json";
+  const cdn = "https://cdn.jsdelivr.net/gh/yuwenfu9/ciasi-ratings@main/ratings_all.json";
   const prompt =
 `请读取这份「中国汽车安全测评数据集」（JSON 格式）：
 ${url}
 
-（若上方链接因 CDN 缓存打不开，用备用源：${raw}）
+（若上方链接偶发打不开，用备用源（jsDelivr CDN）：${cdn}）
 
 数据说明：
 - 根对象含 orgs 字段，下分五套体系：${orgs}。
@@ -540,9 +540,9 @@ ${url}
   document.getElementById("shareBody").innerHTML =
     '<div class="hd"><b>分享数据给 AI</b><span class="x" onclick="closeShare()">✕</span></div>'+
     '<div class="meta">把下面任意链接发给豆包 / 通义 / Kimi / ChatGPT 等任意 AI，它就能读取我们抓取的测评数据，帮你做更多元分析。</div>'+
-    '<div class="apibox"><div class="lbl">数据接口（jsDelivr，推荐）</div><code id="apiUrl">'+url+'</code>'+
+    '<div class="apibox"><div class="lbl">数据接口（GitHub 直连 · 始终最新，推荐）</div><code id="apiUrl">'+url+'</code>'+
       '<button class="copybtn" onclick="copyText(\'apiUrl\',this,\'复制链接\')">复制链接</button></div>'+
-    '<div class="apibox"><div class="lbl">备用源（GitHub 直连）</div><code id="apiRaw">'+raw+'</code>'+
+    '<div class="apibox"><div class="lbl">备用源（jsDelivr CDN · 偶发缓存延迟）</div><code id="apiRaw">'+cdn+'</code>'+
       '<button class="copybtn" onclick="copyText(\'apiRaw\',this,\'复制链接\')">复制链接</button></div>'+
     '<div class="lbl" style="margin-top:12px">一键复制下面的提示词，粘贴给 AI 即可：</div>'+
     '<textarea id="sharePrompt" class="promptwrap" readonly>'+escHtml(prompt)+'</textarea>'+
