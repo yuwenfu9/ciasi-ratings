@@ -405,14 +405,23 @@ document.getElementById("ord").onclick=()=>{state.ord=state.ord==="desc"?"asc":"
 document.getElementById("vc").onclick=()=>{state.view="card";document.getElementById("vc").classList.add("on");document.getElementById("vt").classList.remove("on");render();};
 document.getElementById("vt").onclick=()=>{state.view="table";document.getElementById("vt").classList.add("on");document.getElementById("vc").classList.remove("on");render();};
 
-/* 拉取最新（jsDelivr）；失败用内嵌兜底 */
+/* 拉取最新（jsDelivr）；失败用内嵌兜底。
+   关键：以 generated_at 比较，只采纳「比内嵌快照更新」的在线数据——
+   避免 jsDelivr @main 边缘缓存尚未刷新时，用旧数据覆盖掉已修正的内嵌快照。 */
 function loadLive(){
   fetch(API_URL,{cache:"no-store"}).then(r=>{if(!r.ok)throw new Error("http");return r.json();}).then(j=>{
-    if(j&&j.orgs&&j.orgs.c_iasi){ DATA.orgs=j.orgs;
-      const sl=document.getElementById("srcline"); sl.style.display="inline"; sl.classList.remove("bad");
-      sl.textContent="在线 · "+(j.metadata&&j.metadata.generated_at?j.metadata.generated_at.slice(0,10):"最新");
-      renderTabs(); buildFilters(); render();
-    }
+    const sl=document.getElementById("srcline"); sl.style.display="inline";
+    if(j&&j.orgs&&j.orgs.c_iasi){
+      const live=(j.metadata&&j.metadata.generated_at)||"";
+      const cur=(DATA.metadata&&DATA.metadata.generated_at)||"";
+      if(live>cur){
+        DATA.orgs=j.orgs; DATA.metadata=j.metadata;
+        sl.classList.remove("bad"); sl.textContent="在线 · "+live.slice(0,10);
+        renderTabs(); buildFilters(); render();
+      } else {
+        sl.classList.remove("bad"); sl.textContent="内嵌快照 · "+cur.slice(0,10);
+      }
+    } else { sl.classList.add("bad"); sl.textContent="内嵌兜底"; }
   }).catch(()=>{ const sl=document.getElementById("srcline"); sl.style.display="inline"; sl.classList.add("bad"); sl.textContent="内嵌兜底"; });
 }
 
