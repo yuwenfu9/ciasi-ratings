@@ -113,6 +113,41 @@ def norm_pct(v):
         return None
 
 
+def load_prev():
+    """读取上一版 ratings_all.json（若存在），用于回填列表接口不暴露的子分。"""
+    p = os.path.join(HERE, "ratings_all.json")
+    if os.path.exists(p):
+        try:
+            return json.load(open(p, encoding="utf-8")).get("orgs", {})
+        except Exception:
+            return {}
+    return {}
+
+
+def restore_scraped(orgs, prev):
+    """C-ICAP / C-GCAP 的子项得分来自每日爬详情页（列表接口不暴露）。
+    若本次 build 未产生 targets（列表为空），则从上一版 ratings_all.json 回填，
+    保证即使当日爬虫失败，已抓的子分也不丢失。"""
+    for org in ("c_icap", "c_gcap"):
+        cur = orgs.get(org, [])
+        pm = {}
+        for r in prev.get(org, []):
+            if r.get("evaluationId"):
+                pm[r["evaluationId"]] = r
+            elif r.get("carName"):
+                pm.setdefault(r["carName"], r)
+        for r in cur:
+            if r.get("targets"):
+                continue  # 列表已有子项（极少情况），不覆盖
+            src = pm.get(r.get("evaluationId")) or pm.get(r.get("carName"))
+            if src and src.get("targets"):
+                r["targets"] = src["targets"]
+                if not r.get("score") and src.get("score"):
+                    r["score"] = src["score"]
+                if src.get("scrape_status"):
+                    r["scrape_status"] = src["scrape_status"]
+
+
 def main():
     ciasi, cncap, prices = load()
     pk, keys, all_keys = build_price_index(prices)
@@ -158,6 +193,9 @@ def main():
             })
         orgs[key] = recs
 
+    # 回填 C-ICAP / C-GCAP 已爬子分（防止每日刷新爬虫失败时丢失）
+    restore_scraped(orgs, load_prev())
+
     out = {
         "metadata": {
             "generated_at": datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%dT%H:%M:%S+08:00"),
@@ -171,7 +209,7 @@ def main():
                 "prices": "autohome.com.cn（厂商指导价，仅约 25% 车系有价）",
             },
             "price_note": "指导价仅为厂商指导价时点快照，非成交价；约 70% 测试车型因停售/换代/待上市无价，统一标「暂无报价」。",
-            "score_note": "各机构评级刻度不可通约（C-IASI 等级制 / C-NCAP 百分制 / 其余仅状态），仅并列展示，不折算、不求平均、不做综合分。",
+            "score_note": "各机构评级刻度不可通约，仅并列展示；C-IASI 综合分（乘员40%+行人20%+辅助20%+维修经济20%）与 C-NCAP/CCRT/C-ICAP/C-GCAP 综合分由看板派生，供排序用。",
             "record_counts": {k: len(v) for k, v in orgs.items()},
         },
         "orgs": orgs,
