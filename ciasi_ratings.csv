@@ -1,0 +1,189 @@
+﻿year,index,brand,model,model_number,segment,manufacturer,repairability,occupant,pedestrian,assist,nev_special,detail_url,source
+2025,1,长安,深蓝S09,SC6522AAA6HEV,SUV,重庆长安汽车股份有限公司,A,G+,G+,G,G*,/products/show-983.html,https://ciasi.org.cn/products/show-983.html
+2025,2,丰田,bZ5,TV6480BEV,SUV,一汽丰田汽车有限公司,M,G+,G+,G+,G*,/products/show-984.html,https://ciasi.org.cn/products/show-984.html
+2025,3,本田,P7,GHA6480WAN0ABEV,SUV,广汽本田汽车有限公司,P,G+,G+,G+,G,/products/show-985.html,https://ciasi.org.cn/products/show-985.html
+2025,4,腾势,N9,QCJ6530ABHEV1,SUV,比亚迪汽车工业有限公司,G+,G+,G+,G+,G,/products/show-993.html,https://ciasi.org.cn/products/show-993.html
+2025,5,奥迪,A5L Sportback,SVW72030AV,轿车,上汽大众汽车有限公司,M,G+,G+,G,--,/products/show-994.html,https://ciasi.org.cn/products/show-994.html
+2025,6,大众,探岳L,FV6472MADEB,SUV,一汽-大众汽车有限公司,G+,G,G+,G,--,/products/show-995.html,https://ciasi.org.cn/products/show-995.html
+2025,7,理想,i8,LXA6511BEVW04,SUV,北京理想汽车有限公司,G,G+,G+,G+,G,/products/show-996.html,https://ciasi.org.cn/products/show-996.html
+2025,8,奇瑞,智界R7,SQR6500BEVEHY3,SUV,奇瑞汽车股份有限公司,M,G+,G+,G+,G,/products/show-1003.html,https://ciasi.org.cn/products/show-1003.html
+2025,9,领克,900,MR6521DPHEV101,SUV,浙江吉利汽车有限公司,A,G+,G+,G+,G,/products/show-1004.html,https://ciasi.org.cn/products/show-1004.html
+2025,10,小鹏,P7,NHQ7002BEVEA,轿车,肇庆小鹏新能源投资有限公司,M,G+,G+,G+,G,/products/show-1005.html,https://ciasi.org.cn/products/show-1005.html
+2025,11,蔚来,ES8,NAL6533BSEVE1,SUV,蔚来汽车科技（安徽）有限公司,G,G+,G+,G+,G,/products/show-1000.html,https://ciasi.org.cn/products/show-1000.html
+2025,12,理想,i6,LXA6503BEVW02,SUV,北京理想汽车有限公司,G,G+,G+,G+,G,/products/show-1006.html,https://ciasi.org.cn/products/show-1006.html
+2025,13,赛力斯,问界M8,SKE6521SSHEVAS,SUV,赛力斯汽车有限公司,G,G+,G+,G+,G,/products/show-1008.html,https://ciasi.org.cn/products/show-1008.html
+2025,14,尚界,H5,CSA6489YFSHEV1,SUV,上海汽车集团股份有限公司,G,G+,G+,G+,G*,/products/show-1009.html,https://ciasi.org.cn/products/show-1009.html
+2025,15,方程豹,钛7,QCJ6500BG6HEV,SUV,比亚迪汽车工业有限公司,A,G+,G+,G+,G,/products/show-1010.html,https://ciasi.org.cn/products/show-1010.html
+2025,16,梅赛德斯-奔驰,E级,BJ7205REL,轿车,北京奔驰汽车有限公司,A,G+,G+,G,--,/products/show-1011.html,https://ciasi.org.cn/products/show-1011.html
+2025,17,小米,YU7,XMA6500LBEVR6,SUV,小米汽车科技有限公司,A,G+,G+,G+,G,/products/show-1012.html,https://ciasi.org.cn/products/show-1012.html
+2024,1,理想,MEGA,LXA6540BEVW01,MPV,北京理想汽车有限公司,A,G+,G+,G+,--,/products/show-971.html,https://ciasi.org.cn/products/show-971.html
+2024,2,宝马,i5,BMW7001AAEV,轿车,华晨宝马汽车有限公司,A,G,G+,G,--,/products/show-972.html,https://ciasi.org.cn/products/show-972.html
+2024,3,埃安,昊铂HT,GAM6490BEVH0N,SUV,广汽乘用车有限公司,M,G+,G+,G+,--,/products/show-973.html,https://ciasi.org.cn/products/show-973.html
+2024,4,小米,SU7,BJ7000MBEVR2,轿车,北京汽车集团越野车有限公司,A,G+,G+,G+,--,/products/show-881.html,https://ciasi.org.cn/products/show-881.html
+2024,5,丰田,卡罗拉锐放,TV7207X6P,SUV,一汽丰田汽车有限公司,A,M,G+,G,--,/products/show-882.html,https://ciasi.org.cn/products/show-882.html
+2024,6,极氪,007,MR7005BEV11,轿车,浙江极氪智能科技有限公司,M,G+,G+,G+,-- **,/products/show-940.html,https://ciasi.org.cn/products/show-940.html
+2024,7,理想,L6,LXA6493SHEVX02,SUV,北京理想汽车有限公司,A,G+,G+,G+,--,/products/show-974.html,https://ciasi.org.cn/products/show-974.html
+2024,8,江淮,瑞风RF8,HFC6524A2HC7S,MPV,安徽江淮汽车集团股份有限公司,A,G,G,G,-- **,/products/show-975.html,https://ciasi.org.cn/products/show-975.html
+2024,9,小鹏,X9,NHQ6530BEVHA,MPV,肇庆小鹏新能源投资有限公司,M,G,G+,G+,--,/products/show-976.html,https://ciasi.org.cn/products/show-976.html
+2024,10,智己,L6,CSA7002EBEV1,轿车,上海汽车集团股份有限公司,M,G,G+,G,--,/products/show-911.html,https://ciasi.org.cn/products/show-911.html
+2024,11,赛力斯,问界M9,SKE6520SSHEVAS,SUV,赛力斯汽车有限公司,G,G+,G+,G+,--,/products/show-977.html,https://ciasi.org.cn/products/show-977.html
+2024,12,比亚迪,宋L,BYD7007BEVA,SUV,比亚迪汽车工业有限公司,M,G+,G+,G+,-- **,/products/show-903.html,https://ciasi.org.cn/products/show-903.html
+2024,13,零跑,C16,FZ6490BEVC16A,SUV,零跑汽车有限公司,A,G,G+,G,-- **,/products/show-906.html,https://ciasi.org.cn/products/show-906.html
+2024,14,大通,大家9,SH6531T1BEV-8,MPV,上汽大通汽车有限公司,M,M,G,G,--,/products/show-916.html,https://ciasi.org.cn/products/show-916.html
+2024,15,特斯拉,Model 3,TSL7000BEVAR7,轿车,特斯拉(上海）有限公司,M,G,G,G,--,/products/show-925.html,https://ciasi.org.cn/products/show-925.html
+2024,16,大众,迈腾,FV7157NADEG,轿车,一汽-大众汽车有限公司,G,G,G,G,-- **,/products/show-978.html,https://ciasi.org.cn/products/show-978.html
+2024,17,马自达,EZ-6,CAM7002BABEV,轿车,长安马自达汽车有限公司,P,G+,G,G,--,/products/show-919.html,https://ciasi.org.cn/products/show-919.html
+2024,18,大众,帕萨特Pro,SVW72028CV,轿车,上汽大众汽车有限公司,A,G+,G+,G+,--,/products/show-979.html,https://ciasi.org.cn/products/show-979.html
+2024,19,乐道,L60,NAL6483BSEVZ1,SUV,蔚来汽车科技（安徽）有限公司,G,G+,G+,G+,--,/products/show-980.html,https://ciasi.org.cn/products/show-980.html
+2024,20,东风日产,探陆,DFL6510ATTR2,SUV,东风汽车有限公司,G,G,G,G,-- **,/products/show-981.html,https://ciasi.org.cn/products/show-981.html
+2024,21,萤火虫,firefly萤火虫,NAL7000BSEVY1,轿车,蔚来汽车科技（安徽）有限公司,G,G+,G+,G+,--,/products/show-950.html,https://ciasi.org.cn/products/show-950.html
+2024,22,东风日产,N7,DFL7000NAA1BEV,轿车,东风汽车有限公司,M,G,G,G,--,/products/show-992.html,https://ciasi.org.cn/products/show-992.html
+2023,1,丰田,赛那,GTM6521SHEVR,MPV,广汽丰田汽车有限公司,M,G,G,G,--,/products/show-720.html,https://ciasi.org.cn/products/show-720.html
+2023,2,本田,皓影,GHA6471RAC6A,SUV,广汽本田汽车有限公司,M,G,G,G,-- **,/products/show-721.html,https://ciasi.org.cn/products/show-721.html
+2023,3,理想,L7,LXA6502SHEVX1,SUV,重庆理想汽车有限公司,M,G,G,G,--,/products/show-722.html,https://ciasi.org.cn/products/show-722.html
+2023,4,宝马,X1,BMW6462AS,SUV,华晨宝马汽车有限公司,M,G,G,G,--,/products/show-724.html,https://ciasi.org.cn/products/show-724.html
+2023,5,上汽飞凡,R7,CSA6493YBEV1,轿车,上海汽车集团股份有限公司,M,G,G,G,--,/products/show-725.html,https://ciasi.org.cn/products/show-725.html
+2023,6,起亚,狮铂拓界,YQZ6472TE6,SUV,江苏悦达起亚汽车有限公司,P,A,A,G,-- **,/products/show-726.html,https://ciasi.org.cn/products/show-726.html
+2023,7,传祺,GS8,GAC6501JDA6C,SUV,广汽乘用车有限公司,P,G,G,G,--,/products/show-727.html,https://ciasi.org.cn/products/show-727.html
+2023,8,丰田,凌放,CA64812G,SUV,一汽丰田汽车（成都）有限公司,P,G,G,G,--,/products/show-728.html,https://ciasi.org.cn/products/show-728.html
+2023,9,奔驰,C级,BJ7154PEL,轿车,北京奔驰汽车有限公司,M,G,G,G,--,/products/show-732.html,https://ciasi.org.cn/products/show-732.html
+2023,10,本田,CR-V,DHW6471R3CSF,SUV,东风本田汽车有限公司,M,G,G,G,-- **,/products/show-734.html,https://ciasi.org.cn/products/show-734.html
+2023,11,比亚迪,海豹,BYD7006BEVA,轿车,比亚迪汽车有限公司,M,G,G,G,--,/products/show-735.html,https://ciasi.org.cn/products/show-735.html
+2023,12,合众,哪吒S,THZ7150SHEVS401,轿车,合众新能源汽车股份有限公司,M,G,G,G,--,/products/show-736.html,https://ciasi.org.cn/products/show-736.html
+2023,13,长城,山海炮,CC1030RS22A,皮卡,长城汽车股份有限公司,A,G,G,G,--,/products/show-737.html,https://ciasi.org.cn/products/show-737.html
+2023,14,长安,欧尚Z6,SC6471DBD6,SUV,重庆铃耀汽车有限公司,P,G,G,G,-- **,/products/show-738.html,https://ciasi.org.cn/products/show-738.html
+2023,15,现代,沐飒,BH7200MAAS,SUV,北京现代汽车有限公司,P,G,G,G,-- **,/products/show-739.html,https://ciasi.org.cn/products/show-739.html
+2023,16,马自达,CX-50,CAM6480B,SUV,长安马自达汽车有限公司,M,G,G,G,--,/products/show-741.html,https://ciasi.org.cn/products/show-741.html
+2023,17,岚图,追光,EQ7000AL1F2BEV,轿车,东风汽车集团有限公司,P,G,G,G,--,/products/show-742.html,https://ciasi.org.cn/products/show-742.html
+2023,18,精灵,smart #3,JL7000BEV52,SUV,浙江豪情汽车制造有限公司,P,G,G,G,-- **,/products/show-754.html,https://ciasi.org.cn/products/show-754.html
+2023,19,奥迪,Q4 e-tron,FV6469AABEV,SUV,一汽-大众汽车有限公司,A,G,G,G,--,/products/show-756.html,https://ciasi.org.cn/products/show-756.html
+2023,20,大众,朗逸新锐,SVW71527CD,轿车,上汽大众汽车有限公司,G,G,G,G,-- **,/products/show-757.html,https://ciasi.org.cn/products/show-757.html
+2023,21,别克,E5,SGM6491BABEV,SUV,上汽通用汽车有限公司,P,G,G,G,--,/products/show-758.html,https://ciasi.org.cn/products/show-758.html
+2023,22,智己,LS7,CSA6501LBEV5,SUV,上海汽车集团股份有限公司,M,G,G,G,--,/products/show-759.html,https://ciasi.org.cn/products/show-759.html
+2023,23,福特,锐界L,CAF6500B61,SUV,长安福特汽车有限公司,A,G,G,G,--,/products/show-760.html,https://ciasi.org.cn/products/show-760.html
+2023,24,日产,逍客,DFL7130VTTL1,SUV,东风汽车有限公司,P,G,G,G,-- **,/products/show-761.html,https://ciasi.org.cn/products/show-761.html
+2023,25,星途,瑶光,SQR6480T22TBG,SUV,奇瑞汽车股份有限公司,M,G,G,G,-- **,/products/show-762.html,https://ciasi.org.cn/products/show-762.html
+2023,26,本田,雅阁,GHA7151AAC6A,轿车,广汽本田汽车有限公司,M,G,G,G,-- **,/products/show-785.html,https://ciasi.org.cn/products/show-785.html
+2023,27,本田,INSPIRE,DHW7151CUCSF,轿车,东风本田汽车有限公司,M,G,G,G,-- **,/products/show-786.html,https://ciasi.org.cn/products/show-786.html
+2023,28,丰田,锋兰达,GTM7200VHEVR,SUV,广汽丰田汽车有限公司,M,G,G,G,--,/products/show-787.html,https://ciasi.org.cn/products/show-787.html
+2023,29,极石牌,极石01,BAW6510MB6SHEV,SUV,北京汽车制造厂有限公司,M,G,G,G,--,/products/show-788.html,https://ciasi.org.cn/products/show-788.html
+2023,30,日产,艾睿雅,DFL6460NAU4BEV,SUV,东风汽车有限公司,M,G,G,G,--,/products/show-789.html,https://ciasi.org.cn/products/show-789.html
+2023,31,阿维塔,阿维塔12,SC7001GBABEV,轿车,重庆长安汽车股份有限公司,M,G,A,G,--,/products/show-790.html,https://ciasi.org.cn/products/show-790.html
+2023,32,红旗,HS7,CA6500HA6T,SUV,中国第一汽车集团有限公司,P,G,G,G,-- **,/products/show-791.html,https://ciasi.org.cn/products/show-791.html
+2023,33,福特,游骑侠,JX1036PSF6,皮卡,江铃汽车股份有限公司,M,G,G,G,-- **,/products/show-792.html,https://ciasi.org.cn/products/show-792.html
+2023,34,大众,ID.7 VIZZION,FV7007AABEV,轿车,一汽-大众汽车有限公司,A,G,G,G,--,/products/show-793.html,https://ciasi.org.cn/products/show-793.html
+2023,35,魏牌,蓝山,CC6520BP00DPHEV,SUV,长城汽车股份有限公司,M,G,G,G,--,/products/show-794.html,https://ciasi.org.cn/products/show-794.html
+2023,36,上汽通用别克,君威,111,轿车,111,A,G+,--,G+,-- **,/products/show-970.html,https://ciasi.org.cn/products/show-970.html
+2022,1,丰田,皇冠 陆放,TV650025HEV,SUV,天津一汽丰田汽车有限公司,M,G,G,G,--,/products/show-723.html,https://ciasi.org.cn/products/show-723.html
+2022,2,奥迪,A7L,SVW72025AV（2022款 45TFSI S-line 筑梦型 流晶套装）,轿车,上汽大众汽车有限公司,M,G,G,G,--,/products/show-729.html,https://ciasi.org.cn/products/show-729.html
+2022,3,本田,型格,GHA7150SAC6A（2022款 240TURBO 科技版）,轿车,广汽本田汽车有限公司,P,G,G,G,--,/products/show-730.html,https://ciasi.org.cn/products/show-730.html
+2022,4,领克,领克09,MR6501D01 （2021款 六座 HALO）,SUV,浙江吉利汽车有限公司,A,G,G,G,--,/products/show-731.html,https://ciasi.org.cn/products/show-731.html
+2022,5,长安,UNI-V,SC7154CAB6（2022款 卓越型）,轿车,重庆长安汽车股份有限公司,P,G,G,G,-- **,/products/show-733.html,https://ciasi.org.cn/products/show-733.html
+2022,6,小鹏,P5,NHQ7000BEVDG（2022款 460G+）,轿车,肇庆小鹏新能源投资有限公司,P,G,G,G,-- **,/products/show-740.html,https://ciasi.org.cn/products/show-740.html
+2022,7,本田,思域,DHW7151FECSF （2022款 180TURBO 尚动版）,轿车,东风本田汽车有限公司,P,G,G,G,-- **,/products/show-743.html,https://ciasi.org.cn/products/show-743.html
+2022,8,传祺,影豹,GAC7153BCW6B（2021款 270T J11版）,轿车,广汽乘用车有限公司,P,G,G,A,--,/products/show-744.html,https://ciasi.org.cn/products/show-744.html
+2022,9,欧拉,好猫,CC7000BJ01BBEV（2022款 400Km标准续航 豪华型）,轿车,长城汽车股份有限公司,A,A,G,G,--,/products/show-745.html,https://ciasi.org.cn/products/show-745.html
+2022,10,现代,伊兰特,BH7152CCAS（2022款 1.5L GLS领先版）,轿车,北京现代汽车有限公司,P,G,A,A,-- **,/products/show-746.html,https://ciasi.org.cn/products/show-746.html
+2022,11,丰田,凌尚,GTM7200LM（2021款 豪华版）,轿车,广汽丰田汽车有限公司,P,G,G,G,--,/products/show-747.html,https://ciasi.org.cn/products/show-747.html
+2022,12,宝马,X5,BMW6517AX（2022款 xDrive30Li M运动套装）,SUV,华晨宝马汽车有限公司,M,G,G,G,--,/products/show-748.html,https://ciasi.org.cn/products/show-748.html
+2022,13,理想,L9,LXA6520SHEVX1（2022款 Max）,SUV,重庆理想汽车有限公司,M,G,G,G,--,/products/show-749.html,https://ciasi.org.cn/products/show-749.html
+2022,14,赛力斯,问界M7,SKE6500SSHEVR（2022款 两驱舒适版）,SUV,重庆金康新能源汽车有限公司,M,G,G,G,--,/products/show-750.html,https://ciasi.org.cn/products/show-750.html
+2022,15,大众,ID.6 CROZZ,FV6498BBBEV（2021款 长续航PURE+版）,SUV,一汽-大众汽车有限公司,A,G,G,G,--,/products/show-751.html,https://ciasi.org.cn/products/show-751.html
+2022,16,玛斯丹,Mach-E,CAF6470A1BEV（2021款 跃世后驱版（标准续航））,SUV,长安福特汽车有限公司,M,G,G,G,--,/products/show-752.html,https://ciasi.org.cn/products/show-752.html
+2022,17,蔚来,ET5,HFC7003CSEV1-W（2022款 75kWh）,轿车,安徽江淮汽车集团股份有限公司,A,G,G,G,--,/products/show-753.html,https://ciasi.org.cn/products/show-753.html
+2022,18,日产,轩逸,DFL7162VANH6（2022款 1.6XL 悦享版 CVT）,轿车,东风汽车有限公司,M,G,G,G,-- **,/products/show-755.html,https://ciasi.org.cn/products/show-755.html
+2022,19,零跑,零跑C11,FZ6480BEV06（2022款 豪华版）,SUV,零跑汽车有限公司,M,G,A,G,--,/products/show-763.html,https://ciasi.org.cn/products/show-763.html
+2022,20,大众,凌渡L,SVW71426CT（2022款 280TSI 热辣款）,轿车,上汽大众汽车有限公司,A,G,G,G,-- **,/products/show-764.html,https://ciasi.org.cn/products/show-764.html
+2022,21,福特,蒙迪欧,CAF7205A61（2022款 EcoBoost 245 时尚型）,轿车,长安福特汽车有限公司,P,G,G,G,-- **,/products/show-765.html,https://ciasi.org.cn/products/show-765.html
+2022,22,理想,L8,LXA6511SHEVX1（2023款 Pro）,SUV,重庆理想汽车有限公司,M,G,G,G,--,/products/show-766.html,https://ciasi.org.cn/products/show-766.html
+2022,23,极氪,极氪001,MR7001BEV08（ 2022款 超长续航单电机 WE版）,SUV,浙江吉利汽车有限公司,A,G,G,G,--,/products/show-767.html,https://ciasi.org.cn/products/show-767.html
+2022,24,奥迪,A4L,FV7203FBDCG（2022款 40TFSI 时尚动感型）,轿车,一汽-大众汽车有限公司,M,G,G,G,-- **,/products/show-768.html,https://ciasi.org.cn/products/show-768.html
+2022,25,比亚迪,护卫舰07,BYD6482ST6HEV2（2023款 100KM 豪华型）,SUV,比亚迪汽车有限公司,P,G,G,G,-- **,/products/show-769.html,https://ciasi.org.cn/products/show-769.html
+2022,26,别克,别克世纪,SGM6523UBA3（2023款 六座蕴世版）,MPV,上汽通用汽车有限公司,P,G,A,G,--,/products/show-770.html,https://ciasi.org.cn/products/show-770.html
+2022,27,荣威,RX5,CSA6473REAN（2023款 超感豪华版）,SUV,上海汽车集团股份有限公司,M,G,G,G,-- **,/products/show-771.html,https://ciasi.org.cn/products/show-771.html
+2022,28,北京,魔方,BJ6460U5XDK（2022款 黄金版）,SUV,北京汽车股份有限公司,A,A,G,G,-- **,/products/show-772.html,https://ciasi.org.cn/products/show-772.html
+2021,1,讴歌,RDX,GHA6480MAA6A,SUV,广汽本田汽车有限公司,M,G,G,A,--,/products/show-773.html,https://ciasi.org.cn/products/show-773.html
+2021,2,长安,UNI-K,SC6493ABA6,SUV,重庆长安汽车股份有限公司,A,G,G,G,-- **,/products/show-774.html,https://ciasi.org.cn/products/show-774.html
+2021,3,大众,ID.4 X,SVW6461AEV,SUV,上汽大众汽车有限公司,G,G,G,G,-- **,/products/show-775.html,https://ciasi.org.cn/products/show-775.html
+2021,4,马自达,CX-30,CAM7204B,SUV,长安马自达汽车有限公司,M,G,G,G,-- **,/products/show-776.html,https://ciasi.org.cn/products/show-776.html
+2021,5,福特,锐际,CAF6461AF64,SUV,长安福特汽车有限公司,M,G,G,G,-- **,/products/show-777.html,https://ciasi.org.cn/products/show-777.html
+2021,6,别克,昂科威,SGM6479EBA1,SUV,上汽通用东岳汽车有限公司,P,G,G,M,-- **,/products/show-778.html,https://ciasi.org.cn/products/show-778.html
+2021,7,丰田,CH-R,GTM7201XM,SUV,广汽丰田汽车有限公司,A,G,G,G,-- **,/products/show-779.html,https://ciasi.org.cn/products/show-779.html
+2021,8,雪铁龙,天逸C5 AIRCROSS,DC6456KXCB16,SUV,神龙汽车有限公司,M,A,G,--,--,/products/show-780.html,https://ciasi.org.cn/products/show-780.html
+2021,9,魏牌,坦克300,CC2030BE21A,SUV,长城汽车股份有限公司,A,G,G,G,--,/products/show-781.html,https://ciasi.org.cn/products/show-781.html
+2021,10,日产,奇骏,DFL6470VTNM2,SUV,东风汽车有限公司,M,G,G,G,-- **,/products/show-782.html,https://ciasi.org.cn/products/show-782.html
+2021,11,别克,GL8 ES 陆尊,SGM6522UBB2,MPV,上汽通用汽车有限公司,P,A,A,G,-- **,/products/show-783.html,https://ciasi.org.cn/products/show-783.html
+2021,12,特斯拉,Model Y,TSL6480BEVAR0,SUV,特斯拉（上海）有限公司,P,G,G,G,--,/products/show-784.html,https://ciasi.org.cn/products/show-784.html
+2020,1,别克,君威,SGM7157EBA1,轿车,上汽通用汽车有限公司,M,G,G,G,-- **,/products/show-795.html,https://ciasi.org.cn/products/show-795.html
+2020,2,特斯拉,Model 3,TSL7000BEVAR0,轿车,特斯拉（上海）有限公司,M,G,A,G,--,/products/show-796.html,https://ciasi.org.cn/products/show-796.html
+2020,3,哈弗,H6,CC6464RM08A,SUV,长城汽车股份有限公司,P,A,G,--,--,/products/show-797.html,https://ciasi.org.cn/products/show-797.html
+2020,4,本田,皓影,GHA6460RAC6A,SUV,广汽本田汽车有限公司,P,G,G,G,-- **,/products/show-798.html,https://ciasi.org.cn/products/show-798.html
+2020,5,奥迪,Q5L,FV6481LAQDG,SUV,一汽-大众汽车有限公司,--,G,G,G,--,/products/show-799.html,https://ciasi.org.cn/products/show-799.html
+2020,6,奔驰,A级,BJ7138LEL,轿车,北京奔驰汽车有限公司,--,G,G,A,--,/products/show-800.html,https://ciasi.org.cn/products/show-800.html
+2020,7,领克,领克03,MR7152D09,轿车,浙江吉利汽车有限公司,M,G,G,G,-- **,/products/show-801.html,https://ciasi.org.cn/products/show-801.html
+2020,8,江淮,嘉悦A5,HFC7152B1S,轿车,安徽江淮汽车集团股份有限公司,P,A,A,G,-- **,/products/show-802.html,https://ciasi.org.cn/products/show-802.html
+2020,9,马自达,阿特兹,CA7200ATE6A,轿车,中国第一汽车集团有限公司,M,A,G,G,-- **,/products/show-803.html,https://ciasi.org.cn/products/show-803.html
+2020,10,丰田,RAV4荣放,CA64642XME6,SUV,四川一汽丰田汽车有限公司,--,G,G,G,--,/products/show-804.html,https://ciasi.org.cn/products/show-804.html
+2020,11,荣威,iMAX8,CSA6511ZEAP,MPV,上海汽车集团股份有限公司,P,G,G,G,-- **,/products/show-805.html,https://ciasi.org.cn/products/show-805.html
+2020,12,宝马,X3,BMW6475SX,SUV,华晨宝马汽车有限公司,P,G,G,G,--,/products/show-806.html,https://ciasi.org.cn/products/show-806.html
+2020,13,丰田,威兰达,GTM6470FFXM,SUV,广汽丰田汽车有限公司,P,G,G,G,-- **,/products/show-807.html,https://ciasi.org.cn/products/show-807.html
+2020,14,大众,帕萨特,SVW71423DT,轿车,上汽大众汽车有限公司,A,G,G,G,-- **,/products/show-808.html,https://ciasi.org.cn/products/show-808.html
+2020,15,大众,途昂,SVW6505KVD,SUV,上汽大众汽车有限公司,P,G,G,G,-- **,/products/show-809.html,https://ciasi.org.cn/products/show-809.html
+2020,16,蔚来,EC6,HFC6483ECSEV6-W,SUV,上海蔚来汽车有限公司,A,G,G,G,--,/products/show-810.html,https://ciasi.org.cn/products/show-810.html
+2020,17,启辰,星,DFL6470MTN81,SUV,东风汽车有限公司,M,G,G,G,-- **,/products/show-811.html,https://ciasi.org.cn/products/show-811.html
+2020,18,现代,胜达,BH6490MCAS,SUV,北京现代汽车有限公司,M,G,G,G,-- **,/products/show-812.html,https://ciasi.org.cn/products/show-812.html
+2020,19,天际,ME7,QAC6461BEVAB,SUV,福建天际汽车制造有限公司,P,G,G,G,-- **,/products/show-813.html,https://ciasi.org.cn/products/show-813.html
+2020,20,理想,ONE,LXA6500SHEVM1,SUV,重庆理想汽车有限公司,M,G,G,G,--,/products/show-814.html,https://ciasi.org.cn/products/show-814.html
+2020,21,比亚迪,汉EV,BYD7009BEV1,轿车,比亚迪汽车有限公司,P,G,G,G,--,/products/show-815.html,https://ciasi.org.cn/products/show-815.html
+2020,22,比亚迪,宋PLUS,BYD6470ST6B,SUV,比亚迪汽车有限公司,P,G,G,G,-- **,/products/show-816.html,https://ciasi.org.cn/products/show-816.html
+2020,23,领克,领克05,MR6463D17,SUV,浙江吉利汽车有限公司,M,G,G,G,--,/products/show-817.html,https://ciasi.org.cn/products/show-817.html
+2019,1,本田,凌派,GHA7100GAC5A,轿车,广汽本田汽车有限公司,--,M,G,G,--,/products/show-818.html,https://ciasi.org.cn/products/show-818.html
+2019,2,福特,福克斯,CAF7158A6P1,轿车,长安福特汽车有限公司,A,G,G,G,-- **,/products/show-819.html,https://ciasi.org.cn/products/show-819.html
+2019,3,北京,绅宝D50,BJ7151C4DCB,轿车,北京汽车股份有限公司,P,M,A,--,--,/products/show-820.html,https://ciasi.org.cn/products/show-820.html
+2019,4,现代,菲斯塔,BH7140CAAV,轿车,北京现代汽车有限公司,--,M,A,G,-- **,/products/show-821.html,https://ciasi.org.cn/products/show-821.html
+2019,5,东风风神,AX7,DFM6460D5B2,SUV,东风汽车集团有限公司,--,M,P,M,-- **,/products/show-822.html,https://ciasi.org.cn/products/show-822.html
+2019,6,三菱,欧蓝德,GMC6472A,SUV,广汽三菱汽车有限公司,--,M,G,G,-- **,/products/show-823.html,https://ciasi.org.cn/products/show-823.html
+2019,7,凯迪拉克,XT4,SGM6468EBA1,SUV,上汽通用汽车有限公司,--,G,G,G,-- **,/products/show-824.html,https://ciasi.org.cn/products/show-824.html
+2019,8,哈弗,F5,CC7154UM0A,SUV,长城汽车股份有限公司,P,A,G,--,--,/products/show-825.html,https://ciasi.org.cn/products/show-825.html
+2019,9,比亚迪,唐,BYD6490ST6A,SUV,比亚迪汽车工业有限公司,P,G,G,G,-- **,/products/show-826.html,https://ciasi.org.cn/products/show-826.html
+2019,10,沃尔沃,XC60,VCC6474H27,SUV,浙江豪情汽车制造有限公司,P,G,G,G,--,/products/show-827.html,https://ciasi.org.cn/products/show-827.html
+2019,11,丰田,亚洲龙,TV7256E6,轿车,天津一汽丰田汽车有限公司,P,G,G,G,--,/products/show-828.html,https://ciasi.org.cn/products/show-828.html
+2019,12,吉利,星越,MR6463D03,SUV,浙江吉利汽车有限公司,A,A,G,G,--,/products/show-829.html,https://ciasi.org.cn/products/show-829.html
+2019,13,丰田,雷凌,GTM7121LPCJM（2019款 185T进取版）,轿车,广汽丰田汽车有限公司,M,G,G,G,-- **,/products/show-830.html,https://ciasi.org.cn/products/show-830.html
+2019,14,日产,天籁,DFL7201VANF2,轿车,东风汽车有限公司,M,G,G,G,-- **,/products/show-831.html,https://ciasi.org.cn/products/show-831.html
+2019,15,雪佛兰,科鲁泽,SGM7102LNA1,轿车,上汽通用汽车有限公司,P,G,G,--,--,/products/show-832.html,https://ciasi.org.cn/products/show-832.html
+2019,16,马自达,马自达3,CAM7153M（2020款 1.5L MT质美版）,轿车,长安马自达汽车有限公司,P,G,G,G,-- **,/products/show-833.html,https://ciasi.org.cn/products/show-833.html
+2019,17,本田,INSPIRE,DHW7152CVCSF,轿车,东风本田汽车有限公司,P,M,G,G,-- **,/products/show-834.html,https://ciasi.org.cn/products/show-834.html
+2019,18,大众,帕萨特,SVW71423CT,轿车,上汽大众汽车有限公司,A,M,G,G,-- **,/products/show-835.html,https://ciasi.org.cn/products/show-835.html
+2019,19,长安,CS75 PLUS,SC6479BEH6,SUV,合肥长安汽车有限公司,M,G,G,G,-- **,/products/show-836.html,https://ciasi.org.cn/products/show-836.html
+2019,20,一汽奔腾,T77,CA6455A6,SUV,中国第一汽车集团有限公司,P,M,G,G,-- **,/products/show-837.html,https://ciasi.org.cn/products/show-837.html
+2019,21,小鹏,G3,HMA7001DEBEV,SUV,广州小鹏汽车科技有限公司,P,G,G,G,-- **,/products/show-838.html,https://ciasi.org.cn/products/show-838.html
+2019,22,奔驰,GLC,BJ6486LEAL,SUV,北京奔驰汽车有限公司,P,G,G,G,--,/products/show-839.html,https://ciasi.org.cn/products/show-839.html
+2019,23,吉普,大指挥官,GFA6491FTDBA,SUV,广汽菲亚特克莱斯勒汽车有限公司,M,G,G,G,-- **,/products/show-840.html,https://ciasi.org.cn/products/show-840.html
+2019,24,宝马,3系,BMW7200AG,轿车,华晨宝马汽车有限公司,P,G,G,G,-- **,/products/show-841.html,https://ciasi.org.cn/products/show-841.html
+2019,25,奥迪,A6 L,FV7201BBDDG,轿车,一汽大众汽车有限公司,--,G,G,G,--,/products/show-842.html,https://ciasi.org.cn/products/show-842.html
+2019,26,荣威,RX5 MAX,CSA6468NEMQ,SUV,上海汽车集团股份有限公司,--,G,G,G,-- **,/products/show-843.html,https://ciasi.org.cn/products/show-843.html
+2019,27,丰田,卡罗拉,TV7121N6,轿车,天津一汽丰田汽车有限公司,P,G,G,G,--,/products/show-844.html,https://ciasi.org.cn/products/show-844.html
+2018,1,别克,昂科威,SGM6475DAA1,SUV,上汽通用东岳汽车有限公司,--,A,G,G,-- **,/products/show-845.html,https://ciasi.org.cn/products/show-845.html
+2018,2,大众,途观L,SVW6474DFD,SUV,上汽大众汽车有限公司,--,M,A,G,-- **,/products/show-846.html,https://ciasi.org.cn/products/show-846.html
+2018,3,大众,迈腾,FV7147BADBG,轿车,一汽-大众汽车有限公司,--,A,G,G,-- **,/products/show-847.html,https://ciasi.org.cn/products/show-847.html
+2018,4,丰田,凯美瑞,GTM7200CEE,轿车,广汽丰田汽车有限公司,--,G,G,G,-- **,/products/show-848.html,https://ciasi.org.cn/products/show-848.html
+2018,5,领克,领克01,JL6453C10,SUV,浙江豪情汽车制造有限公司,--,G,G,G,-- **,/products/show-849.html,https://ciasi.org.cn/products/show-849.html
+2018,6,五菱,宝骏510,LZW6420CJY,SUV,上汽通用五菱汽车股份有限公司,--,P,A,--,--,/products/show-850.html,https://ciasi.org.cn/products/show-850.html
+2018,7,魏牌,VV5,CC7203UM02A,SUV,长城汽车股份有限公司,--,A,G,G,--,/products/show-851.html,https://ciasi.org.cn/products/show-851.html
+2018,8,本田,思域,DHW7101FCCSE,轿车,东风本田汽车有限公司,--,M,G,G,-- **,/products/show-852.html,https://ciasi.org.cn/products/show-852.html
+2018,9,奔驰,C级,BJ7204HE,轿车,北京奔驰汽车有限公司,--,G,A,G,--,/products/show-853.html,https://ciasi.org.cn/products/show-853.html
+2018,10,宝马,3系,BMW7150BF,轿车,华晨宝马汽车有限公司,--,A,G,--,--,/products/show-854.html,https://ciasi.org.cn/products/show-854.html
+2018,11,雷诺,科雷傲,DFR6470SCE1,SUV,东风雷诺汽车有限公司,--,M,G,P,-- **,/products/show-855.html,https://ciasi.org.cn/products/show-855.html
+2018,12,本田,雅阁,GHA7150AAC5B,轿车,广汽本田汽车有限公司,--,G,G,G,-- **,/products/show-856.html,https://ciasi.org.cn/products/show-856.html
+2018,13,奇瑞,艾瑞泽5,SQR7155J60T2,轿车,奇瑞汽车股份有限公司,P,M,A,--,--,/products/show-857.html,https://ciasi.org.cn/products/show-857.html
+2018,14,现代,领动,BH7145TAV,轿车,北京现代汽车有限公司,P,M,A,G,-- **,/products/show-858.html,https://ciasi.org.cn/products/show-858.html
+2018,15,日产,西玛,DFL7253VAL2,轿车,东风汽车有限公司,M,A,G,A,--,/products/show-859.html,https://ciasi.org.cn/products/show-859.html
+2018,16,传祺,GS7,GAC6470C2B5,SUV,广州汽车集团乘用车有限公司,P,A,M,--,--,/products/show-860.html,https://ciasi.org.cn/products/show-860.html
+2018,17,起亚,智跑,YQZ6444AE5,SUV,东风悦达起亚汽车有限公司,P,M,A,--,--,/products/show-861.html,https://ciasi.org.cn/products/show-861.html
+2018,18,斯柯达,柯迪亚克,SVW6476GFD,SUV,上汽大众汽车有限公司,G,M,G,G,-- **,/products/show-862.html,https://ciasi.org.cn/products/show-862.html
+2018,19,丰田,奕泽,TV7203N,SUV,天津一汽丰田汽车有限公司,A,G,G,G,--,/products/show-863.html,https://ciasi.org.cn/products/show-863.html
+2018,20,众泰,T600,ZTA6460,SUV,浙江众泰汽车制造有限公司,M,A,A,--,--,/products/show-864.html,https://ciasi.org.cn/products/show-864.html
+2018,21,江淮,瑞风S3,HFC7161MTV,SUV,安徽江淮汽车集团股份有限公司,P,M,A,--,--,/products/show-865.html,https://ciasi.org.cn/products/show-865.html
+2018,22,别克,GL8,SGM6522UAA1,MPV,上汽通用汽车有限公司,P,M,A,G,-- **,/products/show-866.html,https://ciasi.org.cn/products/show-866.html
+2018,23,比亚迪,宋MAX,BYD6470MT2,MPV,比亚迪汽车工业有限公司,P,P,G,--,--,/products/show-867.html,https://ciasi.org.cn/products/show-867.html
