@@ -531,34 +531,6 @@
   "price_low": null,
   "price_high": null
  },
- "问界M5": {
-  "series_id": 6388,
-  "brand": "AITO 问界",
-  "price_text": "22.98-24.98万",
-  "price_low": 22.98,
-  "price_high": 24.98
- },
- "问界M7": {
-  "series_id": 6643,
-  "brand": "AITO 问界",
-  "price_text": "27.98-38.98万",
-  "price_low": 27.98,
-  "price_high": 38.98
- },
- "问界M8": {
-  "series_id": 8003,
-  "brand": "AITO 问界",
-  "price_text": "35.98-45.98万",
-  "price_low": 35.98,
-  "price_high": 45.98
- },
- "问界M9": {
-  "series_id": 7207,
-  "brand": "AITO 问界",
-  "price_text": "47.98-65.98万",
-  "price_low": 47.98,
-  "price_high": 65.98
- },
  "AION i60": {
   "series_id": 8469,
   "brand": "埃安",
@@ -625,69 +597,6 @@
  "AION AY5": {
   "series_id": 7689,
   "brand": "埃安",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "阿维塔06": {
-  "series_id": 7752,
-  "brand": "阿维塔科技",
-  "price_text": "20.99-27.99万",
-  "price_low": 20.99,
-  "price_high": 27.99
- },
- "阿维塔12": {
-  "series_id": 7126,
-  "brand": "阿维塔科技",
-  "price_text": "26.99-70.00万",
-  "price_low": 26.99,
-  "price_high": 70.0
- },
- "阿维塔07": {
-  "series_id": 7652,
-  "brand": "阿维塔科技",
-  "price_text": "21.99-28.99万",
-  "price_low": 21.99,
-  "price_high": 28.99
- },
- "阿维塔11": {
-  "series_id": 8663,
-  "brand": "阿维塔科技",
-  "price_text": "28.99-42.99万",
-  "price_low": 28.99,
-  "price_high": 42.99
- },
- "埃尚": {
-  "series_id": 8301,
-  "brand": "五菱新能源",
-  "price_text": "3.98-5.28万",
-  "price_low": 3.98,
-  "price_high": 5.28
- },
- "嘉远KOMI": {
-  "series_id": 6392,
-  "brand": "安徽猎豹",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "爱驰U5": {
-  "series_id": 4769,
-  "brand": "爱驰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "爱驰U6": {
-  "series_id": 5642,
-  "brand": "爱驰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "爱驰U7": {
-  "series_id": 5221,
-  "brand": "爱驰汽车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -779,6 +688,118 @@
  "Vulcan": {
   "series_id": 3730,
   "brand": "阿斯顿·马丁",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "阿维塔06": {
+  "series_id": 7752,
+  "brand": "阿维塔科技",
+  "price_text": "20.99-27.99万",
+  "price_low": 20.99,
+  "price_high": 27.99
+ },
+ "阿维塔12": {
+  "series_id": 7126,
+  "brand": "阿维塔科技",
+  "price_text": "26.99-70.00万",
+  "price_low": 26.99,
+  "price_high": 70.0
+ },
+ "阿维塔07": {
+  "series_id": 7652,
+  "brand": "阿维塔科技",
+  "price_text": "21.99-28.99万",
+  "price_low": 21.99,
+  "price_high": 28.99
+ },
+ "阿维塔11": {
+  "series_id": 8663,
+  "brand": "阿维塔科技",
+  "price_text": "28.99-42.99万",
+  "price_low": 28.99,
+  "price_high": 42.99
+ },
+ "Junior": {
+  "series_id": 7541,
+  "brand": "阿尔法·罗密欧",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "MiTo": {
+  "series_id": 7037,
+  "brand": "阿尔法·罗密欧",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Gloria": {
+  "series_id": 1021,
+  "brand": "阿尔法·罗密欧",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "爱驰U5": {
+  "series_id": 4769,
+  "brand": "爱驰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "爱驰U6": {
+  "series_id": 5642,
+  "brand": "爱驰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "爱驰U7": {
+  "series_id": 5221,
+  "brand": "爱驰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "傲旋乘风": {
+  "series_id": 7515,
+  "brand": "车驰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "小傲旋": {
+  "series_id": 5329,
+  "brand": "车驰汽车",
+  "price_text": "45.88-45.88万",
+  "price_low": 45.88,
+  "price_high": 45.88
+ },
+ "嘉远KOMI": {
+  "series_id": 6392,
+  "brand": "安徽猎豹",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "安凯快乐运": {
+  "series_id": 6808,
+  "brand": "安凯客车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "安凯Q5": {
+  "series_id": 6816,
+  "brand": "安凯客车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝斯通": {
+  "series_id": 2745,
+  "brand": "安凯客车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -993,6 +1014,34 @@
   "price_low": null,
   "price_high": null
  },
+ "问界M5": {
+  "series_id": 6388,
+  "brand": "AITO 问界",
+  "price_text": "22.98-24.98万",
+  "price_low": 22.98,
+  "price_high": 24.98
+ },
+ "问界M7": {
+  "series_id": 6643,
+  "brand": "AITO 问界",
+  "price_text": "27.98-38.98万",
+  "price_low": 27.98,
+  "price_high": 38.98
+ },
+ "问界M8": {
+  "series_id": 8003,
+  "brand": "AITO 问界",
+  "price_text": "35.98-45.98万",
+  "price_low": 35.98,
+  "price_high": 45.98
+ },
+ "问界M9": {
+  "series_id": 7207,
+  "brand": "AITO 问界",
+  "price_text": "47.98-65.98万",
+  "price_low": 47.98,
+  "price_high": 65.98
+ },
  "AIVA ME7": {
   "series_id": 8693,
   "brand": "赛力斯汽车",
@@ -1056,40 +1105,12 @@
   "price_low": null,
   "price_high": null
  },
- "傲旋乘风": {
-  "series_id": 7515,
-  "brand": "车驰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "小傲旋": {
-  "series_id": 5329,
-  "brand": "车驰汽车",
-  "price_text": "45.88-45.88万",
-  "price_low": 45.88,
-  "price_high": 45.88
- },
- "安凯快乐运": {
-  "series_id": 6808,
-  "brand": "安凯客车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "安凯Q5": {
-  "series_id": 6816,
-  "brand": "安凯客车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝斯通": {
-  "series_id": 2745,
-  "brand": "安凯客车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
+ "埃尚": {
+  "series_id": 8301,
+  "brand": "五菱新能源",
+  "price_text": "3.98-5.28万",
+  "price_low": 3.98,
+  "price_high": 5.28
  },
  "MUSE": {
   "series_id": 5256,
@@ -1111,27 +1132,6 @@
   "price_text": "82.80-188.00万",
   "price_low": 82.8,
   "price_high": 188.0
- },
- "Junior": {
-  "series_id": 7541,
-  "brand": "阿尔法·罗密欧",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "MiTo": {
-  "series_id": 7037,
-  "brand": "阿尔法·罗密欧",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Gloria": {
-  "series_id": 1021,
-  "brand": "阿尔法·罗密欧",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
  },
  "挑战者系列": {
   "series_id": 7254,
@@ -3716,104 +3716,6 @@
   "price_low": null,
   "price_high": null
  },
- "Taycan": {
-  "series_id": 7299,
-  "brand": "保时捷",
-  "price_text": "91.80-156.80万",
-  "price_low": 91.8,
-  "price_high": 156.8
- },
- "Panamera": {
-  "series_id": 703,
-  "brand": "保时捷",
-  "price_text": "99.80-149.80万",
-  "price_low": 99.8,
-  "price_high": 149.8
- },
- "Macan": {
-  "series_id": 2838,
-  "brand": "保时捷",
-  "price_text": "57.80-85.80万",
-  "price_low": 57.8,
-  "price_high": 85.8
- },
- "Macan新能源": {
-  "series_id": 7036,
-  "brand": "保时捷",
-  "price_text": "59.80-96.80万",
-  "price_low": 59.8,
-  "price_high": 96.8
- },
- "Cayenne": {
-  "series_id": 172,
-  "brand": "保时捷",
-  "price_text": "91.80-250.80万",
-  "price_low": 91.8,
-  "price_high": 250.8
- },
- "保时捷718": {
-  "series_id": 4324,
-  "brand": "保时捷",
-  "price_text": "56.50-157.80万",
-  "price_low": 56.5,
-  "price_high": 157.8
- },
- "保时捷911": {
-  "series_id": 162,
-  "brand": "保时捷",
-  "price_text": "151.80-287.80万",
-  "price_low": 151.8,
-  "price_high": 287.8
- },
- "保时捷963": {
-  "series_id": 4322,
-  "brand": "保时捷",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Pajun": {
-  "series_id": 8165,
-  "brand": "保时捷",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Boxster": {
-  "series_id": 2073,
-  "brand": "保时捷",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Cayman": {
-  "series_id": 393,
-  "brand": "保时捷",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "保时捷356": {
-  "series_id": 3423,
-  "brand": "保时捷",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "保时捷917": {
-  "series_id": 5180,
-  "brand": "保时捷",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "保时捷968": {
-  "series_id": 3572,
-  "brand": "保时捷",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
  "标致108": {
   "series_id": 7501,
   "brand": "标致",
@@ -4143,303 +4045,100 @@
   "price_low": null,
   "price_high": null
  },
- "宝骏云朵": {
-  "series_id": 7271,
-  "brand": "上汽通用五菱",
-  "price_text": "9.58-14.58万",
-  "price_low": 9.58,
-  "price_high": 14.58
+ "Taycan": {
+  "series_id": 7299,
+  "brand": "保时捷",
+  "price_text": "91.80-156.80万",
+  "price_low": 91.8,
+  "price_high": 156.8
  },
- "宝骏悦也皮卡": {
-  "series_id": 7268,
-  "brand": "上汽通用五菱",
+ "Panamera": {
+  "series_id": 703,
+  "brand": "保时捷",
+  "price_text": "99.80-149.80万",
+  "price_low": 99.8,
+  "price_high": 149.8
+ },
+ "Macan": {
+  "series_id": 2838,
+  "brand": "保时捷",
+  "price_text": "57.80-85.80万",
+  "price_low": 57.8,
+  "price_high": 85.8
+ },
+ "Macan新能源": {
+  "series_id": 7036,
+  "brand": "保时捷",
+  "price_text": "59.80-96.80万",
+  "price_low": 59.8,
+  "price_high": 96.8
+ },
+ "Cayenne": {
+  "series_id": 172,
+  "brand": "保时捷",
+  "price_text": "91.80-250.80万",
+  "price_low": 91.8,
+  "price_high": 250.8
+ },
+ "保时捷718": {
+  "series_id": 4324,
+  "brand": "保时捷",
+  "price_text": "56.50-157.80万",
+  "price_low": 56.5,
+  "price_high": 157.8
+ },
+ "保时捷911": {
+  "series_id": 162,
+  "brand": "保时捷",
+  "price_text": "151.80-287.80万",
+  "price_low": 151.8,
+  "price_high": 287.8
+ },
+ "保时捷963": {
+  "series_id": 4322,
+  "brand": "保时捷",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "宝骏享境": {
-  "series_id": 7826,
-  "brand": "上汽通用五菱",
-  "price_text": "12.98-18.88万",
-  "price_low": 12.98,
-  "price_high": 18.88
- },
- "宝骏悦也": {
-  "series_id": 6936,
-  "brand": "上汽通用五菱",
-  "price_text": "8.08-9.08万",
-  "price_low": 8.08,
-  "price_high": 9.08
- },
- "宝骏悦也Plus": {
-  "series_id": 7574,
-  "brand": "上汽通用五菱",
-  "price_text": "7.68-11.68万",
-  "price_low": 7.68,
-  "price_high": 11.68
- },
- "宝骏E6": {
-  "series_id": 8279,
-  "brand": "上汽通用五菱",
-  "price_text": "14.98-14.98万",
-  "price_low": 14.98,
-  "price_high": 14.98
- },
- "宝骏云海": {
-  "series_id": 7741,
-  "brand": "上汽通用五菱",
-  "price_text": "10.98-16.58万",
-  "price_low": 10.98,
-  "price_high": 16.58
- },
- "智慧概念车": {
-  "series_id": 5982,
-  "brand": "上汽通用五菱",
+ "Pajun": {
+  "series_id": 8165,
+  "brand": "保时捷",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "City Car": {
-  "series_id": 6250,
-  "brand": "上汽通用五菱",
+ "Boxster": {
+  "series_id": 2073,
+  "brand": "保时捷",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "宝骏E100": {
-  "series_id": 3993,
-  "brand": "上汽通用五菱",
+ "Cayman": {
+  "series_id": 393,
+  "brand": "保时捷",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "宝骏E200": {
-  "series_id": 4890,
-  "brand": "上汽通用五菱",
+ "保时捷356": {
+  "series_id": 3423,
+  "brand": "保时捷",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "宝骏E300": {
-  "series_id": 5559,
-  "brand": "上汽通用五菱",
+ "保时捷917": {
+  "series_id": 5180,
+  "brand": "保时捷",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "乐驰": {
-  "series_id": 6155,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏310": {
-  "series_id": 4077,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏330": {
-  "series_id": 3774,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏310W": {
-  "series_id": 4392,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏610": {
-  "series_id": 3343,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏630": {
-  "series_id": 2236,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏RC-5": {
-  "series_id": 5084,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏Valli": {
-  "series_id": 6053,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏RC-6": {
-  "series_id": 5336,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏510": {
-  "series_id": 4166,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏RS-3": {
-  "series_id": 5373,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏530": {
-  "series_id": 4587,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏560": {
-  "series_id": 3677,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏RS-5": {
-  "series_id": 4908,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏RS-7": {
-  "series_id": 5527,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏360": {
-  "series_id": 4606,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏730": {
-  "series_id": 3412,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏RM-5": {
-  "series_id": 5342,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝骏RM-C": {
-  "series_id": 5229,
-  "brand": "上汽通用五菱",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北京越野BJ40": {
-  "series_id": 7513,
-  "brand": "北京越野",
-  "price_text": "14.58-22.98万",
-  "price_low": 14.58,
-  "price_high": 22.98
- },
- "北京越野BJ60": {
-  "series_id": 7696,
-  "brand": "北京越野",
-  "price_text": "23.88-28.58万",
-  "price_low": 23.88,
-  "price_high": 28.58
- },
- "北京城市猎人": {
-  "series_id": 8721,
-  "brand": "北京越野",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "星钽 5X": {
-  "series_id": 8767,
-  "brand": "北京越野",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北京越野B61": {
-  "series_id": 2127,
-  "brand": "北京越野",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北京越野B70": {
-  "series_id": 2327,
-  "brand": "北京越野",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北京越野BJ20": {
-  "series_id": 3800,
-  "brand": "北京越野",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北京越野B90": {
-  "series_id": 3129,
-  "brand": "北京越野",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北京越野BJ80": {
-  "series_id": 3473,
-  "brand": "北京越野",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北京越野BJ90": {
-  "series_id": 4794,
-  "brand": "北京越野",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北京越野F40": {
-  "series_id": 5338,
-  "brand": "北京越野",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "悦": {
-  "series_id": 7241,
-  "brand": "北京汽车",
+ "保时捷968": {
+  "series_id": 3572,
+  "brand": "保时捷",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -4642,6 +4341,279 @@
  },
  "智行": {
   "series_id": 4923,
+  "brand": "北京汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "212经典": {
+  "series_id": 3035,
+  "brand": "北京汽车制造厂",
+  "price_text": "9.99-10.59万",
+  "price_low": 9.99,
+  "price_high": 10.59
+ },
+ "勇士": {
+  "series_id": 622,
+  "brand": "北京汽车制造厂",
+  "price_text": "14.98-15.98万",
+  "price_low": 14.98,
+  "price_high": 15.98
+ },
+ "vala pro": {
+  "series_id": 7592,
+  "brand": "北京汽车制造厂",
+  "price_text": "26.80-26.80万",
+  "price_low": 26.8,
+  "price_high": 26.8
+ },
+ "锐胜M8新能源": {
+  "series_id": 8214,
+  "brand": "北京汽车制造厂",
+  "price_text": "15.98-27.98万",
+  "price_low": 15.98,
+  "price_high": 27.98
+ },
+ "锐胜王牌M7": {
+  "series_id": 6701,
+  "brand": "北京汽车制造厂",
+  "price_text": "5.98-15.38万",
+  "price_low": 5.98,
+  "price_high": 15.38
+ },
+ "北汽小河马": {
+  "series_id": 6702,
+  "brand": "北京汽车制造厂",
+  "price_text": "10.78-11.08万",
+  "price_low": 10.78,
+  "price_high": 11.08
+ },
+ "鲸卡T6": {
+  "series_id": 6623,
+  "brand": "北京汽车制造厂",
+  "price_text": "4.88-6.98万",
+  "price_low": 4.88,
+  "price_high": 6.98
+ },
+ "鲸卡T7": {
+  "series_id": 6575,
+  "brand": "北京汽车制造厂",
+  "price_text": "5.28-9.31万",
+  "price_low": 5.28,
+  "price_high": 9.31
+ },
+ "鲸卡T7EV": {
+  "series_id": 7172,
+  "brand": "北京汽车制造厂",
+  "price_text": "16.98-17.46万",
+  "price_low": 16.98,
+  "price_high": 17.46
+ },
+ "卡路里": {
+  "series_id": 6803,
+  "brand": "北京汽车制造厂",
+  "price_text": "6.78-10.48万",
+  "price_low": 6.78,
+  "price_high": 10.48
+ },
+ "勇士皮卡": {
+  "series_id": 4586,
+  "brand": "北京汽车制造厂",
+  "price_text": "12.78-13.98万",
+  "price_low": 12.78,
+  "price_high": 13.98
+ },
+ "锐铃": {
+  "series_id": 2915,
+  "brand": "北京汽车制造厂",
+  "price_text": "7.93-8.08万",
+  "price_low": 7.93,
+  "price_high": 8.08
+ },
+ "北汽L6H": {
+  "series_id": 8319,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "嫦娥miniEV": {
+  "series_id": 6794,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽豹": {
+  "series_id": 5888,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "鲸卡": {
+  "series_id": 6807,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽大猫": {
+  "series_id": 5709,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽小猫": {
+  "series_id": 5587,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "家宝": {
+  "series_id": 6622,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "元宝": {
+  "series_id": 6621,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "战旗": {
+  "series_id": 965,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北京BW007": {
+  "series_id": 2126,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "骑士S12": {
+  "series_id": 852,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "陆霸": {
+  "series_id": 966,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "越铃": {
+  "series_id": 2960,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "陆铃": {
+  "series_id": 2959,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "战旗皮卡": {
+  "series_id": 3221,
+  "brand": "北京汽车制造厂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北京越野BJ40": {
+  "series_id": 7513,
+  "brand": "北京越野",
+  "price_text": "14.58-22.98万",
+  "price_low": 14.58,
+  "price_high": 22.98
+ },
+ "北京越野BJ60": {
+  "series_id": 7696,
+  "brand": "北京越野",
+  "price_text": "23.88-28.58万",
+  "price_low": 23.88,
+  "price_high": 28.58
+ },
+ "北京城市猎人": {
+  "series_id": 8721,
+  "brand": "北京越野",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "星钽 5X": {
+  "series_id": 8767,
+  "brand": "北京越野",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北京越野B61": {
+  "series_id": 2127,
+  "brand": "北京越野",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北京越野B70": {
+  "series_id": 2327,
+  "brand": "北京越野",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北京越野BJ20": {
+  "series_id": 3800,
+  "brand": "北京越野",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北京越野B90": {
+  "series_id": 3129,
+  "brand": "北京越野",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北京越野BJ80": {
+  "series_id": 3473,
+  "brand": "北京越野",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北京越野BJ90": {
+  "series_id": 4794,
+  "brand": "北京越野",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北京越野F40": {
+  "series_id": 5338,
+  "brand": "北京越野",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "悦": {
+  "series_id": 7241,
   "brand": "北京汽车",
   "price_text": "暂无",
   "price_low": null,
@@ -4934,191 +4906,219 @@
   "price_low": null,
   "price_high": null
  },
- "212经典": {
-  "series_id": 3035,
-  "brand": "北京汽车制造厂",
-  "price_text": "9.99-10.59万",
-  "price_low": 9.99,
-  "price_high": 10.59
+ "宝骏云朵": {
+  "series_id": 7271,
+  "brand": "上汽通用五菱",
+  "price_text": "9.58-14.58万",
+  "price_low": 9.58,
+  "price_high": 14.58
  },
- "勇士": {
-  "series_id": 622,
-  "brand": "北京汽车制造厂",
-  "price_text": "14.98-15.98万",
+ "宝骏悦也皮卡": {
+  "series_id": 7268,
+  "brand": "上汽通用五菱",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝骏享境": {
+  "series_id": 7826,
+  "brand": "上汽通用五菱",
+  "price_text": "12.98-18.88万",
+  "price_low": 12.98,
+  "price_high": 18.88
+ },
+ "宝骏悦也": {
+  "series_id": 6936,
+  "brand": "上汽通用五菱",
+  "price_text": "8.08-9.08万",
+  "price_low": 8.08,
+  "price_high": 9.08
+ },
+ "宝骏悦也Plus": {
+  "series_id": 7574,
+  "brand": "上汽通用五菱",
+  "price_text": "7.68-11.68万",
+  "price_low": 7.68,
+  "price_high": 11.68
+ },
+ "宝骏E6": {
+  "series_id": 8279,
+  "brand": "上汽通用五菱",
+  "price_text": "14.98-14.98万",
   "price_low": 14.98,
-  "price_high": 15.98
+  "price_high": 14.98
  },
- "vala pro": {
-  "series_id": 7592,
-  "brand": "北京汽车制造厂",
-  "price_text": "26.80-26.80万",
-  "price_low": 26.8,
-  "price_high": 26.8
+ "宝骏云海": {
+  "series_id": 7741,
+  "brand": "上汽通用五菱",
+  "price_text": "10.98-16.58万",
+  "price_low": 10.98,
+  "price_high": 16.58
  },
- "锐胜M8新能源": {
-  "series_id": 8214,
-  "brand": "北京汽车制造厂",
-  "price_text": "15.98-27.98万",
-  "price_low": 15.98,
-  "price_high": 27.98
- },
- "锐胜王牌M7": {
-  "series_id": 6701,
-  "brand": "北京汽车制造厂",
-  "price_text": "5.98-15.38万",
-  "price_low": 5.98,
-  "price_high": 15.38
- },
- "北汽小河马": {
-  "series_id": 6702,
-  "brand": "北京汽车制造厂",
-  "price_text": "10.78-11.08万",
-  "price_low": 10.78,
-  "price_high": 11.08
- },
- "鲸卡T6": {
-  "series_id": 6623,
-  "brand": "北京汽车制造厂",
-  "price_text": "4.88-6.98万",
-  "price_low": 4.88,
-  "price_high": 6.98
- },
- "鲸卡T7": {
-  "series_id": 6575,
-  "brand": "北京汽车制造厂",
-  "price_text": "5.28-9.31万",
-  "price_low": 5.28,
-  "price_high": 9.31
- },
- "鲸卡T7EV": {
-  "series_id": 7172,
-  "brand": "北京汽车制造厂",
-  "price_text": "16.98-17.46万",
-  "price_low": 16.98,
-  "price_high": 17.46
- },
- "卡路里": {
-  "series_id": 6803,
-  "brand": "北京汽车制造厂",
-  "price_text": "6.78-10.48万",
-  "price_low": 6.78,
-  "price_high": 10.48
- },
- "勇士皮卡": {
-  "series_id": 4586,
-  "brand": "北京汽车制造厂",
-  "price_text": "12.78-13.98万",
-  "price_low": 12.78,
-  "price_high": 13.98
- },
- "锐铃": {
-  "series_id": 2915,
-  "brand": "北京汽车制造厂",
-  "price_text": "7.93-8.08万",
-  "price_low": 7.93,
-  "price_high": 8.08
- },
- "北汽L6H": {
-  "series_id": 8319,
-  "brand": "北京汽车制造厂",
+ "智慧概念车": {
+  "series_id": 5982,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "嫦娥miniEV": {
-  "series_id": 6794,
-  "brand": "北京汽车制造厂",
+ "City Car": {
+  "series_id": 6250,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "北汽豹": {
-  "series_id": 5888,
-  "brand": "北京汽车制造厂",
+ "宝骏E100": {
+  "series_id": 3993,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "鲸卡": {
-  "series_id": 6807,
-  "brand": "北京汽车制造厂",
+ "宝骏E200": {
+  "series_id": 4890,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "北汽大猫": {
-  "series_id": 5709,
-  "brand": "北京汽车制造厂",
+ "宝骏E300": {
+  "series_id": 5559,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "北汽小猫": {
-  "series_id": 5587,
-  "brand": "北京汽车制造厂",
+ "乐驰": {
+  "series_id": 6155,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "家宝": {
-  "series_id": 6622,
-  "brand": "北京汽车制造厂",
+ "宝骏310": {
+  "series_id": 4077,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "元宝": {
-  "series_id": 6621,
-  "brand": "北京汽车制造厂",
+ "宝骏330": {
+  "series_id": 3774,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "战旗": {
-  "series_id": 965,
-  "brand": "北京汽车制造厂",
+ "宝骏310W": {
+  "series_id": 4392,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "北京BW007": {
-  "series_id": 2126,
-  "brand": "北京汽车制造厂",
+ "宝骏610": {
+  "series_id": 3343,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "骑士S12": {
-  "series_id": 852,
-  "brand": "北京汽车制造厂",
+ "宝骏630": {
+  "series_id": 2236,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "陆霸": {
-  "series_id": 966,
-  "brand": "北京汽车制造厂",
+ "宝骏RC-5": {
+  "series_id": 5084,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "越铃": {
-  "series_id": 2960,
-  "brand": "北京汽车制造厂",
+ "宝骏Valli": {
+  "series_id": 6053,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "陆铃": {
-  "series_id": 2959,
-  "brand": "北京汽车制造厂",
+ "宝骏RC-6": {
+  "series_id": 5336,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "战旗皮卡": {
-  "series_id": 3221,
-  "brand": "北京汽车制造厂",
+ "宝骏510": {
+  "series_id": 4166,
+  "brand": "上汽通用五菱",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝骏RS-3": {
+  "series_id": 5373,
+  "brand": "上汽通用五菱",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝骏530": {
+  "series_id": 4587,
+  "brand": "上汽通用五菱",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝骏560": {
+  "series_id": 3677,
+  "brand": "上汽通用五菱",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝骏RS-5": {
+  "series_id": 4908,
+  "brand": "上汽通用五菱",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝骏RS-7": {
+  "series_id": 5527,
+  "brand": "上汽通用五菱",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝骏360": {
+  "series_id": 4606,
+  "brand": "上汽通用五菱",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝骏730": {
+  "series_id": 3412,
+  "brand": "上汽通用五菱",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝骏RM-5": {
+  "series_id": 5342,
+  "brand": "上汽通用五菱",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝骏RM-C": {
+  "series_id": 5229,
+  "brand": "上汽通用五菱",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -5179,135 +5179,72 @@
   "price_low": null,
   "price_high": null
  },
- "爱迪尔": {
-  "series_id": 76,
-  "brand": "北汽昌河",
+ "巴菲特600": {
+  "series_id": 7486,
+  "brand": "巴菲特汽车",
+  "price_text": "198.80-198.80万",
+  "price_low": 198.8,
+  "price_high": 198.8
+ },
+ "巴菲特S": {
+  "series_id": 7485,
+  "brand": "巴菲特汽车",
+  "price_text": "138.80-158.80万",
+  "price_low": 138.8,
+  "price_high": 158.8
+ },
+ "巴菲特9": {
+  "series_id": 8164,
+  "brand": "巴菲特汽车",
+  "price_text": "108.80-138.80万",
+  "price_low": 108.8,
+  "price_high": 138.8
+ },
+ "瀚海苍穹": {
+  "series_id": 7622,
+  "brand": "北汽泰普越野车",
+  "price_text": "138.80-138.80万",
+  "price_low": 138.8,
+  "price_high": 138.8
+ },
+ "蓝鲸": {
+  "series_id": 7624,
+  "brand": "北汽泰普越野车",
+  "price_text": "128.80-128.80万",
+  "price_low": 128.8,
+  "price_high": 128.8
+ },
+ "摩登部落": {
+  "series_id": 7620,
+  "brand": "北汽泰普越野车",
+  "price_text": "86.80-86.80万",
+  "price_low": 86.8,
+  "price_high": 86.8
+ },
+ "致锋": {
+  "series_id": 7623,
+  "brand": "北汽泰普越野车",
+  "price_text": "89.80-89.80万",
+  "price_low": 89.8,
+  "price_high": 89.8
+ },
+ "致臻": {
+  "series_id": 7621,
+  "brand": "北汽泰普越野车",
+  "price_text": "96.80-96.80万",
+  "price_low": 96.8,
+  "price_high": 96.8
+ },
+ "北汽泰普致境": {
+  "series_id": 8018,
+  "brand": "北汽泰普越野车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "北斗星X5E": {
-  "series_id": 4488,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽EC100": {
-  "series_id": 4409,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽EV2": {
-  "series_id": 5457,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "昌河北斗星": {
-  "series_id": 4689,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "昌河北斗星X5": {
-  "series_id": 5740,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽昌河A6": {
-  "series_id": 4506,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽昌河Q25": {
-  "series_id": 3922,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽昌河Q35": {
-  "series_id": 3980,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽昌河Q7": {
-  "series_id": 4599,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽昌河M70": {
-  "series_id": 4208,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "福瑞达": {
-  "series_id": 2478,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽EV5": {
-  "series_id": 5456,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽昌河M50S": {
-  "series_id": 3640,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "昌河福运": {
-  "series_id": 3058,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "福瑞达K11S": {
-  "series_id": 5872,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "福瑞达K12S": {
-  "series_id": 5873,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "福瑞达K21": {
-  "series_id": 4141,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "福瑞达K22": {
-  "series_id": 4142,
-  "brand": "北汽昌河",
+ "北汽泰普致享": {
+  "series_id": 7872,
+  "brand": "北汽泰普越野车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -5501,146 +5438,6 @@
   "price_low": null,
   "price_high": null
  },
- "HOEN O2": {
-  "series_id": 7089,
-  "brand": "北汽瑞翔",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽瑞翔X3": {
-  "series_id": 6801,
-  "brand": "北汽瑞翔",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽瑞翔X5": {
-  "series_id": 6262,
-  "brand": "北汽瑞翔",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "博腾V1": {
-  "series_id": 6800,
-  "brand": "北汽瑞翔",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "博腾M3": {
-  "series_id": 6721,
-  "brand": "北汽瑞翔",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "博腾V2": {
-  "series_id": 6723,
-  "brand": "北汽瑞翔",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "博腾V2 EV": {
-  "series_id": 6727,
-  "brand": "北汽瑞翔",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "百智大猫": {
-  "series_id": 6545,
-  "brand": "领途汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "百智大熊": {
-  "series_id": 6382,
-  "brand": "领途汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽007": {
-  "series_id": 3712,
-  "brand": "北京汽车制造厂",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽威旺BQ5": {
-  "series_id": 4492,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽威旺S50": {
-  "series_id": 4009,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽威旺M50F": {
-  "series_id": 4154,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽威旺M60": {
-  "series_id": 4553,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽威旺205": {
-  "series_id": 2943,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽威旺306": {
-  "series_id": 2482,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽威旺307": {
-  "series_id": 3231,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽威旺M20": {
-  "series_id": 4016,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽威旺M30": {
-  "series_id": 3916,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "北汽威旺M35": {
-  "series_id": 4061,
-  "brand": "北汽昌河",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
  "北汽幻速S2": {
   "series_id": 3284,
   "brand": "北汽银翔",
@@ -5732,6 +5529,62 @@
   "price_low": null,
   "price_high": null
  },
+ "HOEN O2": {
+  "series_id": 7089,
+  "brand": "北汽瑞翔",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽瑞翔X3": {
+  "series_id": 6801,
+  "brand": "北汽瑞翔",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽瑞翔X5": {
+  "series_id": 6262,
+  "brand": "北汽瑞翔",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "博腾V1": {
+  "series_id": 6800,
+  "brand": "北汽瑞翔",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "博腾M3": {
+  "series_id": 6721,
+  "brand": "北汽瑞翔",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "博腾V2": {
+  "series_id": 6723,
+  "brand": "北汽瑞翔",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "博腾V2 EV": {
+  "series_id": 6727,
+  "brand": "北汽瑞翔",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "帅骐": {
+  "series_id": 5036,
+  "brand": "宝骐汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
  "Bolide": {
   "series_id": 8526,
   "brand": "布加迪",
@@ -5774,100 +5627,23 @@
   "price_low": null,
   "price_high": null
  },
- "比克兴熠": {
-  "series_id": 5958,
-  "brand": "比克汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "道达V8": {
-  "series_id": 4511,
-  "brand": "北汽瑞丽",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "比速T3": {
-  "series_id": 4164,
-  "brand": "比速汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "比速T5": {
-  "series_id": 4786,
-  "brand": "比速汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "比速T7": {
-  "series_id": 4666,
-  "brand": "比速汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "比速M3": {
-  "series_id": 4173,
-  "brand": "比速汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝沃BX3": {
-  "series_id": 4857,
-  "brand": "宝沃汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝沃BX5": {
-  "series_id": 4046,
-  "brand": "宝沃汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝沃BX6": {
-  "series_id": 4520,
-  "brand": "宝沃汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝沃BXi5": {
-  "series_id": 5630,
-  "brand": "宝沃汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝沃BX7": {
-  "series_id": 3913,
-  "brand": "宝沃汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝沃BXi7": {
-  "series_id": 4403,
-  "brand": "宝沃汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Isabella": {
-  "series_id": 3757,
-  "brand": "宝沃",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
  "比德文E3": {
   "series_id": 5408,
   "brand": "比德文汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "百智大猫": {
+  "series_id": 6545,
+  "brand": "领途汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "百智大熊": {
+  "series_id": 6382,
+  "brand": "领途汽车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -5949,51 +5725,219 @@
   "price_low": null,
   "price_high": null
  },
- "瀚海苍穹": {
-  "series_id": 7622,
-  "brand": "北汽泰普越野车",
-  "price_text": "138.80-138.80万",
-  "price_low": 138.8,
-  "price_high": 138.8
- },
- "蓝鲸": {
-  "series_id": 7624,
-  "brand": "北汽泰普越野车",
-  "price_text": "128.80-128.80万",
-  "price_low": 128.8,
-  "price_high": 128.8
- },
- "摩登部落": {
-  "series_id": 7620,
-  "brand": "北汽泰普越野车",
-  "price_text": "86.80-86.80万",
-  "price_low": 86.8,
-  "price_high": 86.8
- },
- "致锋": {
-  "series_id": 7623,
-  "brand": "北汽泰普越野车",
-  "price_text": "89.80-89.80万",
-  "price_low": 89.8,
-  "price_high": 89.8
- },
- "致臻": {
-  "series_id": 7621,
-  "brand": "北汽泰普越野车",
-  "price_text": "96.80-96.80万",
-  "price_low": 96.8,
-  "price_high": 96.8
- },
- "北汽泰普致境": {
-  "series_id": 8018,
-  "brand": "北汽泰普越野车",
+ "北汽007": {
+  "series_id": 3712,
+  "brand": "北京汽车制造厂",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "北汽泰普致享": {
-  "series_id": 7872,
-  "brand": "北汽泰普越野车",
+ "北汽威旺BQ5": {
+  "series_id": 4492,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽威旺S50": {
+  "series_id": 4009,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽威旺M50F": {
+  "series_id": 4154,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽威旺M60": {
+  "series_id": 4553,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽威旺205": {
+  "series_id": 2943,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽威旺306": {
+  "series_id": 2482,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽威旺307": {
+  "series_id": 3231,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽威旺M20": {
+  "series_id": 4016,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽威旺M30": {
+  "series_id": 3916,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽威旺M35": {
+  "series_id": 4061,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "爱迪尔": {
+  "series_id": 76,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北斗星X5E": {
+  "series_id": 4488,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽EC100": {
+  "series_id": 4409,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽EV2": {
+  "series_id": 5457,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "昌河北斗星": {
+  "series_id": 4689,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "昌河北斗星X5": {
+  "series_id": 5740,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽昌河A6": {
+  "series_id": 4506,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽昌河Q25": {
+  "series_id": 3922,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽昌河Q35": {
+  "series_id": 3980,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽昌河Q7": {
+  "series_id": 4599,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽昌河M70": {
+  "series_id": 4208,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "福瑞达": {
+  "series_id": 2478,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽EV5": {
+  "series_id": 5456,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "北汽昌河M50S": {
+  "series_id": 3640,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "昌河福运": {
+  "series_id": 3058,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "福瑞达K11S": {
+  "series_id": 5872,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "福瑞达K12S": {
+  "series_id": 5873,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "福瑞达K21": {
+  "series_id": 4141,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "福瑞达K22": {
+  "series_id": 4142,
+  "brand": "北汽昌河",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "道达V8": {
+  "series_id": 4511,
+  "brand": "北汽瑞丽",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -6012,6 +5956,55 @@
   "price_low": null,
   "price_high": null
  },
+ "宝沃BX3": {
+  "series_id": 4857,
+  "brand": "宝沃汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝沃BX5": {
+  "series_id": 4046,
+  "brand": "宝沃汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝沃BX6": {
+  "series_id": 4520,
+  "brand": "宝沃汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝沃BXi5": {
+  "series_id": 5630,
+  "brand": "宝沃汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝沃BX7": {
+  "series_id": 3913,
+  "brand": "宝沃汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝沃BXi7": {
+  "series_id": 4403,
+  "brand": "宝沃汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Isabella": {
+  "series_id": 3757,
+  "brand": "宝沃",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
  "宝腾X50": {
   "series_id": 5898,
   "brand": "宝腾汽车",
@@ -6022,13 +6015,6 @@
  "宝腾X70": {
   "series_id": 4941,
   "brand": "宝腾汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "帅骐": {
-  "series_id": 5036,
-  "brand": "宝骐汽车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -6054,26 +6040,40 @@
   "price_low": null,
   "price_high": null
  },
- "巴菲特600": {
-  "series_id": 7486,
-  "brand": "巴菲特汽车",
-  "price_text": "198.80-198.80万",
-  "price_low": 198.8,
-  "price_high": 198.8
+ "比克兴熠": {
+  "series_id": 5958,
+  "brand": "比克汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "巴菲特S": {
-  "series_id": 7485,
-  "brand": "巴菲特汽车",
-  "price_text": "138.80-158.80万",
-  "price_low": 138.8,
-  "price_high": 158.8
+ "比速T3": {
+  "series_id": 4164,
+  "brand": "比速汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "巴菲特9": {
-  "series_id": 8164,
-  "brand": "巴菲特汽车",
-  "price_text": "108.80-138.80万",
-  "price_low": 108.8,
-  "price_high": 138.8
+ "比速T5": {
+  "series_id": 4786,
+  "brand": "比速汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "比速T7": {
+  "series_id": 4666,
+  "brand": "比速汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "比速M3": {
+  "series_id": 4173,
+  "brand": "比速汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
  "长安F70蓝鲸": {
   "series_id": 7512,
@@ -12396,23 +12396,317 @@
   "price_low": null,
   "price_high": null
  },
- "豹8": {
-  "series_id": 7356,
-  "brand": "方程豹",
-  "price_text": "37.98-42.38万",
-  "price_low": 37.98,
-  "price_high": 42.38
+ "法拉利499P": {
+  "series_id": 7484,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "豹5": {
-  "series_id": 8596,
-  "brand": "方程豹",
-  "price_text": "23.98-32.98万",
-  "price_low": 23.98,
-  "price_high": 32.98
+ "法拉利KC23": {
+  "series_id": 7328,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "SUPER 9": {
-  "series_id": 8171,
-  "brand": "方程豹",
+ "法拉利F76": {
+  "series_id": 8390,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利SP-8": {
+  "series_id": 7457,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Amalfi": {
+  "series_id": 8547,
+  "brand": "法拉利",
+  "price_text": "259.85-259.85万",
+  "price_low": 259.85,
+  "price_high": 259.85
+ },
+ "法拉利296": {
+  "series_id": 7729,
+  "brand": "法拉利",
+  "price_text": "298.80-439.88万",
+  "price_low": 298.8,
+  "price_high": 439.88
+ },
+ "法拉利849": {
+  "series_id": 8289,
+  "brand": "法拉利",
+  "price_text": "516.80-563.80万",
+  "price_low": 516.8,
+  "price_high": 563.8
+ },
+ "Roma": {
+  "series_id": 5517,
+  "brand": "法拉利",
+  "price_text": "276.20-276.20万",
+  "price_low": 276.2,
+  "price_high": 276.2
+ },
+ "SF90": {
+  "series_id": 6509,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利BR20": {
+  "series_id": 6331,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利CZ26": {
+  "series_id": 8778,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利HC25": {
+  "series_id": 8673,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利SP51": {
+  "series_id": 6734,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利458": {
+  "series_id": 676,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利599": {
+  "series_id": 459,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利FF": {
+  "series_id": 2682,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Dino": {
+  "series_id": 2594,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Enzo": {
+  "series_id": 394,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Sergio": {
+  "series_id": 4027,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利212": {
+  "series_id": 2874,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利275": {
+  "series_id": 2875,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利308": {
+  "series_id": 3713,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利328": {
+  "series_id": 2595,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利348": {
+  "series_id": 2597,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利360": {
+  "series_id": 361,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利375": {
+  "series_id": 2876,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利400": {
+  "series_id": 2878,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利410": {
+  "series_id": 2877,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利456": {
+  "series_id": 2592,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利488": {
+  "series_id": 3720,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利500": {
+  "series_id": 2879,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利550": {
+  "series_id": 2591,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利575M": {
+  "series_id": 308,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利612": {
+  "series_id": 367,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利812": {
+  "series_id": 4314,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利F355": {
+  "series_id": 2598,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利F40": {
+  "series_id": 2177,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利F430": {
+  "series_id": 359,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利F50": {
+  "series_id": 2593,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利F8": {
+  "series_id": 5141,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利GTO": {
+  "series_id": 2596,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利J50": {
+  "series_id": 4272,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利P80/C": {
+  "series_id": 5196,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利SP38": {
+  "series_id": 4859,
+  "brand": "法拉利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "法拉利SP3JC": {
+  "series_id": 5049,
+  "brand": "法拉利",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -12837,573 +13131,6 @@
   "price_low": null,
   "price_high": null
  },
- "FFZERO1": {
-  "series_id": 4285,
-  "brand": "Faraday Future",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利499P": {
-  "series_id": 7484,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利KC23": {
-  "series_id": 7328,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利F76": {
-  "series_id": 8390,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利SP-8": {
-  "series_id": 7457,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Amalfi": {
-  "series_id": 8547,
-  "brand": "法拉利",
-  "price_text": "259.85-259.85万",
-  "price_low": 259.85,
-  "price_high": 259.85
- },
- "法拉利296": {
-  "series_id": 7729,
-  "brand": "法拉利",
-  "price_text": "298.80-439.88万",
-  "price_low": 298.8,
-  "price_high": 439.88
- },
- "法拉利849": {
-  "series_id": 8289,
-  "brand": "法拉利",
-  "price_text": "516.80-563.80万",
-  "price_low": 516.8,
-  "price_high": 563.8
- },
- "Roma": {
-  "series_id": 5517,
-  "brand": "法拉利",
-  "price_text": "276.20-276.20万",
-  "price_low": 276.2,
-  "price_high": 276.2
- },
- "SF90": {
-  "series_id": 6509,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利BR20": {
-  "series_id": 6331,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利CZ26": {
-  "series_id": 8778,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利HC25": {
-  "series_id": 8673,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利SP51": {
-  "series_id": 6734,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利458": {
-  "series_id": 676,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利599": {
-  "series_id": 459,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利FF": {
-  "series_id": 2682,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Dino": {
-  "series_id": 2594,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Enzo": {
-  "series_id": 394,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Sergio": {
-  "series_id": 4027,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利212": {
-  "series_id": 2874,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利275": {
-  "series_id": 2875,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利308": {
-  "series_id": 3713,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利328": {
-  "series_id": 2595,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利348": {
-  "series_id": 2597,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利360": {
-  "series_id": 361,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利375": {
-  "series_id": 2876,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利400": {
-  "series_id": 2878,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利410": {
-  "series_id": 2877,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利456": {
-  "series_id": 2592,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利488": {
-  "series_id": 3720,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利500": {
-  "series_id": 2879,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利550": {
-  "series_id": 2591,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利575M": {
-  "series_id": 308,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利612": {
-  "series_id": 367,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利812": {
-  "series_id": 4314,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利F355": {
-  "series_id": 2598,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利F40": {
-  "series_id": 2177,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利F430": {
-  "series_id": 359,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利F50": {
-  "series_id": 2593,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利F8": {
-  "series_id": 5141,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利GTO": {
-  "series_id": 2596,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利J50": {
-  "series_id": 4272,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利P80/C": {
-  "series_id": 5196,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利SP38": {
-  "series_id": 4859,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "法拉利SP3JC": {
-  "series_id": 5049,
-  "brand": "法拉利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "卡文乐途": {
-  "series_id": 8574,
-  "brand": "福田汽车",
-  "price_text": "26.50-40.20万",
-  "price_low": 26.5,
-  "price_high": 40.2
- },
- "乐迪": {
-  "series_id": 8228,
-  "brand": "福田汽车",
-  "price_text": "14.91-20.66万",
-  "price_low": 14.91,
-  "price_high": 20.66
- },
- "乐福": {
-  "series_id": 7998,
-  "brand": "福田汽车",
-  "price_text": "9.50-19.80万",
-  "price_low": 9.5,
-  "price_high": 19.8
- },
- "飞翔福特舒野": {
-  "series_id": 8557,
-  "brand": "飞翔",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Ronin": {
-  "series_id": 7318,
-  "brand": "Fisker",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Alaska": {
-  "series_id": 7359,
-  "brand": "Fisker",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Ocean": {
-  "series_id": 5500,
-  "brand": "Fisker",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "PEAR": {
-  "series_id": 7068,
-  "brand": "Fisker",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "EMotion": {
-  "series_id": 4236,
-  "brand": "Fisker",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Karma": {
-  "series_id": 2352,
-  "brand": "Fisker",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Atlantic": {
-  "series_id": 2746,
-  "brand": "Fisker",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Latigo": {
-  "series_id": 2350,
-  "brand": "Fisker",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Surf": {
-  "series_id": 2425,
-  "brand": "Fisker",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Tramonto": {
-  "series_id": 2351,
-  "brand": "Fisker",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "FOX MIA": {
-  "series_id": 5455,
-  "brand": "FOX Automotive",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Model E": {
-  "series_id": 6451,
-  "brand": "Foxtron",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Model B": {
-  "series_id": 6963,
-  "brand": "Foxtron",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Cavira": {
-  "series_id": 8679,
-  "brand": "Foxtron",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Model C": {
-  "series_id": 6450,
-  "brand": "Foxtron",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Model D": {
-  "series_id": 7885,
-  "brand": "Foxtron",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Model V": {
-  "series_id": 6984,
-  "brand": "Foxtron",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Sorpasso": {
-  "series_id": 6108,
-  "brand": "Frangivento",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Reverie": {
-  "series_id": 5389,
-  "brand": "Fresco",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Summer": {
-  "series_id": 8060,
-  "brand": "创维汽车",
-  "price_text": "32.80-32.80万",
-  "price_low": 32.8,
-  "price_high": 32.8
- },
- "Rocket": {
-  "series_id": 8129,
-  "brand": "松散机车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "弗那萨利 99": {
-  "series_id": 2977,
-  "brand": "弗那萨利",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "奥赛罗": {
-  "series_id": 6417,
-  "brand": "法诺新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "揽福": {
-  "series_id": 3633,
-  "brand": "福迪汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "探索者Ⅱ": {
-  "series_id": 2454,
-  "brand": "福迪汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "探索者Ⅲ": {
-  "series_id": 2455,
-  "brand": "福迪汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "探索者6": {
-  "series_id": 2453,
-  "brand": "福迪汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "小超人": {
-  "series_id": 2475,
-  "brand": "福迪汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "雄师F16": {
-  "series_id": 2895,
-  "brand": "福迪汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "雄师F22": {
-  "series_id": 3754,
-  "brand": "福迪汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "雄狮": {
-  "series_id": 2894,
-  "brand": "福迪汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
  "菲亚特600": {
   "series_id": 7320,
   "brand": "菲亚特",
@@ -13698,6 +13425,62 @@
   "price_low": null,
   "price_high": null
  },
+ "揽福": {
+  "series_id": 3633,
+  "brand": "福迪汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "探索者Ⅱ": {
+  "series_id": 2454,
+  "brand": "福迪汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "探索者Ⅲ": {
+  "series_id": 2455,
+  "brand": "福迪汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "探索者6": {
+  "series_id": 2453,
+  "brand": "福迪汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "小超人": {
+  "series_id": 2475,
+  "brand": "福迪汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "雄师F16": {
+  "series_id": 2895,
+  "brand": "福迪汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "雄师F22": {
+  "series_id": 3754,
+  "brand": "福迪汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "雄狮": {
+  "series_id": 2894,
+  "brand": "福迪汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
  "飞碟EW5": {
   "series_id": 7749,
   "brand": "飞碟汽车",
@@ -13757,6 +13540,223 @@
  "飞碟Q2V": {
   "series_id": 5893,
   "brand": "飞碟汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "FFZERO1": {
+  "series_id": 4285,
+  "brand": "Faraday Future",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Ronin": {
+  "series_id": 7318,
+  "brand": "Fisker",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Alaska": {
+  "series_id": 7359,
+  "brand": "Fisker",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Ocean": {
+  "series_id": 5500,
+  "brand": "Fisker",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "PEAR": {
+  "series_id": 7068,
+  "brand": "Fisker",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "EMotion": {
+  "series_id": 4236,
+  "brand": "Fisker",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Karma": {
+  "series_id": 2352,
+  "brand": "Fisker",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Atlantic": {
+  "series_id": 2746,
+  "brand": "Fisker",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Latigo": {
+  "series_id": 2350,
+  "brand": "Fisker",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Surf": {
+  "series_id": 2425,
+  "brand": "Fisker",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Tramonto": {
+  "series_id": 2351,
+  "brand": "Fisker",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "FOX MIA": {
+  "series_id": 5455,
+  "brand": "FOX Automotive",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Model E": {
+  "series_id": 6451,
+  "brand": "Foxtron",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Model B": {
+  "series_id": 6963,
+  "brand": "Foxtron",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Cavira": {
+  "series_id": 8679,
+  "brand": "Foxtron",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Model C": {
+  "series_id": 6450,
+  "brand": "Foxtron",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Model D": {
+  "series_id": 7885,
+  "brand": "Foxtron",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Model V": {
+  "series_id": 6984,
+  "brand": "Foxtron",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Sorpasso": {
+  "series_id": 6108,
+  "brand": "Frangivento",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Reverie": {
+  "series_id": 5389,
+  "brand": "Fresco",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Summer": {
+  "series_id": 8060,
+  "brand": "创维汽车",
+  "price_text": "32.80-32.80万",
+  "price_low": 32.8,
+  "price_high": 32.8
+ },
+ "Rocket": {
+  "series_id": 8129,
+  "brand": "松散机车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "弗那萨利 99": {
+  "series_id": 2977,
+  "brand": "弗那萨利",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "豹8": {
+  "series_id": 7356,
+  "brand": "方程豹",
+  "price_text": "37.98-42.38万",
+  "price_low": 37.98,
+  "price_high": 42.38
+ },
+ "豹5": {
+  "series_id": 8596,
+  "brand": "方程豹",
+  "price_text": "23.98-32.98万",
+  "price_low": 23.98,
+  "price_high": 32.98
+ },
+ "SUPER 9": {
+  "series_id": 8171,
+  "brand": "方程豹",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "奥赛罗": {
+  "series_id": 6417,
+  "brand": "法诺新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "卡文乐途": {
+  "series_id": 8574,
+  "brand": "福田汽车",
+  "price_text": "26.50-40.20万",
+  "price_low": 26.5,
+  "price_high": 40.2
+ },
+ "乐迪": {
+  "series_id": 8228,
+  "brand": "福田汽车",
+  "price_text": "14.91-20.66万",
+  "price_low": 14.91,
+  "price_high": 20.66
+ },
+ "乐福": {
+  "series_id": 7998,
+  "brand": "福田汽车",
+  "price_text": "9.50-19.80万",
+  "price_low": 9.5,
+  "price_high": 19.8
+ },
+ "飞翔福特舒野": {
+  "series_id": 8557,
+  "brand": "飞翔",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -14664,6 +14664,230 @@
   "price_low": null,
   "price_high": null
  },
+ "红旗E-QM5": {
+  "series_id": 7380,
+  "brand": "一汽红旗",
+  "price_text": "8.98-23.98万",
+  "price_low": 8.98,
+  "price_high": 23.98
+ },
+ "红旗H5": {
+  "series_id": 4410,
+  "brand": "一汽红旗",
+  "price_text": "15.98-21.58万",
+  "price_low": 15.98,
+  "price_high": 21.58
+ },
+ "红旗H6": {
+  "series_id": 5275,
+  "brand": "一汽红旗",
+  "price_text": "17.98-23.98万",
+  "price_low": 17.98,
+  "price_high": 23.98
+ },
+ "红旗天工05": {
+  "series_id": 7705,
+  "brand": "一汽红旗",
+  "price_text": "15.98-22.28万",
+  "price_low": 15.98,
+  "price_high": 22.28
+ },
+ "红旗EH7": {
+  "series_id": 7245,
+  "brand": "一汽红旗",
+  "price_text": "20.88-30.98万",
+  "price_low": 20.88,
+  "price_high": 30.98
+ },
+ "红旗H9": {
+  "series_id": 5566,
+  "brand": "一汽红旗",
+  "price_text": "32.98-53.98万",
+  "price_low": 32.98,
+  "price_high": 53.98
+ },
+ "红旗金葵花国礼": {
+  "series_id": 3108,
+  "brand": "一汽红旗",
+  "price_text": "718.00-758.00万",
+  "price_low": 718.0,
+  "price_high": 758.0
+ },
+ "红旗金葵花国雅": {
+  "series_id": 7672,
+  "brand": "一汽红旗",
+  "price_text": "140.00-186.00万",
+  "price_low": 140.0,
+  "price_high": 186.0
+ },
+ "红旗天工06": {
+  "series_id": 7673,
+  "brand": "一汽红旗",
+  "price_text": "17.98-24.28万",
+  "price_low": 17.98,
+  "price_high": 24.28
+ },
+ "红旗E-HS9": {
+  "series_id": 8203,
+  "brand": "一汽红旗",
+  "price_text": "58.98-77.98万",
+  "price_low": 58.98,
+  "price_high": 77.98
+ },
+ "红旗金葵花国耀": {
+  "series_id": 6461,
+  "brand": "一汽红旗",
+  "price_text": "156.00-166.00万",
+  "price_low": 156.0,
+  "price_high": 166.0
+ },
+ "红旗HQ9": {
+  "series_id": 6726,
+  "brand": "一汽红旗",
+  "price_text": "34.88-57.88万",
+  "price_low": 34.88,
+  "price_high": 57.88
+ },
+ "红旗金葵花国悦": {
+  "series_id": 7156,
+  "brand": "一汽红旗",
+  "price_text": "46.80-59.80万",
+  "price_low": 46.8,
+  "price_high": 59.8
+ },
+ "红旗HS3": {
+  "series_id": 8066,
+  "brand": "一汽红旗",
+  "price_text": "14.98-15.98万",
+  "price_low": 14.98,
+  "price_high": 15.98
+ },
+ "金葵花概念车": {
+  "series_id": 6151,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗E-LS": {
+  "series_id": 6140,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗天辇一号": {
+  "series_id": 8097,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗L6": {
+  "series_id": 4125,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "世纪星": {
+  "series_id": 978,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "新明仕": {
+  "series_id": 4122,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗H7": {
+  "series_id": 2771,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗盛世": {
+  "series_id": 428,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗CA770": {
+  "series_id": 3424,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗L7": {
+  "series_id": 2789,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗L9": {
+  "series_id": 2138,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗旗舰": {
+  "series_id": 427,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗E-HS3": {
+  "series_id": 4789,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗SUV": {
+  "series_id": 830,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗HS7": {
+  "series_id": 4424,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗LS5": {
+  "series_id": 4116,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗E·境": {
+  "series_id": 4788,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "红旗概念雕塑": {
+  "series_id": 4695,
+  "brand": "一汽红旗",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
  "哈弗猛龙新能源": {
   "series_id": 7298,
   "brand": "长城汽车",
@@ -14891,986 +15115,6 @@
  "哈弗IF": {
   "series_id": 2326,
   "brand": "长城汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗E-QM5": {
-  "series_id": 7380,
-  "brand": "一汽红旗",
-  "price_text": "8.98-23.98万",
-  "price_low": 8.98,
-  "price_high": 23.98
- },
- "红旗H5": {
-  "series_id": 4410,
-  "brand": "一汽红旗",
-  "price_text": "15.98-21.58万",
-  "price_low": 15.98,
-  "price_high": 21.58
- },
- "红旗H6": {
-  "series_id": 5275,
-  "brand": "一汽红旗",
-  "price_text": "17.98-23.98万",
-  "price_low": 17.98,
-  "price_high": 23.98
- },
- "红旗天工05": {
-  "series_id": 7705,
-  "brand": "一汽红旗",
-  "price_text": "15.98-22.28万",
-  "price_low": 15.98,
-  "price_high": 22.28
- },
- "红旗EH7": {
-  "series_id": 7245,
-  "brand": "一汽红旗",
-  "price_text": "20.88-30.98万",
-  "price_low": 20.88,
-  "price_high": 30.98
- },
- "红旗H9": {
-  "series_id": 5566,
-  "brand": "一汽红旗",
-  "price_text": "32.98-53.98万",
-  "price_low": 32.98,
-  "price_high": 53.98
- },
- "红旗金葵花国礼": {
-  "series_id": 3108,
-  "brand": "一汽红旗",
-  "price_text": "718.00-758.00万",
-  "price_low": 718.0,
-  "price_high": 758.0
- },
- "红旗金葵花国雅": {
-  "series_id": 7672,
-  "brand": "一汽红旗",
-  "price_text": "140.00-186.00万",
-  "price_low": 140.0,
-  "price_high": 186.0
- },
- "红旗天工06": {
-  "series_id": 7673,
-  "brand": "一汽红旗",
-  "price_text": "17.98-24.28万",
-  "price_low": 17.98,
-  "price_high": 24.28
- },
- "红旗E-HS9": {
-  "series_id": 8203,
-  "brand": "一汽红旗",
-  "price_text": "58.98-77.98万",
-  "price_low": 58.98,
-  "price_high": 77.98
- },
- "红旗金葵花国耀": {
-  "series_id": 6461,
-  "brand": "一汽红旗",
-  "price_text": "156.00-166.00万",
-  "price_low": 156.0,
-  "price_high": 166.0
- },
- "红旗HQ9": {
-  "series_id": 6726,
-  "brand": "一汽红旗",
-  "price_text": "34.88-57.88万",
-  "price_low": 34.88,
-  "price_high": 57.88
- },
- "红旗金葵花国悦": {
-  "series_id": 7156,
-  "brand": "一汽红旗",
-  "price_text": "46.80-59.80万",
-  "price_low": 46.8,
-  "price_high": 59.8
- },
- "红旗HS3": {
-  "series_id": 8066,
-  "brand": "一汽红旗",
-  "price_text": "14.98-15.98万",
-  "price_low": 14.98,
-  "price_high": 15.98
- },
- "金葵花概念车": {
-  "series_id": 6151,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗E-LS": {
-  "series_id": 6140,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗天辇一号": {
-  "series_id": 8097,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗L6": {
-  "series_id": 4125,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "世纪星": {
-  "series_id": 978,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "新明仕": {
-  "series_id": 4122,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗H7": {
-  "series_id": 2771,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗盛世": {
-  "series_id": 428,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗CA770": {
-  "series_id": 3424,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗L7": {
-  "series_id": 2789,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗L9": {
-  "series_id": 2138,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗旗舰": {
-  "series_id": 427,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗E-HS3": {
-  "series_id": 4789,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗SUV": {
-  "series_id": 830,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗HS7": {
-  "series_id": 4424,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗LS5": {
-  "series_id": 4116,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗E·境": {
-  "series_id": 4788,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "红旗概念雕塑": {
-  "series_id": 4695,
-  "brand": "一汽红旗",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "华境S": {
-  "series_id": 8283,
-  "brand": "上汽通用五菱",
-  "price_text": "15.98-20.38万",
-  "price_low": 15.98,
-  "price_high": 20.38
- },
- "路盛E70": {
-  "series_id": 2133,
-  "brand": "华泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "路盛E80": {
-  "series_id": 3803,
-  "brand": "华泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "华泰B11": {
-  "series_id": 2108,
-  "brand": "华泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "路盛E90": {
-  "series_id": 3483,
-  "brand": "华泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝利格": {
-  "series_id": 2144,
-  "brand": "华泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "圣达菲": {
-  "series_id": 3896,
-  "brand": "华泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "圣达菲5": {
-  "series_id": 4518,
-  "brand": "华泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "圣达菲7": {
-  "series_id": 4483,
-  "brand": "华泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "圣达菲经典": {
-  "series_id": 477,
-  "brand": "华泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "特拉卡": {
-  "series_id": 290,
-  "brand": "华泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "汇天飞行汽车": {
-  "series_id": 7802,
-  "brand": "汇天",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "汇天旅航者X2": {
-  "series_id": 7804,
-  "brand": "汇天",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Venom F5": {
-  "series_id": 7498,
-  "brand": "Hennessey",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Goliath": {
-  "series_id": 5643,
-  "brand": "Hennessey",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Maximus": {
-  "series_id": 6193,
-  "brand": "Hennessey",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Venom": {
-  "series_id": 3148,
-  "brand": "Hennessey",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Venom GT": {
-  "series_id": 6192,
-  "brand": "Hennessey",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Carmen": {
-  "series_id": 5110,
-  "brand": "Hispano Suiza",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Machina": {
-  "series_id": 6989,
-  "brand": "Hopium",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "华东牌商务车": {
-  "series_id": 7906,
-  "brand": "华东汽车",
-  "price_text": "46.80-46.80万",
-  "price_low": 46.8,
-  "price_high": 46.8
- },
- "华凯新能源": {
-  "series_id": 6920,
-  "brand": "明君汽车",
-  "price_text": "14.68-15.68万",
-  "price_low": 14.68,
-  "price_high": 15.68
- },
- "华凯VB06": {
-  "series_id": 6941,
-  "brand": "明君汽车",
-  "price_text": "4.68-5.28万",
-  "price_low": 4.68,
-  "price_high": 5.28
- },
- "华凯皮卡": {
-  "series_id": 6942,
-  "brand": "明君汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "华晨新日i03": {
-  "series_id": 5990,
-  "brand": "华晨新日",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "华晨新日i03A": {
-  "series_id": 6278,
-  "brand": "华晨新日",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "海锋": {
-  "series_id": 570,
-  "brand": "华普汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "海尚": {
-  "series_id": 461,
-  "brand": "华普汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "海炫": {
-  "series_id": 507,
-  "brand": "华普汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "海迅": {
-  "series_id": 194,
-  "brand": "华普汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "海域": {
-  "series_id": 460,
-  "brand": "华普汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "海悦": {
-  "series_id": 856,
-  "brand": "华普汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "华普海景": {
-  "series_id": 862,
-  "brand": "华普汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "华梓1号": {
-  "series_id": 6458,
-  "brand": "华梓汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "欧麦加": {
-  "series_id": 6813,
-  "brand": "华梓汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "华梓凌特": {
-  "series_id": 7681,
-  "brand": "华梓汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "华泰EV160B": {
-  "series_id": 4318,
-  "brand": "华泰新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "华泰EV160R": {
-  "series_id": 4495,
-  "brand": "华泰新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "路盛S1": {
-  "series_id": 4836,
-  "brand": "华泰新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "华泰iEV230": {
-  "series_id": 4065,
-  "brand": "华泰新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "路盛S5": {
-  "series_id": 4618,
-  "brand": "华泰新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "圣达菲2": {
-  "series_id": 4830,
-  "brand": "华泰新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "华泰XEV260": {
-  "series_id": 4066,
-  "brand": "华泰新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "圣达菲5新能源": {
-  "series_id": 4828,
-  "brand": "华泰新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "圣达菲7新能源": {
-  "series_id": 4823,
-  "brand": "华泰新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "圣达菲新能源": {
-  "series_id": 6534,
-  "brand": "华泰新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "华颂7": {
-  "series_id": 3607,
-  "brand": "华晨华颂",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "HORKI-1": {
-  "series_id": 3125,
-  "brand": "起亚",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "华骐300E": {
-  "series_id": 4170,
-  "brand": "起亚",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "合创Ar18": {
-  "series_id": 5968,
-  "brand": "合创汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "合创A06": {
-  "series_id": 6502,
-  "brand": "合创汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "合创Z03": {
-  "series_id": 6157,
-  "brand": "合创汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "合创007": {
-  "series_id": 5322,
-  "brand": "合创汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "合创V09": {
-  "series_id": 6501,
-  "brand": "合创汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "路宝": {
-  "series_id": 67,
-  "brand": "哈飞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "赛马": {
-  "series_id": 68,
-  "brand": "哈飞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "赛豹III": {
-  "series_id": 392,
-  "brand": "哈飞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "赛豹V": {
-  "series_id": 481,
-  "brand": "哈飞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "哈飞小霸王": {
-  "series_id": 2487,
-  "brand": "哈飞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "骏意": {
-  "series_id": 2485,
-  "brand": "哈飞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "路尊大霸王": {
-  "series_id": 2536,
-  "brand": "哈飞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "民意": {
-  "series_id": 2486,
-  "brand": "哈飞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "中意V5": {
-  "series_id": 3038,
-  "brand": "哈飞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "民意微卡": {
-  "series_id": 3840,
-  "brand": "哈飞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宏运高顶格瑞维亚": {
-  "series_id": 8665,
-  "brand": "宏运汽车",
-  "price_text": "46.80-46.80万",
-  "price_low": 46.8,
-  "price_high": 46.8
- },
- "宏远EM60": {
-  "series_id": 6001,
-  "brand": "宏远汽车",
-  "price_text": "13.58-13.58万",
-  "price_low": 13.58,
-  "price_high": 13.58
- },
- "恒信致远V级": {
-  "series_id": 7436,
-  "brand": "长久汽车",
-  "price_text": "96.80-118.80万",
-  "price_low": 96.8,
-  "price_high": 118.8
- },
- "恒信致远威霆": {
-  "series_id": 7999,
-  "brand": "长久汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "欢腾H1": {
-  "series_id": 3208,
-  "brand": "恒天汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "恒天L4600": {
-  "series_id": 4946,
-  "brand": "恒天汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "恒好EV1": {
-  "series_id": 5007,
-  "brand": "恒天汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "恒好EV7": {
-  "series_id": 5006,
-  "brand": "恒天汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "途腾T1": {
-  "series_id": 2754,
-  "brand": "恒天汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "途腾T2": {
-  "series_id": 2755,
-  "brand": "恒天汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "途腾T3": {
-  "series_id": 2973,
-  "brand": "恒天汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "恒润H23": {
-  "series_id": 6973,
-  "brand": "恒润汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "恒润HRS1": {
-  "series_id": 6241,
-  "brand": "恒润汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "恒驰2": {
-  "series_id": 5849,
-  "brand": "恒驰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "恒驰7": {
-  "series_id": 6040,
-  "brand": "恒驰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "恒驰8": {
-  "series_id": 6041,
-  "brand": "恒驰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "恒驰1": {
-  "series_id": 5848,
-  "brand": "恒驰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "恒驰6": {
-  "series_id": 5853,
-  "brand": "恒驰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "恒驰9": {
-  "series_id": 6042,
-  "brand": "恒驰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "恒驰3": {
-  "series_id": 5850,
-  "brand": "恒驰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "恒驰4": {
-  "series_id": 5851,
-  "brand": "恒驰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "恒驰5": {
-  "series_id": 5852,
-  "brand": "恒驰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "悍马HX": {
-  "series_id": 857,
-  "brand": "悍马",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "悍马H3": {
-  "series_id": 379,
-  "brand": "悍马",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "悍马H1": {
-  "series_id": 895,
-  "brand": "悍马",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "悍马H2": {
-  "series_id": 38,
-  "brand": "悍马",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "幸福e+": {
-  "series_id": 4416,
-  "brand": "汉腾汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "汉腾RED 01": {
-  "series_id": 5268,
-  "brand": "汉腾汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "汉腾X5": {
-  "series_id": 4226,
-  "brand": "汉腾汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "汉腾X5新能源": {
-  "series_id": 4419,
-  "brand": "汉腾汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "汉腾X7": {
-  "series_id": 4130,
-  "brand": "汉腾汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "汉腾X7新能源": {
-  "series_id": 4613,
-  "brand": "汉腾汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "汉腾X8": {
-  "series_id": 5134,
-  "brand": "汉腾汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "汉腾V7": {
-  "series_id": 4825,
-  "brand": "汉腾汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "汉龙SAGA": {
-  "series_id": 5870,
-  "brand": "汉龙汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "旷世": {
-  "series_id": 5406,
-  "brand": "汉龙汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "海格H6C": {
-  "series_id": 3636,
-  "brand": "苏州金龙",
-  "price_text": "18.98-21.08万",
-  "price_low": 18.98,
-  "price_high": 21.08
- },
- "海格H4E": {
-  "series_id": 4131,
-  "brand": "苏州金龙",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "海格H5C": {
-  "series_id": 2572,
-  "brand": "苏州金龙",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "海格H5V": {
-  "series_id": 3243,
-  "brand": "苏州金龙",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "海格H6V": {
-  "series_id": 3638,
-  "brand": "苏州金龙",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "海格H7V": {
-  "series_id": 3235,
-  "brand": "苏州金龙",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "龙威": {
-  "series_id": 3149,
-  "brand": "苏州金龙",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "御骏": {
-  "series_id": 2673,
-  "brand": "苏州金龙",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -16155,44 +15399,177 @@
   "price_low": null,
   "price_high": null
  },
- "闪闪X2": {
-  "series_id": 4877,
-  "brand": "红星汽车",
+ "幸福e+": {
+  "series_id": 4416,
+  "brand": "汉腾汽车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "多拉小货": {
-  "series_id": 8655,
-  "brand": "五菱新能源",
-  "price_text": "14.80-16.80万",
-  "price_low": 14.8,
-  "price_high": 16.8
+ "汉腾RED 01": {
+  "series_id": 5268,
+  "brand": "汉腾汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "赫菲特途睿欧": {
-  "series_id": 8240,
-  "brand": "赫菲特汽车",
-  "price_text": "36.80-36.80万",
-  "price_low": 36.8,
-  "price_high": 36.8
+ "汉腾X5": {
+  "series_id": 4226,
+  "brand": "汉腾汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "赫菲特高顶赛那": {
-  "series_id": 8238,
-  "brand": "赫菲特汽车",
-  "price_text": "49.80-50.80万",
-  "price_low": 49.8,
-  "price_high": 50.8
+ "汉腾X5新能源": {
+  "series_id": 4419,
+  "brand": "汉腾汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "沃尔法海狮": {
-  "series_id": 8276,
-  "brand": "赫菲特汽车",
-  "price_text": "72.80-95.80万",
-  "price_low": 72.8,
-  "price_high": 95.8
+ "汉腾X7": {
+  "series_id": 4130,
+  "brand": "汉腾汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "赫菲特先锋官": {
-  "series_id": 8726,
-  "brand": "赫菲特汽车",
+ "汉腾X7新能源": {
+  "series_id": 4613,
+  "brand": "汉腾汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "汉腾X8": {
+  "series_id": 5134,
+  "brand": "汉腾汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "汉腾V7": {
+  "series_id": 4825,
+  "brand": "汉腾汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "路盛E70": {
+  "series_id": 2133,
+  "brand": "华泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "路盛E80": {
+  "series_id": 3803,
+  "brand": "华泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "华泰B11": {
+  "series_id": 2108,
+  "brand": "华泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "路盛E90": {
+  "series_id": 3483,
+  "brand": "华泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝利格": {
+  "series_id": 2144,
+  "brand": "华泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "圣达菲": {
+  "series_id": 3896,
+  "brand": "华泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "圣达菲5": {
+  "series_id": 4518,
+  "brand": "华泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "圣达菲7": {
+  "series_id": 4483,
+  "brand": "华泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "圣达菲经典": {
+  "series_id": 477,
+  "brand": "华泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "特拉卡": {
+  "series_id": 290,
+  "brand": "华泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "合创Ar18": {
+  "series_id": 5968,
+  "brand": "合创汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "合创A06": {
+  "series_id": 6502,
+  "brand": "合创汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "合创Z03": {
+  "series_id": 6157,
+  "brand": "合创汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "合创007": {
+  "series_id": 5322,
+  "brand": "合创汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "合创V09": {
+  "series_id": 6501,
+  "brand": "合创汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "华晨新日i03": {
+  "series_id": 5990,
+  "brand": "华晨新日",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "华晨新日i03A": {
+  "series_id": 6278,
+  "brand": "华晨新日",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -16319,6 +15696,629 @@
  "小柴神": {
   "series_id": 2516,
   "brand": "曙光汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "华泰EV160B": {
+  "series_id": 4318,
+  "brand": "华泰新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "华泰EV160R": {
+  "series_id": 4495,
+  "brand": "华泰新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "路盛S1": {
+  "series_id": 4836,
+  "brand": "华泰新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "华泰iEV230": {
+  "series_id": 4065,
+  "brand": "华泰新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "路盛S5": {
+  "series_id": 4618,
+  "brand": "华泰新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "圣达菲2": {
+  "series_id": 4830,
+  "brand": "华泰新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "华泰XEV260": {
+  "series_id": 4066,
+  "brand": "华泰新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "圣达菲5新能源": {
+  "series_id": 4828,
+  "brand": "华泰新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "圣达菲7新能源": {
+  "series_id": 4823,
+  "brand": "华泰新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "圣达菲新能源": {
+  "series_id": 6534,
+  "brand": "华泰新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "华颂7": {
+  "series_id": 3607,
+  "brand": "华晨华颂",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "欢腾H1": {
+  "series_id": 3208,
+  "brand": "恒天汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "恒天L4600": {
+  "series_id": 4946,
+  "brand": "恒天汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "恒好EV1": {
+  "series_id": 5007,
+  "brand": "恒天汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "恒好EV7": {
+  "series_id": 5006,
+  "brand": "恒天汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "途腾T1": {
+  "series_id": 2754,
+  "brand": "恒天汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "途腾T2": {
+  "series_id": 2755,
+  "brand": "恒天汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "途腾T3": {
+  "series_id": 2973,
+  "brand": "恒天汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "恒润H23": {
+  "series_id": 6973,
+  "brand": "恒润汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "恒润HRS1": {
+  "series_id": 6241,
+  "brand": "恒润汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "恒驰2": {
+  "series_id": 5849,
+  "brand": "恒驰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "恒驰7": {
+  "series_id": 6040,
+  "brand": "恒驰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "恒驰8": {
+  "series_id": 6041,
+  "brand": "恒驰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "恒驰1": {
+  "series_id": 5848,
+  "brand": "恒驰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "恒驰6": {
+  "series_id": 5853,
+  "brand": "恒驰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "恒驰9": {
+  "series_id": 6042,
+  "brand": "恒驰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "恒驰3": {
+  "series_id": 5850,
+  "brand": "恒驰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "恒驰4": {
+  "series_id": 5851,
+  "brand": "恒驰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "恒驰5": {
+  "series_id": 5852,
+  "brand": "恒驰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "海格H6C": {
+  "series_id": 3636,
+  "brand": "苏州金龙",
+  "price_text": "18.98-21.08万",
+  "price_low": 18.98,
+  "price_high": 21.08
+ },
+ "海格H4E": {
+  "series_id": 4131,
+  "brand": "苏州金龙",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "海格H5C": {
+  "series_id": 2572,
+  "brand": "苏州金龙",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "海格H5V": {
+  "series_id": 3243,
+  "brand": "苏州金龙",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "海格H6V": {
+  "series_id": 3638,
+  "brand": "苏州金龙",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "海格H7V": {
+  "series_id": 3235,
+  "brand": "苏州金龙",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "龙威": {
+  "series_id": 3149,
+  "brand": "苏州金龙",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "御骏": {
+  "series_id": 2673,
+  "brand": "苏州金龙",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Venom F5": {
+  "series_id": 7498,
+  "brand": "Hennessey",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Goliath": {
+  "series_id": 5643,
+  "brand": "Hennessey",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Maximus": {
+  "series_id": 6193,
+  "brand": "Hennessey",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Venom": {
+  "series_id": 3148,
+  "brand": "Hennessey",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Venom GT": {
+  "series_id": 6192,
+  "brand": "Hennessey",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Carmen": {
+  "series_id": 5110,
+  "brand": "Hispano Suiza",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Machina": {
+  "series_id": 6989,
+  "brand": "Hopium",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "华东牌商务车": {
+  "series_id": 7906,
+  "brand": "华东汽车",
+  "price_text": "46.80-46.80万",
+  "price_low": 46.8,
+  "price_high": 46.8
+ },
+ "华凯新能源": {
+  "series_id": 6920,
+  "brand": "明君汽车",
+  "price_text": "14.68-15.68万",
+  "price_low": 14.68,
+  "price_high": 15.68
+ },
+ "华凯VB06": {
+  "series_id": 6941,
+  "brand": "明君汽车",
+  "price_text": "4.68-5.28万",
+  "price_low": 4.68,
+  "price_high": 5.28
+ },
+ "华凯皮卡": {
+  "series_id": 6942,
+  "brand": "明君汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "华境S": {
+  "series_id": 8283,
+  "brand": "上汽通用五菱",
+  "price_text": "15.98-20.38万",
+  "price_low": 15.98,
+  "price_high": 20.38
+ },
+ "海锋": {
+  "series_id": 570,
+  "brand": "华普汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "海尚": {
+  "series_id": 461,
+  "brand": "华普汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "海炫": {
+  "series_id": 507,
+  "brand": "华普汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "海迅": {
+  "series_id": 194,
+  "brand": "华普汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "海域": {
+  "series_id": 460,
+  "brand": "华普汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "海悦": {
+  "series_id": 856,
+  "brand": "华普汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "华普海景": {
+  "series_id": 862,
+  "brand": "华普汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "华梓1号": {
+  "series_id": 6458,
+  "brand": "华梓汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "欧麦加": {
+  "series_id": 6813,
+  "brand": "华梓汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "华梓凌特": {
+  "series_id": 7681,
+  "brand": "华梓汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "HORKI-1": {
+  "series_id": 3125,
+  "brand": "起亚",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "华骐300E": {
+  "series_id": 4170,
+  "brand": "起亚",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "路宝": {
+  "series_id": 67,
+  "brand": "哈飞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "赛马": {
+  "series_id": 68,
+  "brand": "哈飞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "赛豹III": {
+  "series_id": 392,
+  "brand": "哈飞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "赛豹V": {
+  "series_id": 481,
+  "brand": "哈飞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "哈飞小霸王": {
+  "series_id": 2487,
+  "brand": "哈飞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "骏意": {
+  "series_id": 2485,
+  "brand": "哈飞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "路尊大霸王": {
+  "series_id": 2536,
+  "brand": "哈飞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "民意": {
+  "series_id": 2486,
+  "brand": "哈飞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "中意V5": {
+  "series_id": 3038,
+  "brand": "哈飞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "民意微卡": {
+  "series_id": 3840,
+  "brand": "哈飞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宏运高顶格瑞维亚": {
+  "series_id": 8665,
+  "brand": "宏运汽车",
+  "price_text": "46.80-46.80万",
+  "price_low": 46.8,
+  "price_high": 46.8
+ },
+ "宏远EM60": {
+  "series_id": 6001,
+  "brand": "宏远汽车",
+  "price_text": "13.58-13.58万",
+  "price_low": 13.58,
+  "price_high": 13.58
+ },
+ "恒信致远V级": {
+  "series_id": 7436,
+  "brand": "长久汽车",
+  "price_text": "96.80-118.80万",
+  "price_low": 96.8,
+  "price_high": 118.8
+ },
+ "恒信致远威霆": {
+  "series_id": 7999,
+  "brand": "长久汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "悍马HX": {
+  "series_id": 857,
+  "brand": "悍马",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "悍马H3": {
+  "series_id": 379,
+  "brand": "悍马",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "悍马H1": {
+  "series_id": 895,
+  "brand": "悍马",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "悍马H2": {
+  "series_id": 38,
+  "brand": "悍马",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "汇天飞行汽车": {
+  "series_id": 7802,
+  "brand": "汇天",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "汇天旅航者X2": {
+  "series_id": 7804,
+  "brand": "汇天",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "汉龙SAGA": {
+  "series_id": 5870,
+  "brand": "汉龙汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "旷世": {
+  "series_id": 5406,
+  "brand": "汉龙汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "闪闪X2": {
+  "series_id": 4877,
+  "brand": "红星汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "多拉小货": {
+  "series_id": 8655,
+  "brand": "五菱新能源",
+  "price_text": "14.80-16.80万",
+  "price_low": 14.8,
+  "price_high": 16.8
+ },
+ "赫菲特途睿欧": {
+  "series_id": 8240,
+  "brand": "赫菲特汽车",
+  "price_text": "36.80-36.80万",
+  "price_low": 36.8,
+  "price_high": 36.8
+ },
+ "赫菲特高顶赛那": {
+  "series_id": 8238,
+  "brand": "赫菲特汽车",
+  "price_text": "49.80-50.80万",
+  "price_low": 49.8,
+  "price_high": 50.8
+ },
+ "沃尔法海狮": {
+  "series_id": 8276,
+  "brand": "赫菲特汽车",
+  "price_text": "72.80-95.80万",
+  "price_low": 72.8,
+  "price_high": 95.8
+ },
+ "赫菲特先锋官": {
+  "series_id": 8726,
+  "brand": "赫菲特汽车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -17016,6 +17016,384 @@
   "price_low": null,
   "price_high": null
  },
+ "熊猫": {
+  "series_id": 8466,
+  "brand": "吉利汽车",
+  "price_text": "4.69-5.39万",
+  "price_low": 4.69,
+  "price_high": 5.39
+ },
+ "星愿": {
+  "series_id": 7806,
+  "brand": "吉利汽车",
+  "price_text": "6.48-9.48万",
+  "price_low": 6.48,
+  "price_high": 9.48
+ },
+ "银河L6": {
+  "series_id": 7167,
+  "brand": "吉利汽车",
+  "price_text": "7.98-10.68万",
+  "price_low": 7.98,
+  "price_high": 10.68
+ },
+ "银河星耀6": {
+  "series_id": 8211,
+  "brand": "吉利汽车",
+  "price_text": "7.48-12.08万",
+  "price_low": 7.48,
+  "price_high": 12.08
+ },
+ "银河A7 EM": {
+  "series_id": 8158,
+  "brand": "吉利汽车",
+  "price_text": "8.98-13.18万",
+  "price_low": 8.98,
+  "price_high": 13.18
+ },
+ "银河A7 EV": {
+  "series_id": 8666,
+  "brand": "吉利汽车",
+  "price_text": "11.28-15.08万",
+  "price_low": 11.28,
+  "price_high": 15.08
+ },
+ "银河星耀7": {
+  "series_id": 8313,
+  "brand": "吉利汽车",
+  "price_text": "10.88-13.98万",
+  "price_low": 10.88,
+  "price_high": 13.98
+ },
+ "银河E8": {
+  "series_id": 7170,
+  "brand": "吉利汽车",
+  "price_text": "16.18-19.88万",
+  "price_low": 16.18,
+  "price_high": 19.88
+ },
+ "银河星耀8": {
+  "series_id": 8042,
+  "brand": "吉利汽车",
+  "price_text": "13.58-17.28万",
+  "price_low": 13.58,
+  "price_high": 17.28
+ },
+ "银河E5": {
+  "series_id": 7650,
+  "brand": "吉利汽车",
+  "price_text": "10.98-17.98万",
+  "price_low": 10.98,
+  "price_high": 17.98
+ },
+ "银河星舰7": {
+  "series_id": 7864,
+  "brand": "吉利汽车",
+  "price_text": "10.18-12.98万",
+  "price_low": 10.18,
+  "price_high": 12.98
+ },
+ "银河M9": {
+  "series_id": 7165,
+  "brand": "吉利汽车",
+  "price_text": "18.38-26.98万",
+  "price_low": 18.38,
+  "price_high": 26.98
+ },
+ "银河E6": {
+  "series_id": 7168,
+  "brand": "吉利汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "银河之光": {
+  "series_id": 7171,
+  "brand": "吉利汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "银河L5": {
+  "series_id": 7166,
+  "brand": "吉利汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "银河E7": {
+  "series_id": 7169,
+  "brand": "吉利汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "银河L7": {
+  "series_id": 7158,
+  "brand": "吉利汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "翼真L380": {
+  "series_id": 7537,
+  "brand": "LEVC",
+  "price_text": "29.99-59.99万",
+  "price_low": 29.99,
+  "price_high": 59.99
+ },
+ "极狐 阿尔法S5": {
+  "series_id": 7327,
+  "brand": "北汽新能源",
+  "price_text": "12.78-18.48万",
+  "price_low": 12.78,
+  "price_high": 18.48
+ },
+ "极狐贝塔T1": {
+  "series_id": 8440,
+  "brand": "北汽新能源",
+  "price_text": "6.28-13.08万",
+  "price_low": 6.28,
+  "price_high": 13.08
+ },
+ "极狐贝塔S3": {
+  "series_id": 8190,
+  "brand": "北汽新能源",
+  "price_text": "8.48-12.58万",
+  "price_low": 8.48,
+  "price_high": 12.58
+ },
+ "极狐 阿尔法S6": {
+  "series_id": 8053,
+  "brand": "北汽新能源",
+  "price_text": "19.58-24.98万",
+  "price_low": 19.58,
+  "price_high": 24.98
+ },
+ "极狐 考拉S": {
+  "series_id": 7797,
+  "brand": "北汽新能源",
+  "price_text": "9.98-10.98万",
+  "price_low": 9.98,
+  "price_high": 10.98
+ },
+ "极狐 阿尔法T5": {
+  "series_id": 7125,
+  "brand": "北汽新能源",
+  "price_text": "11.38-15.88万",
+  "price_low": 11.38,
+  "price_high": 15.88
+ },
+ "极狐 阿尔法T6": {
+  "series_id": 8056,
+  "brand": "北汽新能源",
+  "price_text": "19.58-21.58万",
+  "price_low": 19.58,
+  "price_high": 21.58
+ },
+ "极狐 阿尔法S": {
+  "series_id": 5824,
+  "brand": "北汽新能源",
+  "price_text": "20.98-32.98万",
+  "price_low": 20.98,
+  "price_high": 32.98
+ },
+ "极狐 阿尔法T": {
+  "series_id": 5590,
+  "brand": "北汽新能源",
+  "price_text": "25.48-28.08万",
+  "price_low": 25.48,
+  "price_high": 28.08
+ },
+ "元境智舱X": {
+  "series_id": 8634,
+  "brand": "北汽新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "极狐N50AB": {
+  "series_id": 6871,
+  "brand": "北汽新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "极狐 77°": {
+  "series_id": 8123,
+  "brand": "北汽新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "ARCFOX-1": {
+  "series_id": 5162,
+  "brand": "北汽新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "极狐 考拉": {
+  "series_id": 5161,
+  "brand": "北汽新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "ARCFOX-7": {
+  "series_id": 4106,
+  "brand": "北汽新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "捷途旅行": {
+  "series_id": 7319,
+  "brand": "奇瑞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "捷途大圣": {
+  "series_id": 8706,
+  "brand": "奇瑞汽车",
+  "price_text": "6.99-13.68万",
+  "price_low": 6.99,
+  "price_high": 13.68
+ },
+ "捷途旅行者": {
+  "series_id": 6606,
+  "brand": "奇瑞汽车",
+  "price_text": "13.99-23.99万",
+  "price_low": 13.99,
+  "price_high": 23.99
+ },
+ "捷途自由者": {
+  "series_id": 7828,
+  "brand": "奇瑞汽车",
+  "price_text": "11.49-15.49万",
+  "price_low": 11.49,
+  "price_high": 15.49
+ },
+ "捷途X70": {
+  "series_id": 8613,
+  "brand": "奇瑞汽车",
+  "price_text": "9.99-14.99万",
+  "price_low": 9.99,
+  "price_high": 14.99
+ },
+ "捷途X70L": {
+  "series_id": 5941,
+  "brand": "奇瑞汽车",
+  "price_text": "11.59-15.39万",
+  "price_low": 11.59,
+  "price_high": 15.39
+ },
+ "捷途X90": {
+  "series_id": 4797,
+  "brand": "奇瑞汽车",
+  "price_text": "16.19-16.69万",
+  "price_low": 16.19,
+  "price_high": 16.69
+ },
+ "捷途X95": {
+  "series_id": 8073,
+  "brand": "奇瑞汽车",
+  "price_text": "17.38-17.88万",
+  "price_low": 17.38,
+  "price_high": 17.88
+ },
+ "捷途X": {
+  "series_id": 8095,
+  "brand": "奇瑞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "捷途旅行者8": {
+  "series_id": 8612,
+  "brand": "奇瑞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "捷途T-3": {
+  "series_id": 7219,
+  "brand": "奇瑞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "捷途大圣i-DM": {
+  "series_id": 6881,
+  "brand": "奇瑞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "捷途X70EV": {
+  "series_id": 5575,
+  "brand": "奇瑞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "捷途X70M": {
+  "series_id": 5550,
+  "brand": "奇瑞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "捷途X70S": {
+  "series_id": 5052,
+  "brand": "奇瑞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "捷达VA3": {
+  "series_id": 8618,
+  "brand": "一汽-大众捷达",
+  "price_text": "6.78-9.48万",
+  "price_low": 6.78,
+  "price_high": 9.48
+ },
+ "捷达VA7": {
+  "series_id": 7890,
+  "brand": "一汽-大众捷达",
+  "price_text": "9.98-12.98万",
+  "price_low": 9.98,
+  "price_high": 12.98
+ },
+ "捷达VS5": {
+  "series_id": 5138,
+  "brand": "一汽-大众捷达",
+  "price_text": "8.79-12.19万",
+  "price_low": 8.79,
+  "price_high": 12.19
+ },
+ "捷达VS7": {
+  "series_id": 5193,
+  "brand": "一汽-大众捷达",
+  "price_text": "9.79-12.09万",
+  "price_low": 9.79,
+  "price_high": 12.09
+ },
+ "捷达VS8": {
+  "series_id": 8160,
+  "brand": "一汽-大众捷达",
+  "price_text": "11.99-13.79万",
+  "price_low": 11.99,
+  "price_high": 13.79
+ },
+ "JETTA X": {
+  "series_id": 8597,
+  "brand": "一汽-大众捷达",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
  "极氪007": {
   "series_id": 7491,
   "brand": "极氪",
@@ -17089,6 +17467,230 @@
  "M-Vision": {
   "series_id": 6589,
   "brand": "极氪",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "捷途山海T1": {
+  "series_id": 7506,
+  "brand": "奇瑞汽车",
+  "price_text": "13.49-17.99万",
+  "price_low": 13.49,
+  "price_high": 17.99
+ },
+ "捷途山海L9": {
+  "series_id": 7397,
+  "brand": "奇瑞汽车",
+  "price_text": "16.49-24.29万",
+  "price_low": 16.49,
+  "price_high": 24.29
+ },
+ "捷途山海L6": {
+  "series_id": 7345,
+  "brand": "奇瑞汽车",
+  "price_text": "12.39-14.49万",
+  "price_low": 12.39,
+  "price_high": 14.49
+ },
+ "捷途山海L7": {
+  "series_id": 7711,
+  "brand": "奇瑞汽车",
+  "price_text": "11.49-22.78万",
+  "price_low": 11.49,
+  "price_high": 22.78
+ },
+ "捷途山海L10": {
+  "series_id": 8106,
+  "brand": "奇瑞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "捷途山海T5": {
+  "series_id": 7693,
+  "brand": "奇瑞汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "凯锐EV": {
+  "series_id": 7366,
+  "brand": "江铃汽车",
+  "price_text": "26.10-27.50万",
+  "price_low": 26.1,
+  "price_high": 27.5
+ },
+ "乐行E路达": {
+  "series_id": 7324,
+  "brand": "江铃汽车",
+  "price_text": "26.85-36.98万",
+  "price_low": 26.85,
+  "price_high": 36.98
+ },
+ "顺达EV": {
+  "series_id": 7367,
+  "brand": "江铃汽车",
+  "price_text": "22.10-26.70万",
+  "price_low": 22.1,
+  "price_high": 26.7
+ },
+ "域虎9多功能车": {
+  "series_id": 6694,
+  "brand": "江铃汽车",
+  "price_text": "16.48-19.28万",
+  "price_low": 16.48,
+  "price_high": 19.28
+ },
+ "E顺达": {
+  "series_id": 7933,
+  "brand": "江铃汽车",
+  "price_text": "10.12-18.28万",
+  "price_low": 10.12,
+  "price_high": 18.28
+ },
+ "江铃凯运": {
+  "series_id": 8561,
+  "brand": "江铃汽车",
+  "price_text": "10.38-12.27万",
+  "price_low": 10.38,
+  "price_high": 12.27
+ },
+ "顺达": {
+  "series_id": 8150,
+  "brand": "江铃汽车",
+  "price_text": "8.68-10.18万",
+  "price_low": 8.68,
+  "price_high": 10.18
+ },
+ "E福顺小卡": {
+  "series_id": 8007,
+  "brand": "江铃汽车",
+  "price_text": "8.59-11.20万",
+  "price_low": 8.59,
+  "price_high": 11.2
+ },
+ "E福顺": {
+  "series_id": 7934,
+  "brand": "江铃汽车",
+  "price_text": "8.08-13.50万",
+  "price_low": 8.08,
+  "price_high": 13.5
+ },
+ "E路顺V6": {
+  "series_id": 7641,
+  "brand": "江铃汽车",
+  "price_text": "15.38-15.38万",
+  "price_low": 15.38,
+  "price_high": 15.38
+ },
+ "江铃福顺": {
+  "series_id": 6838,
+  "brand": "江铃汽车",
+  "price_text": "9.78-26.80万",
+  "price_low": 9.78,
+  "price_high": 26.8
+ },
+ "宝典": {
+  "series_id": 2514,
+  "brand": "江铃汽车",
+  "price_text": "8.48-12.08万",
+  "price_low": 8.48,
+  "price_high": 12.08
+ },
+ "大道": {
+  "series_id": 7195,
+  "brand": "江铃汽车",
+  "price_text": "11.08-22.28万",
+  "price_low": 11.08,
+  "price_high": 22.28
+ },
+ "大道新能源": {
+  "series_id": 7240,
+  "brand": "江铃汽车",
+  "price_text": "18.28-29.98万",
+  "price_low": 18.28,
+  "price_high": 29.98
+ },
+ "域虎": {
+  "series_id": 8151,
+  "brand": "江铃汽车",
+  "price_text": "9.88-12.58万",
+  "price_low": 9.88,
+  "price_high": 12.58
+ },
+ "域虎7": {
+  "series_id": 2860,
+  "brand": "江铃汽车",
+  "price_text": "9.98-14.18万",
+  "price_low": 9.98,
+  "price_high": 14.18
+ },
+ "域虎9": {
+  "series_id": 5260,
+  "brand": "江铃汽车",
+  "price_text": "13.48-21.18万",
+  "price_low": 13.48,
+  "price_high": 21.18
+ },
+ "域虎EV": {
+  "series_id": 4995,
+  "brand": "江铃汽车",
+  "price_text": "31.68-38.38万",
+  "price_low": 31.68,
+  "price_high": 38.38
+ },
+ "特顺EV": {
+  "series_id": 4922,
+  "brand": "江铃汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "驭胜S330": {
+  "series_id": 3777,
+  "brand": "江铃汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "宝威": {
+  "series_id": 2674,
+  "brand": "江铃汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "驭胜S350": {
+  "series_id": 2228,
+  "brand": "江铃汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "E路顺": {
+  "series_id": 7029,
+  "brand": "江铃汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "特顺": {
+  "series_id": 4209,
+  "brand": "江铃汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "域虎3": {
+  "series_id": 4930,
+  "brand": "江铃汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "域虎5": {
+  "series_id": 4931,
+  "brand": "江铃汽车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -17450,107 +18052,51 @@
   "price_low": null,
   "price_high": null
  },
- "捷途旅行": {
-  "series_id": 7319,
-  "brand": "奇瑞汽车",
+ "吉利几何A": {
+  "series_id": 4983,
+  "brand": "吉利几何",
+  "price_text": "14.38-20.78万",
+  "price_low": 14.38,
+  "price_high": 20.78
+ },
+ "吉利几何G6": {
+  "series_id": 6863,
+  "brand": "吉利几何",
+  "price_text": "11.98-18.58万",
+  "price_low": 11.98,
+  "price_high": 18.58
+ },
+ "吉利几何E萤火虫": {
+  "series_id": 6639,
+  "brand": "吉利几何",
+  "price_text": "5.98-8.98万",
+  "price_low": 5.98,
+  "price_high": 8.98
+ },
+ "吉利几何M6": {
+  "series_id": 6862,
+  "brand": "吉利几何",
+  "price_text": "14.98-18.98万",
+  "price_low": 14.98,
+  "price_high": 18.98
+ },
+ "吉利几何T": {
+  "series_id": 5786,
+  "brand": "吉利几何",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "捷途大圣": {
-  "series_id": 8706,
-  "brand": "奇瑞汽车",
-  "price_text": "6.99-13.68万",
-  "price_low": 6.99,
-  "price_high": 13.68
- },
- "捷途旅行者": {
-  "series_id": 6606,
-  "brand": "奇瑞汽车",
-  "price_text": "13.99-23.99万",
-  "price_low": 13.99,
-  "price_high": 23.99
- },
- "捷途自由者": {
-  "series_id": 7828,
-  "brand": "奇瑞汽车",
-  "price_text": "11.49-15.49万",
-  "price_low": 11.49,
-  "price_high": 15.49
- },
- "捷途X70": {
-  "series_id": 8613,
-  "brand": "奇瑞汽车",
-  "price_text": "9.99-14.99万",
-  "price_low": 9.99,
-  "price_high": 14.99
- },
- "捷途X70L": {
-  "series_id": 5941,
-  "brand": "奇瑞汽车",
-  "price_text": "11.59-15.39万",
-  "price_low": 11.59,
-  "price_high": 15.39
- },
- "捷途X90": {
-  "series_id": 4797,
-  "brand": "奇瑞汽车",
-  "price_text": "16.19-16.69万",
-  "price_low": 16.19,
-  "price_high": 16.69
- },
- "捷途X95": {
-  "series_id": 8073,
-  "brand": "奇瑞汽车",
-  "price_text": "17.38-17.88万",
-  "price_low": 17.38,
-  "price_high": 17.88
- },
- "捷途X": {
-  "series_id": 8095,
-  "brand": "奇瑞汽车",
+ "EX3 功夫牛": {
+  "series_id": 6403,
+  "brand": "吉利几何",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "捷途旅行者8": {
-  "series_id": 8612,
-  "brand": "奇瑞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "捷途T-3": {
-  "series_id": 7219,
-  "brand": "奇瑞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "捷途大圣i-DM": {
-  "series_id": 6881,
-  "brand": "奇瑞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "捷途X70EV": {
-  "series_id": 5575,
-  "brand": "奇瑞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "捷途X70M": {
-  "series_id": 5550,
-  "brand": "奇瑞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "捷途X70S": {
-  "series_id": 5052,
-  "brand": "奇瑞汽车",
+ "吉利几何C": {
+  "series_id": 5631,
+  "brand": "吉利几何",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -18038,450 +18584,23 @@
   "price_low": null,
   "price_high": null
  },
- "吉利几何A": {
-  "series_id": 4983,
-  "brand": "吉利几何",
-  "price_text": "14.38-20.78万",
-  "price_low": 14.38,
-  "price_high": 20.78
- },
- "吉利几何G6": {
-  "series_id": 6863,
-  "brand": "吉利几何",
-  "price_text": "11.98-18.58万",
-  "price_low": 11.98,
-  "price_high": 18.58
- },
- "吉利几何E萤火虫": {
-  "series_id": 6639,
-  "brand": "吉利几何",
-  "price_text": "5.98-8.98万",
-  "price_low": 5.98,
-  "price_high": 8.98
- },
- "吉利几何M6": {
-  "series_id": 6862,
-  "brand": "吉利几何",
-  "price_text": "14.98-18.98万",
-  "price_low": 14.98,
-  "price_high": 18.98
- },
- "吉利几何T": {
-  "series_id": 5786,
-  "brand": "吉利几何",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "EX3 功夫牛": {
-  "series_id": 6403,
-  "brand": "吉利几何",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "吉利几何C": {
-  "series_id": 5631,
-  "brand": "吉利几何",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "凯锐EV": {
-  "series_id": 7366,
-  "brand": "江铃汽车",
-  "price_text": "26.10-27.50万",
-  "price_low": 26.1,
-  "price_high": 27.5
- },
- "乐行E路达": {
-  "series_id": 7324,
-  "brand": "江铃汽车",
-  "price_text": "26.85-36.98万",
-  "price_low": 26.85,
-  "price_high": 36.98
- },
- "顺达EV": {
-  "series_id": 7367,
-  "brand": "江铃汽车",
-  "price_text": "22.10-26.70万",
-  "price_low": 22.1,
-  "price_high": 26.7
- },
- "域虎9多功能车": {
-  "series_id": 6694,
-  "brand": "江铃汽车",
-  "price_text": "16.48-19.28万",
-  "price_low": 16.48,
-  "price_high": 19.28
- },
- "E顺达": {
-  "series_id": 7933,
-  "brand": "江铃汽车",
-  "price_text": "10.12-18.28万",
-  "price_low": 10.12,
-  "price_high": 18.28
- },
- "江铃凯运": {
-  "series_id": 8561,
-  "brand": "江铃汽车",
-  "price_text": "10.38-12.27万",
-  "price_low": 10.38,
-  "price_high": 12.27
- },
- "顺达": {
-  "series_id": 8150,
-  "brand": "江铃汽车",
-  "price_text": "8.68-10.18万",
-  "price_low": 8.68,
-  "price_high": 10.18
- },
- "E福顺小卡": {
-  "series_id": 8007,
-  "brand": "江铃汽车",
-  "price_text": "8.59-11.20万",
-  "price_low": 8.59,
-  "price_high": 11.2
- },
- "E福顺": {
-  "series_id": 7934,
-  "brand": "江铃汽车",
-  "price_text": "8.08-13.50万",
-  "price_low": 8.08,
-  "price_high": 13.5
- },
- "E路顺V6": {
-  "series_id": 7641,
-  "brand": "江铃汽车",
-  "price_text": "15.38-15.38万",
-  "price_low": 15.38,
-  "price_high": 15.38
- },
- "江铃福顺": {
-  "series_id": 6838,
-  "brand": "江铃汽车",
-  "price_text": "9.78-26.80万",
-  "price_low": 9.78,
-  "price_high": 26.8
- },
- "宝典": {
-  "series_id": 2514,
-  "brand": "江铃汽车",
-  "price_text": "8.48-12.08万",
-  "price_low": 8.48,
-  "price_high": 12.08
- },
- "大道": {
-  "series_id": 7195,
-  "brand": "江铃汽车",
-  "price_text": "11.08-22.28万",
-  "price_low": 11.08,
-  "price_high": 22.28
- },
- "大道新能源": {
-  "series_id": 7240,
-  "brand": "江铃汽车",
-  "price_text": "18.28-29.98万",
-  "price_low": 18.28,
-  "price_high": 29.98
- },
- "域虎": {
-  "series_id": 8151,
-  "brand": "江铃汽车",
-  "price_text": "9.88-12.58万",
-  "price_low": 9.88,
-  "price_high": 12.58
- },
- "域虎7": {
-  "series_id": 2860,
-  "brand": "江铃汽车",
-  "price_text": "9.98-14.18万",
+ "江淮X8 E家": {
+  "series_id": 7435,
+  "brand": "江汽集团",
+  "price_text": "9.98-19.98万",
   "price_low": 9.98,
-  "price_high": 14.18
+  "price_high": 19.98
  },
- "域虎9": {
-  "series_id": 5260,
-  "brand": "江铃汽车",
-  "price_text": "13.48-21.18万",
-  "price_low": 13.48,
-  "price_high": 21.18
- },
- "域虎EV": {
-  "series_id": 4995,
-  "brand": "江铃汽车",
-  "price_text": "31.68-38.38万",
-  "price_low": 31.68,
-  "price_high": 38.38
- },
- "特顺EV": {
-  "series_id": 4922,
-  "brand": "江铃汽车",
+ "DEFINE-S": {
+  "series_id": 7710,
+  "brand": "江汽集团",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "驭胜S330": {
-  "series_id": 3777,
-  "brand": "江铃汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "宝威": {
-  "series_id": 2674,
-  "brand": "江铃汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "驭胜S350": {
-  "series_id": 2228,
-  "brand": "江铃汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "E路顺": {
-  "series_id": 7029,
-  "brand": "江铃汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "特顺": {
-  "series_id": 4209,
-  "brand": "江铃汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "域虎3": {
-  "series_id": 4930,
-  "brand": "江铃汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "域虎5": {
-  "series_id": 4931,
-  "brand": "江铃汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "捷达VA3": {
-  "series_id": 8618,
-  "brand": "一汽-大众捷达",
-  "price_text": "6.78-9.48万",
-  "price_low": 6.78,
-  "price_high": 9.48
- },
- "捷达VA7": {
-  "series_id": 7890,
-  "brand": "一汽-大众捷达",
-  "price_text": "9.98-12.98万",
-  "price_low": 9.98,
-  "price_high": 12.98
- },
- "捷达VS5": {
-  "series_id": 5138,
-  "brand": "一汽-大众捷达",
-  "price_text": "8.79-12.19万",
-  "price_low": 8.79,
-  "price_high": 12.19
- },
- "捷达VS7": {
-  "series_id": 5193,
-  "brand": "一汽-大众捷达",
-  "price_text": "9.79-12.09万",
-  "price_low": 9.79,
-  "price_high": 12.09
- },
- "捷达VS8": {
-  "series_id": 8160,
-  "brand": "一汽-大众捷达",
-  "price_text": "11.99-13.79万",
-  "price_low": 11.99,
-  "price_high": 13.79
- },
- "JETTA X": {
-  "series_id": 8597,
-  "brand": "一汽-大众捷达",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Synergy": {
-  "series_id": 7386,
-  "brand": "Polestar",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "捷尼赛思GV90": {
-  "series_id": 7372,
-  "brand": "捷尼赛思",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "捷尼赛思G80": {
-  "series_id": 4176,
-  "brand": "捷尼赛思",
-  "price_text": "29.98-48.60万",
-  "price_low": 29.98,
-  "price_high": 48.6
- },
- "捷尼赛思G90": {
-  "series_id": 3982,
-  "brand": "捷尼赛思",
-  "price_text": "73.40-128.80万",
-  "price_low": 73.4,
-  "price_high": 128.8
- },
- "捷尼赛思GV70": {
-  "series_id": 5475,
-  "brand": "捷尼赛思",
-  "price_text": "28.98-39.00万",
-  "price_low": 28.98,
-  "price_high": 39.0
- },
- "捷尼赛思GV80": {
-  "series_id": 4397,
-  "brand": "捷尼赛思",
-  "price_text": "53.00-66.90万",
-  "price_low": 53.0,
-  "price_high": 66.9
- },
- "捷尼赛思GV60": {
-  "series_id": 6090,
-  "brand": "捷尼赛思",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "GMR-001": {
-  "series_id": 6500,
-  "brand": "捷尼赛思",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Mint": {
-  "series_id": 7790,
-  "brand": "捷尼赛思",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "捷尼赛思G70": {
-  "series_id": 4545,
-  "brand": "捷尼赛思",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "极狐 阿尔法S5": {
-  "series_id": 7327,
-  "brand": "北汽新能源",
-  "price_text": "12.78-18.48万",
-  "price_low": 12.78,
-  "price_high": 18.48
- },
- "极狐贝塔T1": {
-  "series_id": 8440,
-  "brand": "北汽新能源",
-  "price_text": "6.28-13.08万",
-  "price_low": 6.28,
-  "price_high": 13.08
- },
- "极狐贝塔S3": {
-  "series_id": 8190,
-  "brand": "北汽新能源",
-  "price_text": "8.48-12.58万",
-  "price_low": 8.48,
-  "price_high": 12.58
- },
- "极狐 阿尔法S6": {
-  "series_id": 8053,
-  "brand": "北汽新能源",
-  "price_text": "19.58-24.98万",
-  "price_low": 19.58,
-  "price_high": 24.98
- },
- "极狐 考拉S": {
-  "series_id": 7797,
-  "brand": "北汽新能源",
-  "price_text": "9.98-10.98万",
-  "price_low": 9.98,
-  "price_high": 10.98
- },
- "极狐 阿尔法T5": {
-  "series_id": 7125,
-  "brand": "北汽新能源",
-  "price_text": "11.38-15.88万",
-  "price_low": 11.38,
-  "price_high": 15.88
- },
- "极狐 阿尔法T6": {
-  "series_id": 8056,
-  "brand": "北汽新能源",
-  "price_text": "19.58-21.58万",
-  "price_low": 19.58,
-  "price_high": 21.58
- },
- "极狐 阿尔法S": {
-  "series_id": 5824,
-  "brand": "北汽新能源",
-  "price_text": "20.98-32.98万",
-  "price_low": 20.98,
-  "price_high": 32.98
- },
- "极狐 阿尔法T": {
-  "series_id": 5590,
-  "brand": "北汽新能源",
-  "price_text": "25.48-28.08万",
-  "price_low": 25.48,
-  "price_high": 28.08
- },
- "元境智舱X": {
-  "series_id": 8634,
-  "brand": "北汽新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "极狐N50AB": {
-  "series_id": 6871,
-  "brand": "北汽新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "极狐 77°": {
-  "series_id": 8123,
-  "brand": "北汽新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "ARCFOX-1": {
-  "series_id": 5162,
-  "brand": "北汽新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "极狐 考拉": {
-  "series_id": 5161,
-  "brand": "北汽新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "ARCFOX-7": {
-  "series_id": 4106,
-  "brand": "北汽新能源",
+ "DEFINE-X": {
+  "series_id": 8128,
+  "brand": "江汽集团",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -18878,6 +18997,27 @@
   "price_low": null,
   "price_high": null
  },
+ "极越07": {
+  "series_id": 7103,
+  "brand": "极越",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "极越01": {
+  "series_id": 6598,
+  "brand": "极越",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "极越Robo X": {
+  "series_id": 7937,
+  "brand": "极越",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
  "瑞风E4": {
   "series_id": 7350,
   "brand": "江汽集团",
@@ -18927,40 +19067,201 @@
   "price_low": null,
   "price_high": null
  },
- "钧天勇猛者": {
-  "series_id": 5099,
-  "brand": "钧天机械",
-  "price_text": "85.80-146.80万",
-  "price_low": 85.8,
-  "price_high": 146.8
+ "小野牛": {
+  "series_id": 8388,
+  "brand": "江铃集团房车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "钧天格瑞维亚": {
-  "series_id": 8142,
-  "brand": "钧天机械",
-  "price_text": "46.80-46.80万",
-  "price_low": 46.8,
-  "price_high": 46.8
+ "江铃福特B型房车": {
+  "series_id": 8558,
+  "brand": "江铃集团房车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "钧天纵横家": {
-  "series_id": 7768,
-  "brand": "钧天机械",
-  "price_text": "24.80-29.80万",
-  "price_low": 24.8,
-  "price_high": 29.8
+ "大海牛": {
+  "series_id": 8391,
+  "brand": "江铃集团房车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "大道 沐光": {
-  "series_id": 8001,
-  "brand": "钧天机械",
-  "price_text": "24.36-25.56万",
-  "price_low": 24.36,
-  "price_high": 25.56
+ "福犀牛": {
+  "series_id": 8392,
+  "brand": "江铃集团房车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "钧天霸界": {
-  "series_id": 7079,
-  "brand": "钧天机械",
-  "price_text": "34.98-42.98万",
-  "price_low": 34.98,
-  "price_high": 42.98
+ "迈凯宾": {
+  "series_id": 8141,
+  "brand": "厦门金龙",
+  "price_text": "46.88-51.88万",
+  "price_low": 46.88,
+  "price_high": 51.88
+ },
+ "极石01": {
+  "series_id": 7302,
+  "brand": "ROX极石",
+  "price_text": "29.99-35.99万",
+  "price_low": 29.99,
+  "price_high": 35.99
+ },
+ "吉祥AIR": {
+  "series_id": 7581,
+  "brand": "吉祥汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "一汽解放虎6G": {
+  "series_id": 8377,
+  "brand": "巨威房车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "福特大额头房车": {
+  "series_id": 8379,
+  "brand": "巨威房车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "奔驰Atego": {
+  "series_id": 8340,
+  "brand": "巨威房车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "汕德卡": {
+  "series_id": 8341,
+  "brand": "巨威房车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "五十铃700P": {
+  "series_id": 8339,
+  "brand": "巨威房车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "一汽解放·雪鹰": {
+  "series_id": 8342,
+  "brand": "巨威房车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "巨威房车 依维柯": {
+  "series_id": 8378,
+  "brand": "巨威房车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "奔驰乌尼莫克": {
+  "series_id": 8380,
+  "brand": "巨威房车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "捷尼赛思GV90": {
+  "series_id": 7372,
+  "brand": "捷尼赛思",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "捷尼赛思G80": {
+  "series_id": 4176,
+  "brand": "捷尼赛思",
+  "price_text": "29.98-48.60万",
+  "price_low": 29.98,
+  "price_high": 48.6
+ },
+ "捷尼赛思G90": {
+  "series_id": 3982,
+  "brand": "捷尼赛思",
+  "price_text": "73.40-128.80万",
+  "price_low": 73.4,
+  "price_high": 128.8
+ },
+ "捷尼赛思GV70": {
+  "series_id": 5475,
+  "brand": "捷尼赛思",
+  "price_text": "28.98-39.00万",
+  "price_low": 28.98,
+  "price_high": 39.0
+ },
+ "捷尼赛思GV80": {
+  "series_id": 4397,
+  "brand": "捷尼赛思",
+  "price_text": "53.00-66.90万",
+  "price_low": 53.0,
+  "price_high": 66.9
+ },
+ "捷尼赛思GV60": {
+  "series_id": 6090,
+  "brand": "捷尼赛思",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "GMR-001": {
+  "series_id": 6500,
+  "brand": "捷尼赛思",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Mint": {
+  "series_id": 7790,
+  "brand": "捷尼赛思",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "捷尼赛思G70": {
+  "series_id": 4545,
+  "brand": "捷尼赛思",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "江南U2": {
+  "series_id": 6927,
+  "brand": "江南汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "E路福": {
+  "series_id": 7451,
+  "brand": "江铃晶马汽车",
+  "price_text": "13.88-13.88万",
+  "price_low": 13.88,
+  "price_high": 13.88
+ },
+ "福运": {
+  "series_id": 7823,
+  "brand": "江铃晶马汽车",
+  "price_text": "9.28-24.80万",
+  "price_low": 9.28,
+  "price_high": 24.8
+ },
+ "福运新能源": {
+  "series_id": 7163,
+  "brand": "江铃晶马汽车",
+  "price_text": "19.88-31.68万",
+  "price_low": 19.88,
+  "price_high": 31.68
  },
  "颐驰06": {
   "series_id": 7399,
@@ -19046,236 +19347,33 @@
   "price_low": 11.88,
   "price_high": 19.98
  },
- "龙耀5": {
-  "series_id": 7307,
-  "brand": "厦门金龙",
-  "price_text": "14.28-14.28万",
-  "price_low": 14.28,
-  "price_high": 14.28
+ "骏驰EK": {
+  "series_id": 7965,
+  "brand": "吉麦新能源",
+  "price_text": "6.58-6.58万",
+  "price_low": 6.58,
+  "price_high": 6.58
  },
- "龙耀6S": {
-  "series_id": 7455,
-  "brand": "厦门金龙",
-  "price_text": "16.28-16.28万",
-  "price_low": 16.28,
-  "price_high": 16.28
- },
- "金龙V8": {
-  "series_id": 8575,
-  "brand": "厦门金龙",
-  "price_text": "11.88-17.80万",
-  "price_low": 11.88,
-  "price_high": 17.8
- },
- "龙耀6": {
-  "series_id": 6625,
-  "brand": "厦门金龙",
-  "price_text": "16.88-17.68万",
-  "price_low": 16.88,
-  "price_high": 17.68
- },
- "金威": {
-  "series_id": 2986,
-  "brand": "厦门金龙",
-  "price_text": "7.88-9.48万",
-  "price_low": 7.88,
-  "price_high": 9.48
- },
- "凯歌": {
-  "series_id": 2985,
-  "brand": "厦门金龙",
-  "price_text": "13.58-27.88万",
-  "price_low": 13.58,
-  "price_high": 27.88
- },
- "凯歌新能源": {
-  "series_id": 7914,
-  "brand": "厦门金龙",
-  "price_text": "31.00-36.88万",
-  "price_low": 31.0,
-  "price_high": 36.88
- },
- "凯锐浩克": {
-  "series_id": 4850,
-  "brand": "厦门金龙",
-  "price_text": "8.98-13.98万",
-  "price_low": 8.98,
-  "price_high": 13.98
- },
- "龙耀8": {
-  "series_id": 5767,
-  "brand": "厦门金龙",
-  "price_text": "26.88-29.38万",
-  "price_low": 26.88,
-  "price_high": 29.38
- },
- "龙耀8L": {
-  "series_id": 6824,
-  "brand": "厦门金龙",
-  "price_text": "26.87-26.87万",
-  "price_low": 26.87,
-  "price_high": 26.87
- },
- "龙耀8S": {
-  "series_id": 7559,
-  "brand": "厦门金龙",
-  "price_text": "27.68-29.88万",
-  "price_low": 27.68,
-  "price_high": 29.88
- },
- "浩锐": {
-  "series_id": 6848,
-  "brand": "厦门金龙",
+ "骏驰EA": {
+  "series_id": 7964,
+  "brand": "吉麦新能源",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "凯特": {
-  "series_id": 3549,
-  "brand": "厦门金龙",
+ "骏驰ET": {
+  "series_id": 7966,
+  "brand": "吉麦新能源",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "E路福": {
-  "series_id": 7451,
-  "brand": "江铃晶马汽车",
-  "price_text": "13.88-13.88万",
-  "price_low": 13.88,
-  "price_high": 13.88
- },
- "福运": {
-  "series_id": 7823,
-  "brand": "江铃晶马汽车",
-  "price_text": "9.28-24.80万",
-  "price_low": 9.28,
-  "price_high": 24.8
- },
- "福运新能源": {
-  "series_id": 7163,
-  "brand": "江铃晶马汽车",
-  "price_text": "19.88-31.68万",
-  "price_low": 19.88,
-  "price_high": 31.68
- },
- "极越07": {
-  "series_id": 7103,
-  "brand": "极越",
+ "Synergy": {
+  "series_id": 7386,
+  "brand": "Polestar",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
- },
- "极越01": {
-  "series_id": 6598,
-  "brand": "极越",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "极越Robo X": {
-  "series_id": 7937,
-  "brand": "极越",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "江南U2": {
-  "series_id": 6927,
-  "brand": "江南汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "金冠V级": {
-  "series_id": 5722,
-  "brand": "金冠汽车",
-  "price_text": "61.80-118.00万",
-  "price_low": 61.8,
-  "price_high": 118.0
- },
- "宾歌T10": {
-  "series_id": 7206,
-  "brand": "金冠汽车",
-  "price_text": "39.80-56.80万",
-  "price_low": 39.8,
-  "price_high": 56.8
- },
- "金冠G20": {
-  "series_id": 6968,
-  "brand": "金冠汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "海狮Z系列": {
-  "series_id": 5126,
-  "brand": "厦门金旅",
-  "price_text": "12.18-14.98万",
-  "price_low": 12.18,
-  "price_high": 14.98
- },
- "金旅大海狮": {
-  "series_id": 3886,
-  "brand": "厦门金旅",
-  "price_text": "19.58-27.58万",
-  "price_low": 19.58,
-  "price_high": 27.58
- },
- "金旅海狮": {
-  "series_id": 2976,
-  "brand": "厦门金旅",
-  "price_text": "10.48-14.58万",
-  "price_low": 10.48,
-  "price_high": 14.58
- },
- "金旅海狮新能源": {
-  "series_id": 4601,
-  "brand": "厦门金旅",
-  "price_text": "12.58-29.88万",
-  "price_low": 12.58,
-  "price_high": 29.88
- },
- "领特": {
-  "series_id": 5296,
-  "brand": "厦门金旅",
-  "price_text": "23.38-26.48万",
-  "price_low": 23.38,
-  "price_high": 26.48
- },
- "领特新能源": {
-  "series_id": 5836,
-  "brand": "厦门金旅",
-  "price_text": "26.80-29.80万",
-  "price_low": 26.8,
-  "price_high": 29.8
- },
- "金旅大海狮新能源": {
-  "series_id": 3885,
-  "brand": "厦门金旅",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "金旅考斯特": {
-  "series_id": 2975,
-  "brand": "厦门金旅",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "新时代海狮": {
-  "series_id": 5079,
-  "brand": "厦门金旅",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "极石01": {
-  "series_id": 7302,
-  "brand": "ROX极石",
-  "price_text": "29.99-35.99万",
-  "price_low": 29.99,
-  "price_high": 35.99
  },
  "九龙EM3": {
   "series_id": 5016,
@@ -19375,139 +19473,6 @@
   "price_low": null,
   "price_high": null
  },
- "熊猫": {
-  "series_id": 8466,
-  "brand": "吉利汽车",
-  "price_text": "4.69-5.39万",
-  "price_low": 4.69,
-  "price_high": 5.39
- },
- "星愿": {
-  "series_id": 7806,
-  "brand": "吉利汽车",
-  "price_text": "6.48-9.48万",
-  "price_low": 6.48,
-  "price_high": 9.48
- },
- "银河L6": {
-  "series_id": 7167,
-  "brand": "吉利汽车",
-  "price_text": "7.98-10.68万",
-  "price_low": 7.98,
-  "price_high": 10.68
- },
- "银河星耀6": {
-  "series_id": 8211,
-  "brand": "吉利汽车",
-  "price_text": "7.48-12.08万",
-  "price_low": 7.48,
-  "price_high": 12.08
- },
- "银河A7 EM": {
-  "series_id": 8158,
-  "brand": "吉利汽车",
-  "price_text": "8.98-13.18万",
-  "price_low": 8.98,
-  "price_high": 13.18
- },
- "银河A7 EV": {
-  "series_id": 8666,
-  "brand": "吉利汽车",
-  "price_text": "11.28-15.08万",
-  "price_low": 11.28,
-  "price_high": 15.08
- },
- "银河星耀7": {
-  "series_id": 8313,
-  "brand": "吉利汽车",
-  "price_text": "10.88-13.98万",
-  "price_low": 10.88,
-  "price_high": 13.98
- },
- "银河E8": {
-  "series_id": 7170,
-  "brand": "吉利汽车",
-  "price_text": "16.18-19.88万",
-  "price_low": 16.18,
-  "price_high": 19.88
- },
- "银河星耀8": {
-  "series_id": 8042,
-  "brand": "吉利汽车",
-  "price_text": "13.58-17.28万",
-  "price_low": 13.58,
-  "price_high": 17.28
- },
- "银河E5": {
-  "series_id": 7650,
-  "brand": "吉利汽车",
-  "price_text": "10.98-17.98万",
-  "price_low": 10.98,
-  "price_high": 17.98
- },
- "银河星舰7": {
-  "series_id": 7864,
-  "brand": "吉利汽车",
-  "price_text": "10.18-12.98万",
-  "price_low": 10.18,
-  "price_high": 12.98
- },
- "银河M9": {
-  "series_id": 7165,
-  "brand": "吉利汽车",
-  "price_text": "18.38-26.98万",
-  "price_low": 18.38,
-  "price_high": 26.98
- },
- "银河E6": {
-  "series_id": 7168,
-  "brand": "吉利汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "银河之光": {
-  "series_id": 7171,
-  "brand": "吉利汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "银河L5": {
-  "series_id": 7166,
-  "brand": "吉利汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "银河E7": {
-  "series_id": 7169,
-  "brand": "吉利汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "银河L7": {
-  "series_id": 7158,
-  "brand": "吉利汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "翼真L380": {
-  "series_id": 7537,
-  "brand": "LEVC",
-  "price_text": "29.99-59.99万",
-  "price_low": 29.99,
-  "price_high": 59.99
- },
- "吉祥AIR": {
-  "series_id": 7581,
-  "brand": "吉祥汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
  "君马MEET 5": {
   "series_id": 4555,
   "brand": "君马汽车",
@@ -19532,104 +19497,6 @@
  "奇点iS6": {
   "series_id": 4401,
   "brand": "奇点汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "一汽解放虎6G": {
-  "series_id": 8377,
-  "brand": "巨威房车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "福特大额头房车": {
-  "series_id": 8379,
-  "brand": "巨威房车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "奔驰Atego": {
-  "series_id": 8340,
-  "brand": "巨威房车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "汕德卡": {
-  "series_id": 8341,
-  "brand": "巨威房车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "五十铃700P": {
-  "series_id": 8339,
-  "brand": "巨威房车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "一汽解放·雪鹰": {
-  "series_id": 8342,
-  "brand": "巨威房车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "巨威房车 依维柯": {
-  "series_id": 8378,
-  "brand": "巨威房车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "奔驰乌尼莫克": {
-  "series_id": 8380,
-  "brand": "巨威房车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "捷途山海T1": {
-  "series_id": 7506,
-  "brand": "奇瑞汽车",
-  "price_text": "13.49-17.99万",
-  "price_low": 13.49,
-  "price_high": 17.99
- },
- "捷途山海L9": {
-  "series_id": 7397,
-  "brand": "奇瑞汽车",
-  "price_text": "16.49-24.29万",
-  "price_low": 16.49,
-  "price_high": 24.29
- },
- "捷途山海L6": {
-  "series_id": 7345,
-  "brand": "奇瑞汽车",
-  "price_text": "12.39-14.49万",
-  "price_low": 12.39,
-  "price_high": 14.49
- },
- "捷途山海L7": {
-  "series_id": 7711,
-  "brand": "奇瑞汽车",
-  "price_text": "11.49-22.78万",
-  "price_low": 11.49,
-  "price_high": 22.78
- },
- "捷途山海L10": {
-  "series_id": 8106,
-  "brand": "奇瑞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "捷途山海T5": {
-  "series_id": 7693,
-  "brand": "奇瑞汽车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -19746,27 +19613,6 @@
   "price_low": null,
   "price_high": null
  },
- "江淮X8 E家": {
-  "series_id": 7435,
-  "brand": "江汽集团",
-  "price_text": "9.98-19.98万",
-  "price_low": 9.98,
-  "price_high": 19.98
- },
- "DEFINE-S": {
-  "series_id": 7710,
-  "brand": "江汽集团",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "DEFINE-X": {
-  "series_id": 8128,
-  "brand": "江汽集团",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
  "钇为花仙子": {
   "series_id": 7772,
   "brand": "江汽集团",
@@ -19788,30 +19634,86 @@
   "price_low": 15.29,
   "price_high": 18.99
  },
- "小野牛": {
-  "series_id": 8388,
-  "brand": "江铃集团房车",
+ "金冠V级": {
+  "series_id": 5722,
+  "brand": "金冠汽车",
+  "price_text": "61.80-118.00万",
+  "price_low": 61.8,
+  "price_high": 118.0
+ },
+ "宾歌T10": {
+  "series_id": 7206,
+  "brand": "金冠汽车",
+  "price_text": "39.80-56.80万",
+  "price_low": 39.8,
+  "price_high": 56.8
+ },
+ "金冠G20": {
+  "series_id": 6968,
+  "brand": "金冠汽车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "江铃福特B型房车": {
-  "series_id": 8558,
-  "brand": "江铃集团房车",
+ "海狮Z系列": {
+  "series_id": 5126,
+  "brand": "厦门金旅",
+  "price_text": "12.18-14.98万",
+  "price_low": 12.18,
+  "price_high": 14.98
+ },
+ "金旅大海狮": {
+  "series_id": 3886,
+  "brand": "厦门金旅",
+  "price_text": "19.58-27.58万",
+  "price_low": 19.58,
+  "price_high": 27.58
+ },
+ "金旅海狮": {
+  "series_id": 2976,
+  "brand": "厦门金旅",
+  "price_text": "10.48-14.58万",
+  "price_low": 10.48,
+  "price_high": 14.58
+ },
+ "金旅海狮新能源": {
+  "series_id": 4601,
+  "brand": "厦门金旅",
+  "price_text": "12.58-29.88万",
+  "price_low": 12.58,
+  "price_high": 29.88
+ },
+ "领特": {
+  "series_id": 5296,
+  "brand": "厦门金旅",
+  "price_text": "23.38-26.48万",
+  "price_low": 23.38,
+  "price_high": 26.48
+ },
+ "领特新能源": {
+  "series_id": 5836,
+  "brand": "厦门金旅",
+  "price_text": "26.80-29.80万",
+  "price_low": 26.8,
+  "price_high": 29.8
+ },
+ "金旅大海狮新能源": {
+  "series_id": 3885,
+  "brand": "厦门金旅",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "大海牛": {
-  "series_id": 8391,
-  "brand": "江铃集团房车",
+ "金旅考斯特": {
+  "series_id": 2975,
+  "brand": "厦门金旅",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "福犀牛": {
-  "series_id": 8392,
-  "brand": "江铃集团房车",
+ "新时代海狮": {
+  "series_id": 5079,
+  "brand": "厦门金旅",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -19837,33 +19739,131 @@
   "price_low": 16.88,
   "price_high": 16.88
  },
- "迈凯宾": {
-  "series_id": 8141,
+ "龙耀5": {
+  "series_id": 7307,
   "brand": "厦门金龙",
-  "price_text": "46.88-51.88万",
-  "price_low": 46.88,
-  "price_high": 51.88
+  "price_text": "14.28-14.28万",
+  "price_low": 14.28,
+  "price_high": 14.28
  },
- "骏驰EK": {
-  "series_id": 7965,
-  "brand": "吉麦新能源",
-  "price_text": "6.58-6.58万",
-  "price_low": 6.58,
-  "price_high": 6.58
+ "龙耀6S": {
+  "series_id": 7455,
+  "brand": "厦门金龙",
+  "price_text": "16.28-16.28万",
+  "price_low": 16.28,
+  "price_high": 16.28
  },
- "骏驰EA": {
-  "series_id": 7964,
-  "brand": "吉麦新能源",
+ "金龙V8": {
+  "series_id": 8575,
+  "brand": "厦门金龙",
+  "price_text": "11.88-17.80万",
+  "price_low": 11.88,
+  "price_high": 17.8
+ },
+ "龙耀6": {
+  "series_id": 6625,
+  "brand": "厦门金龙",
+  "price_text": "16.88-17.68万",
+  "price_low": 16.88,
+  "price_high": 17.68
+ },
+ "金威": {
+  "series_id": 2986,
+  "brand": "厦门金龙",
+  "price_text": "7.88-9.48万",
+  "price_low": 7.88,
+  "price_high": 9.48
+ },
+ "凯歌": {
+  "series_id": 2985,
+  "brand": "厦门金龙",
+  "price_text": "13.58-27.88万",
+  "price_low": 13.58,
+  "price_high": 27.88
+ },
+ "凯歌新能源": {
+  "series_id": 7914,
+  "brand": "厦门金龙",
+  "price_text": "31.00-36.88万",
+  "price_low": 31.0,
+  "price_high": 36.88
+ },
+ "凯锐浩克": {
+  "series_id": 4850,
+  "brand": "厦门金龙",
+  "price_text": "8.98-13.98万",
+  "price_low": 8.98,
+  "price_high": 13.98
+ },
+ "龙耀8": {
+  "series_id": 5767,
+  "brand": "厦门金龙",
+  "price_text": "26.88-29.38万",
+  "price_low": 26.88,
+  "price_high": 29.38
+ },
+ "龙耀8L": {
+  "series_id": 6824,
+  "brand": "厦门金龙",
+  "price_text": "26.87-26.87万",
+  "price_low": 26.87,
+  "price_high": 26.87
+ },
+ "龙耀8S": {
+  "series_id": 7559,
+  "brand": "厦门金龙",
+  "price_text": "27.68-29.88万",
+  "price_low": 27.68,
+  "price_high": 29.88
+ },
+ "浩锐": {
+  "series_id": 6848,
+  "brand": "厦门金龙",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "骏驰ET": {
-  "series_id": 7966,
-  "brand": "吉麦新能源",
+ "凯特": {
+  "series_id": 3549,
+  "brand": "厦门金龙",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
+ },
+ "钧天勇猛者": {
+  "series_id": 5099,
+  "brand": "钧天机械",
+  "price_text": "85.80-146.80万",
+  "price_low": 85.8,
+  "price_high": 146.8
+ },
+ "钧天格瑞维亚": {
+  "series_id": 8142,
+  "brand": "钧天机械",
+  "price_text": "46.80-46.80万",
+  "price_low": 46.8,
+  "price_high": 46.8
+ },
+ "钧天纵横家": {
+  "series_id": 7768,
+  "brand": "钧天机械",
+  "price_text": "24.80-29.80万",
+  "price_low": 24.8,
+  "price_high": 29.8
+ },
+ "大道 沐光": {
+  "series_id": 8001,
+  "brand": "钧天机械",
+  "price_text": "24.36-25.56万",
+  "price_low": 24.36,
+  "price_high": 25.56
+ },
+ "钧天霸界": {
+  "series_id": 7079,
+  "brand": "钧天机械",
+  "price_text": "34.98-42.98万",
+  "price_low": 34.98,
+  "price_high": 42.98
  },
  "IQ傲歌": {
   "series_id": 7332,
@@ -25878,30 +25878,51 @@
   "price_low": null,
   "price_high": null
  },
- "天玑系列": {
-  "series_id": 8082,
-  "brand": "南京汽车改装厂",
-  "price_text": "118.00-118.00万",
-  "price_low": 118.0,
-  "price_high": 118.0
+ "朋克多多": {
+  "series_id": 6051,
+  "brand": "御捷新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "天枢系列": {
-  "series_id": 8081,
-  "brand": "南京汽车改装厂",
-  "price_text": "128.00-128.00万",
-  "price_low": 128.0,
-  "price_high": 128.0
+ "朋克啦啦": {
+  "series_id": 6052,
+  "brand": "御捷新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "星曜系列": {
-  "series_id": 8080,
-  "brand": "南京汽车改装厂",
-  "price_text": "108.00-108.00万",
-  "price_low": 108.0,
-  "price_high": 108.0
+ "朋克美美": {
+  "series_id": 6014,
+  "brand": "御捷新能源",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
  },
- "星宇系列": {
-  "series_id": 8265,
-  "brand": "南京汽车改装厂",
+ "Alisea": {
+  "series_id": 7665,
+  "brand": "帕加尼",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Huayra": {
+  "series_id": 2263,
+  "brand": "帕加尼",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Utopia": {
+  "series_id": 6747,
+  "brand": "帕加尼",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Zonda": {
+  "series_id": 366,
+  "brand": "帕加尼",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -25941,51 +25962,30 @@
   "price_low": null,
   "price_high": null
  },
- "Alisea": {
-  "series_id": 7665,
-  "brand": "帕加尼",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
+ "天玑系列": {
+  "series_id": 8082,
+  "brand": "南京汽车改装厂",
+  "price_text": "118.00-118.00万",
+  "price_low": 118.0,
+  "price_high": 118.0
  },
- "Huayra": {
-  "series_id": 2263,
-  "brand": "帕加尼",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
+ "天枢系列": {
+  "series_id": 8081,
+  "brand": "南京汽车改装厂",
+  "price_text": "128.00-128.00万",
+  "price_low": 128.0,
+  "price_high": 128.0
  },
- "Utopia": {
-  "series_id": 6747,
-  "brand": "帕加尼",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
+ "星曜系列": {
+  "series_id": 8080,
+  "brand": "南京汽车改装厂",
+  "price_text": "108.00-108.00万",
+  "price_low": 108.0,
+  "price_high": 108.0
  },
- "Zonda": {
-  "series_id": 366,
-  "brand": "帕加尼",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "朋克多多": {
-  "series_id": 6051,
-  "brand": "御捷新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "朋克啦啦": {
-  "series_id": 6052,
-  "brand": "御捷新能源",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "朋克美美": {
-  "series_id": 6014,
-  "brand": "御捷新能源",
+ "星宇系列": {
+  "series_id": 8265,
+  "brand": "南京汽车改装厂",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -30442,62 +30442,6 @@
   "price_low": null,
   "price_high": null
  },
- "Model 3": {
-  "series_id": 5346,
-  "brand": "特斯拉中国",
-  "price_text": "23.55-33.95万",
-  "price_low": 23.55,
-  "price_high": 33.95
- },
- "Model Y": {
-  "series_id": 5769,
-  "brand": "特斯拉中国",
-  "price_text": "26.35-31.35万",
-  "price_low": 26.35,
-  "price_high": 31.35
- },
- "Cybercab": {
-  "series_id": 5535,
-  "brand": "特斯拉",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "赛博SUV": {
-  "series_id": 4078,
-  "brand": "特斯拉",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Roadster": {
-  "series_id": 2356,
-  "brand": "特斯拉",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Robovan": {
-  "series_id": 7888,
-  "brand": "特斯拉",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Model S": {
-  "series_id": 2357,
-  "brand": "特斯拉",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "Model X": {
-  "series_id": 2664,
-  "brand": "特斯拉",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
  "坦克700新能源": {
   "series_id": 7504,
   "brand": "长城汽车",
@@ -30561,6 +30505,62 @@
   "price_low": null,
   "price_high": null
  },
+ "Model 3": {
+  "series_id": 5346,
+  "brand": "特斯拉中国",
+  "price_text": "23.55-33.95万",
+  "price_low": 23.55,
+  "price_high": 33.95
+ },
+ "Model Y": {
+  "series_id": 5769,
+  "brand": "特斯拉中国",
+  "price_text": "26.35-31.35万",
+  "price_low": 26.35,
+  "price_high": 31.35
+ },
+ "Cybercab": {
+  "series_id": 5535,
+  "brand": "特斯拉",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "赛博SUV": {
+  "series_id": 4078,
+  "brand": "特斯拉",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Roadster": {
+  "series_id": 2356,
+  "brand": "特斯拉",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Robovan": {
+  "series_id": 7888,
+  "brand": "特斯拉",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Model S": {
+  "series_id": 2357,
+  "brand": "特斯拉",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Model X": {
+  "series_id": 2664,
+  "brand": "特斯拉",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
  "腾势Z9": {
   "series_id": 8758,
   "brand": "腾势汽车",
@@ -30616,34 +30616,6 @@
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
- },
- "天际ME-S": {
-  "series_id": 5263,
-  "brand": "天际汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "天际ME5": {
-  "series_id": 6054,
-  "brand": "天际汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "天际ME7": {
-  "series_id": 4997,
-  "brand": "天际汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "拓锐斯特威霆": {
-  "series_id": 6678,
-  "brand": "拓锐斯特",
-  "price_text": "76.80-76.80万",
-  "price_low": 76.8,
-  "price_high": 76.8
  },
  "HK002": {
   "series_id": 6181,
@@ -30777,6 +30749,34 @@
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
+ },
+ "天际ME-S": {
+  "series_id": 5263,
+  "brand": "天际汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "天际ME5": {
+  "series_id": 6054,
+  "brand": "天际汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "天际ME7": {
+  "series_id": 4997,
+  "brand": "天际汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "拓锐斯特威霆": {
+  "series_id": 6678,
+  "brand": "拓锐斯特",
+  "price_text": "76.80-76.80万",
+  "price_low": 76.8,
+  "price_high": 76.8
  },
  "至仁": {
   "series_id": 4059,
@@ -35300,48 +35300,6 @@
   "price_low": 69.8,
   "price_high": 69.8
  },
- "智界S7": {
-  "series_id": 7355,
-  "brand": "LUXEED 智界",
-  "price_text": "22.98-32.98万",
-  "price_low": 22.98,
-  "price_high": 32.98
- },
- "智界R7": {
-  "series_id": 8684,
-  "brand": "LUXEED 智界",
-  "price_text": "24.98-31.98万",
-  "price_low": 24.98,
-  "price_high": 31.98
- },
- "智界V9": {
-  "series_id": 7824,
-  "brand": "LUXEED 智界",
-  "price_text": "38.98-51.98万",
-  "price_low": 38.98,
-  "price_high": 51.98
- },
- "尊界S800": {
-  "series_id": 7927,
-  "brand": "MAEXTRO 尊界",
-  "price_text": "70.80-138.80万",
-  "price_low": 70.8,
-  "price_high": 138.8
- },
- "搏胜": {
-  "series_id": 7519,
-  "brand": "中国重汽",
-  "price_text": "9.68-19.18万",
-  "price_low": 9.68,
-  "price_high": 19.18
- },
- "先锋官V EV": {
-  "series_id": 7767,
-  "brand": "中国重汽",
-  "price_text": "23.28-35.58万",
-  "price_low": 23.28,
-  "price_high": 35.58
- },
  "智己LS6": {
   "series_id": 7514,
   "brand": "智己汽车",
@@ -35377,16 +35335,275 @@
   "price_low": null,
   "price_high": null
  },
- "Aurora": {
-  "series_id": 8725,
-  "brand": "Zenvo",
+ "江南T11": {
+  "series_id": 4038,
+  "brand": "众泰汽车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "Zenvo": {
-  "series_id": 2602,
-  "brand": "Zenvo",
+ "江南TT": {
+  "series_id": 2230,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "云100": {
+  "series_id": 3575,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "芝麻": {
+  "series_id": 3779,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰E20": {
+  "series_id": 3447,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰E200": {
+  "series_id": 3529,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰ES330": {
+  "series_id": 5259,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰Z100": {
+  "series_id": 3002,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰Z200": {
+  "series_id": 2161,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰Z200HB": {
+  "series_id": 2171,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰Z300": {
+  "series_id": 2337,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰Z360": {
+  "series_id": 4371,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰Z500": {
+  "series_id": 3425,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰Z560": {
+  "series_id": 4327,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰Z700": {
+  "series_id": 3627,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰2008": {
+  "series_id": 558,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰5008": {
+  "series_id": 663,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰ET450": {
+  "series_id": 5028,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰T100": {
+  "series_id": 5351,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰T200": {
+  "series_id": 2336,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰T300": {
+  "series_id": 2333,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "大迈X5": {
+  "series_id": 4757,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰SR7": {
+  "series_id": 4835,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰T500": {
+  "series_id": 4417,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰TS5": {
+  "series_id": 5277,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "大迈X7": {
+  "series_id": 4092,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰SR9": {
+  "series_id": 4070,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰SR9新能源": {
+  "series_id": 4507,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰T600": {
+  "series_id": 2334,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰T700": {
+  "series_id": 4385,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰T800": {
+  "series_id": 4737,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰M300": {
+  "series_id": 708,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰B40": {
+  "series_id": 4521,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰V10": {
+  "series_id": 2480,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "众泰M10EV": {
+  "series_id": 5404,
+  "brand": "众泰汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "VGV TX7": {
+  "series_id": 5699,
+  "brand": "中国重汽VGV",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "VGV U70": {
+  "series_id": 5392,
+  "brand": "中国重汽VGV",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "VGV U75": {
+  "series_id": 8031,
+  "brand": "中国重汽VGV",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "VGV VX7": {
+  "series_id": 6242,
+  "brand": "中国重汽VGV",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
@@ -35685,33 +35902,96 @@
   "price_low": null,
   "price_high": null
  },
- "VGV TX7": {
-  "series_id": 5699,
-  "brand": "中国重汽VGV",
+ "知豆彩虹": {
+  "series_id": 7577,
+  "brand": "知豆电动车",
+  "price_text": "3.59-6.09万",
+  "price_low": 3.59,
+  "price_high": 6.09
+ },
+ "知豆": {
+  "series_id": 3497,
+  "brand": "知豆电动车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "VGV U70": {
-  "series_id": 5392,
-  "brand": "中国重汽VGV",
+ "知豆D1": {
+  "series_id": 3706,
+  "brand": "知豆电动车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "VGV U75": {
-  "series_id": 8031,
-  "brand": "中国重汽VGV",
+ "知豆D2": {
+  "series_id": 3827,
+  "brand": "知豆电动车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
  },
- "VGV VX7": {
-  "series_id": 6242,
-  "brand": "中国重汽VGV",
+ "知豆D3": {
+  "series_id": 4597,
+  "brand": "知豆电动车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
+ },
+ "Next": {
+  "series_id": 3816,
+  "brand": "华晨宝马",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "之诺1E": {
+  "series_id": 3237,
+  "brand": "华晨宝马",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "之诺60H": {
+  "series_id": 4146,
+  "brand": "华晨宝马",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "自游家NV": {
+  "series_id": 6568,
+  "brand": "大乘汽车",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Aurora": {
+  "series_id": 8725,
+  "brand": "Zenvo",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "Zenvo": {
+  "series_id": 2602,
+  "brand": "Zenvo",
+  "price_text": "暂无",
+  "price_low": null,
+  "price_high": null
+ },
+ "搏胜": {
+  "series_id": 7519,
+  "brand": "中国重汽",
+  "price_text": "9.68-19.18万",
+  "price_low": 9.68,
+  "price_high": 19.18
+ },
+ "先锋官V EV": {
+  "series_id": 7767,
+  "brand": "中国重汽",
+  "price_text": "23.28-35.58万",
+  "price_low": 23.28,
+  "price_high": 35.58
  },
  "游牧时代": {
   "series_id": 8374,
@@ -35769,271 +36049,12 @@
   "price_low": 15.28,
   "price_high": 15.28
  },
- "Next": {
-  "series_id": 3816,
-  "brand": "华晨宝马",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "之诺1E": {
-  "series_id": 3237,
-  "brand": "华晨宝马",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "之诺60H": {
-  "series_id": 4146,
-  "brand": "华晨宝马",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "江南T11": {
-  "series_id": 4038,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "江南TT": {
-  "series_id": 2230,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "云100": {
-  "series_id": 3575,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "芝麻": {
-  "series_id": 3779,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰E20": {
-  "series_id": 3447,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰E200": {
-  "series_id": 3529,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰ES330": {
-  "series_id": 5259,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰Z100": {
-  "series_id": 3002,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰Z200": {
-  "series_id": 2161,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰Z200HB": {
-  "series_id": 2171,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰Z300": {
-  "series_id": 2337,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰Z360": {
-  "series_id": 4371,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰Z500": {
-  "series_id": 3425,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰Z560": {
-  "series_id": 4327,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰Z700": {
-  "series_id": 3627,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰2008": {
-  "series_id": 558,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰5008": {
-  "series_id": 663,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰ET450": {
-  "series_id": 5028,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰T100": {
-  "series_id": 5351,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰T200": {
-  "series_id": 2336,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰T300": {
-  "series_id": 2333,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "大迈X5": {
-  "series_id": 4757,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰SR7": {
-  "series_id": 4835,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰T500": {
-  "series_id": 4417,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰TS5": {
-  "series_id": 5277,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "大迈X7": {
-  "series_id": 4092,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰SR9": {
-  "series_id": 4070,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰SR9新能源": {
-  "series_id": 4507,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰T600": {
-  "series_id": 2334,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰T700": {
-  "series_id": 4385,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰T800": {
-  "series_id": 4737,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰M300": {
-  "series_id": 708,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰B40": {
-  "series_id": 4521,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰V10": {
-  "series_id": 2480,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "众泰M10EV": {
-  "series_id": 5404,
-  "brand": "众泰汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
+ "尊界S800": {
+  "series_id": 7927,
+  "brand": "MAEXTRO 尊界",
+  "price_text": "70.80-138.80万",
+  "price_low": 70.8,
+  "price_high": 138.8
  },
  "智点F101微面": {
   "series_id": 6432,
@@ -36055,6 +36076,27 @@
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
+ },
+ "智界S7": {
+  "series_id": 7355,
+  "brand": "LUXEED 智界",
+  "price_text": "22.98-32.98万",
+  "price_low": 22.98,
+  "price_high": 32.98
+ },
+ "智界R7": {
+  "series_id": 8684,
+  "brand": "LUXEED 智界",
+  "price_text": "24.98-31.98万",
+  "price_low": 24.98,
+  "price_high": 31.98
+ },
+ "智界V9": {
+  "series_id": 7824,
+  "brand": "LUXEED 智界",
+  "price_text": "38.98-51.98万",
+  "price_low": 38.98,
+  "price_high": 51.98
  },
  "欧尔法": {
   "series_id": 8139,
@@ -36126,41 +36168,6 @@
   "price_low": null,
   "price_high": null
  },
- "知豆彩虹": {
-  "series_id": 7577,
-  "brand": "知豆电动车",
-  "price_text": "3.59-6.09万",
-  "price_low": 3.59,
-  "price_high": 6.09
- },
- "知豆": {
-  "series_id": 3497,
-  "brand": "知豆电动车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "知豆D1": {
-  "series_id": 3706,
-  "brand": "知豆电动车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "知豆D2": {
-  "series_id": 3827,
-  "brand": "知豆电动车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "知豆D3": {
-  "series_id": 4597,
-  "brand": "知豆电动车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
  "纵横R700": {
   "series_id": 8023,
   "brand": "奇瑞汽车",
@@ -36171,13 +36178,6 @@
  "纵横G900": {
   "series_id": 8022,
   "brand": "奇瑞汽车",
-  "price_text": "暂无",
-  "price_low": null,
-  "price_high": null
- },
- "自游家NV": {
-  "series_id": 6568,
-  "brand": "大乘汽车",
   "price_text": "暂无",
   "price_low": null,
   "price_high": null
