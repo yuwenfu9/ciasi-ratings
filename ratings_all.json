@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-08-30T20:33:56+08:00",
+  "generated_at": "2026-08-31T15:19:44+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -19,7 +19,7 @@
    "c_icap": 25,
    "c_gcap": 38
   },
-  "scraped_at": "2026-08-30T20:34:58+08:00"
+  "scraped_at": "2026-08-31T15:19:49+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -572,9 +572,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-903.html",
     "msrp_guide": {
-     "low": 18.98,
-     "high": 24.98,
-     "text": "18.98-24.98万",
+     "low": 13.58,
+     "high": 17.58,
+     "text": "13.58-17.58万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -11498,9 +11498,9 @@
     "evaluationId": "0fe029b2c6ea4dba94f7df555f474aa1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/0fe029b2c6ea4dba94f7df555f474aa1",
     "msrp_guide": {
-     "low": 41.06,
-     "high": 41.06,
-     "text": "41.06-41.06万",
+     "low": 22.9,
+     "high": 28.56,
+     "text": "22.90-28.56万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -13100,9 +13100,9 @@
     "evaluationId": "1564915471822667777",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915471822667777",
     "msrp_guide": {
-     "low": 9.99,
+     "low": 6.99,
      "high": 13.99,
-     "text": "9.99-13.99万",
+     "text": "6.99-13.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -14634,7 +14634,7 @@
     "evaluationId": "eeadcbcf8adabb79c903dd7debc39fd7",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/eeadcbcf8adabb79c903dd7debc39fd7",
     "msrp_guide": null,
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "empty"
    },
    {
     "carName": "蔚来ES6",
@@ -14672,7 +14672,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "empty"
    },
    {
     "carName": "极狐牌阿尔法S",
