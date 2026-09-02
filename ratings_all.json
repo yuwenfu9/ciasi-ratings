@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-09-01T14:21:21+08:00",
+  "generated_at": "2026-09-02T13:52:24+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -19,7 +19,7 @@
    "c_icap": 25,
    "c_gcap": 38
   },
-  "scraped_at": "2026-09-01T14:21:25+08:00"
+  "scraped_at": "2026-09-02T13:52:28+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -4890,9 +4890,9 @@
     "evaluationId": "d4b96cb5d99afb1de089a7339e42155c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d4b96cb5d99afb1de089a7339e42155c",
     "msrp_guide": {
-     "low": 16.88,
-     "high": 19.98,
-     "text": "16.88-19.98万",
+     "low": 9.88,
+     "high": 16.55,
+     "text": "9.88-16.55万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -12388,9 +12388,9 @@
     "evaluationId": "1968491184712069121",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1968491184712069121",
     "msrp_guide": {
-     "low": 7.98,
-     "high": 12.58,
-     "text": "7.98-12.58万",
+     "low": 9.98,
+     "high": 12.98,
+     "text": "9.98-12.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -12630,9 +12630,9 @@
     "evaluationId": "e3db6ce2cc31eed9f924e9bbf51fc68c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e3db6ce2cc31eed9f924e9bbf51fc68c",
     "msrp_guide": {
-     "low": 16.88,
-     "high": 19.98,
-     "text": "16.88-19.98万",
+     "low": 9.88,
+     "high": 16.55,
+     "text": "9.88-16.55万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -13070,9 +13070,9 @@
     "evaluationId": "1564915471822667777",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915471822667777",
     "msrp_guide": {
-     "low": 6.99,
+     "low": 9.99,
      "high": 13.99,
-     "text": "6.99-13.99万",
+     "text": "9.99-13.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
