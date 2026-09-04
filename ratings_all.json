@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-09-03T13:58:50+08:00",
+  "generated_at": "2026-09-04T14:08:31+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -14,12 +14,12 @@
   "score_note": "各机构评级刻度不可通约，仅并列展示；C-IASI 综合分（乘员40%+行人20%+辅助20%+维修经济20%）与 C-NCAP/CCRT/C-ICAP/C-GCAP 综合分由看板派生，供排序用。",
   "record_counts": {
    "c_iasi": 188,
-   "c_ncap": 400,
-   "ccrt": 100,
+   "c_ncap": 601,
+   "ccrt": 136,
    "c_icap": 0,
    "c_gcap": 0
   },
-  "scraped_at": "2026-09-03T13:58:51+08:00"
+  "scraped_at": "2026-09-04T14:08:31+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -130,9 +130,9 @@
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-995.html",
     "msrp_guide": {
-     "low": 19.89,
-     "high": 25.99,
-     "text": "19.89-25.99万",
+     "low": 21.79,
+     "high": 22.99,
+     "text": "21.79-22.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -566,9 +566,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-903.html",
     "msrp_guide": {
-     "low": 18.98,
-     "high": 24.98,
-     "text": "18.98-24.98万",
+     "low": 13.58,
+     "high": 17.58,
+     "text": "13.58-17.58万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -4096,9 +4096,9 @@
     "evaluationId": "da82b7d6060e8e6da24e2abebd4f09c1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/da82b7d6060e8e6da24e2abebd4f09c1",
     "msrp_guide": {
-     "low": 9.98,
-     "high": 22.98,
-     "text": "9.98-22.98万",
+     "low": 19.38,
+     "high": 30.18,
+     "text": "19.38-30.18万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -5708,9 +5708,9 @@
     "evaluationId": "c998e6842d3a4f7b9c13d34bac817608",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c998e6842d3a4f7b9c13d34bac817608",
     "msrp_guide": {
-     "low": 22.99,
-     "high": 25.99,
-     "text": "22.99-25.99万",
+     "low": 19.69,
+     "high": 20.49,
+     "text": "19.69-20.49万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -8020,9 +8020,9 @@
     "evaluationId": "87c358079f4c4cadb084c95b4da7d681",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/87c358079f4c4cadb084c95b4da7d681",
     "msrp_guide": {
-     "low": 22.99,
-     "high": 25.99,
-     "text": "22.99-25.99万",
+     "low": 19.69,
+     "high": 20.49,
+     "text": "19.69-20.49万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -9586,6 +9586,2694 @@
     "evaluationId": "45fc3ee016ef446c852081a43a904595",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/45fc3ee016ef446c852081a43a904595",
     "msrp_guide": null
+   },
+   {
+    "carName": "奇瑞瑞麒G5",
+    "brand": "奇瑞",
+    "year": "2013",
+    "score": "44.4%",
+    "targets": {
+     "乘员保护": "47.63%"
+    },
+    "evaluationId": "c5f8db6d8f5b4868ab81efc88d752f88",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/c5f8db6d8f5b4868ab81efc88d752f88",
+    "msrp_guide": null
+   },
+   {
+    "carName": "长安睿骋",
+    "brand": "长安",
+    "year": "2013",
+    "score": "56.2%",
+    "targets": {
+     "乘员保护": "59.41%"
+    },
+    "evaluationId": "bbb63aae97c645a9b633f93f15b2332c",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/bbb63aae97c645a9b633f93f15b2332c",
+    "msrp_guide": null
+   },
+   {
+    "carName": "北汽绅宝",
+    "brand": "北京",
+    "year": "2013",
+    "score": "56.1%",
+    "targets": {
+     "乘员保护": "59.46%"
+    },
+    "evaluationId": "8c180c20861d476e97f79a201e102215",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/8c180c20861d476e97f79a201e102215",
+    "msrp_guide": null
+   },
+   {
+    "carName": "东风日产天籁",
+    "brand": "东风日产",
+    "year": "2013",
+    "score": "57%",
+    "targets": {
+     "乘员保护": "60.39%"
+    },
+    "evaluationId": "4899a629af6e42f0a279c5e49ff60a85",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/4899a629af6e42f0a279c5e49ff60a85",
+    "msrp_guide": {
+     "low": 13.99,
+     "high": 23.98,
+     "text": "13.99-23.98万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "宝马BMW320Li",
+    "brand": "华晨宝马",
+    "year": "2013",
+    "score": "56.5%",
+    "targets": {
+     "乘员保护": "59.64%"
+    },
+    "evaluationId": "2926542807e04cbe8f38a7a50efdcf2c",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/2926542807e04cbe8f38a7a50efdcf2c",
+    "msrp_guide": null
+   },
+   {
+    "carName": "中华H230",
+    "brand": "",
+    "year": "2013",
+    "score": "52.7%",
+    "targets": {
+     "乘员保护": "56.28%"
+    },
+    "evaluationId": "861b0e298f1e40918ae8374bb523931e",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/861b0e298f1e40918ae8374bb523931e",
+    "msrp_guide": null
+   },
+   {
+    "carName": "大众甲壳虫",
+    "brand": "大众",
+    "year": "2013",
+    "score": "54%",
+    "targets": {
+     "乘员保护": "57.06%"
+    },
+    "evaluationId": "ba29e346a3f54235b4b8d304651388da",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/ba29e346a3f54235b4b8d304651388da",
+    "msrp_guide": null
+   },
+   {
+    "carName": "大众朗逸",
+    "brand": "上汽大众",
+    "year": "2013",
+    "score": "54.8%",
+    "targets": {
+     "乘员保护": "57.87%"
+    },
+    "evaluationId": "4364c13822e44a70a8150c8dfbec5f0e",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/4364c13822e44a70a8150c8dfbec5f0e",
+    "msrp_guide": {
+     "low": 8.0,
+     "high": 15.19,
+     "text": "8.00-15.19万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "现代朗动",
+    "brand": "北京现代",
+    "year": "2013",
+    "score": "55.5%",
+    "targets": {
+     "乘员保护": "58.7%"
+    },
+    "evaluationId": "80cdbd0c53244ce1ade68b4da4f046f7",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/80cdbd0c53244ce1ade68b4da4f046f7",
+    "msrp_guide": null
+   },
+   {
+    "carName": "雪铁龙C4L",
+    "brand": "雪铁龙",
+    "year": "2013",
+    "score": "53.8%",
+    "targets": {
+     "乘员保护": "57.23%"
+    },
+    "evaluationId": "7be60433cdb048bab7840459478403c5",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/7be60433cdb048bab7840459478403c5",
+    "msrp_guide": null
+   },
+   {
+    "carName": "名爵MG5",
+    "brand": "名爵",
+    "year": "2013",
+    "score": "52.2%",
+    "targets": {
+     "乘员保护": "55.45%"
+    },
+    "evaluationId": "898e5875e6af45f1969b40df3c2031c1",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/898e5875e6af45f1969b40df3c2031c1",
+    "msrp_guide": {
+     "low": 6.79,
+     "high": 9.89,
+     "text": "6.79-9.89万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "东风行景逸",
+    "brand": "东风",
+    "year": "2013",
+    "score": "42.3%",
+    "targets": {
+     "乘员保护": "45.9%"
+    },
+    "evaluationId": "b99ccacde1f642b5845309004da9b910",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/b99ccacde1f642b5845309004da9b910",
+    "msrp_guide": null
+   },
+   {
+    "carName": "名爵MG5",
+    "brand": "名爵",
+    "year": "2013",
+    "score": "47.4%",
+    "targets": {
+     "乘员保护": "50.44%"
+    },
+    "evaluationId": "703dd47c198f46e9a8afa90a109a5e72",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/703dd47c198f46e9a8afa90a109a5e72",
+    "msrp_guide": {
+     "low": 6.79,
+     "high": 9.89,
+     "text": "6.79-9.89万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "起亚K3",
+    "brand": "东风悦达起亚",
+    "year": "2013",
+    "score": "54.2%",
+    "targets": {
+     "乘员保护": "57.22%"
+    },
+    "evaluationId": "12f0d8618f534c29b0fc7fd946d48289",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/12f0d8618f534c29b0fc7fd946d48289",
+    "msrp_guide": null
+   },
+   {
+    "carName": "现代飞思",
+    "brand": "现代",
+    "year": "2013",
+    "score": "51.8%",
+    "targets": {
+     "乘员保护": "54.8%"
+    },
+    "evaluationId": "eddd1591230f420687aaffa9b95fee18",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/eddd1591230f420687aaffa9b95fee18",
+    "msrp_guide": null
+   },
+   {
+    "carName": "吉利英伦SC515",
+    "brand": "吉利",
+    "year": "2013",
+    "score": "55.4%",
+    "targets": {
+     "乘员保护": "58.77%"
+    },
+    "evaluationId": "40290cc674ca42acbefbba590ab1f3d6",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/40290cc674ca42acbefbba590ab1f3d6",
+    "msrp_guide": null
+   },
+   {
+    "carName": "一汽威志V5",
+    "brand": "一汽",
+    "year": "2013",
+    "score": "30.5%",
+    "targets": {
+     "乘员保护": "34.08%"
+    },
+    "evaluationId": "2ad892b309d0416493f23476cb6e479f",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/2ad892b309d0416493f23476cb6e479f",
+    "msrp_guide": null
+   },
+   {
+    "carName": "别克昂科拉",
+    "brand": "别克",
+    "year": "2012",
+    "score": "56.4%",
+    "targets": {
+     "乘员保护": "59.55%"
+    },
+    "evaluationId": "65154c7d60ab4510a6f56f05385e8dd2",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/65154c7d60ab4510a6f56f05385e8dd2",
+    "msrp_guide": null
+   },
+   {
+    "carName": "哈弗C50",
+    "brand": "长城",
+    "year": "2012",
+    "score": "52.5%",
+    "targets": {
+     "乘员保护": "55.82%"
+    },
+    "evaluationId": "dcee6a97f1134418a71d68dd7223271b",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/dcee6a97f1134418a71d68dd7223271b",
+    "msrp_guide": null
+   },
+   {
+    "carName": "本田思铭",
+    "brand": "东风本田",
+    "year": "2012",
+    "score": "49%",
+    "targets": {
+     "乘员保护": "52.28%"
+    },
+    "evaluationId": "b9d033aaf143457f8dc68249b6576073",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/b9d033aaf143457f8dc68249b6576073",
+    "msrp_guide": null
+   },
+   {
+    "carName": "大众迈腾",
+    "brand": "大众",
+    "year": "2012",
+    "score": "52.8%",
+    "targets": {
+     "乘员保护": "55.83%"
+    },
+    "evaluationId": "bcb99c2b67284d53962c4e8b6a53c449",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/bcb99c2b67284d53962c4e8b6a53c449",
+    "msrp_guide": {
+     "low": 17.49,
+     "high": 24.69,
+     "text": "17.49-24.69万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "菲亚特菲翔",
+    "brand": "广汽",
+    "year": "2012",
+    "score": "52.7%",
+    "targets": {
+     "乘员保护": "56.55%"
+    },
+    "evaluationId": "6112f20430834018b4a747c0790a5604",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/6112f20430834018b4a747c0790a5604",
+    "msrp_guide": null
+   },
+   {
+    "carName": "启辰 D50",
+    "brand": "东风日产",
+    "year": "2012",
+    "score": "48.4%",
+    "targets": {
+     "乘员保护": "51.47%"
+    },
+    "evaluationId": "3d352adc61a9433686904fd5f15da3f9",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/3d352adc61a9433686904fd5f15da3f9",
+    "msrp_guide": null
+   },
+   {
+    "carName": "北汽E150",
+    "brand": "北京",
+    "year": "2012",
+    "score": "35.7%",
+    "targets": {
+     "乘员保护": "39.44%"
+    },
+    "evaluationId": "5d0a390ec0f347cabbc2593a09cf4b2c",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/5d0a390ec0f347cabbc2593a09cf4b2c",
+    "msrp_guide": null
+   },
+   {
+    "carName": "北汽E150",
+    "brand": "北京",
+    "year": "2012",
+    "score": "41.1%",
+    "targets": {
+     "乘员保护": "44.71%"
+    },
+    "evaluationId": "bb5338680f9e42c5a30763efbd042d82",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/bb5338680f9e42c5a30763efbd042d82",
+    "msrp_guide": null
+   },
+   {
+    "carName": "长安逸动",
+    "brand": "长安",
+    "year": "2012",
+    "score": "52.9%",
+    "targets": {
+     "乘员保护": "56.03%"
+    },
+    "evaluationId": "35300c44ff314f36b713a807b5efe4b8",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/35300c44ff314f36b713a807b5efe4b8",
+    "msrp_guide": {
+     "low": 7.29,
+     "high": 9.99,
+     "text": "7.29-9.99万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "宝骏630",
+    "brand": "上汽通用五菱",
+    "year": "2012",
+    "score": "44.3%",
+    "targets": {
+     "乘员保护": "47.5%"
+    },
+    "evaluationId": "b83f8690880849ec80763947069b079b",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/b83f8690880849ec80763947069b079b",
+    "msrp_guide": null
+   },
+   {
+    "carName": "海马爱尚",
+    "brand": "海马",
+    "year": "2012",
+    "score": "28.3%",
+    "targets": {
+     "乘员保护": "32.15%"
+    },
+    "evaluationId": "3e7f0b1d89c3491ca279659118861325",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/3e7f0b1d89c3491ca279659118861325",
+    "msrp_guide": null
+   },
+   {
+    "carName": "本田CR-V",
+    "brand": "东风本田",
+    "year": "2012",
+    "score": "57%",
+    "targets": {
+     "乘员保护": "60.69%"
+    },
+    "evaluationId": "28d8f6a25f8742a89138605c187cc97a",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/28d8f6a25f8742a89138605c187cc97a",
+    "msrp_guide": {
+     "low": 18.59,
+     "high": 24.99,
+     "text": "18.59-24.99万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "全球鹰GX7",
+    "brand": "",
+    "year": "2012",
+    "score": "50.3%",
+    "targets": {
+     "乘员保护": "50.3%"
+    },
+    "evaluationId": "fd2e6fb93a614b12b9bca0c6ae5f49bc",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/fd2e6fb93a614b12b9bca0c6ae5f49bc",
+    "msrp_guide": null
+   },
+   {
+    "carName": "新猎豹CS6",
+    "brand": "广汽",
+    "year": "2012",
+    "score": "40.7%",
+    "targets": {
+     "乘员保护": "40.74%"
+    },
+    "evaluationId": "6bfcff633a374983ade682e34836b90e",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/6bfcff633a374983ade682e34836b90e",
+    "msrp_guide": null
+   },
+   {
+    "carName": "力帆X60",
+    "brand": "力帆",
+    "year": "2012",
+    "score": "44.6%",
+    "targets": {
+     "乘员保护": "44.62%"
+    },
+    "evaluationId": "43d6b00cf1004482b37dd873ca5618c1",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/43d6b00cf1004482b37dd873ca5618c1",
+    "msrp_guide": null
+   },
+   {
+    "carName": "马自达3星骋",
+    "brand": "长安福特",
+    "year": "2012",
+    "score": "50.2%",
+    "targets": {
+     "乘员保护": "50.2%"
+    },
+    "evaluationId": "34b1e208ebb746feb1620970c9c44ed8",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/34b1e208ebb746feb1620970c9c44ed8",
+    "msrp_guide": null
+   },
+   {
+    "carName": "众泰Z300",
+    "brand": "众泰",
+    "year": "2012",
+    "score": "47.7%",
+    "targets": {
+     "乘员保护": "47.71%"
+    },
+    "evaluationId": "a80937253ad342f98a6b54dc2b429e65",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/a80937253ad342f98a6b54dc2b429e65",
+    "msrp_guide": null
+   },
+   {
+    "carName": "丰田逸致",
+    "brand": "广汽丰田",
+    "year": "2012",
+    "score": "48.3%",
+    "targets": {
+     "乘员保护": "48.32%"
+    },
+    "evaluationId": "debea3798d804848a1519c4a986e241c",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/debea3798d804848a1519c4a986e241c",
+    "msrp_guide": null
+   },
+   {
+    "carName": "传祺GS5",
+    "brand": "",
+    "year": "2012",
+    "score": "49.1%",
+    "targets": {
+     "乘员保护": "49.11%"
+    },
+    "evaluationId": "342f6e468d2944adbd37b9d4b83f042f",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/342f6e468d2944adbd37b9d4b83f042f",
+    "msrp_guide": null
+   },
+   {
+    "carName": "福特新福克斯",
+    "brand": "长安福特",
+    "year": "2012",
+    "score": "46.5%",
+    "targets": {
+     "乘员保护": "46.54%"
+    },
+    "evaluationId": "5f453aeffc2549899238b4fef40a1444",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/5f453aeffc2549899238b4fef40a1444",
+    "msrp_guide": null
+   },
+   {
+    "carName": "标致308",
+    "brand": "标致",
+    "year": "2012",
+    "score": "46.8%",
+    "targets": {
+     "乘员保护": "46.82%"
+    },
+    "evaluationId": "8284ffa80cc243f2a0427a1c56d586d5",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/8284ffa80cc243f2a0427a1c56d586d5",
+    "msrp_guide": null
+   },
+   {
+    "carName": "东风风神风神A60",
+    "brand": "东风",
+    "year": "2012",
+    "score": "45.3%",
+    "targets": {
+     "乘员保护": "45.28%"
+    },
+    "evaluationId": "5ec6972ce7064e64836cb1aa72f021b6",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/5ec6972ce7064e64836cb1aa72f021b6",
+    "msrp_guide": null
+   },
+   {
+    "carName": "日产新骐达",
+    "brand": "东风日产",
+    "year": "2012",
+    "score": "47%",
+    "targets": {
+     "乘员保护": "47.02%"
+    },
+    "evaluationId": "162160451e4a4a51ae875e615ff05d7f",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/162160451e4a4a51ae875e615ff05d7f",
+    "msrp_guide": null
+   },
+   {
+    "carName": "长安奔奔MINI",
+    "brand": "长安",
+    "year": "2012",
+    "score": "32.9%",
+    "targets": {
+     "乘员保护": "32.94%"
+    },
+    "evaluationId": "9fcf61f984704a13a63d724019dcfa7f",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/9fcf61f984704a13a63d724019dcfa7f",
+    "msrp_guide": null
+   },
+   {
+    "carName": "欧朗",
+    "brand": "一汽",
+    "year": "2012",
+    "score": "40.8%",
+    "targets": {
+     "乘员保护": "40.76%"
+    },
+    "evaluationId": "54ebe63a296b434dbb1a50c9e2c3c738",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/54ebe63a296b434dbb1a50c9e2c3c738",
+    "msrp_guide": null
+   },
+   {
+    "carName": "雪佛兰赛欧",
+    "brand": "雪佛兰",
+    "year": "2012",
+    "score": "41%",
+    "targets": {
+     "乘员保护": "40.97%"
+    },
+    "evaluationId": "592c47d1c2e449ebb16c8ef84a2b91ac",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/592c47d1c2e449ebb16c8ef84a2b91ac",
+    "msrp_guide": null
+   },
+   {
+    "carName": "奇瑞瑞麒G3",
+    "brand": "奇瑞",
+    "year": "2012",
+    "score": "47%",
+    "targets": {
+     "乘员保护": "46.98%"
+    },
+    "evaluationId": "cd8c16430c46482dbfbe71319fb424b5",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/cd8c16430c46482dbfbe71319fb424b5",
+    "msrp_guide": null
+   },
+   {
+    "carName": "起亚K2",
+    "brand": "东风悦达起亚",
+    "year": "2012",
+    "score": "45.1%",
+    "targets": {
+     "乘员保护": "45.09%"
+    },
+    "evaluationId": "1bb1728852d54897b3e223e3a3c720c3",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1bb1728852d54897b3e223e3a3c720c3",
+    "msrp_guide": null
+   },
+   {
+    "carName": "哈弗H6",
+    "brand": "长城",
+    "year": "2012",
+    "score": "45.8%",
+    "targets": {
+     "乘员保护": "45.84%"
+    },
+    "evaluationId": "3ecbb34f89df4f08b87025063de80f7f",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/3ecbb34f89df4f08b87025063de80f7f",
+    "msrp_guide": {
+     "low": 9.89,
+     "high": 14.39,
+     "text": "9.89-14.39万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "丰田第七代凯美瑞",
+    "brand": "广汽丰田",
+    "year": "2012",
+    "score": "50.3%",
+    "targets": {
+     "乘员保护": "50.34%"
+    },
+    "evaluationId": "36ae0a3f5a0d4389b88d25dcd7ab1adf",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/36ae0a3f5a0d4389b88d25dcd7ab1adf",
+    "msrp_guide": null
+   },
+   {
+    "carName": "名爵荣威W5",
+    "brand": "荣威",
+    "year": "2012",
+    "score": "45.3%",
+    "targets": {
+     "乘员保护": "45.28%"
+    },
+    "evaluationId": "73649949778346d7ac3acc7ae64b5e6d",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/73649949778346d7ac3acc7ae64b5e6d",
+    "msrp_guide": null
+   },
+   {
+    "carName": "比亚迪G6",
+    "brand": "比亚迪",
+    "year": "2012",
+    "score": "43.9%",
+    "targets": {
+     "乘员保护": "43.94%"
+    },
+    "evaluationId": "0561c537f55449f2bb66ac3c11ffcdd0",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/0561c537f55449f2bb66ac3c11ffcdd0",
+    "msrp_guide": null
+   },
+   {
+    "carName": "纳智捷大7",
+    "brand": "东风",
+    "year": "2012",
+    "score": "46.5%",
+    "targets": {
+     "乘员保护": "46.45%"
+    },
+    "evaluationId": "a6774b51d3744607a5e0402ea22d7ac7",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/a6774b51d3744607a5e0402ea22d7ac7",
+    "msrp_guide": null
+   },
+   {
+    "carName": "大众新帕萨特",
+    "brand": "上汽大众",
+    "year": "2012",
+    "score": "47.4%",
+    "targets": {
+     "乘员保护": "47.38%"
+    },
+    "evaluationId": "c6f7503b8ecc48e886e29601495df436",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/c6f7503b8ecc48e886e29601495df436",
+    "msrp_guide": null
+   },
+   {
+    "carName": "中华H530",
+    "brand": "",
+    "year": "2012",
+    "score": "45.2%",
+    "targets": {
+     "乘员保护": "45.18%"
+    },
+    "evaluationId": "2592e6ed1ab64d2891db1d55fbf6ea2b",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/2592e6ed1ab64d2891db1d55fbf6ea2b",
+    "msrp_guide": null
+   },
+   {
+    "carName": "现代ix35",
+    "brand": "北京现代",
+    "year": "2012",
+    "score": "47.6%",
+    "targets": {
+     "乘员保护": "47.56%"
+    },
+    "evaluationId": "4b2449f3dea54b058857cdab71bafe5c",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/4b2449f3dea54b058857cdab71bafe5c",
+    "msrp_guide": {
+     "low": 12.18,
+     "high": 14.28,
+     "text": "12.18-14.28万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "雪佛兰爱唯欧",
+    "brand": "雪佛兰",
+    "year": "2012",
+    "score": "47.7%",
+    "targets": {
+     "乘员保护": "47.7%"
+    },
+    "evaluationId": "8f7db9fa416f4236a8c099b653b3d99d",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/8f7db9fa416f4236a8c099b653b3d99d",
+    "msrp_guide": null
+   },
+   {
+    "carName": "江淮和悦",
+    "brand": "江淮",
+    "year": "2011",
+    "score": "46%",
+    "targets": {
+     "乘员保护": "46%"
+    },
+    "evaluationId": "c36b719c6b5f4e0dab569303a2c6f01f",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/c36b719c6b5f4e0dab569303a2c6f01f",
+    "msrp_guide": null
+   },
+   {
+    "carName": "本田思域",
+    "brand": "东风本田",
+    "year": "2011",
+    "score": "48.3%",
+    "targets": {
+     "乘员保护": "48.28%"
+    },
+    "evaluationId": "f9c79a379dcf4f4a8c4758d2cdea7c2b",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/f9c79a379dcf4f4a8c4758d2cdea7c2b",
+    "msrp_guide": {
+     "low": 9.79,
+     "high": 17.79,
+     "text": "9.79-17.79万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "现代第八代索纳塔",
+    "brand": "北京现代",
+    "year": "2011",
+    "score": "50.7%",
+    "targets": {
+     "乘员保护": "50.65%"
+    },
+    "evaluationId": "53d6b0ab6c21419c90e7b71f916cf359",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/53d6b0ab6c21419c90e7b71f916cf359",
+    "msrp_guide": {
+     "low": 13.98,
+     "high": 17.38,
+     "text": "13.98-17.38万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "一汽威志V2",
+    "brand": "一汽",
+    "year": "2011",
+    "score": "31.2%",
+    "targets": {
+     "乘员保护": "31.24%"
+    },
+    "evaluationId": "b3adfc26b74a4b72b069f213e46fd10c",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/b3adfc26b74a4b72b069f213e46fd10c",
+    "msrp_guide": null
+   },
+   {
+    "carName": "起亚智跑",
+    "brand": "东风悦达起亚",
+    "year": "2011",
+    "score": "48.6%",
+    "targets": {
+     "乘员保护": "48.6%"
+    },
+    "evaluationId": "73bc6ec9a3ae4d67bfe59bc3c8ea1a99",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/73bc6ec9a3ae4d67bfe59bc3c8ea1a99",
+    "msrp_guide": {
+     "low": 13.98,
+     "high": 15.78,
+     "text": "13.98-15.78万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "海马福美来三代",
+    "brand": "一汽",
+    "year": "2011",
+    "score": "41.7%",
+    "targets": {
+     "乘员保护": "41.69%"
+    },
+    "evaluationId": "f65248d00653473793a83292dc242123",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/f65248d00653473793a83292dc242123",
+    "msrp_guide": null
+   },
+   {
+    "carName": "比亚迪S6",
+    "brand": "比亚迪",
+    "year": "2011",
+    "score": "46%",
+    "targets": {
+     "乘员保护": "45.97%"
+    },
+    "evaluationId": "69791a1c4568440d99b2d294afcc2922",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/69791a1c4568440d99b2d294afcc2922",
+    "msrp_guide": null
+   },
+   {
+    "carName": "标致508",
+    "brand": "标致",
+    "year": "2011",
+    "score": "48.9%",
+    "targets": {
+     "乘员保护": "48.86%"
+    },
+    "evaluationId": "c90dfcce361f425b88d3840b9c17ba9a",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/c90dfcce361f425b88d3840b9c17ba9a",
+    "msrp_guide": {
+     "low": 16.37,
+     "high": 19.47,
+     "text": "16.37-19.47万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "吉利帝豪EC8",
+    "brand": "吉利",
+    "year": "2011",
+    "score": "49.6%",
+    "targets": {
+     "乘员保护": "49.63%"
+    },
+    "evaluationId": "4ad2169762fb4d209047181ddfda3d77",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/4ad2169762fb4d209047181ddfda3d77",
+    "msrp_guide": {
+     "low": 6.29,
+     "high": 9.79,
+     "text": "6.29-9.79万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "2011款别克新GL8",
+    "brand": "别克",
+    "year": "2011",
+    "score": "47.7%",
+    "targets": {
+     "乘员保护": "47.65%"
+    },
+    "evaluationId": "05cd563540bc4d488277663651da5813",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/05cd563540bc4d488277663651da5813",
+    "msrp_guide": null
+   },
+   {
+    "carName": "长安CX20",
+    "brand": "长安",
+    "year": "2011",
+    "score": "35.8%",
+    "targets": {
+     "乘员保护": "35.84%"
+    },
+    "evaluationId": "09982d8d053d40e4bb42a68f545d99d9",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/09982d8d053d40e4bb42a68f545d99d9",
+    "msrp_guide": null
+   },
+   {
+    "carName": "丰田新锐志",
+    "brand": "一汽丰田",
+    "year": "2011",
+    "score": "49%",
+    "targets": {
+     "乘员保护": "48.98%"
+    },
+    "evaluationId": "22c67467fae645308f9fcd8fb2018d0c",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/22c67467fae645308f9fcd8fb2018d0c",
+    "msrp_guide": null
+   },
+   {
+    "carName": "本田理念S1",
+    "brand": "广汽本田",
+    "year": "2011",
+    "score": "40.4%",
+    "targets": {
+     "乘员保护": "40.41%"
+    },
+    "evaluationId": "fae378fdfda74099a8ced61cd557ef1d",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/fae378fdfda74099a8ced61cd557ef1d",
+    "msrp_guide": null
+   },
+   {
+    "carName": "华泰B11",
+    "brand": "",
+    "year": "2011",
+    "score": "40.2%",
+    "targets": {
+     "乘员保护": "40.23%"
+    },
+    "evaluationId": "8d34aeb2d82e4bd29daef89f7dbf9a66",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/8d34aeb2d82e4bd29daef89f7dbf9a66",
+    "msrp_guide": null
+   },
+   {
+    "carName": "大众新POLO",
+    "brand": "上汽大众",
+    "year": "2011",
+    "score": "45.4%",
+    "targets": {
+     "乘员保护": "45.36%"
+    },
+    "evaluationId": "836cda658f074ef897308d46269acf65",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/836cda658f074ef897308d46269acf65",
+    "msrp_guide": null
+   },
+   {
+    "carName": "起亚K5",
+    "brand": "东风悦达起亚",
+    "year": "2011",
+    "score": "50.7%",
+    "targets": {
+     "乘员保护": "50.67%"
+    },
+    "evaluationId": "02362c5576f64c578d4d364c732cef1e",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/02362c5576f64c578d4d364c732cef1e",
+    "msrp_guide": {
+     "low": 13.98,
+     "high": 18.98,
+     "text": "13.98-18.98万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "名爵MG3",
+    "brand": "名爵",
+    "year": "2011",
+    "score": "47.1%",
+    "targets": {
+     "乘员保护": "47.1%"
+    },
+    "evaluationId": "fce6cd055ce44ffc934520e9681d83f3",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/fce6cd055ce44ffc934520e9681d83f3",
+    "msrp_guide": null
+   },
+   {
+    "carName": "奇瑞威麟X5",
+    "brand": "奇瑞",
+    "year": "2011",
+    "score": "40.5%",
+    "targets": {
+     "乘员保护": "40.51%"
+    },
+    "evaluationId": "98f56359f521403388e0588c5c936bc6",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/98f56359f521403388e0588c5c936bc6",
+    "msrp_guide": null
+   },
+   {
+    "carName": "丰田RAV4",
+    "brand": "一汽丰田",
+    "year": "2011",
+    "score": "46.3%",
+    "targets": {
+     "乘员保护": "46.26%"
+    },
+    "evaluationId": "d3f2aa1b5547436989750a7b8b5c14db",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/d3f2aa1b5547436989750a7b8b5c14db",
+    "msrp_guide": {
+     "low": 16.98,
+     "high": 22.88,
+     "text": "16.98-22.88万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "东风NV200",
+    "brand": "日产",
+    "year": "2011",
+    "score": "42.9%",
+    "targets": {
+     "乘员保护": "42.88%"
+    },
+    "evaluationId": "9cbe27e5ae574fcfb7df7f15367f6033",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/9cbe27e5ae574fcfb7df7f15367f6033",
+    "msrp_guide": null
+   },
+   {
+    "carName": "海马新一代普力马",
+    "brand": "一汽",
+    "year": "2011",
+    "score": "36%",
+    "targets": {
+     "乘员保护": "35.98%"
+    },
+    "evaluationId": "fd5d3f353a894b4f87aad7ed3685b6bd",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/fd5d3f353a894b4f87aad7ed3685b6bd",
+    "msrp_guide": null
+   },
+   {
+    "carName": "东南戈蓝",
+    "brand": "",
+    "year": "2011",
+    "score": "41.9%",
+    "targets": {
+     "乘员保护": "41.94%"
+    },
+    "evaluationId": "b0d0d3cec6f14cbcbf940e2d50cb44cd",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/b0d0d3cec6f14cbcbf940e2d50cb44cd",
+    "msrp_guide": null
+   },
+   {
+    "carName": "日产阳光",
+    "brand": "东风日产",
+    "year": "2011",
+    "score": "42.8%",
+    "targets": {
+     "乘员保护": "42.84%"
+    },
+    "evaluationId": "f926c674dc064b579fd5508593d4d88a",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/f926c674dc064b579fd5508593d4d88a",
+    "msrp_guide": null
+   },
+   {
+    "carName": "大众CC",
+    "brand": "大众",
+    "year": "2011",
+    "score": "47.8%",
+    "targets": {
+     "乘员保护": "47.77%"
+    },
+    "evaluationId": "00f7a3b354254c29bfad9cbb5d5c8780",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/00f7a3b354254c29bfad9cbb5d5c8780",
+    "msrp_guide": null
+   },
+   {
+    "carName": "哈弗腾翼C30",
+    "brand": "长城",
+    "year": "2011",
+    "score": "46.4%",
+    "targets": {
+     "乘员保护": "46.35%"
+    },
+    "evaluationId": "7a201bdca9be437397695499419fcbc5",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/7a201bdca9be437397695499419fcbc5",
+    "msrp_guide": null
+   },
+   {
+    "carName": "传祺",
+    "brand": "",
+    "year": "2011",
+    "score": "48.8%",
+    "targets": {
+     "乘员保护": "48.82%"
+    },
+    "evaluationId": "d931f4d1252142bfa60b44be24d93745",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/d931f4d1252142bfa60b44be24d93745",
+    "msrp_guide": null
+   },
+   {
+    "carName": "起亚SOUL",
+    "brand": "东风悦达起亚",
+    "year": "2011",
+    "score": "43.8%",
+    "targets": {
+     "乘员保护": "43.81%"
+    },
+    "evaluationId": "76ce5b163e5c4362ba1699c51064f717",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/76ce5b163e5c4362ba1699c51064f717",
+    "msrp_guide": null
+   },
+   {
+    "carName": "别克英朗GT",
+    "brand": "别克",
+    "year": "2011",
+    "score": "47.4%",
+    "targets": {
+     "乘员保护": "47.38%"
+    },
+    "evaluationId": "e9b02d72118540949ae22add3082f943",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/e9b02d72118540949ae22add3082f943",
+    "msrp_guide": null
+   },
+   {
+    "carName": "现代瑞纳",
+    "brand": "北京现代",
+    "year": "2011",
+    "score": "47%",
+    "targets": {
+     "乘员保护": "46.97%"
+    },
+    "evaluationId": "4d3d3bf72acc49a59e8529d6c609a08d",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/4d3d3bf72acc49a59e8529d6c609a08d",
+    "msrp_guide": null
+   },
+   {
+    "carName": "吉利帝豪EC718",
+    "brand": "吉利",
+    "year": "2010",
+    "score": "46.8%",
+    "targets": {
+     "乘员保护": "46.82%"
+    },
+    "evaluationId": "6fa1af590dd944a8be86dff4cec39a59",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/6fa1af590dd944a8be86dff4cec39a59",
+    "msrp_guide": {
+     "low": 6.29,
+     "high": 9.79,
+     "text": "6.29-9.79万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "福特嘉年华",
+    "brand": "长安福特",
+    "year": "2010",
+    "score": "45.5%",
+    "targets": {
+     "乘员保护": "45.47%"
+    },
+    "evaluationId": "f02a5ce4eeb34869a8ce8362cb95439f",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/f02a5ce4eeb34869a8ce8362cb95439f",
+    "msrp_guide": null
+   },
+   {
+    "carName": "东风风神风神S30",
+    "brand": "东风",
+    "year": "2010",
+    "score": "30.4%",
+    "targets": {
+     "乘员保护": "30.38%"
+    },
+    "evaluationId": "e890018daa734cb2b15f64af9be4fe14",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/e890018daa734cb2b15f64af9be4fe14",
+    "msrp_guide": null
+   },
+   {
+    "carName": "现代新胜达",
+    "brand": "现代",
+    "year": "2010",
+    "score": "47.3%",
+    "targets": {
+     "乘员保护": "47.32%"
+    },
+    "evaluationId": "387850a88fd943228246f98c547c7a3c",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/387850a88fd943228246f98c547c7a3c",
+    "msrp_guide": {
+     "low": 19.58,
+     "high": 26.88,
+     "text": "19.58-26.88万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "黄海新旗胜",
+    "brand": "",
+    "year": "2010",
+    "score": "31.1%",
+    "targets": {
+     "乘员保护": "31.05%"
+    },
+    "evaluationId": "cf1461909c774baa94f96f2244684637",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/cf1461909c774baa94f96f2244684637",
+    "msrp_guide": null
+   },
+   {
+    "carName": "大众途观",
+    "brand": "上汽大众",
+    "year": "2010",
+    "score": "48.2%",
+    "targets": {
+     "乘员保护": "48.17%"
+    },
+    "evaluationId": "d402387562df496789c7d1c1e77585f9",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/d402387562df496789c7d1c1e77585f9",
+    "msrp_guide": null
+   },
+   {
+    "carName": "斯巴鲁森林人",
+    "brand": "斯巴鲁",
+    "year": "2010",
+    "score": "47.9%",
+    "targets": {
+     "乘员保护": "47.91%"
+    },
+    "evaluationId": "616f3f7541a546faa298a4e107a004c2",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/616f3f7541a546faa298a4e107a004c2",
+    "msrp_guide": {
+     "low": 24.98,
+     "high": 26.58,
+     "text": "24.98-26.58万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "标致408",
+    "brand": "标致",
+    "year": "2010",
+    "score": "47.1%",
+    "targets": {
+     "乘员保护": "47.12%"
+    },
+    "evaluationId": "c549f872421243089c0c206895b96b37",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/c549f872421243089c0c206895b96b37",
+    "msrp_guide": {
+     "low": 10.97,
+     "high": 11.87,
+     "text": "10.97-11.87万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "海马丘比特",
+    "brand": "一汽",
+    "year": "2010",
+    "score": "35.9%",
+    "targets": {
+     "乘员保护": "35.91%"
+    },
+    "evaluationId": "497ce8db7b924015b109432e9a08d339",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/497ce8db7b924015b109432e9a08d339",
+    "msrp_guide": null
+   },
+   {
+    "carName": "长安悦翔",
+    "brand": "长安",
+    "year": "2010",
+    "score": "36.1%",
+    "targets": {
+     "乘员保护": "36.11%"
+    },
+    "evaluationId": "28b78e9091444b00b358f704d7eaf868",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/28b78e9091444b00b358f704d7eaf868",
+    "msrp_guide": null
+   },
+   {
+    "carName": "永源A380",
+    "brand": "",
+    "year": "2010",
+    "score": "31.7%",
+    "targets": {
+     "乘员保护": "31.71%"
+    },
+    "evaluationId": "be3a79b3b851485aa4afe53e974798d1",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/be3a79b3b851485aa4afe53e974798d1",
+    "msrp_guide": null
+   },
+   {
+    "carName": "力帆620",
+    "brand": "力帆",
+    "year": "2010",
+    "score": "33.4%",
+    "targets": {
+     "乘员保护": "33.41%"
+    },
+    "evaluationId": "42a323730a874bc09aeae25e9352a05c",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/42a323730a874bc09aeae25e9352a05c",
+    "msrp_guide": null
+   },
+   {
+    "carName": "东风帅客",
+    "brand": "日产",
+    "year": "2010",
+    "score": "34.4%",
+    "targets": {
+     "乘员保护": "34.39%"
+    },
+    "evaluationId": "96eedc9835844a7c88ae1402b9952469",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/96eedc9835844a7c88ae1402b9952469",
+    "msrp_guide": null
+   },
+   {
+    "carName": "一汽夏利N5",
+    "brand": "一汽",
+    "year": "2010",
+    "score": "30.7%",
+    "targets": {
+     "乘员保护": "30.74%"
+    },
+    "evaluationId": "228221db8eae40e99082d3f84680d73e",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/228221db8eae40e99082d3f84680d73e",
+    "msrp_guide": null
+   },
+   {
+    "carName": "起亚福瑞迪",
+    "brand": "东风悦达起亚",
+    "year": "2010",
+    "score": "45.2%",
+    "targets": {
+     "乘员保护": "45.24%"
+    },
+    "evaluationId": "8bc9df2910354a25bc33260b429629e0",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/8bc9df2910354a25bc33260b429629e0",
+    "msrp_guide": null
+   },
+   {
+    "carName": "奔腾B50",
+    "brand": "一汽",
+    "year": "2010",
+    "score": "41.8%",
+    "targets": {
+     "乘员保护": "41.83%"
+    },
+    "evaluationId": "1add511f75174521abcdde0a6a2d6c8a",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1add511f75174521abcdde0a6a2d6c8a",
+    "msrp_guide": null
+   },
+   {
+    "carName": "雪铁龙C5",
+    "brand": "雪铁龙",
+    "year": "2010",
+    "score": "48.2%",
+    "targets": {
+     "乘员保护": "48.18%"
+    },
+    "evaluationId": "c5c7d0aeec9944c296825a352194af09",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/c5c7d0aeec9944c296825a352194af09",
+    "msrp_guide": null
+   },
+   {
+    "carName": "现代i30",
+    "brand": "北京现代",
+    "year": "2010",
+    "score": "42.4%",
+    "targets": {
+     "乘员保护": "42.4%"
+    },
+    "evaluationId": "785b16eb2a3641cd9212673c169aa15f",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/785b16eb2a3641cd9212673c169aa15f",
+    "msrp_guide": null
+   },
+   {
+    "carName": "东风日产新轩逸",
+    "brand": "东风日产",
+    "year": "2010",
+    "score": "40.3%",
+    "targets": {
+     "乘员保护": "40.27%"
+    },
+    "evaluationId": "b2c24fb6d2724b0493667b13e54c7fa6",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/b2c24fb6d2724b0493667b13e54c7fa6",
+    "msrp_guide": {
+     "low": 7.99,
+     "high": 17.49,
+     "text": "7.99-17.49万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "名爵荣威350",
+    "brand": "荣威",
+    "year": "2010",
+    "score": "46.5%",
+    "targets": {
+     "乘员保护": "46.53%"
+    },
+    "evaluationId": "3baf630ce06d4aab8d12d994746b5310",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/3baf630ce06d4aab8d12d994746b5310",
+    "msrp_guide": null
+   },
+   {
+    "carName": "大众第六代高尔夫",
+    "brand": "大众",
+    "year": "2010",
+    "score": "45.9%",
+    "targets": {
+     "乘员保护": "45.9%"
+    },
+    "evaluationId": "919b84101c554aba88e03c9fe2368b78",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/919b84101c554aba88e03c9fe2368b78",
+    "msrp_guide": {
+     "low": 12.99,
+     "high": 15.89,
+     "text": "12.99-15.89万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "丰田汉兰达",
+    "brand": "广汽丰田",
+    "year": "2010",
+    "score": "46.6%",
+    "targets": {
+     "乘员保护": "46.58%"
+    },
+    "evaluationId": "b7f9b92cf1a54b74b00eac301eb49cc2",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/b7f9b92cf1a54b74b00eac301eb49cc2",
+    "msrp_guide": {
+     "low": 24.98,
+     "high": 32.58,
+     "text": "24.98-32.58万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "别克新君威",
+    "brand": "别克",
+    "year": "2010",
+    "score": "49.7%",
+    "targets": {
+     "乘员保护": "49.68%"
+    },
+    "evaluationId": "1813885c40124c3f8fefe90597128a6e",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1813885c40124c3f8fefe90597128a6e",
+    "msrp_guide": {
+     "low": 15.98,
+     "high": 17.58,
+     "text": "15.98-17.58万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "沃尔沃S40",
+    "brand": "长安福特",
+    "year": "2010",
+    "score": "47.9%",
+    "targets": {
+     "乘员保护": "47.94%"
+    },
+    "evaluationId": "7a8ed491f05c40f1a9a6e6360c983b7d",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/7a8ed491f05c40f1a9a6e6360c983b7d",
+    "msrp_guide": null
+   },
+   {
+    "carName": "奇瑞风云2",
+    "brand": "奇瑞",
+    "year": "2010",
+    "score": "43.1%",
+    "targets": {
+     "乘员保护": "43.11%"
+    },
+    "evaluationId": "e5085b2cf1d64b52b6bbe438b568ec4a",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/e5085b2cf1d64b52b6bbe438b568ec4a",
+    "msrp_guide": null
+   },
+   {
+    "carName": "莲花L3",
+    "brand": "",
+    "year": "2010",
+    "score": "32.9%",
+    "targets": {
+     "乘员保护": "32.89%"
+    },
+    "evaluationId": "e577685574f8486781a52fa0762e62b4",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/e577685574f8486781a52fa0762e62b4",
+    "msrp_guide": null
+   },
+   {
+    "carName": "东南三菱蓝瑟翼神",
+    "brand": "三菱",
+    "year": "2010",
+    "score": "48.1%",
+    "targets": {
+     "乘员保护": "48.11%"
+    },
+    "evaluationId": "5514260ab4014a59b79918d084d74f6a",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/5514260ab4014a59b79918d084d74f6a",
+    "msrp_guide": null
+   },
+   {
+    "carName": "斯柯达昊锐",
+    "brand": "上汽大众",
+    "year": "2010",
+    "score": "46.2%",
+    "targets": {
+     "乘员保护": "46.2%"
+    },
+    "evaluationId": "041527e459684da4afb45b45300c8b43",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/041527e459684da4afb45b45300c8b43",
+    "msrp_guide": null
+   },
+   {
+    "carName": "哈弗酷熊",
+    "brand": "长城",
+    "year": "2010",
+    "score": "43.9%",
+    "targets": {
+     "乘员保护": "43.94%"
+    },
+    "evaluationId": "91cb72b3acec4ea28ac54229e94da402",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/91cb72b3acec4ea28ac54229e94da402",
+    "msrp_guide": null
+   },
+   {
+    "carName": "铃木新奥拓",
+    "brand": "长安",
+    "year": "2010",
+    "score": "34.5%",
+    "targets": {
+     "乘员保护": "34.47%"
+    },
+    "evaluationId": "df633e7b3819479cad6c5e806dd9ea69",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/df633e7b3819479cad6c5e806dd9ea69",
+    "msrp_guide": null
+   },
+   {
+    "carName": "本田思铂睿",
+    "brand": "东风本田",
+    "year": "2009",
+    "score": "48.9%",
+    "targets": {
+     "乘员保护": "48.87%"
+    },
+    "evaluationId": "0dcdffa32fc84a41b9897fd954bebcc5",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/0dcdffa32fc84a41b9897fd954bebcc5",
+    "msrp_guide": null
+   },
+   {
+    "carName": "东风日产奇骏",
+    "brand": "东风日产",
+    "year": "2009",
+    "score": "46.8%",
+    "targets": {
+     "乘员保护": "46.81%"
+    },
+    "evaluationId": "65e7b8ee6fd2497c88ae69eafc0c1d94",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/65e7b8ee6fd2497c88ae69eafc0c1d94",
+    "msrp_guide": {
+     "low": 16.08,
+     "high": 26.29,
+     "text": "16.08-26.29万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "吉利熊猫",
+    "brand": "吉利",
+    "year": "2009",
+    "score": "45.3%",
+    "targets": {
+     "乘员保护": "45.26%"
+    },
+    "evaluationId": "306bb659a55e44ef85944d750a2741b7",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/306bb659a55e44ef85944d750a2741b7",
+    "msrp_guide": {
+     "low": 4.69,
+     "high": 5.39,
+     "text": "4.69-5.39万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "本田奥德赛",
+    "brand": "广汽本田",
+    "year": "2009",
+    "score": "48.8%",
+    "targets": {
+     "乘员保护": "48.77%"
+    },
+    "evaluationId": "89931f1540cf48b99c1b75f4ac27cf2e",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/89931f1540cf48b99c1b75f4ac27cf2e",
+    "msrp_guide": {
+     "low": 23.58,
+     "high": 32.88,
+     "text": "23.58-32.88万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "大众速腾",
+    "brand": "大众",
+    "year": "2009",
+    "score": "45.4%",
+    "targets": {
+     "乘员保护": "45.36%"
+    },
+    "evaluationId": "1428127fcab74d1cae7c0e6ddd5cc5ca",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1428127fcab74d1cae7c0e6ddd5cc5ca",
+    "msrp_guide": {
+     "low": 9.38,
+     "high": 16.49,
+     "text": "9.38-16.49万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "奇瑞瑞麒M1",
+    "brand": "奇瑞",
+    "year": "2009",
+    "score": "42.2%",
+    "targets": {
+     "乘员保护": "42.21%"
+    },
+    "evaluationId": "1fbdf865cc624674b014af53a4edaca6",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1fbdf865cc624674b014af53a4edaca6",
+    "msrp_guide": null
+   },
+   {
+    "carName": "猎豹CS6",
+    "brand": "",
+    "year": "2009",
+    "score": "41%",
+    "targets": {
+     "乘员保护": "40.95%"
+    },
+    "evaluationId": "d35572105dff42dd870ac60c37fd00b6",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/d35572105dff42dd870ac60c37fd00b6",
+    "msrp_guide": null
+   },
+   {
+    "carName": "福田迷迪宜家",
+    "brand": "福田",
+    "year": "2009",
+    "score": "22.2%",
+    "targets": {
+     "乘员保护": "22.2%"
+    },
+    "evaluationId": "998a140097c148f59f3934220224f4a5",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/998a140097c148f59f3934220224f4a5",
+    "msrp_guide": null
+   },
+   {
+    "carName": "标致新307",
+    "brand": "标致",
+    "year": "2009",
+    "score": "45.5%",
+    "targets": {
+     "乘员保护": "45.47%"
+    },
+    "evaluationId": "baf186a5ae9b45a0ab9663196febce48",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/baf186a5ae9b45a0ab9663196febce48",
+    "msrp_guide": null
+   },
+   {
+    "carName": "现代领翔",
+    "brand": "北京现代",
+    "year": "2009",
+    "score": "42.9%",
+    "targets": {
+     "乘员保护": "42.93%"
+    },
+    "evaluationId": "013304bd72ac49a5a094838846ed756d",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/013304bd72ac49a5a094838846ed756d",
+    "msrp_guide": null
+   },
+   {
+    "carName": "比亚迪F0",
+    "brand": "比亚迪",
+    "year": "2009",
+    "score": "38.9%",
+    "targets": {
+     "乘员保护": "38.9%"
+    },
+    "evaluationId": "6a99e05985f149f2a4e071c2b389abfd",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/6a99e05985f149f2a4e071c2b389abfd",
+    "msrp_guide": null
+   },
+   {
+    "carName": "马自达睿翼",
+    "brand": "马自达",
+    "year": "2009",
+    "score": "48%",
+    "targets": {
+     "乘员保护": "47.95%"
+    },
+    "evaluationId": "97bab08e56fb49638ae2e7c315a6052b",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/97bab08e56fb49638ae2e7c315a6052b",
+    "msrp_guide": null
+   },
+   {
+    "carName": "雪佛兰科鲁兹",
+    "brand": "雪佛兰",
+    "year": "2009",
+    "score": "47.2%",
+    "targets": {
+     "乘员保护": "47.17%"
+    },
+    "evaluationId": "415cb668a1284c278b2d8b44d2e7ff2b",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/415cb668a1284c278b2d8b44d2e7ff2b",
+    "msrp_guide": null
+   },
+   {
+    "carName": "起亚狮跑",
+    "brand": "东风悦达起亚",
+    "year": "2009",
+    "score": "40.4%",
+    "targets": {
+     "乘员保护": "40.44%"
+    },
+    "evaluationId": "346a296fac70417b919fc9060e73fb68",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/346a296fac70417b919fc9060e73fb68",
+    "msrp_guide": null
+   },
+   {
+    "carName": "丰田新威驰",
+    "brand": "一汽丰田",
+    "year": "2009",
+    "score": "47%",
+    "targets": {
+     "乘员保护": "47.03%"
+    },
+    "evaluationId": "734719e4a1df4bfb82caa98321fe8610",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/734719e4a1df4bfb82caa98321fe8610",
+    "msrp_guide": null
+   },
+   {
+    "carName": "东风行景逸",
+    "brand": "东风",
+    "year": "2009",
+    "score": "32.7%",
+    "targets": {
+     "乘员保护": "32.66%"
+    },
+    "evaluationId": "f9810c12a31e483699509ba6463e133f",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/f9810c12a31e483699509ba6463e133f",
+    "msrp_guide": null
+   },
+   {
+    "carName": "长安志翔",
+    "brand": "长安",
+    "year": "2009",
+    "score": "41.6%",
+    "targets": {
+     "乘员保护": "41.56%"
+    },
+    "evaluationId": "e63a1e8732404f4489768c0f8f3578eb",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/e63a1e8732404f4489768c0f8f3578eb",
+    "msrp_guide": null
+   },
+   {
+    "carName": "日产逍客",
+    "brand": "东风日产",
+    "year": "2009",
+    "score": "47.2%",
+    "targets": {
+     "乘员保护": "47.23%"
+    },
+    "evaluationId": "e73dfe77fdcc44c28201b0e566a5355f",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/e73dfe77fdcc44c28201b0e566a5355f",
+    "msrp_guide": {
+     "low": 12.59,
+     "high": 17.49,
+     "text": "12.59-17.49万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "斯柯达晶锐",
+    "brand": "上汽大众",
+    "year": "2009",
+    "score": "45.6%",
+    "targets": {
+     "乘员保护": "45.62%"
+    },
+    "evaluationId": "7dff4a10d5d744ae8e6baeb3ae96a172",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/7dff4a10d5d744ae8e6baeb3ae96a172",
+    "msrp_guide": null
+   },
+   {
+    "carName": "雪铁龙世嘉",
+    "brand": "雪铁龙",
+    "year": "2009",
+    "score": "44.8%",
+    "targets": {
+     "乘员保护": "44.81%"
+    },
+    "evaluationId": "cc5a66c4946a497e94fb52c54747eb17",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/cc5a66c4946a497e94fb52c54747eb17",
+    "msrp_guide": null
+   },
+   {
+    "carName": "本田新飞度",
+    "brand": "广汽本田",
+    "year": "2009",
+    "score": "46.4%",
+    "targets": {
+     "乘员保护": "46.4%"
+    },
+    "evaluationId": "9765bf2f3b6b422aad47601a8203c4df",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/9765bf2f3b6b422aad47601a8203c4df",
+    "msrp_guide": null
+   },
+   {
+    "carName": "哈弗精灵",
+    "brand": "长城",
+    "year": "2009",
+    "score": "35.4%",
+    "targets": {
+     "乘员保护": "35.36%"
+    },
+    "evaluationId": "408b27718598426b9bed9b3f16d455de",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/408b27718598426b9bed9b3f16d455de",
+    "msrp_guide": null
+   },
+   {
+    "carName": "海马3",
+    "brand": "一汽",
+    "year": "2009",
+    "score": "40.1%",
+    "targets": {
+     "乘员保护": "40.11%"
+    },
+    "evaluationId": "ab9f0ef291cd427f8b9c68cd06e2c0b0",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/ab9f0ef291cd427f8b9c68cd06e2c0b0",
+    "msrp_guide": null
+   },
+   {
+    "carName": "名爵荣威550",
+    "brand": "荣威",
+    "year": "2008",
+    "score": "45.5%",
+    "targets": {
+     "乘员保护": "45.49%"
+    },
+    "evaluationId": "0db075b4b4294f18aa6e3c2bc6bf6670",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/0db075b4b4294f18aa6e3c2bc6bf6670",
+    "msrp_guide": null
+   },
+   {
+    "carName": "比亚迪F6",
+    "brand": "比亚迪",
+    "year": "2008",
+    "score": "42.7%",
+    "targets": {
+     "乘员保护": "42.73%"
+    },
+    "evaluationId": "6e94299a95d1401aaf17260cf0946b35",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/6e94299a95d1401aaf17260cf0946b35",
+    "msrp_guide": null
+   },
+   {
+    "carName": "奇瑞A3",
+    "brand": "奇瑞",
+    "year": "2008",
+    "score": "45.3%",
+    "targets": {
+     "乘员保护": "45.25%"
+    },
+    "evaluationId": "e6ba39e122fd4546b17ebebe8096086b",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/e6ba39e122fd4546b17ebebe8096086b",
+    "msrp_guide": null
+   },
+   {
+    "carName": "江淮宾悦",
+    "brand": "江淮",
+    "year": "2008",
+    "score": "32.2%",
+    "targets": {
+     "乘员保护": "32.16%"
+    },
+    "evaluationId": "b79a8940728548ddb0576a4071515b7c",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/b79a8940728548ddb0576a4071515b7c",
+    "msrp_guide": null
+   },
+   {
+    "carName": "奔驰C",
+    "brand": "北京奔驰",
+    "year": "2008",
+    "score": "47.8%",
+    "targets": {
+     "乘员保护": "47.81%"
+    },
+    "evaluationId": "0fe029b2c6ea4dba94f7df555f474aa1",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/0fe029b2c6ea4dba94f7df555f474aa1",
+    "msrp_guide": {
+     "low": 45.76,
+     "high": 59.98,
+     "text": "45.76-59.98万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "众泰2008",
+    "brand": "众泰",
+    "year": "2008",
+    "score": "30.5%",
+    "targets": {
+     "乘员保护": "30.52%"
+    },
+    "evaluationId": "a2004930072d45228d889ad5025c2d51",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/a2004930072d45228d889ad5025c2d51",
+    "msrp_guide": null
+   },
+   {
+    "carName": "大众新宝来",
+    "brand": "大众",
+    "year": "2008",
+    "score": "47.2%",
+    "targets": {
+     "乘员保护": "47.23%"
+    },
+    "evaluationId": "610511882b5b47eb8dfa2f3f529c3066",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/610511882b5b47eb8dfa2f3f529c3066",
+    "msrp_guide": {
+     "low": 8.29,
+     "high": 11.39,
+     "text": "8.29-11.39万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "红旗HQ3",
+    "brand": "一汽",
+    "year": "2008",
+    "score": "47.9%",
+    "targets": {
+     "乘员保护": "47.9%"
+    },
+    "evaluationId": "7f372eb80cc14a7b9d93ae68f7b52269",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/7f372eb80cc14a7b9d93ae68f7b52269",
+    "msrp_guide": null
+   },
+   {
+    "carName": "福特蒙迪欧-致胜",
+    "brand": "长安福特",
+    "year": "2008",
+    "score": "47.5%",
+    "targets": {
+     "乘员保护": "47.47%"
+    },
+    "evaluationId": "1da2f398e3a949f48a9741cbbbe9c07a",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1da2f398e3a949f48a9741cbbbe9c07a",
+    "msrp_guide": {
+     "low": 14.98,
+     "high": 22.98,
+     "text": "14.98-22.98万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "大众朗逸",
+    "brand": "上汽大众",
+    "year": "2008",
+    "score": "47.4%",
+    "targets": {
+     "乘员保护": "47.41%"
+    },
+    "evaluationId": "beb704e2a48b47df980bcb3bbb643eac",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/beb704e2a48b47df980bcb3bbb643eac",
+    "msrp_guide": {
+     "low": 8.0,
+     "high": 15.19,
+     "text": "8.00-15.19万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "丰田雅力士",
+    "brand": "广汽丰田",
+    "year": "2008",
+    "score": "47.1%",
+    "targets": {
+     "乘员保护": "47.05%"
+    },
+    "evaluationId": "e5ff24670dcb4ce897e00f6c4facec6a",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/e5ff24670dcb4ce897e00f6c4facec6a",
+    "msrp_guide": null
+   },
+   {
+    "carName": "双环小贵族",
+    "brand": "",
+    "year": "2008",
+    "score": "19.5%",
+    "targets": {
+     "乘员保护": "19.45%"
+    },
+    "evaluationId": "fa69f5eeeeac49fa84e6bf024f919d7d",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/fa69f5eeeeac49fa84e6bf024f919d7d",
+    "msrp_guide": null
+   },
+   {
+    "carName": "现代伊兰特悦动",
+    "brand": "北京现代",
+    "year": "2008",
+    "score": "41.1%",
+    "targets": {
+     "乘员保护": "41.14%"
+    },
+    "evaluationId": "afe137d9372b43d786d657eab8771e64",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/afe137d9372b43d786d657eab8771e64",
+    "msrp_guide": {
+     "low": 9.98,
+     "high": 12.38,
+     "text": "9.98-12.38万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "福田蒙派克",
+    "brand": "福田",
+    "year": "2008",
+    "score": "30.6%",
+    "targets": {
+     "乘员保护": "30.58%"
+    },
+    "evaluationId": "014d699c772e4e4c98fac5eb8bc87c8d",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/014d699c772e4e4c98fac5eb8bc87c8d",
+    "msrp_guide": null
+   },
+   {
+    "carName": "雪佛兰新景程",
+    "brand": "上汽通用",
+    "year": "2008",
+    "score": "46.6%",
+    "targets": {
+     "乘员保护": "46.61%"
+    },
+    "evaluationId": "88773deae4274ba9a260bffd3b245fcc",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/88773deae4274ba9a260bffd3b245fcc",
+    "msrp_guide": null
+   },
+   {
+    "carName": "力帆520",
+    "brand": "力帆",
+    "year": "2008",
+    "score": "16%",
+    "targets": {
+     "乘员保护": "16%"
+    },
+    "evaluationId": "c1acf8f611eb424d8e6454c944213a6f",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/c1acf8f611eb424d8e6454c944213a6f",
+    "msrp_guide": null
+   },
+   {
+    "carName": "吉利远景",
+    "brand": "吉利",
+    "year": "2008",
+    "score": "42.2%",
+    "targets": {
+     "乘员保护": "42.23%"
+    },
+    "evaluationId": "df52a28421d2416489e496119de57cfc",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/df52a28421d2416489e496119de57cfc",
+    "msrp_guide": null
+   },
+   {
+    "carName": "宝马BMW320i",
+    "brand": "华晨宝马",
+    "year": "2008",
+    "score": "48.2%",
+    "targets": {
+     "乘员保护": "48.23%"
+    },
+    "evaluationId": "85fa053b11a847c5a29fdc4efbf3d63a",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/85fa053b11a847c5a29fdc4efbf3d63a",
+    "msrp_guide": null
+   },
+   {
+    "carName": "日产骊威",
+    "brand": "东风日产",
+    "year": "2008",
+    "score": "40.5%",
+    "targets": {
+     "乘员保护": "40.51%"
+    },
+    "evaluationId": "b9f7e336c1494270b2de6765a883e10b",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/b9f7e336c1494270b2de6765a883e10b",
+    "msrp_guide": null
+   },
+   {
+    "carName": "起亚RIO锐欧",
+    "brand": "东风悦达起亚",
+    "year": "2008",
+    "score": "32.4%",
+    "targets": {
+     "乘员保护": "32.41%"
+    },
+    "evaluationId": "e3719aea8d3143a1bebe109e1cde96fb",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/e3719aea8d3143a1bebe109e1cde96fb",
+    "msrp_guide": null
+   },
+   {
+    "carName": "华泰圣达菲",
+    "brand": "",
+    "year": "2008",
+    "score": "37.1%",
+    "targets": {
+     "乘员保护": "37.09%"
+    },
+    "evaluationId": "c8daa99df0c2443cbf940c65091140ca",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/c8daa99df0c2443cbf940c65091140ca",
+    "msrp_guide": null
+   },
+   {
+    "carName": "马自达3",
+    "brand": "长安福特",
+    "year": "2008",
+    "score": "42.6%",
+    "targets": {
+     "乘员保护": "42.56%"
+    },
+    "evaluationId": "4fac4a4b6613413daf9dc63d6efe3c44",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/4fac4a4b6613413daf9dc63d6efe3c44",
+    "msrp_guide": null
+   },
+   {
+    "carName": "本田第八代雅阁",
+    "brand": "广汽本田",
+    "year": "2008",
+    "score": "50.3%",
+    "targets": {
+     "乘员保护": "50.29%"
+    },
+    "evaluationId": "e008334080e244938db63d7a3520b59c",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/e008334080e244938db63d7a3520b59c",
+    "msrp_guide": {
+     "low": 17.98,
+     "high": 21.48,
+     "text": "17.98-21.48万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "大发森雅",
+    "brand": "一汽",
+    "year": "2008",
+    "score": "34.1%",
+    "targets": {
+     "乘员保护": "34.13%"
+    },
+    "evaluationId": "0bb86833c4f447ceb75a018438240524",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/0bb86833c4f447ceb75a018438240524",
+    "msrp_guide": null
+   },
+   {
+    "carName": "铃木天语SX4",
+    "brand": "长安",
+    "year": "2008",
+    "score": "43.2%",
+    "targets": {
+     "乘员保护": "43.17%"
+    },
+    "evaluationId": "f96d7c49e374422286b4e8bda7f51f74",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/f96d7c49e374422286b4e8bda7f51f74",
+    "msrp_guide": null
+   },
+   {
+    "carName": "丰田卡罗拉",
+    "brand": "一汽丰田",
+    "year": "2008",
+    "score": "48.6%",
+    "targets": {
+     "乘员保护": "48.6%"
+    },
+    "evaluationId": "25300c5abfcf41f2bf7ffb82633b80ff",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/25300c5abfcf41f2bf7ffb82633b80ff",
+    "msrp_guide": {
+     "low": 11.68,
+     "high": 15.58,
+     "text": "11.68-15.58万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "东风奥丁",
+    "brand": "日产",
+    "year": "2008",
+    "score": "32.4%",
+    "targets": {
+     "乘员保护": "32.43%"
+    },
+    "evaluationId": "d3dcff495d564908b01cc6c91fc7330a",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/d3dcff495d564908b01cc6c91fc7330a",
+    "msrp_guide": null
+   },
+   {
+    "carName": "大众迈腾",
+    "brand": "大众",
+    "year": "2008",
+    "score": "46.6%",
+    "targets": {
+     "乘员保护": "46.63%"
+    },
+    "evaluationId": "46f86d1b607149048c0ecd158a0210c8",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/46f86d1b607149048c0ecd158a0210c8",
+    "msrp_guide": {
+     "low": 17.49,
+     "high": 24.69,
+     "text": "17.49-24.69万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "东南三菱蓝瑟",
+    "brand": "三菱",
+    "year": "2007",
+    "score": "36%",
+    "targets": {
+     "乘员保护": "36.03%"
+    },
+    "evaluationId": "468416e67b5248cda7d4bb2f70c4d6c9",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/468416e67b5248cda7d4bb2f70c4d6c9",
+    "msrp_guide": null
+   },
+   {
+    "carName": "哈飞路宝",
+    "brand": "",
+    "year": "2007",
+    "score": "22.9%",
+    "targets": {
+     "乘员保护": "22.94%"
+    },
+    "evaluationId": "236c95dd7a6b4fb98ad5a33daff4cb7c",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/236c95dd7a6b4fb98ad5a33daff4cb7c",
+    "msrp_guide": null
+   },
+   {
+    "carName": "长安奔奔",
+    "brand": "长安",
+    "year": "2007",
+    "score": "18.6%",
+    "targets": {
+     "乘员保护": "18.56%"
+    },
+    "evaluationId": "cf19891d436f418eb81874dff580c739",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/cf19891d436f418eb81874dff580c739",
+    "msrp_guide": null
+   },
+   {
+    "carName": "铃木两厢利亚纳",
+    "brand": "",
+    "year": "2007",
+    "score": "40.1%",
+    "targets": {
+     "乘员保护": "40.14%"
+    },
+    "evaluationId": "1c3e9a8637d04ffbb6ecc282a1c30903",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1c3e9a8637d04ffbb6ecc282a1c30903",
+    "msrp_guide": null
+   },
+   {
+    "carName": "本田CR-V",
+    "brand": "东风本田",
+    "year": "2007",
+    "score": "50.6%",
+    "targets": {
+     "乘员保护": "50.55%"
+    },
+    "evaluationId": "5ac0f401afb04a6db06ce2d6f4bd75d6",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/5ac0f401afb04a6db06ce2d6f4bd75d6",
+    "msrp_guide": {
+     "low": 18.59,
+     "high": 24.99,
+     "text": "18.59-24.99万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "中华骏捷",
+    "brand": "",
+    "year": "2007",
+    "score": "30.7%",
+    "targets": {
+     "乘员保护": "30.71%"
+    },
+    "evaluationId": "84d3941fb7f44412ac15c04492dbe5e7",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/84d3941fb7f44412ac15c04492dbe5e7",
+    "msrp_guide": null
+   },
+   {
+    "carName": "奥迪A6L",
+    "brand": "奥迪",
+    "year": "2007",
+    "score": "48.1%",
+    "targets": {
+     "乘员保护": "48.08%"
+    },
+    "evaluationId": "dbcc6c51dbd64106afeb35f557130fab",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/dbcc6c51dbd64106afeb35f557130fab",
+    "msrp_guide": {
+     "low": 33.69,
+     "high": 55.89,
+     "text": "33.69-55.89万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "菲亚特派朗",
+    "brand": "",
+    "year": "2007",
+    "score": "31%",
+    "targets": {
+     "乘员保护": "31.04%"
+    },
+    "evaluationId": "0c5e75b48c4242058762bf81241c4c91",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/0c5e75b48c4242058762bf81241c4c91",
+    "msrp_guide": null
+   },
+   {
+    "carName": "丰田凯美瑞",
+    "brand": "广汽丰田",
+    "year": "2007",
+    "score": "48.8%",
+    "targets": {
+     "乘员保护": "48.75%"
+    },
+    "evaluationId": "729ce833412d4542b7c7dbfa398ae689",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/729ce833412d4542b7c7dbfa398ae689",
+    "msrp_guide": null
+   },
+   {
+    "carName": "奇瑞QQ6",
+    "brand": "奇瑞",
+    "year": "2007",
+    "score": "26.1%",
+    "targets": {
+     "乘员保护": "26.12%"
+    },
+    "evaluationId": "71a645eca95446b88ecb8bcdeb748d77",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/71a645eca95446b88ecb8bcdeb748d77",
+    "msrp_guide": null
+   },
+   {
+    "carName": "陆风风尚",
+    "brand": "",
+    "year": "2007",
+    "score": "34.3%",
+    "targets": {
+     "乘员保护": "34.34%"
+    },
+    "evaluationId": "9388a70d4886465ba65f8033bac55bfe",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/9388a70d4886465ba65f8033bac55bfe",
+    "msrp_guide": null
+   },
+   {
+    "carName": "斯柯达明锐",
+    "brand": "上汽大众",
+    "year": "2007",
+    "score": "45.3%",
+    "targets": {
+     "乘员保护": "45.28%"
+    },
+    "evaluationId": "91988010233d472f95e3891c263deb76",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/91988010233d472f95e3891c263deb76",
+    "msrp_guide": null
+   },
+   {
+    "carName": "雪铁龙凯旋",
+    "brand": "雪铁龙",
+    "year": "2007",
+    "score": "47.4%",
+    "targets": {
+     "乘员保护": "47.36%"
+    },
+    "evaluationId": "32df65482e7644428c6f51ecee9f0dfb",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/32df65482e7644428c6f51ecee9f0dfb",
+    "msrp_guide": null
+   },
+   {
+    "carName": "别克林荫大道",
+    "brand": "别克",
+    "year": "2007",
+    "score": "47.6%",
+    "targets": {
+     "乘员保护": "47.61%"
+    },
+    "evaluationId": "633b638ca032418bb33b8b43ad585908",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/633b638ca032418bb33b8b43ad585908",
+    "msrp_guide": null
+   },
+   {
+    "carName": "奔腾B70",
+    "brand": "一汽",
+    "year": "2007",
+    "score": "40.2%",
+    "targets": {
+     "乘员保护": "40.23%"
+    },
+    "evaluationId": "506b97ac88954377b7cbbc0a05773f0e",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/506b97ac88954377b7cbbc0a05773f0e",
+    "msrp_guide": {
+     "low": 9.88,
+     "high": 13.79,
+     "text": "9.88-13.79万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "东风日产天籁",
+    "brand": "东风日产",
+    "year": "2007",
+    "score": "47.1%",
+    "targets": {
+     "乘员保护": "47.09%"
+    },
+    "evaluationId": "32c469f7534b4fe7b1b11d47dbad4a4d",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/32c469f7534b4fe7b1b11d47dbad4a4d",
+    "msrp_guide": {
+     "low": 13.99,
+     "high": 23.98,
+     "text": "13.99-23.98万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "本田思域",
+    "brand": "东风本田",
+    "year": "2007",
+    "score": "44.5%",
+    "targets": {
+     "乘员保护": "44.54%"
+    },
+    "evaluationId": "3375c09e44f243fe9a5397f8b7184b71",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/3375c09e44f243fe9a5397f8b7184b71",
+    "msrp_guide": {
+     "low": 9.79,
+     "high": 17.79,
+     "text": "9.79-17.79万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "宝骏乐驰",
+    "brand": "上汽通用五菱",
+    "year": "2007",
+    "score": "27.2%",
+    "targets": {
+     "乘员保护": "27.19%"
+    },
+    "evaluationId": "d9797d729d9e441aa1dbbed683ea4b61",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/d9797d729d9e441aa1dbbed683ea4b61",
+    "msrp_guide": null
+   },
+   {
+    "carName": "福特福克斯",
+    "brand": "长安福特",
+    "year": "2007",
+    "score": "45.4%",
+    "targets": {
+     "乘员保护": "45.38%"
+    },
+    "evaluationId": "de33bdc7b22c4efeaa7f2bed1103fb3a",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/de33bdc7b22c4efeaa7f2bed1103fb3a",
+    "msrp_guide": null
+   },
+   {
+    "carName": "起亚赛拉图",
+    "brand": "东风悦达起亚",
+    "year": "2007",
+    "score": "33.1%",
+    "targets": {
+     "乘员保护": "33.08%"
+    },
+    "evaluationId": "809c08d1b26042029a10a32d929c5962",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/809c08d1b26042029a10a32d929c5962",
+    "msrp_guide": null
+   },
+   {
+    "carName": "海马福美来",
+    "brand": "一汽",
+    "year": "2007",
+    "score": "32.3%",
+    "targets": {
+     "乘员保护": "32.32%"
+    },
+    "evaluationId": "9fba7929967540afb558fe46660b25ea",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/9fba7929967540afb558fe46660b25ea",
+    "msrp_guide": null
+   },
+   {
+    "carName": "一汽威志",
+    "brand": "一汽",
+    "year": "2007",
+    "score": "32.3%",
+    "targets": {
+     "乘员保护": "32.3%"
+    },
+    "evaluationId": "2e67cd78607b4be6ae93c5e03c4251bc",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/2e67cd78607b4be6ae93c5e03c4251bc",
+    "msrp_guide": null
+   },
+   {
+    "carName": "本田奥德赛",
+    "brand": "广汽本田",
+    "year": "2007",
+    "score": "47.3%",
+    "targets": {
+     "乘员保护": "47.25%"
+    },
+    "evaluationId": "8ee05b5b69cd445baf3cd46ecb618998",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/8ee05b5b69cd445baf3cd46ecb618998",
+    "msrp_guide": {
+     "low": 23.58,
+     "high": 32.88,
+     "text": "23.58-32.88万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "猎豹",
+    "brand": "",
+    "year": "2007",
+    "score": "31.2%",
+    "targets": {
+     "乘员保护": "31.17%"
+    },
+    "evaluationId": "58fb6b4141294ec590e8fe2586b77be2",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/58fb6b4141294ec590e8fe2586b77be2",
+    "msrp_guide": null
+   },
+   {
+    "carName": "哈弗CUV",
+    "brand": "长城",
+    "year": "2007",
+    "score": "37.1%",
+    "targets": {
+     "乘员保护": "37.13%"
+    },
+    "evaluationId": "407ee2b09b03478a8870c3829a0f5e82",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/407ee2b09b03478a8870c3829a0f5e82",
+    "msrp_guide": null
+   },
+   {
+    "carName": "本田思迪",
+    "brand": "广汽本田",
+    "year": "2006",
+    "score": "41.1%",
+    "targets": {
+     "乘员保护": "41.05%"
+    },
+    "evaluationId": "2f8f5f77bedf4da59a80118223967a83",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/2f8f5f77bedf4da59a80118223967a83",
+    "msrp_guide": null
+   },
+   {
+    "carName": "比亚迪F3",
+    "brand": "比亚迪",
+    "year": "2006",
+    "score": "34%",
+    "targets": {
+     "乘员保护": "33.98%"
+    },
+    "evaluationId": "2c3ae66f09df4dca9d39f57302417812",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/2c3ae66f09df4dca9d39f57302417812",
+    "msrp_guide": null
+   },
+   {
+    "carName": "奇瑞A5",
+    "brand": "奇瑞",
+    "year": "2006",
+    "score": "37.6%",
+    "targets": {
+     "乘员保护": "37.56%"
+    },
+    "evaluationId": "3baad1264f0b42be81c0060dd465170a",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/3baad1264f0b42be81c0060dd465170a",
+    "msrp_guide": null
+   },
+   {
+    "carName": "吉利自由舰",
+    "brand": "吉利",
+    "year": "2006",
+    "score": "28.6%",
+    "targets": {
+     "乘员保护": "28.64%"
+    },
+    "evaluationId": "9bf91580f68a470c8e35f8493e5793d7",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/9bf91580f68a470c8e35f8493e5793d7",
+    "msrp_guide": null
+   },
+   {
+    "carName": "大众速腾",
+    "brand": "大众",
+    "year": "2006",
+    "score": "44.6%",
+    "targets": {
+     "乘员保护": "44.62%"
+    },
+    "evaluationId": "3cef6483a3e848e7aa1513d09b789f8e",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/3cef6483a3e848e7aa1513d09b789f8e",
+    "msrp_guide": {
+     "low": 9.38,
+     "high": 16.49,
+     "text": "9.38-16.49万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "丰田皇冠",
+    "brand": "一汽丰田",
+    "year": "2006",
+    "score": "47.7%",
+    "targets": {
+     "乘员保护": "47.67%"
+    },
+    "evaluationId": "43cd0e687aa149b08f7409b2c7fe2303",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/43cd0e687aa149b08f7409b2c7fe2303",
+    "msrp_guide": null
+   },
+   {
+    "carName": "大众领驭",
+    "brand": "上汽大众",
+    "year": "2006",
+    "score": "40.3%",
+    "targets": {
+     "乘员保护": "40.26%"
+    },
+    "evaluationId": "01b520ea09c54c63a078b731b8225eb0",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/01b520ea09c54c63a078b731b8225eb0",
+    "msrp_guide": null
+   },
+   {
+    "carName": "别克君越",
+    "brand": "别克",
+    "year": "2006",
+    "score": "40.2%",
+    "targets": {
+     "乘员保护": "40.19%"
+    },
+    "evaluationId": "16eaf5c9536f489cbf7498c74be8b52b",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/16eaf5c9536f489cbf7498c74be8b52b",
+    "msrp_guide": {
+     "low": 20.99,
+     "high": 23.99,
+     "text": "20.99-23.99万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "标致307",
+    "brand": "标致",
+    "year": "2006",
+    "score": "44%",
+    "targets": {
+     "乘员保护": "44.01%"
+    },
+    "evaluationId": "59787dec164a4210979a0e201f820b23",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/59787dec164a4210979a0e201f820b23",
+    "msrp_guide": null
+   },
+   {
+    "carName": "铃木雨燕",
+    "brand": "长安",
+    "year": "2006",
+    "score": "41.3%",
+    "targets": {
+     "乘员保护": "41.26%"
+    },
+    "evaluationId": "f070f5e642aa44cb854f846020940d0f",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/f070f5e642aa44cb854f846020940d0f",
+    "msrp_guide": null
+   },
+   {
+    "carName": "现代雅绅特",
+    "brand": "北京现代",
+    "year": "2006",
+    "score": "32.9%",
+    "targets": {
+     "乘员保护": "32.86%"
+    },
+    "evaluationId": "6add067736d449b7aa5beb5319567837",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/6add067736d449b7aa5beb5319567837",
+    "msrp_guide": null
+   },
+   {
+    "carName": "日产骐达",
+    "brand": "东风日产",
+    "year": "2006",
+    "score": "40.8%",
+    "targets": {
+     "乘员保护": "40.84%"
+    },
+    "evaluationId": "17b10db668344a748bc381126e072e9c",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/17b10db668344a748bc381126e072e9c",
+    "msrp_guide": {
+     "low": 8.99,
+     "high": 11.59,
+     "text": "8.99-11.59万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
    }
   ],
   "ccrt": [
@@ -10960,6 +13648,468 @@
     "evaluationId": "1564915468718882818",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915468718882818",
     "msrp_guide": null
+   },
+   {
+    "carName": "奥迪Q3",
+    "brand": "奥迪",
+    "year": "2019",
+    "score": "82.7%",
+    "targets": null,
+    "evaluationId": "1564915468827934721",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915468827934721",
+    "msrp_guide": {
+     "low": 25.18,
+     "high": 29.68,
+     "text": "25.18-29.68万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "现代途胜",
+    "brand": "北京现代",
+    "year": "2019",
+    "score": "79.3%",
+    "targets": null,
+    "evaluationId": "1564915468928598018",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915468928598018",
+    "msrp_guide": {
+     "low": 16.98,
+     "high": 18.68,
+     "text": "16.98-18.68万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "吉利嘉际",
+    "brand": "吉利",
+    "year": "2019",
+    "score": "81.2%",
+    "targets": null,
+    "evaluationId": "1564915469016678401",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915469016678401",
+    "msrp_guide": null
+   },
+   {
+    "carName": "传祺GM6",
+    "brand": "",
+    "year": "2019",
+    "score": "80.5%",
+    "targets": null,
+    "evaluationId": "1564915469121536001",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915469121536001",
+    "msrp_guide": null
+   },
+   {
+    "carName": "现代菲斯塔",
+    "brand": "北京现代",
+    "year": "2019",
+    "score": "80.9%",
+    "targets": null,
+    "evaluationId": "1564915466898554882",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915466898554882",
+    "msrp_guide": null
+   },
+   {
+    "carName": "哈弗H4",
+    "brand": "长城",
+    "year": "2019",
+    "score": "78.8%",
+    "targets": null,
+    "evaluationId": "1564915466785308673",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915466785308673",
+    "msrp_guide": null
+   },
+   {
+    "carName": "日产劲客",
+    "brand": "日产",
+    "year": "2019",
+    "score": "79.6%",
+    "targets": null,
+    "evaluationId": "1564915466680451073",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915466680451073",
+    "msrp_guide": {
+     "low": 8.98,
+     "high": 10.38,
+     "text": "8.98-10.38万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "标致308",
+    "brand": "标致",
+    "year": "2019",
+    "score": "78.2%",
+    "targets": null,
+    "evaluationId": "1564915466495901698",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915466495901698",
+    "msrp_guide": null
+   },
+   {
+    "carName": "别克英朗",
+    "brand": "上汽通用",
+    "year": "2019",
+    "score": "79.7%",
+    "targets": null,
+    "evaluationId": "1564915466391044098",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915466391044098",
+    "msrp_guide": null
+   },
+   {
+    "carName": "比亚迪宋MAX",
+    "brand": "比亚迪",
+    "year": "2019",
+    "score": "79%",
+    "targets": null,
+    "evaluationId": "1564915466281992193",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915466281992193",
+    "msrp_guide": null
+   },
+   {
+    "carName": "马自达CX-5",
+    "brand": "长安马自达",
+    "year": "2019",
+    "score": "83.4%",
+    "targets": null,
+    "evaluationId": "1564915466177134593",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915466177134593",
+    "msrp_guide": {
+     "low": 12.58,
+     "high": 15.38,
+     "text": "12.58-15.38万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "大众朗逸",
+    "brand": "上汽大众",
+    "year": "2019",
+    "score": "81.9%",
+    "targets": null,
+    "evaluationId": "1564915466063888386",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915466063888386",
+    "msrp_guide": {
+     "low": 8.0,
+     "high": 15.19,
+     "text": "8.00-15.19万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "Jeep自由光",
+    "brand": "Jeep",
+    "year": "2018",
+    "score": "78.6%",
+    "targets": null,
+    "evaluationId": "1564915465954836481",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465954836481",
+    "msrp_guide": null
+   },
+   {
+    "carName": "传祺GS8",
+    "brand": "",
+    "year": "2018",
+    "score": "80.1%",
+    "targets": null,
+    "evaluationId": "1564915465854173185",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465854173185",
+    "msrp_guide": {
+     "low": 15.98,
+     "high": 20.58,
+     "text": "15.98-20.58万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "本田冠道",
+    "brand": "广汽本田",
+    "year": "2018",
+    "score": "84%",
+    "targets": null,
+    "evaluationId": "1564915465753509889",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465753509889",
+    "msrp_guide": {
+     "low": 23.98,
+     "high": 29.28,
+     "text": "23.98-29.28万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "众泰T700",
+    "brand": "众泰",
+    "year": "2018",
+    "score": "78.3%",
+    "targets": null,
+    "evaluationId": "1564915465619292162",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465619292162",
+    "msrp_guide": null
+   },
+   {
+    "carName": "五菱宏光S3",
+    "brand": "上汽通用五菱",
+    "year": "2018",
+    "score": "75.9%",
+    "targets": null,
+    "evaluationId": "1564915465514434561",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465514434561",
+    "msrp_guide": {
+     "low": 6.01,
+     "high": 8.28,
+     "text": "6.01-8.28万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "大众途观L",
+    "brand": "上汽大众",
+    "year": "2018",
+    "score": "84.6%",
+    "targets": null,
+    "evaluationId": "1564915465405382658",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465405382658",
+    "msrp_guide": {
+     "low": 19.19,
+     "high": 20.79,
+     "text": "19.19-20.79万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "雪佛兰探界者",
+    "brand": "上汽通用",
+    "year": "2018",
+    "score": "80.7%",
+    "targets": null,
+    "evaluationId": "1564915465300525058",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465300525058",
+    "msrp_guide": null
+   },
+   {
+    "carName": "奇瑞瑞虎5X",
+    "brand": "奇瑞",
+    "year": "2018",
+    "score": "78.1%",
+    "targets": null,
+    "evaluationId": "1564915465199861762",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465199861762",
+    "msrp_guide": {
+     "low": 7.99,
+     "high": 8.99,
+     "text": "7.99-8.99万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "小康风光S560",
+    "brand": "东风",
+    "year": "2018",
+    "score": "75%",
+    "targets": null,
+    "evaluationId": "1564915465086615554",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465086615554",
+    "msrp_guide": {
+     "low": 6.79,
+     "high": 9.99,
+     "text": "6.79-9.99万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "现代ix35",
+    "brand": "北京现代",
+    "year": "2018",
+    "score": "78.8%",
+    "targets": null,
+    "evaluationId": "1564915464973369345",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915464973369345",
+    "msrp_guide": {
+     "low": 12.18,
+     "high": 14.28,
+     "text": "12.18-14.28万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "领克01",
+    "brand": "领克",
+    "year": "2018",
+    "score": "82%",
+    "targets": null,
+    "evaluationId": "1564915464864317441",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915464864317441",
+    "msrp_guide": {
+     "low": 14.98,
+     "high": 18.18,
+     "text": "14.98-18.18万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "WEYVV5",
+    "brand": "长城",
+    "year": "2018",
+    "score": "80.7%",
+    "targets": null,
+    "evaluationId": "1564915464751071233",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915464751071233",
+    "msrp_guide": null
+   },
+   {
+    "carName": "本田CR-V",
+    "brand": "东风本田",
+    "year": "2018",
+    "score": "82.8%",
+    "targets": null,
+    "evaluationId": "1564915464646213633",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915464646213633",
+    "msrp_guide": {
+     "low": 18.59,
+     "high": 24.99,
+     "text": "18.59-24.99万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "马自达阿特兹",
+    "brand": "马自达",
+    "year": "2018",
+    "score": "83.1%",
+    "targets": null,
+    "evaluationId": "1564915464528773122",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915464528773122",
+    "msrp_guide": null
+   },
+   {
+    "carName": "大众迈腾",
+    "brand": "大众",
+    "year": "2018",
+    "score": "82.1%",
+    "targets": null,
+    "evaluationId": "1564915464411332609",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915464411332609",
+    "msrp_guide": {
+     "low": 17.49,
+     "high": 24.69,
+     "text": "17.49-24.69万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "吉利博瑞",
+    "brand": "吉利",
+    "year": "2018",
+    "score": "81.1%",
+    "targets": null,
+    "evaluationId": "1564915464306475010",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915464306475010",
+    "msrp_guide": null
+   },
+   {
+    "carName": "长安睿骋CC",
+    "brand": "长安",
+    "year": "2018",
+    "score": "78.3%",
+    "targets": null,
+    "evaluationId": "1564915464197423106",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915464197423106",
+    "msrp_guide": null
+   },
+   {
+    "carName": "丰田凯美瑞",
+    "brand": "广汽丰田",
+    "year": "2018",
+    "score": "85.9%",
+    "targets": null,
+    "evaluationId": "1564915464088371201",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915464088371201",
+    "msrp_guide": null
+   },
+   {
+    "carName": "起亚福瑞迪",
+    "brand": "东风悦达起亚",
+    "year": "2018",
+    "score": "77.1%",
+    "targets": null,
+    "evaluationId": "1564915463954153473",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915463954153473",
+    "msrp_guide": null
+   },
+   {
+    "carName": "北汽绅宝D50",
+    "brand": "北京",
+    "year": "2018",
+    "score": "77.9%",
+    "targets": null,
+    "evaluationId": "1564915463798964225",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915463798964225",
+    "msrp_guide": null
+   },
+   {
+    "carName": "福特福睿斯",
+    "brand": "长安福特",
+    "year": "2018",
+    "score": "78.1%",
+    "targets": null,
+    "evaluationId": "1564915463555694594",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915463555694594",
+    "msrp_guide": null
+   },
+   {
+    "carName": "丰田卡罗拉",
+    "brand": "一汽丰田",
+    "year": "2018",
+    "score": "80.2%",
+    "targets": null,
+    "evaluationId": "1564915463400505345",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915463400505345",
+    "msrp_guide": {
+     "low": 11.68,
+     "high": 15.58,
+     "text": "11.68-15.58万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
+   },
+   {
+    "carName": "名爵6",
+    "brand": "名爵",
+    "year": "2018",
+    "score": "80.8%",
+    "targets": null,
+    "evaluationId": "1564915463249510401",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915463249510401",
+    "msrp_guide": null
+   },
+   {
+    "carName": "启辰D60",
+    "brand": "东风",
+    "year": "2018",
+    "score": "79.6%",
+    "targets": null,
+    "evaluationId": "1564915463085932545",
+    "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915463085932545",
+    "msrp_guide": {
+     "low": 8.88,
+     "high": 9.98,
+     "text": "8.88-9.98万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
    }
   ],
   "c_icap": [],
