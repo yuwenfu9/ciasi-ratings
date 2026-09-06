@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-09-05T13:53:30+08:00",
+  "generated_at": "2026-09-06T13:59:35+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -19,7 +19,7 @@
    "c_icap": 25,
    "c_gcap": 38
   },
-  "scraped_at": "2026-09-05T14:15:26+08:00"
+  "scraped_at": "2026-09-06T14:06:20+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -130,9 +130,9 @@
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-995.html",
     "msrp_guide": {
-     "low": 19.89,
-     "high": 25.99,
-     "text": "19.89-25.99万",
+     "low": 21.79,
+     "high": 22.99,
+     "text": "21.79-22.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -149,7 +149,13 @@
     "repairability": "G",
     "nev_special": "G",
     "detail_url": "https://ciasi.org.cn/products/show-996.html",
-    "msrp_guide": null
+    "msrp_guide": {
+     "low": 30.98,
+     "high": 33.98,
+     "text": "30.98-33.98万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
    },
    {
     "brand": "奇瑞",
@@ -2058,9 +2064,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-778.html",
     "msrp_guide": {
-     "low": 19.69,
-     "high": 20.49,
-     "text": "19.69-20.49万",
+     "low": 22.99,
+     "high": 25.99,
+     "text": "22.99-25.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -3054,9 +3060,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-845.html",
     "msrp_guide": {
-     "low": 19.69,
-     "high": 20.49,
-     "text": "19.69-20.49万",
+     "low": 22.99,
+     "high": 25.99,
+     "text": "22.99-25.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -4096,9 +4102,9 @@
     "evaluationId": "da82b7d6060e8e6da24e2abebd4f09c1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/da82b7d6060e8e6da24e2abebd4f09c1",
     "msrp_guide": {
-     "low": 19.38,
-     "high": 30.18,
-     "text": "19.38-30.18万",
+     "low": 9.98,
+     "high": 22.98,
+     "text": "9.98-22.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -5708,9 +5714,9 @@
     "evaluationId": "c998e6842d3a4f7b9c13d34bac817608",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c998e6842d3a4f7b9c13d34bac817608",
     "msrp_guide": {
-     "low": 19.69,
-     "high": 20.49,
-     "text": "19.69-20.49万",
+     "low": 22.99,
+     "high": 25.99,
+     "text": "22.99-25.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -8020,9 +8026,9 @@
     "evaluationId": "87c358079f4c4cadb084c95b4da7d681",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/87c358079f4c4cadb084c95b4da7d681",
     "msrp_guide": {
-     "low": 19.69,
-     "high": 20.49,
-     "text": "19.69-20.49万",
+     "low": 22.99,
+     "high": 25.99,
+     "text": "22.99-25.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -12396,9 +12402,9 @@
     "evaluationId": "1968491184712069121",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1968491184712069121",
     "msrp_guide": {
-     "low": 7.98,
-     "high": 12.58,
-     "text": "7.98-12.58万",
+     "low": 9.98,
+     "high": 12.98,
+     "text": "9.98-12.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -13078,9 +13084,9 @@
     "evaluationId": "1564915471822667777",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915471822667777",
     "msrp_guide": {
-     "low": 6.99,
+     "low": 9.99,
      "high": 13.99,
-     "text": "6.99-13.99万",
+     "text": "9.99-13.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -14199,8 +14205,18 @@
     "carName": "方程豹豹8",
     "brand": "比亚迪",
     "year": "2025",
-    "score": null,
-    "targets": null,
+    "score": "97.4%",
+    "targets": {
+     "基础行车辅助": "96.4%",
+     "高速领航辅助": "94.0%",
+     "基础泊车辅助": "99.2%",
+     "记忆泊车辅助": "99.8%",
+     "智能交互": "96.3%",
+     "智能护航": "98.4%",
+     "智慧服务": "100%",
+     "网联通信守护": "96.4%",
+     "个人信息守护": "96.1%"
+    },
     "evaluationId": "ffaec59706c8bb3a18be0d3923a9480a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/ffaec59706c8bb3a18be0d3923a9480a",
     "msrp_guide": {
@@ -14210,7 +14226,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "乐道L90",
@@ -14289,8 +14305,18 @@
     "carName": "岚图梦想家PHEV",
     "brand": "岚图",
     "year": "2025",
-    "score": null,
-    "targets": null,
+    "score": "96.6%",
+    "targets": {
+     "基础行车辅助": "95.0%",
+     "领航行车辅助": "91.8%",
+     "基础泊车辅助": "99.1%",
+     "记忆泊车辅助": "99.8%",
+     "智能交互": "92.2%",
+     "智能护航": "97.9%",
+     "智慧服务": "100.0%",
+     "网联通信守护": "99.0%",
+     "个人信息守护": "94.4%"
+    },
     "evaluationId": "cec8bae1d9dbdb6df25deccb50eef9f8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cec8bae1d9dbdb6df25deccb50eef9f8",
     "msrp_guide": {
@@ -14300,7 +14326,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "乐道L60",
@@ -14378,8 +14404,14 @@
     "carName": "理想L6",
     "brand": "理想",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "95.0%",
+    "targets": {
+     "智能交互": "97.4%",
+     "智能护航": "93.9%",
+     "智慧服务": "93.0%",
+     "网联通信守护": "96.4%",
+     "个人信息守护": "94.3%"
+    },
     "evaluationId": "76cc4a6cc90d6e7cc4a4695e00e5298d",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/76cc4a6cc90d6e7cc4a4695e00e5298d",
     "msrp_guide": {
@@ -14389,7 +14421,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "奇瑞智界S7",
@@ -14458,8 +14490,12 @@
     "carName": "小鹏X9",
     "brand": "小鹏",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "88.8%",
+    "targets": {
+     "智能交互": "93.2%",
+     "智能护航": "84.2%",
+     "智慧服务": "89.0%"
+    },
     "evaluationId": "8fef19bc48306f3d021dd3c7479b9bbb",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8fef19bc48306f3d021dd3c7479b9bbb",
     "msrp_guide": {
@@ -14469,7 +14505,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "长安深蓝 SL03i",
@@ -14541,12 +14577,16 @@
     "carName": "极越01",
     "brand": "极越",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "93.3%",
+    "targets": {
+     "智能交互": "96.5%",
+     "智能护航": "89.5%",
+     "智慧服务": "94.0%"
+    },
     "evaluationId": "b71f517eb3fede6f2bfbcf03f466a43d",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/b71f517eb3fede6f2bfbcf03f466a43d",
     "msrp_guide": null,
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "阿维塔11",
@@ -14616,7 +14656,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "empty"
    },
    {
     "carName": "极狐牌阿尔法S",
@@ -14683,8 +14723,16 @@
     "carName": "理想i6",
     "brand": "理想",
     "year": "2025",
-    "score": null,
-    "targets": null,
+    "score": "96.2",
+    "targets": {
+     "车内空气": "95.5",
+     "健康用材": "93.0",
+     "电磁防护": "98.0",
+     "座舱热环境": "99.8",
+     "续航": "87.1",
+     "充电": "100",
+     "汽车生命周期碳排放": "100"
+    },
     "evaluationId": "0a6b6a6a27d8261e5cb5c91aaafaa4c3",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/0a6b6a6a27d8261e5cb5c91aaafaa4c3",
     "msrp_guide": {
@@ -14694,7 +14742,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "阿维塔06",
@@ -14725,19 +14773,41 @@
     "carName": "理想i8",
     "brand": "理想",
     "year": "2025",
-    "score": null,
-    "targets": null,
+    "score": "92.6",
+    "targets": {
+     "车内空气": "95.5",
+     "健康用材": "94.6",
+     "电磁防护": "69.5",
+     "座舱热环境": "99.5",
+     "续航": "89.0",
+     "充电": "100",
+     "汽车生命周期碳排放": "100"
+    },
     "evaluationId": "cb5db7da3593088eba9c41ca75a2a4a1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cb5db7da3593088eba9c41ca75a2a4a1",
-    "msrp_guide": null,
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "msrp_guide": {
+     "low": 30.98,
+     "high": 33.98,
+     "text": "30.98-33.98万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    },
+    "scrape_status": "ok"
    },
    {
     "carName": "乐道L90",
     "brand": "蔚来",
     "year": "2025",
-    "score": null,
-    "targets": null,
+    "score": "94.5",
+    "targets": {
+     "车内空气": "91.7",
+     "健康用材": "91.0",
+     "电磁防护": "100",
+     "座舱热环境": "90.9",
+     "续航": "88.2",
+     "充电": "100",
+     "汽车生命周期碳排放": "100"
+    },
     "evaluationId": "c7ecffd5ae5352506f1e9ab0d18ccdf0",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c7ecffd5ae5352506f1e9ab0d18ccdf0",
     "msrp_guide": {
@@ -14747,14 +14817,21 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "马自达EZ-6",
     "brand": "长安马自达",
     "year": "2025",
-    "score": null,
-    "targets": null,
+    "score": "93.4",
+    "targets": {
+     "车内空气": "85.0",
+     "健康用材": "94.6",
+     "电磁防护": "100",
+     "续航": "80.8",
+     "充电": "100",
+     "汽车生命周期碳排放": "100"
+    },
     "evaluationId": "f6e526633697dacd5a2fdfbd2a19499a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/f6e526633697dacd5a2fdfbd2a19499a",
     "msrp_guide": {
@@ -14764,14 +14841,20 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "宝马X3",
     "brand": "华晨宝马",
     "year": "2025",
-    "score": null,
-    "targets": null,
+    "score": "92.3",
+    "targets": {
+     "车内空气": "84.1",
+     "健康用材": "91.4",
+     "电磁防护": "100",
+     "油耗": "93.7",
+     "汽车生命周期碳排放": "92.2"
+    },
     "evaluationId": "956de87aa22acf60425f7eb554708ce1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/956de87aa22acf60425f7eb554708ce1",
     "msrp_guide": {
@@ -14781,14 +14864,21 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "小米SU7",
     "brand": "小米汽车",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "96.0",
+    "targets": {
+     "车内空气": "91.5",
+     "健康用材": "98.8",
+     "电磁防护": "100",
+     "续航": "89.5",
+     "充电": "100",
+     "汽车生命周期碳排放": "96.5"
+    },
     "evaluationId": "5d2e8b4bd3de5f61534f89aebe39247e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/5d2e8b4bd3de5f61534f89aebe39247e",
     "msrp_guide": {
@@ -14798,14 +14888,20 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "大众迈腾",
     "brand": "大众",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "93.2",
+    "targets": {
+     "车内空气": "83.4",
+     "健康用材": "97.2",
+     "电磁防护": "100",
+     "油耗": "93.3",
+     "汽车生命周期碳排放": "91.9"
+    },
     "evaluationId": "fe6def8cdfffcdfec59c639d7ccdd650",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/fe6def8cdfffcdfec59c639d7ccdd650",
     "msrp_guide": {
@@ -14815,14 +14911,21 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "小鹏P7+",
     "brand": "小鹏",
     "year": "2025",
-    "score": null,
-    "targets": null,
+    "score": "96.1",
+    "targets": {
+     "车内空气": "89.6",
+     "健康用材": "94.6",
+     "电磁防护": "100",
+     "续航": "92.2",
+     "充电": "100",
+     "汽车生命周期碳排放": "100"
+    },
     "evaluationId": "6afa2bd4319eae7de169cab5cf99043e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/6afa2bd4319eae7de169cab5cf99043e",
     "msrp_guide": {
@@ -14832,14 +14935,21 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "享界S9",
     "brand": "北京",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "96.3",
+    "targets": {
+     "车内空气": "94.0",
+     "健康用材": "94.6",
+     "电磁防护": "100",
+     "续航": "89.2",
+     "充电": "100",
+     "汽车生命周期碳排放": "100"
+    },
     "evaluationId": "6631217ce8d7acffe6976eeacbb5692b",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/6631217ce8d7acffe6976eeacbb5692b",
     "msrp_guide": {
@@ -14849,14 +14959,21 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "启源E07",
     "brand": "长安",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "93.6",
+    "targets": {
+     "车内空气": "91.5",
+     "健康用材": "94.6",
+     "电磁防护": "100",
+     "续航": "82.0",
+     "充电": "100",
+     "汽车生命周期碳排放": "93.5"
+    },
     "evaluationId": "887ece7cdc64eff102cd240fa90ce65b",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/887ece7cdc64eff102cd240fa90ce65b",
     "msrp_guide": {
@@ -14866,25 +14983,39 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "比亚迪海狮07",
     "brand": "比亚迪",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "95.6",
+    "targets": {
+     "车内空气": "89.1",
+     "健康用材": "94.6",
+     "电磁防护": "100",
+     "续航": "89.7",
+     "充电": "100",
+     "汽车生命周期碳排放": "100"
+    },
     "evaluationId": "ae661c57f25c1a7cc6e9a666960c1c7c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/ae661c57f25c1a7cc6e9a666960c1c7c",
     "msrp_guide": null,
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "星途星纪元ET",
     "brand": "星纪元",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "95.5",
+    "targets": {
+     "车内空气": "89.8",
+     "健康用材": "100",
+     "电磁防护": "100",
+     "续航": "83.5",
+     "充电": "100",
+     "汽车生命周期碳排放": "100"
+    },
     "evaluationId": "b6901c0628bb6cfcbc85ce3d8ae8dc4e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/b6901c0628bb6cfcbc85ce3d8ae8dc4e",
     "msrp_guide": {
@@ -14894,14 +15025,21 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "乐道L60",
     "brand": "蔚来",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "94.9",
+    "targets": {
+     "车内空气": "92.1",
+     "健康用材": "98.8",
+     "电磁防护": "100",
+     "续航": "89.9",
+     "充电": "88.5",
+     "汽车生命周期碳排放": "100"
+    },
     "evaluationId": "8e3b4d6008c3b5ce5f0f1ec0effab8a4",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8e3b4d6008c3b5ce5f0f1ec0effab8a4",
     "msrp_guide": {
@@ -14911,7 +15049,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "理想L6",
@@ -14934,8 +15072,14 @@
     "carName": "沃尔沃EX30",
     "brand": "沃尔沃",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "94.5",
+    "targets": {
+     "车内空气": "90.6",
+     "电磁防护": "100",
+     "续航": "84.1",
+     "充电": "98.0",
+     "碳排放": "100"
+    },
     "evaluationId": "00d3b445bae27636d0b36d979fa99eb1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/00d3b445bae27636d0b36d979fa99eb1",
     "msrp_guide": {
@@ -14945,7 +15089,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "奇瑞智界S7",
@@ -14968,12 +15112,18 @@
     "carName": "合创V09",
     "brand": "合创",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "84.9",
+    "targets": {
+     "车内空气": "89.8",
+     "电磁防护": "96.4",
+     "续航": "72.9",
+     "充电": "85.3",
+     "碳排放": "80.0"
+    },
     "evaluationId": "70b0badfa095d4c3f41241f837ab1daf",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/70b0badfa095d4c3f41241f837ab1daf",
     "msrp_guide": null,
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "小鹏X9",
@@ -14996,12 +15146,18 @@
     "carName": "极狐牌阿尔法T5",
     "brand": "极狐",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "96.2",
+    "targets": {
+     "车内空气": "95.3",
+     "电磁防护": "100",
+     "续航": "85.8",
+     "充电": "100",
+     "碳排放": "100"
+    },
     "evaluationId": "df9ed9baad3cf38dfd14eb3edda5aecd",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/df9ed9baad3cf38dfd14eb3edda5aecd",
     "msrp_guide": null,
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "东风奕派",
@@ -15018,8 +15174,13 @@
     "carName": "魏牌高山",
     "brand": "长城",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "98.4",
+    "targets": {
+     "车内空气": "93.6",
+     "电磁防护": "100",
+     "油耗": "100",
+     "碳排放": "100"
+    },
     "evaluationId": "c9f7bae1ec6f2b30b1cf01eb725057d2",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c9f7bae1ec6f2b30b1cf01eb725057d2",
     "msrp_guide": {
@@ -15029,7 +15190,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "大通G90",
@@ -15052,8 +15213,13 @@
     "carName": "别克世纪",
     "brand": "上汽通用",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "93.5",
+    "targets": {
+     "车内空气": "88.6",
+     "电磁防护": "85.2",
+     "油耗": "100",
+     "碳排放": "100"
+    },
     "evaluationId": "7ad48eedf452c90e5b22b32452b4472a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/7ad48eedf452c90e5b22b32452b4472a",
     "msrp_guide": {
@@ -15063,7 +15229,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "林肯航海家",
@@ -15086,12 +15252,17 @@
     "carName": "丰田凯美瑞",
     "brand": "广汽丰田",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "91.1",
+    "targets": {
+     "车内空气": "88.1",
+     "电磁防护": "76.4",
+     "油耗": "100",
+     "碳排放": "100"
+    },
     "evaluationId": "b93e9efb8f57ebaaa2139fe83fb0f37d",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/b93e9efb8f57ebaaa2139fe83fb0f37d",
     "msrp_guide": null,
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "极越01",
@@ -15108,8 +15279,14 @@
     "carName": "宝马i5",
     "brand": "华晨宝马",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "91.9",
+    "targets": {
+     "车内空气": "88.2",
+     "电磁防护": "95.0",
+     "续航": "88.2",
+     "充电": "88.0",
+     "碳排放": "100"
+    },
     "evaluationId": "56554dd42bcf5ebb2b61216b6004d922",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/56554dd42bcf5ebb2b61216b6004d922",
     "msrp_guide": {
@@ -15119,7 +15296,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "智己LS6",
@@ -15142,12 +15319,18 @@
     "carName": "星途星纪元ES",
     "brand": "星纪元",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "91.4",
+    "targets": {
+     "车内空气": "89.4",
+     "电磁防护": "84.9",
+     "续航": "82.6",
+     "充电": "100",
+     "碳排放": "100"
+    },
     "evaluationId": "b2cf1f4d826eff72eddb9b7f016ddf1e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/b2cf1f4d826eff72eddb9b7f016ddf1e",
     "msrp_guide": null,
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "飞凡F7",
@@ -15170,8 +15353,13 @@
     "carName": "本田英仕派",
     "brand": "东风本田",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "95.0",
+    "targets": {
+     "车内空气": "80.5",
+     "电磁防护": "100",
+     "油耗": "99.3",
+     "碳排放": "100"
+    },
     "evaluationId": "6ca640dbac0abfb1a0a8176dc5dcc690",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/6ca640dbac0abfb1a0a8176dc5dcc690",
     "msrp_guide": {
@@ -15181,7 +15369,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "阿维塔11",
@@ -15204,8 +15392,14 @@
     "carName": "小鹏G9",
     "brand": "小鹏",
     "year": "2023",
-    "score": null,
-    "targets": null,
+    "score": "95.4",
+    "targets": {
+     "车内空气": "93.9",
+     "电磁防护": "100",
+     "续航": "83.2",
+     "充电": "100",
+     "碳排放": "100"
+    },
     "evaluationId": "dadb6eab9dca2ecfb90439a271302e5c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/dadb6eab9dca2ecfb90439a271302e5c",
     "msrp_guide": {
@@ -15215,7 +15409,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "吉利银河L7",
@@ -15232,8 +15426,13 @@
     "carName": "红旗HS3",
     "brand": "一汽",
     "year": "2023",
-    "score": null,
-    "targets": null,
+    "score": "93.0",
+    "targets": {
+     "车内空气": "88.1",
+     "电磁防护": "100",
+     "油耗": "93.7",
+     "碳排放": "90.0"
+    },
     "evaluationId": "a3a8d7e9f469eff5db16b2c84888df81",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/a3a8d7e9f469eff5db16b2c84888df81",
     "msrp_guide": {
@@ -15243,7 +15442,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    }
   ]
  }
