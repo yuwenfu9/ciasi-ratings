@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-09-06T13:59:35+08:00",
+  "generated_at": "2026-09-07T15:45:52+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -19,7 +19,7 @@
    "c_icap": 25,
    "c_gcap": 38
   },
-  "scraped_at": "2026-09-06T14:06:20+08:00"
+  "scraped_at": "2026-09-07T15:46:22+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -35,13 +35,7 @@
     "repairability": "A",
     "nev_special": "G*",
     "detail_url": "https://ciasi.org.cn/products/show-983.html",
-    "msrp_guide": {
-     "low": 23.99,
-     "high": 30.99,
-     "text": "23.99-30.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "丰田",
@@ -69,13 +63,7 @@
     "repairability": "P",
     "nev_special": "G",
     "detail_url": "https://ciasi.org.cn/products/show-985.html",
-    "msrp_guide": {
-     "low": 19.99,
-     "high": 21.89,
-     "text": "19.99-21.89万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "腾势",
@@ -89,13 +77,7 @@
     "repairability": "G+",
     "nev_special": "G",
     "detail_url": "https://ciasi.org.cn/products/show-993.html",
-    "msrp_guide": {
-     "low": 38.98,
-     "high": 46.98,
-     "text": "38.98-46.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "奥迪",
@@ -109,13 +91,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-994.html",
-    "msrp_guide": {
-     "low": 25.58,
-     "high": 34.68,
-     "text": "25.58-34.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "大众",
@@ -129,13 +105,7 @@
     "repairability": "G+",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-995.html",
-    "msrp_guide": {
-     "low": 21.79,
-     "high": 22.99,
-     "text": "21.79-22.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "理想",
@@ -149,13 +119,7 @@
     "repairability": "G",
     "nev_special": "G",
     "detail_url": "https://ciasi.org.cn/products/show-996.html",
-    "msrp_guide": {
-     "low": 30.98,
-     "high": 33.98,
-     "text": "30.98-33.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "奇瑞",
@@ -169,13 +133,7 @@
     "repairability": "M",
     "nev_special": "G",
     "detail_url": "https://ciasi.org.cn/products/show-1003.html",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 31.98,
-     "text": "24.98-31.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "领克",
@@ -189,13 +147,7 @@
     "repairability": "A",
     "nev_special": "G",
     "detail_url": "https://ciasi.org.cn/products/show-1004.html",
-    "msrp_guide": {
-     "low": 29.98,
-     "high": 41.69,
-     "text": "29.98-41.69万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "小鹏",
@@ -209,13 +161,7 @@
     "repairability": "M",
     "nev_special": "G",
     "detail_url": "https://ciasi.org.cn/products/show-1005.html",
-    "msrp_guide": {
-     "low": 20.38,
-     "high": 30.18,
-     "text": "20.38-30.18万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "蔚来",
@@ -229,13 +175,7 @@
     "repairability": "G",
     "nev_special": "G",
     "detail_url": "https://ciasi.org.cn/products/show-1000.html",
-    "msrp_guide": {
-     "low": 38.28,
-     "high": 44.68,
-     "text": "38.28-44.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "理想",
@@ -249,13 +189,7 @@
     "repairability": "G",
     "nev_special": "G",
     "detail_url": "https://ciasi.org.cn/products/show-1006.html",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 26.98,
-     "text": "24.98-26.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "赛力斯",
@@ -269,13 +203,7 @@
     "repairability": "G",
     "nev_special": "G",
     "detail_url": "https://ciasi.org.cn/products/show-1008.html",
-    "msrp_guide": {
-     "low": 35.98,
-     "high": 45.98,
-     "text": "35.98-45.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "尚界",
@@ -289,13 +217,7 @@
     "repairability": "G",
     "nev_special": "G*",
     "detail_url": "https://ciasi.org.cn/products/show-1009.html",
-    "msrp_guide": {
-     "low": 15.98,
-     "high": 19.98,
-     "text": "15.98-19.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "方程豹",
@@ -323,13 +245,7 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-1011.html",
-    "msrp_guide": {
-     "low": 37.88,
-     "high": 50.98,
-     "text": "37.88-50.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "小米",
@@ -343,13 +259,7 @@
     "repairability": "A",
     "nev_special": "G",
     "detail_url": "https://ciasi.org.cn/products/show-1012.html",
-    "msrp_guide": {
-     "low": 23.35,
-     "high": 38.99,
-     "text": "23.35-38.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "理想",
@@ -377,13 +287,7 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-972.html",
-    "msrp_guide": {
-     "low": 43.99,
-     "high": 53.99,
-     "text": "43.99-53.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "埃安",
@@ -397,13 +301,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-973.html",
-    "msrp_guide": {
-     "low": 18.99,
-     "high": 22.99,
-     "text": "18.99-22.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "小米",
@@ -417,13 +315,7 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-881.html",
-    "msrp_guide": {
-     "low": 21.99,
-     "high": 30.39,
-     "text": "21.99-30.39万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "丰田",
@@ -437,13 +329,7 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-882.html",
-    "msrp_guide": {
-     "low": 12.68,
-     "high": 15.98,
-     "text": "12.68-15.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "极氪",
@@ -457,13 +343,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-940.html",
-    "msrp_guide": {
-     "low": 20.99,
-     "high": 29.99,
-     "text": "20.99-29.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "理想",
@@ -477,13 +357,7 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-974.html",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 24.98,
-     "text": "24.98-24.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "江淮",
@@ -497,13 +371,7 @@
     "repairability": "A",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-975.html",
-    "msrp_guide": {
-     "low": 16.99,
-     "high": 27.99,
-     "text": "16.99-27.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "小鹏",
@@ -517,13 +385,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-976.html",
-    "msrp_guide": {
-     "low": 30.98,
-     "high": 36.98,
-     "text": "30.98-36.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "智己",
@@ -551,13 +413,7 @@
     "repairability": "G",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-977.html",
-    "msrp_guide": {
-     "low": 47.98,
-     "high": 65.98,
-     "text": "47.98-65.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "比亚迪",
@@ -571,13 +427,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-903.html",
-    "msrp_guide": {
-     "low": 13.58,
-     "high": 17.58,
-     "text": "13.58-17.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "零跑",
@@ -591,13 +441,7 @@
     "repairability": "A",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-906.html",
-    "msrp_guide": {
-     "low": 14.58,
-     "high": 18.18,
-     "text": "14.58-18.18万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "大通",
@@ -611,13 +455,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-916.html",
-    "msrp_guide": {
-     "low": 26.99,
-     "high": 40.99,
-     "text": "26.99-40.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "特斯拉",
@@ -631,13 +469,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-925.html",
-    "msrp_guide": {
-     "low": 23.55,
-     "high": 33.95,
-     "text": "23.55-33.95万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "大众",
@@ -651,13 +483,7 @@
     "repairability": "G",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-978.html",
-    "msrp_guide": {
-     "low": 17.49,
-     "high": 24.69,
-     "text": "17.49-24.69万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "马自达",
@@ -671,13 +497,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-919.html",
-    "msrp_guide": {
-     "low": 11.98,
-     "high": 16.28,
-     "text": "11.98-16.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "大众",
@@ -705,13 +525,7 @@
     "repairability": "G",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-980.html",
-    "msrp_guide": {
-     "low": 19.28,
-     "high": 25.59,
-     "text": "19.28-25.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "东风日产",
@@ -725,13 +539,7 @@
     "repairability": "G",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-981.html",
-    "msrp_guide": {
-     "low": 23.98,
-     "high": 30.18,
-     "text": "23.98-30.18万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "萤火虫",
@@ -759,13 +567,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-992.html",
-    "msrp_guide": {
-     "low": 11.99,
-     "high": 15.89,
-     "text": "11.99-15.89万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "丰田",
@@ -779,13 +581,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-720.html",
-    "msrp_guide": {
-     "low": 29.88,
-     "high": 39.38,
-     "text": "29.88-39.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "本田",
@@ -799,13 +595,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-721.html",
-    "msrp_guide": {
-     "low": 13.79,
-     "high": 26.39,
-     "text": "13.79-26.39万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "理想",
@@ -833,13 +623,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-724.html",
-    "msrp_guide": {
-     "low": 25.8,
-     "high": 28.8,
-     "text": "25.80-28.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "上汽飞凡",
@@ -853,13 +637,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-725.html",
-    "msrp_guide": {
-     "low": 17.99,
-     "high": 20.99,
-     "text": "17.99-20.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "起亚",
@@ -873,13 +651,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-726.html",
-    "msrp_guide": {
-     "low": 15.49,
-     "high": 23.78,
-     "text": "15.49-23.78万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "传祺",
@@ -893,13 +665,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-727.html",
-    "msrp_guide": {
-     "low": 15.98,
-     "high": 20.58,
-     "text": "15.98-20.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "丰田",
@@ -927,13 +693,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-732.html",
-    "msrp_guide": {
-     "low": 29.99,
-     "high": 34.56,
-     "text": "29.99-34.56万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "本田",
@@ -947,13 +707,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-734.html",
-    "msrp_guide": {
-     "low": 18.59,
-     "high": 24.99,
-     "text": "18.59-24.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "比亚迪",
@@ -995,13 +749,7 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-737.html",
-    "msrp_guide": {
-     "low": 19.38,
-     "high": 30.18,
-     "text": "19.38-30.18万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "长安",
@@ -1015,13 +763,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-738.html",
-    "msrp_guide": {
-     "low": 9.99,
-     "high": 13.79,
-     "text": "9.99-13.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "现代",
@@ -1049,13 +791,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-741.html",
-    "msrp_guide": {
-     "low": 12.58,
-     "high": 15.38,
-     "text": "12.58-15.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "岚图",
@@ -1069,13 +805,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-742.html",
-    "msrp_guide": {
-     "low": 25.28,
-     "high": 38.59,
-     "text": "25.28-38.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "精灵",
@@ -1117,13 +847,7 @@
     "repairability": "G",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-757.html",
-    "msrp_guide": {
-     "low": 8.0,
-     "high": 15.19,
-     "text": "8.00-15.19万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "别克",
@@ -1137,13 +861,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-758.html",
-    "msrp_guide": {
-     "low": 16.99,
-     "high": 21.19,
-     "text": "16.99-21.19万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "智己",
@@ -1157,13 +875,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-759.html",
-    "msrp_guide": {
-     "low": 33.98,
-     "high": 35.98,
-     "text": "33.98-35.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "福特",
@@ -1177,13 +889,7 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-760.html",
-    "msrp_guide": {
-     "low": 22.98,
-     "high": 30.98,
-     "text": "22.98-30.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "日产",
@@ -1197,13 +903,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-761.html",
-    "msrp_guide": {
-     "low": 12.59,
-     "high": 17.49,
-     "text": "12.59-17.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "星途",
@@ -1217,13 +917,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-762.html",
-    "msrp_guide": {
-     "low": 13.79,
-     "high": 23.38,
-     "text": "13.79-23.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "本田",
@@ -1237,13 +931,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-785.html",
-    "msrp_guide": {
-     "low": 17.98,
-     "high": 21.48,
-     "text": "17.98-21.48万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "本田",
@@ -1271,13 +959,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-787.html",
-    "msrp_guide": {
-     "low": 13.28,
-     "high": 17.28,
-     "text": "13.28-17.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "极石牌",
@@ -1291,13 +973,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-788.html",
-    "msrp_guide": {
-     "low": 29.99,
-     "high": 35.99,
-     "text": "29.99-35.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "日产",
@@ -1311,13 +987,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-789.html",
-    "msrp_guide": {
-     "low": 19.99,
-     "high": 28.29,
-     "text": "19.99-28.29万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "阿维塔",
@@ -1331,13 +1001,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-790.html",
-    "msrp_guide": {
-     "low": 26.99,
-     "high": 70.0,
-     "text": "26.99-70.00万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "红旗",
@@ -1393,13 +1057,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-794.html",
-    "msrp_guide": {
-     "low": 29.98,
-     "high": 32.68,
-     "text": "29.98-32.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "上汽通用别克",
@@ -1413,13 +1071,7 @@
     "repairability": "A",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-970.html",
-    "msrp_guide": {
-     "low": 15.98,
-     "high": 17.58,
-     "text": "15.98-17.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "丰田",
@@ -1433,13 +1085,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-723.html",
-    "msrp_guide": {
-     "low": 28.48,
-     "high": 33.28,
-     "text": "28.48-33.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "奥迪",
@@ -1453,13 +1099,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-729.html",
-    "msrp_guide": {
-     "low": 58.98,
-     "high": 78.88,
-     "text": "58.98-78.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "本田",
@@ -1473,13 +1113,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-730.html",
-    "msrp_guide": {
-     "low": 13.99,
-     "high": 17.09,
-     "text": "13.99-17.09万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "领克",
@@ -1493,13 +1127,7 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-731.html",
-    "msrp_guide": {
-     "low": 23.88,
-     "high": 26.58,
-     "text": "23.88-26.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "长安",
@@ -1513,13 +1141,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-733.html",
-    "msrp_guide": {
-     "low": 10.29,
-     "high": 13.99,
-     "text": "10.29-13.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "小鹏",
@@ -1547,13 +1169,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-743.html",
-    "msrp_guide": {
-     "low": 9.79,
-     "high": 17.79,
-     "text": "9.79-17.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "传祺",
@@ -1567,13 +1183,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-744.html",
-    "msrp_guide": {
-     "low": 11.8,
-     "high": 15.8,
-     "text": "11.80-15.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "欧拉",
@@ -1587,13 +1197,7 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-745.html",
-    "msrp_guide": {
-     "low": 8.38,
-     "high": 10.38,
-     "text": "8.38-10.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "现代",
@@ -1607,13 +1211,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-746.html",
-    "msrp_guide": {
-     "low": 9.98,
-     "high": 12.38,
-     "text": "9.98-12.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "丰田",
@@ -1627,13 +1225,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-747.html",
-    "msrp_guide": {
-     "low": 13.98,
-     "high": 16.98,
-     "text": "13.98-16.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "宝马",
@@ -1647,13 +1239,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-748.html",
-    "msrp_guide": {
-     "low": 59.8,
-     "high": 74.8,
-     "text": "59.80-74.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "理想",
@@ -1667,13 +1253,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-749.html",
-    "msrp_guide": {
-     "low": 45.98,
-     "high": 50.98,
-     "text": "45.98-50.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "赛力斯",
@@ -1687,13 +1267,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-750.html",
-    "msrp_guide": {
-     "low": 27.98,
-     "high": 38.98,
-     "text": "27.98-38.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "大众",
@@ -1735,13 +1309,7 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-753.html",
-    "msrp_guide": {
-     "low": 29.8,
-     "high": 31.3,
-     "text": "29.80-31.30万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "日产",
@@ -1755,13 +1323,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-755.html",
-    "msrp_guide": {
-     "low": 7.99,
-     "high": 17.49,
-     "text": "7.99-17.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "零跑",
@@ -1775,13 +1337,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-763.html",
-    "msrp_guide": {
-     "low": 14.38,
-     "high": 16.58,
-     "text": "14.38-16.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "大众",
@@ -1795,13 +1351,7 @@
     "repairability": "A",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-764.html",
-    "msrp_guide": {
-     "low": 15.09,
-     "high": 19.59,
-     "text": "15.09-19.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "福特",
@@ -1815,13 +1365,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-765.html",
-    "msrp_guide": {
-     "low": 14.98,
-     "high": 22.98,
-     "text": "14.98-22.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "理想",
@@ -1835,13 +1379,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-766.html",
-    "msrp_guide": {
-     "low": 36.98,
-     "high": 42.98,
-     "text": "36.98-42.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "极氪",
@@ -1855,13 +1393,7 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-767.html",
-    "msrp_guide": {
-     "low": 26.98,
-     "high": 36.5,
-     "text": "26.98-36.50万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "奥迪",
@@ -1875,13 +1407,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-768.html",
-    "msrp_guide": {
-     "low": 28.98,
-     "high": 36.28,
-     "text": "28.98-36.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "比亚迪",
@@ -1895,13 +1421,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-769.html",
-    "msrp_guide": {
-     "low": 17.98,
-     "high": 25.98,
-     "text": "17.98-25.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "别克",
@@ -1915,13 +1435,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-770.html",
-    "msrp_guide": {
-     "low": 46.99,
-     "high": 69.99,
-     "text": "46.99-69.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "荣威",
@@ -1935,13 +1449,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-771.html",
-    "msrp_guide": {
-     "low": 9.99,
-     "high": 11.99,
-     "text": "9.99-11.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "北京",
@@ -1983,13 +1491,7 @@
     "repairability": "A",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-774.html",
-    "msrp_guide": {
-     "low": 15.49,
-     "high": 18.49,
-     "text": "15.49-18.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "大众",
@@ -2003,13 +1505,7 @@
     "repairability": "G",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-775.html",
-    "msrp_guide": {
-     "low": 15.99,
-     "high": 21.19,
-     "text": "15.99-21.19万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "马自达",
@@ -2023,13 +1519,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-776.html",
-    "msrp_guide": {
-     "low": 9.99,
-     "high": 13.99,
-     "text": "9.99-13.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "福特",
@@ -2043,13 +1533,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-777.html",
-    "msrp_guide": {
-     "low": 16.98,
-     "high": 21.98,
-     "text": "16.98-21.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "别克",
@@ -2063,13 +1547,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-778.html",
-    "msrp_guide": {
-     "low": 22.99,
-     "high": 25.99,
-     "text": "22.99-25.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "丰田",
@@ -2111,13 +1589,7 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-781.html",
-    "msrp_guide": {
-     "low": 19.98,
-     "high": 23.48,
-     "text": "19.98-23.48万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "日产",
@@ -2131,13 +1603,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-782.html",
-    "msrp_guide": {
-     "low": 16.08,
-     "high": 26.29,
-     "text": "16.08-26.29万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "别克",
@@ -2165,13 +1631,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-784.html",
-    "msrp_guide": {
-     "low": 26.35,
-     "high": 31.35,
-     "text": "26.35-31.35万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "别克",
@@ -2185,13 +1645,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-795.html",
-    "msrp_guide": {
-     "low": 15.98,
-     "high": 17.58,
-     "text": "15.98-17.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "特斯拉",
@@ -2205,13 +1659,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-796.html",
-    "msrp_guide": {
-     "low": 23.55,
-     "high": 33.95,
-     "text": "23.55-33.95万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "哈弗",
@@ -2225,13 +1673,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-797.html",
-    "msrp_guide": {
-     "low": 9.89,
-     "high": 14.39,
-     "text": "9.89-14.39万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "本田",
@@ -2245,13 +1687,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-798.html",
-    "msrp_guide": {
-     "low": 13.79,
-     "high": 26.39,
-     "text": "13.79-26.39万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "奥迪",
@@ -2265,13 +1701,7 @@
     "repairability": "--",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-799.html",
-    "msrp_guide": {
-     "low": 32.28,
-     "high": 39.98,
-     "text": "32.28-39.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "奔驰",
@@ -2285,13 +1715,7 @@
     "repairability": "--",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-800.html",
-    "msrp_guide": {
-     "low": 25.13,
-     "high": 27.57,
-     "text": "25.13-27.57万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "领克",
@@ -2305,13 +1729,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-801.html",
-    "msrp_guide": {
-     "low": 12.18,
-     "high": 42.03,
-     "text": "12.18-42.03万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "江淮",
@@ -2353,13 +1771,7 @@
     "repairability": "--",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-804.html",
-    "msrp_guide": {
-     "low": 16.98,
-     "high": 22.88,
-     "text": "16.98-22.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "荣威",
@@ -2373,13 +1785,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-805.html",
-    "msrp_guide": {
-     "low": 18.58,
-     "high": 25.58,
-     "text": "18.58-25.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "宝马",
@@ -2393,13 +1799,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-806.html",
-    "msrp_guide": {
-     "low": 31.8,
-     "high": 39.8,
-     "text": "31.80-39.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "丰田",
@@ -2413,13 +1813,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-807.html",
-    "msrp_guide": {
-     "low": 16.98,
-     "high": 23.08,
-     "text": "16.98-23.08万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "大众",
@@ -2433,13 +1827,7 @@
     "repairability": "A",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-808.html",
-    "msrp_guide": {
-     "low": 21.59,
-     "high": 25.59,
-     "text": "21.59-25.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "大众",
@@ -2453,13 +1841,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-809.html",
-    "msrp_guide": {
-     "low": 28.9,
-     "high": 35.99,
-     "text": "28.90-35.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "蔚来",
@@ -2473,13 +1855,7 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-810.html",
-    "msrp_guide": {
-     "low": 35.8,
-     "high": 37.3,
-     "text": "35.80-37.30万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "启辰",
@@ -2493,13 +1869,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-811.html",
-    "msrp_guide": {
-     "low": 12.66,
-     "high": 14.96,
-     "text": "12.66-14.96万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "现代",
@@ -2513,13 +1883,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-812.html",
-    "msrp_guide": {
-     "low": 19.58,
-     "high": 26.88,
-     "text": "19.58-26.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "天际",
@@ -2561,13 +1925,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-815.html",
-    "msrp_guide": {
-     "low": 16.88,
-     "high": 22.58,
-     "text": "16.88-22.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "比亚迪",
@@ -2693,13 +2051,7 @@
     "repairability": "--",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-824.html",
-    "msrp_guide": {
-     "low": 22.97,
-     "high": 27.57,
-     "text": "22.97-27.57万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "哈弗",
@@ -2741,13 +2093,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-827.html",
-    "msrp_guide": {
-     "low": 39.69,
-     "high": 47.49,
-     "text": "39.69-47.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "丰田",
@@ -2761,13 +2107,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-828.html",
-    "msrp_guide": {
-     "low": 17.88,
-     "high": 25.68,
-     "text": "17.88-25.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "吉利",
@@ -2795,13 +2135,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-830.html",
-    "msrp_guide": {
-     "low": 11.38,
-     "high": 14.88,
-     "text": "11.38-14.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "日产",
@@ -2815,13 +2149,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-831.html",
-    "msrp_guide": {
-     "low": 13.99,
-     "high": 23.98,
-     "text": "13.99-23.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "雪佛兰",
@@ -2877,13 +2205,7 @@
     "repairability": "A",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-835.html",
-    "msrp_guide": {
-     "low": 21.59,
-     "high": 25.59,
-     "text": "21.59-25.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "长安",
@@ -2897,13 +2219,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-836.html",
-    "msrp_guide": {
-     "low": 9.79,
-     "high": 11.99,
-     "text": "9.79-11.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "一汽奔腾",
@@ -2945,13 +2261,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-839.html",
-    "msrp_guide": {
-     "low": 35.18,
-     "high": 46.28,
-     "text": "35.18-46.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "吉普",
@@ -2979,13 +2289,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-841.html",
-    "msrp_guide": {
-     "low": 25.8,
-     "high": 33.8,
-     "text": "25.80-33.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "奥迪",
@@ -2999,13 +2303,7 @@
     "repairability": "--",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-842.html",
-    "msrp_guide": {
-     "low": 33.69,
-     "high": 55.89,
-     "text": "33.69-55.89万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "荣威",
@@ -3019,13 +2317,7 @@
     "repairability": "--",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-843.html",
-    "msrp_guide": {
-     "low": 9.99,
-     "high": 11.99,
-     "text": "9.99-11.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "丰田",
@@ -3039,13 +2331,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-844.html",
-    "msrp_guide": {
-     "low": 11.68,
-     "high": 15.58,
-     "text": "11.68-15.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "别克",
@@ -3059,13 +2345,7 @@
     "repairability": "--",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-845.html",
-    "msrp_guide": {
-     "low": 22.99,
-     "high": 25.99,
-     "text": "22.99-25.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "大众",
@@ -3079,13 +2359,7 @@
     "repairability": "--",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-846.html",
-    "msrp_guide": {
-     "low": 19.19,
-     "high": 20.79,
-     "text": "19.19-20.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "大众",
@@ -3099,13 +2373,7 @@
     "repairability": "--",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-847.html",
-    "msrp_guide": {
-     "low": 17.49,
-     "high": 24.69,
-     "text": "17.49-24.69万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "丰田",
@@ -3133,13 +2401,7 @@
     "repairability": "--",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-849.html",
-    "msrp_guide": {
-     "low": 14.98,
-     "high": 18.18,
-     "text": "14.98-18.18万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "五菱",
@@ -3181,13 +2443,7 @@
     "repairability": "--",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-852.html",
-    "msrp_guide": {
-     "low": 9.79,
-     "high": 17.79,
-     "text": "9.79-17.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "奔驰",
@@ -3201,13 +2457,7 @@
     "repairability": "--",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-853.html",
-    "msrp_guide": {
-     "low": 29.99,
-     "high": 34.56,
-     "text": "29.99-34.56万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "宝马",
@@ -3221,13 +2471,7 @@
     "repairability": "--",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-854.html",
-    "msrp_guide": {
-     "low": 25.8,
-     "high": 33.8,
-     "text": "25.80-33.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "雷诺",
@@ -3255,13 +2499,7 @@
     "repairability": "--",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-856.html",
-    "msrp_guide": {
-     "low": 17.98,
-     "high": 21.48,
-     "text": "17.98-21.48万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "奇瑞",
@@ -3275,13 +2513,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-857.html",
-    "msrp_guide": {
-     "low": 5.99,
-     "high": 6.99,
-     "text": "5.99-6.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "现代",
@@ -3337,13 +2569,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-861.html",
-    "msrp_guide": {
-     "low": 13.98,
-     "high": 15.78,
-     "text": "13.98-15.78万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "斯柯达",
@@ -3413,13 +2639,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-866.html",
-    "msrp_guide": {
-     "low": 34.99,
-     "high": 36.99,
-     "text": "34.99-36.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "比亚迪",
@@ -3491,13 +2711,7 @@
     },
     "evaluationId": "ce573aadffb31703b593869b000bcad4",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/ce573aadffb31703b593869b000bcad4",
-    "msrp_guide": {
-     "low": 33.28,
-     "high": 37.98,
-     "text": "33.28-37.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "小米YU7",
@@ -3511,13 +2725,7 @@
     },
     "evaluationId": "8b4ed82ccbbbdd27a57b70d73fef6b73",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8b4ed82ccbbbdd27a57b70d73fef6b73",
-    "msrp_guide": {
-     "low": 23.35,
-     "high": 38.99,
-     "text": "23.35-38.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "奥迪A5L",
@@ -3531,13 +2739,7 @@
     },
     "evaluationId": "9fe7595c07eeb03f8b2b53ee409efae2",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/9fe7595c07eeb03f8b2b53ee409efae2",
-    "msrp_guide": {
-     "low": 25.58,
-     "high": 34.68,
-     "text": "25.58-34.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "理想i6",
@@ -3551,13 +2753,7 @@
     },
     "evaluationId": "638e3f9f6ababeed8afcc51217dd0c22",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/638e3f9f6ababeed8afcc51217dd0c22",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 26.98,
-     "text": "24.98-26.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "奥迪E5",
@@ -3585,13 +2781,7 @@
     },
     "evaluationId": "8795ca2fcbefe8facddb468bfca8ddb6",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8795ca2fcbefe8facddb468bfca8ddb6",
-    "msrp_guide": {
-     "low": 27.98,
-     "high": 38.98,
-     "text": "27.98-38.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "银河M9",
@@ -3605,13 +2795,7 @@
     },
     "evaluationId": "aae7caa16efd4d8dfb4d4bd24492b087",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/aae7caa16efd4d8dfb4d4bd24492b087",
-    "msrp_guide": {
-     "low": 18.38,
-     "high": 26.98,
-     "text": "18.38-26.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "尚界H5",
@@ -3625,13 +2809,7 @@
     },
     "evaluationId": "d1eb736a0a70b881bfadbe3253d89f93",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d1eb736a0a70b881bfadbe3253d89f93",
-    "msrp_guide": {
-     "low": 15.98,
-     "high": 19.98,
-     "text": "15.98-19.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "阿维塔06",
@@ -3645,13 +2823,7 @@
     },
     "evaluationId": "d65e5a21a0eb666231ea8dcfcbeddb3a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d65e5a21a0eb666231ea8dcfcbeddb3a",
-    "msrp_guide": {
-     "low": 20.99,
-     "high": 27.99,
-     "text": "20.99-27.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田bZ5",
@@ -3679,13 +2851,7 @@
     },
     "evaluationId": "e9ac934be397fcc8d7cafeb6f281e9c5",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e9ac934be397fcc8d7cafeb6f281e9c5",
-    "msrp_guide": {
-     "low": 26.58,
-     "high": 29.98,
-     "text": "26.58-29.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田铂智3X",
@@ -3699,13 +2865,7 @@
     },
     "evaluationId": "06bba8e74cf0d1bdb19b4df10cebaa76",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/06bba8e74cf0d1bdb19b4df10cebaa76",
-    "msrp_guide": {
-     "low": 10.98,
-     "high": 15.98,
-     "text": "10.98-15.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "比亚迪唐L",
@@ -3719,13 +2879,7 @@
     },
     "evaluationId": "b688d8b6ec71fa5bff43ee12b68e7ac8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/b688d8b6ec71fa5bff43ee12b68e7ac8",
-    "msrp_guide": {
-     "low": 22.98,
-     "high": 28.98,
-     "text": "22.98-28.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "奥迪Q6L e-tron",
@@ -3739,13 +2893,7 @@
     },
     "evaluationId": "9a5ed1ac40d30a43e32e3d7ed5f806fa",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/9a5ed1ac40d30a43e32e3d7ed5f806fa",
-    "msrp_guide": {
-     "low": 46.76,
-     "high": 61.06,
-     "text": "46.76-61.06万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "方程豹豹8",
@@ -3759,13 +2907,7 @@
     },
     "evaluationId": "085eecc9765577c8f78c447f6cf2c323",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/085eecc9765577c8f78c447f6cf2c323",
-    "msrp_guide": {
-     "low": 37.98,
-     "high": 42.38,
-     "text": "37.98-42.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "极氪7X",
@@ -3779,13 +2921,7 @@
     },
     "evaluationId": "cf555510b8fe177dc00e7e2417a9aa7f",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cf555510b8fe177dc00e7e2417a9aa7f",
-    "msrp_guide": {
-     "low": 22.98,
-     "high": 26.98,
-     "text": "22.98-26.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "firefly萤火虫",
@@ -3813,13 +2949,7 @@
     },
     "evaluationId": "ae77b80e6f905f7491aef2ab6e453fd4",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/ae77b80e6f905f7491aef2ab6e453fd4",
-    "msrp_guide": {
-     "low": 21.99,
-     "high": 28.99,
-     "text": "21.99-28.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "赛力斯问界M8",
@@ -3833,13 +2963,7 @@
     },
     "evaluationId": "a4738b32611c2f4ddf665c9832e0f240",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/a4738b32611c2f4ddf665c9832e0f240",
-    "msrp_guide": {
-     "low": 35.98,
-     "high": 45.98,
-     "text": "35.98-45.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "小鹏P7+",
@@ -3853,13 +2977,7 @@
     },
     "evaluationId": "6389acb8cdb4caeec7d4a5fd0ec15984",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/6389acb8cdb4caeec7d4a5fd0ec15984",
-    "msrp_guide": {
-     "low": 18.68,
-     "high": 19.88,
-     "text": "18.68-19.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众与众06",
@@ -3873,13 +2991,7 @@
     },
     "evaluationId": "8cc8b93173a41fee1d07f69ec6b92f8b",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8cc8b93173a41fee1d07f69ec6b92f8b",
-    "msrp_guide": {
-     "low": 14.99,
-     "high": 15.99,
-     "text": "14.99-15.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "马自达 EZ-6",
@@ -3893,13 +3005,7 @@
     },
     "evaluationId": "d792edc47f5ec0a0f510336bfd5b8ad1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d792edc47f5ec0a0f510336bfd5b8ad1",
-    "msrp_guide": {
-     "low": 11.98,
-     "high": 16.28,
-     "text": "11.98-16.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "宝马X3",
@@ -3913,13 +3019,7 @@
     },
     "evaluationId": "cb1c4e2274d1dbd9a2ac38129c4c9c55",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cb1c4e2274d1dbd9a2ac38129c4c9c55",
-    "msrp_guide": {
-     "low": 31.8,
-     "high": 39.8,
-     "text": "31.80-39.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "比亚迪海狮07",
@@ -3947,13 +3047,7 @@
     },
     "evaluationId": "94f9a92a762ede5059a4006293e9957e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/94f9a92a762ede5059a4006293e9957e",
-    "msrp_guide": {
-     "low": 27.99,
-     "high": 29.99,
-     "text": "27.99-29.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "小米SU7",
@@ -3967,13 +3061,7 @@
     },
     "evaluationId": "dd1ed8cc231d34f7265e089fd4d5aceb",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/dd1ed8cc231d34f7265e089fd4d5aceb",
-    "msrp_guide": {
-     "low": 21.99,
-     "high": 30.39,
-     "text": "21.99-30.39万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "享界S9",
@@ -3987,13 +3075,7 @@
     },
     "evaluationId": "eb58726ab78dcf5aac9aa162f9c4cabe",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/eb58726ab78dcf5aac9aa162f9c4cabe",
-    "msrp_guide": {
-     "low": 30.98,
-     "high": 37.98,
-     "text": "30.98-37.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众迈腾",
@@ -4007,13 +3089,7 @@
     },
     "evaluationId": "04717c8fd3761a7dbdca86d1d98cd4cd",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/04717c8fd3761a7dbdca86d1d98cd4cd",
-    "msrp_guide": {
-     "low": 17.49,
-     "high": 24.69,
-     "text": "17.49-24.69万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "启源E07",
@@ -4027,13 +3103,7 @@
     },
     "evaluationId": "ceffab61d9a62c98b5c7da5eddf4ad6f",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/ceffab61d9a62c98b5c7da5eddf4ad6f",
-    "msrp_guide": {
-     "low": 21.99,
-     "high": 30.99,
-     "text": "21.99-30.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众途观L Pro",
@@ -4061,13 +3131,7 @@
     },
     "evaluationId": "7aed631b8aaebcb354ea7cc4cb1fb02e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/7aed631b8aaebcb354ea7cc4cb1fb02e",
-    "msrp_guide": {
-     "low": 18.98,
-     "high": 31.98,
-     "text": "18.98-31.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "乐道L60",
@@ -4081,13 +3145,7 @@
     },
     "evaluationId": "a82bcb33efea85dced960eabd5dea3ec",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/a82bcb33efea85dced960eabd5dea3ec",
-    "msrp_guide": {
-     "low": 19.28,
-     "high": 25.59,
-     "text": "19.28-25.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "长城山海炮",
@@ -4101,13 +3159,7 @@
     },
     "evaluationId": "da82b7d6060e8e6da24e2abebd4f09c1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/da82b7d6060e8e6da24e2abebd4f09c1",
-    "msrp_guide": {
-     "low": 9.98,
-     "high": 22.98,
-     "text": "9.98-22.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "理想L6",
@@ -4121,13 +3173,7 @@
     },
     "evaluationId": "809e56babe9edfc126ad0a6ad2f87bef",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/809e56babe9edfc126ad0a6ad2f87bef",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 24.98,
-     "text": "24.98-24.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "奇瑞智界S7",
@@ -4141,13 +3187,7 @@
     },
     "evaluationId": "5e1bfb1d8c6d78d05d40fc7f473b0acd",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/5e1bfb1d8c6d78d05d40fc7f473b0acd",
-    "msrp_guide": {
-     "low": 22.98,
-     "high": 32.98,
-     "text": "22.98-32.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "翼真L380",
@@ -4161,13 +3201,7 @@
     },
     "evaluationId": "f1e2ec72c2f1ebde3017df488267a439",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/f1e2ec72c2f1ebde3017df488267a439",
-    "msrp_guide": {
-     "low": 29.99,
-     "high": 59.99,
-     "text": "29.99-59.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "魏牌高山",
@@ -4181,13 +3215,7 @@
     },
     "evaluationId": "30b47ac20fec9084a132f3bbd5277ab7",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/30b47ac20fec9084a132f3bbd5277ab7",
-    "msrp_guide": {
-     "low": 27.28,
-     "high": 35.38,
-     "text": "27.28-35.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "极氪009",
@@ -4201,13 +3229,7 @@
     },
     "evaluationId": "dd7ecc682ad34bacdce8d186cadfb112",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/dd7ecc682ad34bacdce8d186cadfb112",
-    "msrp_guide": {
-     "low": 43.9,
-     "high": 89.9,
-     "text": "43.90-89.90万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "零跑C10",
@@ -4221,13 +3243,7 @@
     },
     "evaluationId": "b0dd35251dda6a0909edff7eddc704a8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/b0dd35251dda6a0909edff7eddc704a8",
-    "msrp_guide": {
-     "low": 12.28,
-     "high": 14.28,
-     "text": "12.28-14.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "极狐牌阿尔法T5",
@@ -4269,13 +3285,7 @@
     },
     "evaluationId": "fccc676bb2b5fcfd0f3ecbd118fe0fc6",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/fccc676bb2b5fcfd0f3ecbd118fe0fc6",
-    "msrp_guide": {
-     "low": 30.98,
-     "high": 36.98,
-     "text": "30.98-36.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田英仕派",
@@ -4289,13 +3299,7 @@
     },
     "evaluationId": "083d349cd5bc3a7ca7cbef6a9bf3a138",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/083d349cd5bc3a7ca7cbef6a9bf3a138",
-    "msrp_guide": {
-     "low": 18.28,
-     "high": 21.38,
-     "text": "18.28-21.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "星途星纪元ES",
@@ -4323,13 +3327,7 @@
     },
     "evaluationId": "e26111b637da2a17fd343e737ccf45f5",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e26111b637da2a17fd343e737ccf45f5",
-    "msrp_guide": {
-     "low": 29.99,
-     "high": 35.99,
-     "text": "29.99-35.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "林肯航海家",
@@ -4343,13 +3341,7 @@
     },
     "evaluationId": "4d7600eff2241ebcae842b4c1aec872f",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/4d7600eff2241ebcae842b4c1aec872f",
-    "msrp_guide": {
-     "low": 30.58,
-     "high": 46.88,
-     "text": "30.58-46.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风奕派",
@@ -4391,13 +3383,7 @@
     },
     "evaluationId": "d220c8a768d1fced3d5b6ed50f583aac",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d220c8a768d1fced3d5b6ed50f583aac",
-    "msrp_guide": {
-     "low": 47.98,
-     "high": 65.98,
-     "text": "47.98-65.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "别克世纪",
@@ -4411,13 +3397,7 @@
     },
     "evaluationId": "5efb3cfc4f85a2b09b4b38b587ffc5c9",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/5efb3cfc4f85a2b09b4b38b587ffc5c9",
-    "msrp_guide": {
-     "low": 46.99,
-     "high": 69.99,
-     "text": "46.99-69.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大通G90",
@@ -4431,13 +3411,7 @@
     },
     "evaluationId": "7cbc288eca8bb9462a2abed8ad88a0a4",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/7cbc288eca8bb9462a2abed8ad88a0a4",
-    "msrp_guide": {
-     "low": 19.99,
-     "high": 24.99,
-     "text": "19.99-24.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "宝马i5",
@@ -4451,13 +3425,7 @@
     },
     "evaluationId": "400ae7737cad92a394632d7b5df9d2b4",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/400ae7737cad92a394632d7b5df9d2b4",
-    "msrp_guide": {
-     "low": 43.99,
-     "high": 53.99,
-     "text": "43.99-53.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "智己LS6",
@@ -4471,13 +3439,7 @@
     },
     "evaluationId": "0276af8ae0349c68e2275dfaf40e5895",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/0276af8ae0349c68e2275dfaf40e5895",
-    "msrp_guide": {
-     "low": 21.29,
-     "high": 28.49,
-     "text": "21.29-28.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "福特游骑侠Ranger",
@@ -4505,13 +3467,7 @@
     },
     "evaluationId": "2",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/2",
-    "msrp_guide": {
-     "low": 28.99,
-     "high": 42.99,
-     "text": "28.99-42.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "启源A07",
@@ -4525,13 +3481,7 @@
     },
     "evaluationId": "1c3765fd6eeca8bd336fce13195ffc26",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1c3765fd6eeca8bd336fce13195ffc26",
-    "msrp_guide": {
-     "low": 13.99,
-     "high": 16.59,
-     "text": "13.99-16.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "飞凡F7",
@@ -4545,13 +3495,7 @@
     },
     "evaluationId": "7a9d686601ee70fff8cd32fc2edaa386",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/7a9d686601ee70fff8cd32fc2edaa386",
-    "msrp_guide": {
-     "low": 18.29,
-     "high": 18.29,
-     "text": "18.29-18.29万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "埃安昊铂GT",
@@ -4565,13 +3509,7 @@
     },
     "evaluationId": "420c4d42880f061448987adceb0a4c80",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/420c4d42880f061448987adceb0a4c80",
-    "msrp_guide": {
-     "low": 15.38,
-     "high": 21.99,
-     "text": "15.38-21.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "江淮钇为3",
@@ -4585,13 +3523,7 @@
     },
     "evaluationId": "d1fa1485fc276a73aabf99db4cc2e3ff",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d1fa1485fc276a73aabf99db4cc2e3ff",
-    "msrp_guide": {
-     "low": 6.99,
-     "high": 14.99,
-     "text": "6.99-14.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "小鹏G9",
@@ -4605,13 +3537,7 @@
     },
     "evaluationId": "e5d86bff33db1dab64b69a8c161549a9",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e5d86bff33db1dab64b69a8c161549a9",
-    "msrp_guide": {
-     "low": 24.88,
-     "high": 27.88,
-     "text": "24.88-27.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "吉利银河L7",
@@ -4667,13 +3593,7 @@
     },
     "evaluationId": "652a85aa2c9d95639b17258ca814bbac",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/652a85aa2c9d95639b17258ca814bbac",
-    "msrp_guide": {
-     "low": 19.99,
-     "high": 28.29,
-     "text": "19.99-28.29万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众ID.6X",
@@ -4687,13 +3607,7 @@
     },
     "evaluationId": "3e83bead3fb59e8679aabbc4fa8a1db8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/3e83bead3fb59e8679aabbc4fa8a1db8",
-    "msrp_guide": {
-     "low": 25.99,
-     "high": 29.39,
-     "text": "25.99-29.39万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "魔方",
@@ -4735,13 +3649,7 @@
     },
     "evaluationId": "8ad344b8a7230967ece9da217d1f56ff",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8ad344b8a7230967ece9da217d1f56ff",
-    "msrp_guide": {
-     "low": 29.99,
-     "high": 41.99,
-     "text": "29.99-41.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "岚图梦想家",
@@ -4755,13 +3663,7 @@
     },
     "evaluationId": "9c7f4c7c1d2edf5be94a34ff1cfa7a37",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/9c7f4c7c1d2edf5be94a34ff1cfa7a37",
-    "msrp_guide": {
-     "low": 31.59,
-     "high": 70.99,
-     "text": "31.59-70.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田CR-V",
@@ -4775,13 +3677,7 @@
     },
     "evaluationId": "ac06e22d2fafbcfdbde29f3dfe58aede",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/ac06e22d2fafbcfdbde29f3dfe58aede",
-    "msrp_guide": {
-     "low": 18.59,
-     "high": 24.99,
-     "text": "18.59-24.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "凯迪拉克锐歌",
@@ -4809,13 +3705,7 @@
     },
     "evaluationId": "e70ba5aa5f2dae8facf2d8bfde52980a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e70ba5aa5f2dae8facf2d8bfde52980a",
-    "msrp_guide": {
-     "low": 45.98,
-     "high": 50.98,
-     "text": "45.98-50.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "极狐牌阿尔法S",
@@ -4843,13 +3733,7 @@
     },
     "evaluationId": "9c066686f99c7220f9ff3adcd54acf8b",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/9c066686f99c7220f9ff3adcd54acf8b",
-    "msrp_guide": {
-     "low": 23.58,
-     "high": 36.58,
-     "text": "23.58-36.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "荣威RX5",
@@ -4863,13 +3747,7 @@
     },
     "evaluationId": "3b6114cf59888485cffcc9ca6715e380",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/3b6114cf59888485cffcc9ca6715e380",
-    "msrp_guide": {
-     "low": 9.99,
-     "high": 11.99,
-     "text": "9.99-11.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风日产奇骏",
@@ -4883,13 +3761,7 @@
     },
     "evaluationId": "1440a0e2b57be507157efac9b6498f9e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1440a0e2b57be507157efac9b6498f9e",
-    "msrp_guide": {
-     "low": 16.08,
-     "high": 26.29,
-     "text": "16.08-26.29万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "福特领睿",
@@ -4903,13 +3775,7 @@
     },
     "evaluationId": "d4b96cb5d99afb1de089a7339e42155c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d4b96cb5d99afb1de089a7339e42155c",
-    "msrp_guide": {
-     "low": 9.88,
-     "high": 16.55,
-     "text": "9.88-16.55万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "比亚迪海豹",
@@ -4937,13 +3803,7 @@
     },
     "evaluationId": "5c39ffafe24ebfcd9d76cdba8d956cb7",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/5c39ffafe24ebfcd9d76cdba8d956cb7",
-    "msrp_guide": {
-     "low": 9.88,
-     "high": 25.98,
-     "text": "9.88-25.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "红旗H5",
@@ -4957,13 +3817,7 @@
     },
     "evaluationId": "3fa3df83b22f1d61ebad20e13aa1ddce",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/3fa3df83b22f1d61ebad20e13aa1ddce",
-    "msrp_guide": {
-     "low": 15.98,
-     "high": 21.58,
-     "text": "15.98-21.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "合创Z03",
@@ -4991,13 +3845,7 @@
     },
     "evaluationId": "3111c51365104841bad368bddd7c0e68",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/3111c51365104841bad368bddd7c0e68",
-    "msrp_guide": {
-     "low": 42.8,
-     "high": 45.8,
-     "text": "42.80-45.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风风行游艇",
@@ -5025,13 +3873,7 @@
     },
     "evaluationId": "3dce4cbed45ae132bd3ed24ed18c0873",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/3dce4cbed45ae132bd3ed24ed18c0873",
-    "msrp_guide": {
-     "low": 12.99,
-     "high": 15.59,
-     "text": "12.99-15.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "长安UNI-V",
@@ -5045,13 +3887,7 @@
     },
     "evaluationId": "90070f226f4ad67760090e34e6baecdc",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/90070f226f4ad67760090e34e6baecdc",
-    "msrp_guide": {
-     "low": 10.29,
-     "high": 13.99,
-     "text": "10.29-13.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田威飒",
@@ -5065,13 +3901,7 @@
     },
     "evaluationId": "fc18a5d1e9db203be8c9ffbdd5aa96cf",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/fc18a5d1e9db203be8c9ffbdd5aa96cf",
-    "msrp_guide": {
-     "low": 21.68,
-     "high": 30.38,
-     "text": "21.68-30.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "吉利星越L",
@@ -5085,13 +3915,7 @@
     },
     "evaluationId": "4c65a14db7cba02db7719bcff9ad251d",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/4c65a14db7cba02db7719bcff9ad251d",
-    "msrp_guide": {
-     "low": 13.97,
-     "high": 17.97,
-     "text": "13.97-17.97万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众探岳",
@@ -5105,13 +3929,7 @@
     },
     "evaluationId": "3e98c85af2d94c0ba74ecb651bfb3768",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/3e98c85af2d94c0ba74ecb651bfb3768",
-    "msrp_guide": {
-     "low": 19.89,
-     "high": 25.99,
-     "text": "19.89-25.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "五菱凯捷",
@@ -5125,13 +3943,7 @@
     },
     "evaluationId": "0ca4f4c53ca846168c1df8b4f2deac37",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/0ca4f4c53ca846168c1df8b4f2deac37",
-    "msrp_guide": {
-     "low": 8.58,
-     "high": 14.98,
-     "text": "8.58-14.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田亚洲狮",
@@ -5159,13 +3971,7 @@
     },
     "evaluationId": "a7b5c278593940fe85e11702826262bc",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/a7b5c278593940fe85e11702826262bc",
-    "msrp_guide": {
-     "low": 11.68,
-     "high": 15.58,
-     "text": "11.68-15.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "赛力斯 SF5",
@@ -5193,13 +3999,7 @@
     },
     "evaluationId": "06d67b55bff6427dbfcec13311592813",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/06d67b55bff6427dbfcec13311592813",
-    "msrp_guide": {
-     "low": 17.38,
-     "high": 22.18,
-     "text": "17.38-22.18万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "哪吒 U Pro",
@@ -5227,13 +4027,7 @@
     },
     "evaluationId": "ae95218ac4934d9782d4a76b7ae194b6",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/ae95218ac4934d9782d4a76b7ae194b6",
-    "msrp_guide": {
-     "low": 32.98,
-     "high": 53.98,
-     "text": "32.98-53.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众途岳",
@@ -5261,13 +4055,7 @@
     },
     "evaluationId": "70eae92b2fa64068b244bc126daaa833",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/70eae92b2fa64068b244bc126daaa833",
-    "msrp_guide": {
-     "low": 12.99,
-     "high": 15.89,
-     "text": "12.99-15.89万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "高合 HiPhi X ",
@@ -5309,13 +4097,7 @@
     },
     "evaluationId": "7b824757229e4f9eb06d7b524e21367b",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/7b824757229e4f9eb06d7b524e21367b",
-    "msrp_guide": {
-     "low": 9.88,
-     "high": 13.79,
-     "text": "9.88-13.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "别克 威朗 Pro",
@@ -5329,13 +4111,7 @@
     },
     "evaluationId": "dbf1c97c4a474c829f2d3719fdd94924",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/dbf1c97c4a474c829f2d3719fdd94924",
-    "msrp_guide": {
-     "low": 12.89,
-     "high": 15.89,
-     "text": "12.89-15.89万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "思皓QX",
@@ -5363,13 +4139,7 @@
     },
     "evaluationId": "99626116d646495488422ba9e2643fcc",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/99626116d646495488422ba9e2643fcc",
-    "msrp_guide": {
-     "low": 10.98,
-     "high": 19.36,
-     "text": "10.98-19.36万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "岚图 FREE",
@@ -5383,13 +4153,7 @@
     },
     "evaluationId": "d2ad1e2ecdb94d6ba7af872dfd9c19a0",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d2ad1e2ecdb94d6ba7af872dfd9c19a0",
-    "msrp_guide": {
-     "low": 21.99,
-     "high": 27.99,
-     "text": "21.99-27.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "长安 UNI-T",
@@ -5403,13 +4167,7 @@
     },
     "evaluationId": "e5514ebf3d81453dbe57961965053297",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e5514ebf3d81453dbe57961965053297",
-    "msrp_guide": {
-     "low": 11.59,
-     "high": 13.99,
-     "text": "11.59-13.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田汉兰达",
@@ -5423,13 +4181,7 @@
     },
     "evaluationId": "f4c625ca6c3a432dab15c659207bf8dd",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/f4c625ca6c3a432dab15c659207bf8dd",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 32.58,
-     "text": "24.98-32.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "雪铁龙凡尔赛C5X",
@@ -5443,13 +4195,7 @@
     },
     "evaluationId": "1567210671685259265",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1567210671685259265",
-    "msrp_guide": {
-     "low": 10.17,
-     "high": 18.67,
-     "text": "10.17-18.67万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "零跑C11",
@@ -5463,13 +4209,7 @@
     },
     "evaluationId": "1567210670787678210",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1567210670787678210",
-    "msrp_guide": {
-     "low": 14.38,
-     "high": 16.58,
-     "text": "14.38-16.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "福特探险者",
@@ -5483,13 +4223,7 @@
     },
     "evaluationId": "17675b7eef90413ca8ed4d5756db013e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/17675b7eef90413ca8ed4d5756db013e",
-    "msrp_guide": {
-     "low": 30.98,
-     "high": 39.98,
-     "text": "30.98-39.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "宝马牌iX3",
@@ -5517,13 +4251,7 @@
     },
     "evaluationId": "e0c381d974664484a7162d6dab81e6c6",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e0c381d974664484a7162d6dab81e6c6",
-    "msrp_guide": {
-     "low": 9.87,
-     "high": 14.67,
-     "text": "9.87-14.67万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "现代索纳塔",
@@ -5537,13 +4265,7 @@
     },
     "evaluationId": "c478332b847f4b2aad39cbf5cb239e46",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c478332b847f4b2aad39cbf5cb239e46",
-    "msrp_guide": {
-     "low": 13.98,
-     "high": 17.38,
-     "text": "13.98-17.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "小鹏P7",
@@ -5557,13 +4279,7 @@
     },
     "evaluationId": "18bdb7498f724b1bba3c84619a9b6e23",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/18bdb7498f724b1bba3c84619a9b6e23",
-    "msrp_guide": {
-     "low": 20.38,
-     "high": 30.18,
-     "text": "20.38-30.18万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "比亚迪汉EV",
@@ -5577,13 +4293,7 @@
     },
     "evaluationId": "d2216043ce7d4e1f95f5bf8c420dee02",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d2216043ce7d4e1f95f5bf8c420dee02",
-    "msrp_guide": {
-     "low": 16.88,
-     "high": 22.58,
-     "text": "16.88-22.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "起亚KX3",
@@ -5611,13 +4321,7 @@
     },
     "evaluationId": "e0c7ceb4c7ed43f495cabf0c2299005c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e0c7ceb4c7ed43f495cabf0c2299005c",
-    "msrp_guide": {
-     "low": 9.99,
-     "high": 13.99,
-     "text": "9.99-13.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田飞度",
@@ -5659,13 +4363,7 @@
     },
     "evaluationId": "1c7c8dacdd2f41738ee0875eb38777e9",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1c7c8dacdd2f41738ee0875eb38777e9",
-    "msrp_guide": {
-     "low": 8.78,
-     "high": 12.58,
-     "text": "8.78-12.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "奔腾T99",
@@ -5693,13 +4391,7 @@
     },
     "evaluationId": "cfe332368473477fa05975439983a297",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cfe332368473477fa05975439983a297",
-    "msrp_guide": {
-     "low": 9.38,
-     "high": 16.49,
-     "text": "9.38-16.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "别克昂科威",
@@ -5713,13 +4405,7 @@
     },
     "evaluationId": "c998e6842d3a4f7b9c13d34bac817608",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c998e6842d3a4f7b9c13d34bac817608",
-    "msrp_guide": {
-     "low": 22.99,
-     "high": 25.99,
-     "text": "22.99-25.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "理想牌",
@@ -5747,13 +4433,7 @@
     },
     "evaluationId": "8e17d32853284f339d42570cea089e01",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8e17d32853284f339d42570cea089e01",
-    "msrp_guide": {
-     "low": 28.98,
-     "high": 40.28,
-     "text": "28.98-40.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风神奕炫",
@@ -5767,13 +4447,7 @@
     },
     "evaluationId": "10b3ba1e24c142bca9f4614999fa72eb",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/10b3ba1e24c142bca9f4614999fa72eb",
-    "msrp_guide": {
-     "low": 6.49,
-     "high": 11.18,
-     "text": "6.49-11.18万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "福特领界S",
@@ -5801,13 +4475,7 @@
     },
     "evaluationId": "4c85c9800a594fe7bfb9f7d2598105b6",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/4c85c9800a594fe7bfb9f7d2598105b6",
-    "msrp_guide": {
-     "low": 11.99,
-     "high": 13.99,
-     "text": "11.99-13.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田享域",
@@ -5849,13 +4517,7 @@
     },
     "evaluationId": "0e2cfde6e1a14ee180fb0351211fdd74",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/0e2cfde6e1a14ee180fb0351211fdd74",
-    "msrp_guide": {
-     "low": 25.8,
-     "high": 33.8,
-     "text": "25.80-33.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风日产天籁",
@@ -5869,13 +4531,7 @@
     },
     "evaluationId": "093b97de3a2d40d18eead04459524178",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/093b97de3a2d40d18eead04459524178",
-    "msrp_guide": {
-     "low": 13.99,
-     "high": 23.98,
-     "text": "13.99-23.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "哈弗F7",
@@ -5903,13 +4559,7 @@
     },
     "evaluationId": "37b4a36b3eb84b3b83f2fa7c3fb3fd2e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/37b4a36b3eb84b3b83f2fa7c3fb3fd2e",
-    "msrp_guide": {
-     "low": 27.39,
-     "high": 31.19,
-     "text": "27.39-31.19万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "宝骏RM-5",
@@ -5951,13 +4601,7 @@
     },
     "evaluationId": "cf92c4008a19425a911890fb4cebaf41",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cf92c4008a19425a911890fb4cebaf41",
-    "msrp_guide": {
-     "low": 8.79,
-     "high": 12.19,
-     "text": "8.79-12.19万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "星途TXL",
@@ -5999,13 +4643,7 @@
     },
     "evaluationId": "4925e0c229a4403fb8f91ab0dbaa6bd8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/4925e0c229a4403fb8f91ab0dbaa6bd8",
-    "msrp_guide": {
-     "low": 16.98,
-     "high": 22.88,
-     "text": "16.98-22.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "福特福克斯",
@@ -6047,13 +4685,7 @@
     },
     "evaluationId": "bc495d804b564278a80cbef2219010ba",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/bc495d804b564278a80cbef2219010ba",
-    "msrp_guide": {
-     "low": 21.59,
-     "high": 25.59,
-     "text": "21.59-25.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "几何A高维",
@@ -6081,13 +4713,7 @@
     },
     "evaluationId": "1cf83065908b4f0196d63d1e07a6a4c5",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1cf83065908b4f0196d63d1e07a6a4c5",
-    "msrp_guide": {
-     "low": 13.79,
-     "high": 26.39,
-     "text": "13.79-26.39万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "广汽传祺传祺GA6",
@@ -6143,13 +4769,7 @@
     },
     "evaluationId": "8230bd50a68746ea91f5382c49333b3f",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8230bd50a68746ea91f5382c49333b3f",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 26.58,
-     "text": "24.98-26.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田雷凌",
@@ -6163,13 +4783,7 @@
     },
     "evaluationId": "96eae1e1b52244de8ed9dfb82277bccf",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/96eae1e1b52244de8ed9dfb82277bccf",
-    "msrp_guide": {
-     "low": 11.38,
-     "high": 14.88,
-     "text": "11.38-14.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风日产轩逸",
@@ -6183,13 +4797,7 @@
     },
     "evaluationId": "144143eed08f4966a2161caeeadb1cfd",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/144143eed08f4966a2161caeeadb1cfd",
-    "msrp_guide": {
-     "low": 7.99,
-     "high": 17.49,
-     "text": "7.99-17.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "上汽MAXUSD60",
@@ -6217,13 +4825,7 @@
     },
     "evaluationId": "f7a98bac0d5f45c7a5ca8a0fdb3bcdea",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/f7a98bac0d5f45c7a5ca8a0fdb3bcdea",
-    "msrp_guide": {
-     "low": 9.79,
-     "high": 11.99,
-     "text": "9.79-11.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "野马博骏",
@@ -6251,13 +4853,7 @@
     },
     "evaluationId": "d4ee7b2c49f4462f89d5d4b19bc4e2f9",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d4ee7b2c49f4462f89d5d4b19bc4e2f9",
-    "msrp_guide": {
-     "low": 17.88,
-     "high": 25.68,
-     "text": "17.88-25.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "江淮iEV7S",
@@ -6285,13 +4881,7 @@
     },
     "evaluationId": "24c0745beeb0426e9cd67601fec324a1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/24c0745beeb0426e9cd67601fec324a1",
-    "msrp_guide": {
-     "low": 9.99,
-     "high": 12.99,
-     "text": "9.99-12.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "现代胜达",
@@ -6305,13 +4895,7 @@
     },
     "evaluationId": "7e23f5425e1447ceb83149b03905bdf6",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/7e23f5425e1447ceb83149b03905bdf6",
-    "msrp_guide": {
-     "low": 19.58,
-     "high": 26.88,
-     "text": "19.58-26.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "比亚迪秦Pro EV",
@@ -6353,13 +4937,7 @@
     },
     "evaluationId": "a6aa859b055447b58c66cb0dcf779d43",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/a6aa859b055447b58c66cb0dcf779d43",
-    "msrp_guide": {
-     "low": 8.0,
-     "high": 15.19,
-     "text": "8.00-15.19万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "哈弗欧拉iQ",
@@ -6387,13 +4965,7 @@
     },
     "evaluationId": "06d39c793f5d46c284d9bd352bbd1321",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/06d39c793f5d46c284d9bd352bbd1321",
-    "msrp_guide": {
-     "low": 32.28,
-     "high": 39.98,
-     "text": "32.28-39.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "吉利嘉际",
@@ -6421,13 +4993,7 @@
     },
     "evaluationId": "3a1c6ee94b83407f8411f9a1a32d8ace",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/3a1c6ee94b83407f8411f9a1a32d8ace",
-    "msrp_guide": {
-     "low": 17.98,
-     "high": 21.48,
-     "text": "17.98-21.48万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "小鹏G3",
@@ -6469,13 +5035,7 @@
     },
     "evaluationId": "280545a98d7a4dfc83774fb8c16d6ca8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/280545a98d7a4dfc83774fb8c16d6ca8",
-    "msrp_guide": {
-     "low": 38.28,
-     "high": 44.68,
-     "text": "38.28-44.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "威马EX5",
@@ -6517,13 +5077,7 @@
     },
     "evaluationId": "c4eaa919ee194cdf920e22cbbf270371",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c4eaa919ee194cdf920e22cbbf270371",
-    "msrp_guide": {
-     "low": 15.98,
-     "high": 17.58,
-     "text": "15.98-17.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "宝马X3",
@@ -6537,13 +5091,7 @@
     },
     "evaluationId": "e66094d9062c4dc0a53b02ccc89d08f4",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e66094d9062c4dc0a53b02ccc89d08f4",
-    "msrp_guide": {
-     "low": 31.8,
-     "high": 39.8,
-     "text": "31.80-39.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "WM斯威G01",
@@ -6627,13 +5175,7 @@
     },
     "evaluationId": "ee278ad47f7943829a0afd2a94f20aab",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/ee278ad47f7943829a0afd2a94f20aab",
-    "msrp_guide": {
-     "low": 6.99,
-     "high": 13.99,
-     "text": "6.99-13.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "名爵RX8",
@@ -6661,13 +5203,7 @@
     },
     "evaluationId": "ddc6a554172f4682b3133d7036de4f1a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/ddc6a554172f4682b3133d7036de4f1a",
-    "msrp_guide": {
-     "low": 12.99,
-     "high": 15.89,
-     "text": "12.99-15.89万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "Jeep大指挥官",
@@ -6765,13 +5301,7 @@
     },
     "evaluationId": "0070821512934588b8add54983667976",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/0070821512934588b8add54983667976",
-    "msrp_guide": {
-     "low": 15.98,
-     "high": 21.58,
-     "text": "15.98-21.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "吉利帝豪GL",
@@ -6837,13 +5367,7 @@
     },
     "evaluationId": "44ab637d159d426c8f95c16b50862ea2",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/44ab637d159d426c8f95c16b50862ea2",
-    "msrp_guide": {
-     "low": 8.88,
-     "high": 9.98,
-     "text": "8.88-9.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "别克GL6",
@@ -6867,13 +5391,7 @@
     },
     "evaluationId": "e493facbc3264af59cd1b44a45043544",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e493facbc3264af59cd1b44a45043544",
-    "msrp_guide": {
-     "low": 28.9,
-     "high": 35.99,
-     "text": "28.90-35.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "讴歌CDX",
@@ -6909,13 +5427,7 @@
     },
     "evaluationId": "90a4dd6b761e438d8e53fb374f7c4bc9",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/90a4dd6b761e438d8e53fb374f7c4bc9",
-    "msrp_guide": {
-     "low": 5.99,
-     "high": 9.99,
-     "text": "5.99-9.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田CR-V",
@@ -6927,13 +5439,7 @@
     },
     "evaluationId": "37095a6033d94692841686243d77c7ae",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/37095a6033d94692841686243d77c7ae",
-    "msrp_guide": {
-     "low": 18.59,
-     "high": 24.99,
-     "text": "18.59-24.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "起亚KX",
@@ -6993,13 +5499,7 @@
     },
     "evaluationId": "6efb70c4ffda4eb8a62b8ffb321df27a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/6efb70c4ffda4eb8a62b8ffb321df27a",
-    "msrp_guide": {
-     "low": 6.79,
-     "high": 9.99,
-     "text": "6.79-9.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田冠道",
@@ -7011,13 +5511,7 @@
     },
     "evaluationId": "63003c3204bf41b39b70ec08db1eaa61",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/63003c3204bf41b39b70ec08db1eaa61",
-    "msrp_guide": {
-     "low": 23.98,
-     "high": 29.28,
-     "text": "23.98-29.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "名爵6",
@@ -7077,13 +5571,7 @@
     },
     "evaluationId": "cfb0a5252f334543a4b293a73c446122",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cfb0a5252f334543a4b293a73c446122",
-    "msrp_guide": {
-     "low": 12.58,
-     "high": 15.38,
-     "text": "12.58-15.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "奔驰E300L",
@@ -7107,13 +5595,7 @@
     },
     "evaluationId": "cef34e936b0e4d479b00a1457ee6118c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cef34e936b0e4d479b00a1457ee6118c",
-    "msrp_guide": {
-     "low": 14.98,
-     "high": 18.18,
-     "text": "14.98-18.18万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众迈腾 330",
@@ -7125,13 +5607,7 @@
     },
     "evaluationId": "f7d49f87752d4e4ca53223935dec4047",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/f7d49f87752d4e4ca53223935dec4047",
-    "msrp_guide": {
-     "low": 17.49,
-     "high": 24.69,
-     "text": "17.49-24.69万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "奔腾X40",
@@ -7203,13 +5679,7 @@
     },
     "evaluationId": "cefb76183bb146979ceecf2d5d00f024",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cefb76183bb146979ceecf2d5d00f024",
-    "msrp_guide": {
-     "low": 7.98,
-     "high": 9.98,
-     "text": "7.98-9.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "宝马5系",
@@ -7221,13 +5691,7 @@
     },
     "evaluationId": "a4051d11afd14bcebd48cb7766138c73",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/a4051d11afd14bcebd48cb7766138c73",
-    "msrp_guide": {
-     "low": 36.8,
-     "high": 44.8,
-     "text": "36.80-44.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "腾X5",
@@ -7251,13 +5715,7 @@
     },
     "evaluationId": "b71e303cfc8143ed8be7e4b13d2b79d0",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/b71e303cfc8143ed8be7e4b13d2b79d0",
-    "msrp_guide": {
-     "low": 8.98,
-     "high": 10.38,
-     "text": "8.98-10.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "驭胜S330",
@@ -7293,13 +5751,7 @@
     },
     "evaluationId": "7dd27017944c49bf9fbcbdba10fd9932",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/7dd27017944c49bf9fbcbdba10fd9932",
-    "msrp_guide": {
-     "low": 7.49,
-     "high": 9.79,
-     "text": "7.49-9.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "Jeep指南者",
@@ -7347,13 +5799,7 @@
     },
     "evaluationId": "81c8928729954d058b64581f47eebbf8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/81c8928729954d058b64581f47eebbf8",
-    "msrp_guide": {
-     "low": 15.97,
-     "high": 16.87,
-     "text": "15.97-16.87万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "江淮瑞风A60",
@@ -7473,13 +5919,7 @@
     },
     "evaluationId": "7120f41d223b405e81813a471e34a62b",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/7120f41d223b405e81813a471e34a62b",
-    "msrp_guide": {
-     "low": 15.98,
-     "high": 20.58,
-     "text": "15.98-20.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "宝骏510",
@@ -7551,13 +5991,7 @@
     },
     "evaluationId": "b62ac9b8b3894940bac3f845694e0538",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/b62ac9b8b3894940bac3f845694e0538",
-    "msrp_guide": {
-     "low": 19.19,
-     "high": 20.79,
-     "text": "19.19-20.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "驭胜S330",
@@ -7629,13 +6063,7 @@
     },
     "evaluationId": "1fd68d2189e048c6b929caa2601c43f8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1fd68d2189e048c6b929caa2601c43f8",
-    "msrp_guide": {
-     "low": 28.98,
-     "high": 36.28,
-     "text": "28.98-36.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东南DX3",
@@ -7707,13 +6135,7 @@
     },
     "evaluationId": "b85b3905c5ba4173a1a51424f7434123",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/b85b3905c5ba4173a1a51424f7434123",
-    "msrp_guide": {
-     "low": 5.99,
-     "high": 6.99,
-     "text": "5.99-6.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "传祺GA8",
@@ -7737,13 +6159,7 @@
     },
     "evaluationId": "d4658386baa44a1189cab9fb1ff7d8d3",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d4658386baa44a1189cab9fb1ff7d8d3",
-    "msrp_guide": {
-     "low": 16.68,
-     "high": 19.58,
-     "text": "16.68-19.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "长安CX70",
@@ -7767,13 +6183,7 @@
     },
     "evaluationId": "9d3af420eca64d12ba582c108b662928",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/9d3af420eca64d12ba582c108b662928",
-    "msrp_guide": {
-     "low": 11.29,
-     "high": 14.49,
-     "text": "11.29-14.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "众泰大迈X5",
@@ -7809,13 +6219,7 @@
     },
     "evaluationId": "1093808bf8854f609358ed2bd1517139",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1093808bf8854f609358ed2bd1517139",
-    "msrp_guide": {
-     "low": 9.79,
-     "high": 17.79,
-     "text": "9.79-17.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "北汽幻速幻速S6",
@@ -7875,13 +6279,7 @@
     },
     "evaluationId": "26d7af52d42f459990afe16492132075",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/26d7af52d42f459990afe16492132075",
-    "msrp_guide": {
-     "low": 8.59,
-     "high": 10.69,
-     "text": "8.59-10.69万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "日产新蓝鸟",
@@ -7905,13 +6303,7 @@
     },
     "evaluationId": "441f1d051bf54e6bb0c736e30ec9bb16",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/441f1d051bf54e6bb0c736e30ec9bb16",
-    "msrp_guide": {
-     "low": 25.8,
-     "high": 28.8,
-     "text": "25.80-28.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "福特金牛座",
@@ -8007,13 +6399,7 @@
     },
     "evaluationId": "f53bfe0cbd8243aba4d7fb0c124779b7",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/f53bfe0cbd8243aba4d7fb0c124779b7",
-    "msrp_guide": {
-     "low": 12.59,
-     "high": 17.49,
-     "text": "12.59-17.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "别克昂科威",
@@ -8025,13 +6411,7 @@
     },
     "evaluationId": "87c358079f4c4cadb084c95b4da7d681",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/87c358079f4c4cadb084c95b4da7d681",
-    "msrp_guide": {
-     "low": 22.99,
-     "high": 25.99,
-     "text": "22.99-25.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "广汽传祺传祺GS4",
@@ -8043,13 +6423,7 @@
     },
     "evaluationId": "5daf31003aa749e6b216b406461dec19",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/5daf31003aa749e6b216b406461dec19",
-    "msrp_guide": {
-     "low": 8.78,
-     "high": 12.58,
-     "text": "8.78-12.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风标致308S",
@@ -8085,13 +6459,7 @@
     },
     "evaluationId": "cba7b2208261448c9750821eee46f93a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cba7b2208261448c9750821eee46f93a",
-    "msrp_guide": {
-     "low": 22.98,
-     "high": 30.98,
-     "text": "22.98-30.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "起亚全新K5",
@@ -8151,13 +6519,7 @@
     },
     "evaluationId": "8f9e05fc2f6b4b1f8cb7c4e4b9e563ed",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8f9e05fc2f6b4b1f8cb7c4e4b9e563ed",
-    "msrp_guide": {
-     "low": 16.98,
-     "high": 18.68,
-     "text": "16.98-18.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "别克威朗",
@@ -8169,13 +6531,7 @@
     },
     "evaluationId": "6b4b54c05f1a47469507b5222a5b7c97",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/6b4b54c05f1a47469507b5222a5b7c97",
-    "msrp_guide": {
-     "low": 12.89,
-     "high": 15.89,
-     "text": "12.89-15.89万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "野马T70",
@@ -8427,13 +6783,7 @@
     },
     "evaluationId": "147027869332411a9197b9d6c39c8eaa",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/147027869332411a9197b9d6c39c8eaa",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 32.58,
-     "text": "24.98-32.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "别克英朗",
@@ -8553,13 +6903,7 @@
     },
     "evaluationId": "d835598411b446c292013452ac93c9a2",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d835598411b446c292013452ac93c9a2",
-    "msrp_guide": {
-     "low": 13.98,
-     "high": 17.38,
-     "text": "13.98-17.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "观致3",
@@ -8583,13 +6927,7 @@
     },
     "evaluationId": "59c3311d306248d6adb7f2ba53df4eef",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/59c3311d306248d6adb7f2ba53df4eef",
-    "msrp_guide": {
-     "low": 35.98,
-     "high": 35.98,
-     "text": "35.98-35.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "金杯智尚S30",
@@ -8637,13 +6975,7 @@
     },
     "evaluationId": "0c356a62cacf43f49582e150c641967b",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/0c356a62cacf43f49582e150c641967b",
-    "msrp_guide": {
-     "low": 11.38,
-     "high": 14.88,
-     "text": "11.38-14.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "江淮2015款瑞风S3",
@@ -8703,13 +7035,7 @@
     },
     "evaluationId": "150cf3126a734e8f84d9f96c0242de78",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/150cf3126a734e8f84d9f96c0242de78",
-    "msrp_guide": {
-     "low": 16.59,
-     "high": 20.99,
-     "text": "16.59-20.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田缤智",
@@ -8721,13 +7047,7 @@
     },
     "evaluationId": "05b4bd592d60409c9f498e6dadc66f60",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/05b4bd592d60409c9f498e6dadc66f60",
-    "msrp_guide": {
-     "low": 11.98,
-     "high": 13.58,
-     "text": "11.98-13.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "标致新408",
@@ -8775,13 +7095,7 @@
     },
     "evaluationId": "05bd94ea3a27495195494f5c3529c9d2",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/05bd94ea3a27495195494f5c3529c9d2",
-    "msrp_guide": {
-     "low": 7.99,
-     "high": 8.99,
-     "text": "7.99-8.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "吉利豪情GX9",
@@ -8805,13 +7119,7 @@
     },
     "evaluationId": "4b2bdd965ea946ee94691f9e472d7ccf",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/4b2bdd965ea946ee94691f9e472d7ccf",
-    "msrp_guide": {
-     "low": 11.68,
-     "high": 15.58,
-     "text": "11.68-15.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风风神A30",
@@ -8859,13 +7167,7 @@
     },
     "evaluationId": "ac58aee352c34f7e9fdcab03a5680a4c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/ac58aee352c34f7e9fdcab03a5680a4c",
-    "msrp_guide": {
-     "low": 23.38,
-     "high": 34.38,
-     "text": "23.38-34.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "奔腾B70",
@@ -8877,13 +7179,7 @@
     },
     "evaluationId": "46a4b03990144c5199b76e088287974e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/46a4b03990144c5199b76e088287974e",
-    "msrp_guide": {
-     "low": 9.88,
-     "high": 13.79,
-     "text": "9.88-13.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "纳智捷优6",
@@ -8931,13 +7227,7 @@
     },
     "evaluationId": "787aeb97ed3f4768aaf5747875599e75",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/787aeb97ed3f4768aaf5747875599e75",
-    "msrp_guide": {
-     "low": 9.79,
-     "high": 11.99,
-     "text": "9.79-11.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "标致2008",
@@ -9009,13 +7299,7 @@
     },
     "evaluationId": "8484bc8c4a9c48fe9719fb11e8ff3b15",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8484bc8c4a9c48fe9719fb11e8ff3b15",
-    "msrp_guide": {
-     "low": 16.08,
-     "high": 26.29,
-     "text": "16.08-26.29万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "海马S5",
@@ -9051,13 +7335,7 @@
     },
     "evaluationId": "784ddf291b2f4cceaf430de3a1acaf9d",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/784ddf291b2f4cceaf430de3a1acaf9d",
-    "msrp_guide": {
-     "low": 14.98,
-     "high": 22.98,
-     "text": "14.98-22.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田86",
@@ -9165,13 +7443,7 @@
     },
     "evaluationId": "e0c11d6611c947af9a8cdf26a88397ad",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e0c11d6611c947af9a8cdf26a88397ad",
-    "msrp_guide": {
-     "low": 12.58,
-     "high": 15.38,
-     "text": "12.58-15.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "长安致尚XT",
@@ -9303,13 +7575,7 @@
     },
     "evaluationId": "28130fce107e428f99d7aaa10a7dd377",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/28130fce107e428f99d7aaa10a7dd377",
-    "msrp_guide": {
-     "low": 17.98,
-     "high": 21.48,
-     "text": "17.98-21.48万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田杰德",
@@ -9345,13 +7611,7 @@
     },
     "evaluationId": "8007f670eed04e1ca6420dcb61e365f1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8007f670eed04e1ca6420dcb61e365f1",
-    "msrp_guide": {
-     "low": 16.98,
-     "high": 22.88,
-     "text": "16.98-22.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "沃尔沃V40",
@@ -9483,13 +7743,7 @@
     },
     "evaluationId": "058e0a668eba419f80f65cb3384e8c26",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/058e0a668eba419f80f65cb3384e8c26",
-    "msrp_guide": {
-     "low": 19.58,
-     "high": 26.88,
-     "text": "19.58-26.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "比亚迪速锐尊贵型",
@@ -9537,13 +7791,7 @@
     },
     "evaluationId": "c7371123341e4626b21c264c38c2f8ae",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c7371123341e4626b21c264c38c2f8ae",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 30.38,
-     "text": "24.98-30.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东南V5菱致",
@@ -9639,13 +7887,7 @@
     },
     "evaluationId": "4899a629af6e42f0a279c5e49ff60a85",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/4899a629af6e42f0a279c5e49ff60a85",
-    "msrp_guide": {
-     "low": 13.99,
-     "high": 23.98,
-     "text": "13.99-23.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "宝马BMW320Li",
@@ -9693,13 +7935,7 @@
     },
     "evaluationId": "4364c13822e44a70a8150c8dfbec5f0e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/4364c13822e44a70a8150c8dfbec5f0e",
-    "msrp_guide": {
-     "low": 8.0,
-     "high": 15.19,
-     "text": "8.00-15.19万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "现代朗动",
@@ -9735,13 +7971,7 @@
     },
     "evaluationId": "898e5875e6af45f1969b40df3c2031c1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/898e5875e6af45f1969b40df3c2031c1",
-    "msrp_guide": {
-     "low": 6.79,
-     "high": 9.89,
-     "text": "6.79-9.89万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风行景逸",
@@ -9765,13 +7995,7 @@
     },
     "evaluationId": "703dd47c198f46e9a8afa90a109a5e72",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/703dd47c198f46e9a8afa90a109a5e72",
-    "msrp_guide": {
-     "low": 6.79,
-     "high": 9.89,
-     "text": "6.79-9.89万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "起亚K3",
@@ -9867,13 +8091,7 @@
     },
     "evaluationId": "bcb99c2b67284d53962c4e8b6a53c449",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/bcb99c2b67284d53962c4e8b6a53c449",
-    "msrp_guide": {
-     "low": 17.49,
-     "high": 24.69,
-     "text": "17.49-24.69万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "菲亚特菲翔",
@@ -9933,13 +8151,7 @@
     },
     "evaluationId": "35300c44ff314f36b713a807b5efe4b8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/35300c44ff314f36b713a807b5efe4b8",
-    "msrp_guide": {
-     "low": 7.29,
-     "high": 9.99,
-     "text": "7.29-9.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "宝骏630",
@@ -9975,13 +8187,7 @@
     },
     "evaluationId": "28d8f6a25f8742a89138605c187cc97a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/28d8f6a25f8742a89138605c187cc97a",
-    "msrp_guide": {
-     "low": 18.59,
-     "high": 24.99,
-     "text": "18.59-24.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "全球鹰GX7",
@@ -10185,13 +8391,7 @@
     },
     "evaluationId": "3ecbb34f89df4f08b87025063de80f7f",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/3ecbb34f89df4f08b87025063de80f7f",
-    "msrp_guide": {
-     "low": 9.89,
-     "high": 14.39,
-     "text": "9.89-14.39万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田第七代凯美瑞",
@@ -10275,13 +8475,7 @@
     },
     "evaluationId": "4b2449f3dea54b058857cdab71bafe5c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/4b2449f3dea54b058857cdab71bafe5c",
-    "msrp_guide": {
-     "low": 12.18,
-     "high": 14.28,
-     "text": "12.18-14.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "雪佛兰爱唯欧",
@@ -10317,13 +8511,7 @@
     },
     "evaluationId": "f9c79a379dcf4f4a8c4758d2cdea7c2b",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/f9c79a379dcf4f4a8c4758d2cdea7c2b",
-    "msrp_guide": {
-     "low": 9.79,
-     "high": 17.79,
-     "text": "9.79-17.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "现代第八代索纳塔",
@@ -10335,13 +8523,7 @@
     },
     "evaluationId": "53d6b0ab6c21419c90e7b71f916cf359",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/53d6b0ab6c21419c90e7b71f916cf359",
-    "msrp_guide": {
-     "low": 13.98,
-     "high": 17.38,
-     "text": "13.98-17.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "一汽威志V2",
@@ -10365,13 +8547,7 @@
     },
     "evaluationId": "73bc6ec9a3ae4d67bfe59bc3c8ea1a99",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/73bc6ec9a3ae4d67bfe59bc3c8ea1a99",
-    "msrp_guide": {
-     "low": 13.98,
-     "high": 15.78,
-     "text": "13.98-15.78万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "海马福美来三代",
@@ -10407,13 +8583,7 @@
     },
     "evaluationId": "c90dfcce361f425b88d3840b9c17ba9a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c90dfcce361f425b88d3840b9c17ba9a",
-    "msrp_guide": {
-     "low": 16.37,
-     "high": 19.47,
-     "text": "16.37-19.47万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "吉利帝豪EC8",
@@ -10425,13 +8595,7 @@
     },
     "evaluationId": "4ad2169762fb4d209047181ddfda3d77",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/4ad2169762fb4d209047181ddfda3d77",
-    "msrp_guide": {
-     "low": 6.29,
-     "high": 9.79,
-     "text": "6.29-9.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "2011款别克新GL8",
@@ -10515,13 +8679,7 @@
     },
     "evaluationId": "02362c5576f64c578d4d364c732cef1e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/02362c5576f64c578d4d364c732cef1e",
-    "msrp_guide": {
-     "low": 13.98,
-     "high": 18.98,
-     "text": "13.98-18.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "名爵MG3",
@@ -10557,13 +8715,7 @@
     },
     "evaluationId": "d3f2aa1b5547436989750a7b8b5c14db",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d3f2aa1b5547436989750a7b8b5c14db",
-    "msrp_guide": {
-     "low": 16.98,
-     "high": 22.88,
-     "text": "16.98-22.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风NV200",
@@ -10695,13 +8847,7 @@
     },
     "evaluationId": "6fa1af590dd944a8be86dff4cec39a59",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/6fa1af590dd944a8be86dff4cec39a59",
-    "msrp_guide": {
-     "low": 6.29,
-     "high": 9.79,
-     "text": "6.29-9.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "福特嘉年华",
@@ -10737,13 +8883,7 @@
     },
     "evaluationId": "387850a88fd943228246f98c547c7a3c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/387850a88fd943228246f98c547c7a3c",
-    "msrp_guide": {
-     "low": 19.58,
-     "high": 26.88,
-     "text": "19.58-26.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "黄海新旗胜",
@@ -10779,13 +8919,7 @@
     },
     "evaluationId": "616f3f7541a546faa298a4e107a004c2",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/616f3f7541a546faa298a4e107a004c2",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 26.58,
-     "text": "24.98-26.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "标致408",
@@ -10797,13 +8931,7 @@
     },
     "evaluationId": "c549f872421243089c0c206895b96b37",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c549f872421243089c0c206895b96b37",
-    "msrp_guide": {
-     "low": 10.97,
-     "high": 11.87,
-     "text": "10.97-11.87万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "海马丘比特",
@@ -10935,13 +9063,7 @@
     },
     "evaluationId": "b2c24fb6d2724b0493667b13e54c7fa6",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/b2c24fb6d2724b0493667b13e54c7fa6",
-    "msrp_guide": {
-     "low": 7.99,
-     "high": 17.49,
-     "text": "7.99-17.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "名爵荣威350",
@@ -10965,13 +9087,7 @@
     },
     "evaluationId": "919b84101c554aba88e03c9fe2368b78",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/919b84101c554aba88e03c9fe2368b78",
-    "msrp_guide": {
-     "low": 12.99,
-     "high": 15.89,
-     "text": "12.99-15.89万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田汉兰达",
@@ -10983,13 +9099,7 @@
     },
     "evaluationId": "b7f9b92cf1a54b74b00eac301eb49cc2",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/b7f9b92cf1a54b74b00eac301eb49cc2",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 32.58,
-     "text": "24.98-32.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "别克新君威",
@@ -11001,13 +9111,7 @@
     },
     "evaluationId": "1813885c40124c3f8fefe90597128a6e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1813885c40124c3f8fefe90597128a6e",
-    "msrp_guide": {
-     "low": 15.98,
-     "high": 17.58,
-     "text": "15.98-17.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "沃尔沃S40",
@@ -11115,13 +9219,7 @@
     },
     "evaluationId": "65e7b8ee6fd2497c88ae69eafc0c1d94",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/65e7b8ee6fd2497c88ae69eafc0c1d94",
-    "msrp_guide": {
-     "low": 16.08,
-     "high": 26.29,
-     "text": "16.08-26.29万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "吉利熊猫",
@@ -11133,13 +9231,7 @@
     },
     "evaluationId": "306bb659a55e44ef85944d750a2741b7",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/306bb659a55e44ef85944d750a2741b7",
-    "msrp_guide": {
-     "low": 4.69,
-     "high": 5.39,
-     "text": "4.69-5.39万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田奥德赛",
@@ -11151,13 +9243,7 @@
     },
     "evaluationId": "89931f1540cf48b99c1b75f4ac27cf2e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/89931f1540cf48b99c1b75f4ac27cf2e",
-    "msrp_guide": {
-     "low": 23.58,
-     "high": 32.88,
-     "text": "23.58-32.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众速腾",
@@ -11169,13 +9255,7 @@
     },
     "evaluationId": "1428127fcab74d1cae7c0e6ddd5cc5ca",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1428127fcab74d1cae7c0e6ddd5cc5ca",
-    "msrp_guide": {
-     "low": 9.38,
-     "high": 16.49,
-     "text": "9.38-16.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "奇瑞瑞麒M1",
@@ -11331,13 +9411,7 @@
     },
     "evaluationId": "e73dfe77fdcc44c28201b0e566a5355f",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e73dfe77fdcc44c28201b0e566a5355f",
-    "msrp_guide": {
-     "low": 12.59,
-     "high": 17.49,
-     "text": "12.59-17.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "斯柯达晶锐",
@@ -11457,13 +9531,7 @@
     },
     "evaluationId": "0fe029b2c6ea4dba94f7df555f474aa1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/0fe029b2c6ea4dba94f7df555f474aa1",
-    "msrp_guide": {
-     "low": 29.99,
-     "high": 34.56,
-     "text": "29.99-34.56万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "众泰2008",
@@ -11487,13 +9555,7 @@
     },
     "evaluationId": "610511882b5b47eb8dfa2f3f529c3066",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/610511882b5b47eb8dfa2f3f529c3066",
-    "msrp_guide": {
-     "low": 8.29,
-     "high": 11.39,
-     "text": "8.29-11.39万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "红旗HQ3",
@@ -11517,13 +9579,7 @@
     },
     "evaluationId": "1da2f398e3a949f48a9741cbbbe9c07a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1da2f398e3a949f48a9741cbbbe9c07a",
-    "msrp_guide": {
-     "low": 14.98,
-     "high": 22.98,
-     "text": "14.98-22.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众朗逸",
@@ -11535,13 +9591,7 @@
     },
     "evaluationId": "beb704e2a48b47df980bcb3bbb643eac",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/beb704e2a48b47df980bcb3bbb643eac",
-    "msrp_guide": {
-     "low": 8.0,
-     "high": 15.19,
-     "text": "8.00-15.19万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田雅力士",
@@ -11577,13 +9627,7 @@
     },
     "evaluationId": "afe137d9372b43d786d657eab8771e64",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/afe137d9372b43d786d657eab8771e64",
-    "msrp_guide": {
-     "low": 9.98,
-     "high": 12.38,
-     "text": "9.98-12.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "福田蒙派克",
@@ -11703,13 +9747,7 @@
     },
     "evaluationId": "e008334080e244938db63d7a3520b59c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e008334080e244938db63d7a3520b59c",
-    "msrp_guide": {
-     "low": 17.98,
-     "high": 21.48,
-     "text": "17.98-21.48万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大发森雅",
@@ -11745,13 +9783,7 @@
     },
     "evaluationId": "25300c5abfcf41f2bf7ffb82633b80ff",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/25300c5abfcf41f2bf7ffb82633b80ff",
-    "msrp_guide": {
-     "low": 11.68,
-     "high": 15.58,
-     "text": "11.68-15.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风奥丁",
@@ -11775,13 +9807,7 @@
     },
     "evaluationId": "46f86d1b607149048c0ecd158a0210c8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/46f86d1b607149048c0ecd158a0210c8",
-    "msrp_guide": {
-     "low": 17.49,
-     "high": 24.69,
-     "text": "17.49-24.69万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东南三菱蓝瑟",
@@ -11841,13 +9867,7 @@
     },
     "evaluationId": "5ac0f401afb04a6db06ce2d6f4bd75d6",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/5ac0f401afb04a6db06ce2d6f4bd75d6",
-    "msrp_guide": {
-     "low": 18.59,
-     "high": 24.99,
-     "text": "18.59-24.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "中华骏捷",
@@ -11871,13 +9891,7 @@
     },
     "evaluationId": "dbcc6c51dbd64106afeb35f557130fab",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/dbcc6c51dbd64106afeb35f557130fab",
-    "msrp_guide": {
-     "low": 33.69,
-     "high": 55.89,
-     "text": "33.69-55.89万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "菲亚特派朗",
@@ -11973,13 +9987,7 @@
     },
     "evaluationId": "506b97ac88954377b7cbbc0a05773f0e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/506b97ac88954377b7cbbc0a05773f0e",
-    "msrp_guide": {
-     "low": 9.88,
-     "high": 13.79,
-     "text": "9.88-13.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风日产天籁",
@@ -11991,13 +9999,7 @@
     },
     "evaluationId": "32c469f7534b4fe7b1b11d47dbad4a4d",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/32c469f7534b4fe7b1b11d47dbad4a4d",
-    "msrp_guide": {
-     "low": 13.99,
-     "high": 23.98,
-     "text": "13.99-23.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田思域",
@@ -12009,13 +10011,7 @@
     },
     "evaluationId": "3375c09e44f243fe9a5397f8b7184b71",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/3375c09e44f243fe9a5397f8b7184b71",
-    "msrp_guide": {
-     "low": 9.79,
-     "high": 17.79,
-     "text": "9.79-17.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "宝骏乐驰",
@@ -12087,13 +10083,7 @@
     },
     "evaluationId": "8ee05b5b69cd445baf3cd46ecb618998",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8ee05b5b69cd445baf3cd46ecb618998",
-    "msrp_guide": {
-     "low": 23.58,
-     "high": 32.88,
-     "text": "23.58-32.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "猎豹",
@@ -12177,13 +10167,7 @@
     },
     "evaluationId": "3cef6483a3e848e7aa1513d09b789f8e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/3cef6483a3e848e7aa1513d09b789f8e",
-    "msrp_guide": {
-     "low": 9.38,
-     "high": 16.49,
-     "text": "9.38-16.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田皇冠",
@@ -12219,13 +10203,7 @@
     },
     "evaluationId": "16eaf5c9536f489cbf7498c74be8b52b",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/16eaf5c9536f489cbf7498c74be8b52b",
-    "msrp_guide": {
-     "low": 20.99,
-     "high": 23.99,
-     "text": "20.99-23.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "标致307",
@@ -12273,13 +10251,7 @@
     },
     "evaluationId": "17b10db668344a748bc381126e072e9c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/17b10db668344a748bc381126e072e9c",
-    "msrp_guide": {
-     "low": 8.99,
-     "high": 11.59,
-     "text": "8.99-11.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    }
   ],
   "ccrt": [
@@ -12291,13 +10263,7 @@
     "targets": null,
     "evaluationId": "1992774942734692354",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1992774942734692354",
-    "msrp_guide": {
-     "low": 10.99,
-     "high": 15.09,
-     "text": "10.99-15.09万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "捷途山海T1",
@@ -12307,13 +10273,7 @@
     "targets": null,
     "evaluationId": "1992774803399913473",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1992774803399913473",
-    "msrp_guide": {
-     "low": 13.49,
-     "high": 17.99,
-     "text": "13.49-17.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "极氪ZEEKR X",
@@ -12333,13 +10293,7 @@
     "targets": null,
     "evaluationId": "1992774567243821057",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1992774567243821057",
-    "msrp_guide": {
-     "low": 11.78,
-     "high": 14.59,
-     "text": "11.78-14.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众ID.4 X",
@@ -12349,13 +10303,7 @@
     "targets": null,
     "evaluationId": "1992774445277655042",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1992774445277655042",
-    "msrp_guide": {
-     "low": 15.99,
-     "high": 21.19,
-     "text": "15.99-21.19万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "奥迪Q4 e-tron",
@@ -12385,13 +10333,7 @@
     "targets": null,
     "evaluationId": "1968491059608563713",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1968491059608563713",
-    "msrp_guide": {
-     "low": 14.98,
-     "high": 15.98,
-     "text": "14.98-15.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "五菱星光S PHEV",
@@ -12401,13 +10343,7 @@
     "targets": null,
     "evaluationId": "1968491184712069121",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1968491184712069121",
-    "msrp_guide": {
-     "low": 9.98,
-     "high": 12.98,
-     "text": "9.98-12.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田铂智3X",
@@ -12417,13 +10353,7 @@
     "targets": null,
     "evaluationId": "1967515978912772098",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1967515978912772098",
-    "msrp_guide": {
-     "low": 10.98,
-     "high": 15.98,
-     "text": "10.98-15.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "长安深蓝S7",
@@ -12443,13 +10373,7 @@
     "targets": null,
     "evaluationId": "82eb3e0a3c57c730d0be6e8358d32562",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/82eb3e0a3c57c730d0be6e8358d32562",
-    "msrp_guide": {
-     "low": 25.99,
-     "high": 29.39,
-     "text": "25.99-29.39万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "日产艾睿雅",
@@ -12459,13 +10383,7 @@
     "targets": null,
     "evaluationId": "fedf5e39ad911ba1eb9aebdb283853af",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/fedf5e39ad911ba1eb9aebdb283853af",
-    "msrp_guide": {
-     "low": 19.99,
-     "high": 28.29,
-     "text": "19.99-28.29万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "魔方",
@@ -12485,13 +10403,7 @@
     "targets": null,
     "evaluationId": "b3f340febf31fedf9bf21b8aaf9d4f81",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/b3f340febf31fedf9bf21b8aaf9d4f81",
-    "msrp_guide": {
-     "low": 29.99,
-     "high": 41.99,
-     "text": "29.99-41.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "精灵#1",
@@ -12511,13 +10423,7 @@
     "targets": null,
     "evaluationId": "7114a8b37459c9fc09dc027ef847076e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/7114a8b37459c9fc09dc027ef847076e",
-    "msrp_guide": {
-     "low": 13.99,
-     "high": 20.88,
-     "text": "13.99-20.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "羿驰牌江铃羿",
@@ -12527,13 +10433,7 @@
     "targets": null,
     "evaluationId": "ee3a91f551c1ff18518be7be6adefd4b",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/ee3a91f551c1ff18518be7be6adefd4b",
-    "msrp_guide": {
-     "low": 11.88,
-     "high": 19.98,
-     "text": "11.88-19.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "岚图 梦想家 ",
@@ -12543,13 +10443,7 @@
     "targets": null,
     "evaluationId": "6e9bcc2172fc1b919f4b77fdeb2b5fcd",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/6e9bcc2172fc1b919f4b77fdeb2b5fcd",
-    "msrp_guide": {
-     "low": 31.59,
-     "high": 70.99,
-     "text": "31.59-70.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田CR-V ",
@@ -12559,13 +10453,7 @@
     "targets": null,
     "evaluationId": "1355e9fb33a5ffaff832f9f49cc2659a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1355e9fb33a5ffaff832f9f49cc2659a",
-    "msrp_guide": {
-     "low": 18.59,
-     "high": 24.99,
-     "text": "18.59-24.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "凯迪拉克锐歌",
@@ -12595,13 +10483,7 @@
     "targets": null,
     "evaluationId": "a90e6e0cd2efb7e6ffa6bf44497c51e8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/a90e6e0cd2efb7e6ffa6bf44497c51e8",
-    "msrp_guide": {
-     "low": 45.98,
-     "high": 50.98,
-     "text": "45.98-50.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风日产奇骏 ",
@@ -12611,13 +10493,7 @@
     "targets": null,
     "evaluationId": "d4bdae4f0d9c77c3bb2cb40fec78e4e9",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d4bdae4f0d9c77c3bb2cb40fec78e4e9",
-    "msrp_guide": {
-     "low": 16.08,
-     "high": 26.29,
-     "text": "16.08-26.29万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "红旗H5",
@@ -12627,13 +10503,7 @@
     "targets": null,
     "evaluationId": "d71e465aca5b09740c7e26bfaebefb2c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d71e465aca5b09740c7e26bfaebefb2c",
-    "msrp_guide": {
-     "low": 15.98,
-     "high": 21.58,
-     "text": "15.98-21.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "福特领睿",
@@ -12643,13 +10513,7 @@
     "targets": null,
     "evaluationId": "e3db6ce2cc31eed9f924e9bbf51fc68c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e3db6ce2cc31eed9f924e9bbf51fc68c",
-    "msrp_guide": {
-     "low": 9.88,
-     "high": 16.55,
-     "text": "9.88-16.55万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "荣威RX5",
@@ -12659,13 +10523,7 @@
     "targets": null,
     "evaluationId": "265acab2c91a282b5ad4b3cdbde3cfbb",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/265acab2c91a282b5ad4b3cdbde3cfbb",
-    "msrp_guide": {
-     "low": 9.99,
-     "high": 11.99,
-     "text": "9.99-11.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "林肯Z",
@@ -12675,13 +10533,7 @@
     "targets": null,
     "evaluationId": "8a0e2ad6e5f0a4df4c79f23adf414239",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8a0e2ad6e5f0a4df4c79f23adf414239",
-    "msrp_guide": {
-     "low": 23.58,
-     "high": 36.58,
-     "text": "23.58-36.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "蔚来ET7",
@@ -12691,13 +10543,7 @@
     "targets": null,
     "evaluationId": "38d6147bbd71171d924b150cbbfee3fe",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/38d6147bbd71171d924b150cbbfee3fe",
-    "msrp_guide": {
-     "low": 42.8,
-     "high": 45.8,
-     "text": "42.80-45.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "比亚迪海豹",
@@ -12727,13 +10573,7 @@
     "targets": null,
     "evaluationId": "448bcfc63fadbecac654723be40527fe",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/448bcfc63fadbecac654723be40527fe",
-    "msrp_guide": {
-     "low": 12.99,
-     "high": 15.59,
-     "text": "12.99-15.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风风行游艇",
@@ -12753,13 +10593,7 @@
     "targets": null,
     "evaluationId": "be395f6cddefaebe1c2efdb146a5e1a4",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/be395f6cddefaebe1c2efdb146a5e1a4",
-    "msrp_guide": {
-     "low": 10.29,
-     "high": 13.99,
-     "text": "10.29-13.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田威飒",
@@ -12769,13 +10603,7 @@
     "targets": null,
     "evaluationId": "1fd5b2f0477c7ddfaabadae7f02fc72b",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1fd5b2f0477c7ddfaabadae7f02fc72b",
-    "msrp_guide": {
-     "low": 21.68,
-     "high": 30.38,
-     "text": "21.68-30.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "吉利星越L",
@@ -12785,13 +10613,7 @@
     "targets": null,
     "evaluationId": "69ac84b2281ad3dfefc84c40fa7ff5bf",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/69ac84b2281ad3dfefc84c40fa7ff5bf",
-    "msrp_guide": {
-     "low": 13.97,
-     "high": 17.97,
-     "text": "13.97-17.97万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众途岳",
@@ -12811,13 +10633,7 @@
     "targets": null,
     "evaluationId": "1564915472883826690",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915472883826690",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 32.58,
-     "text": "24.98-32.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "五菱凯捷",
@@ -12827,13 +10643,7 @@
     "targets": null,
     "evaluationId": "1564915472112074754",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915472112074754",
-    "msrp_guide": {
-     "low": 8.58,
-     "high": 14.98,
-     "text": "8.58-14.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "红旗 H9",
@@ -12843,13 +10653,7 @@
     "targets": null,
     "evaluationId": "1564915473072570369",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915473072570369",
-    "msrp_guide": {
-     "low": 32.98,
-     "high": 53.98,
-     "text": "32.98-53.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "福特领裕",
@@ -12859,13 +10663,7 @@
     "targets": null,
     "evaluationId": "1564915472573448194",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915472573448194",
-    "msrp_guide": {
-     "low": 17.38,
-     "high": 22.18,
-     "text": "17.38-22.18万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "福特探险者",
@@ -12875,13 +10673,7 @@
     "targets": null,
     "evaluationId": "1564915472363732993",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915472363732993",
-    "msrp_guide": {
-     "low": 30.98,
-     "high": 39.98,
-     "text": "30.98-39.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众高尔夫",
@@ -12891,13 +10683,7 @@
     "targets": null,
     "evaluationId": "1564915472770580482",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915472770580482",
-    "msrp_guide": {
-     "low": 12.99,
-     "high": 15.89,
-     "text": "12.99-15.89万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "星途揽月",
@@ -12927,13 +10713,7 @@
     "targets": null,
     "evaluationId": "1565149451167797250",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1565149451167797250",
-    "msrp_guide": {
-     "low": 16.88,
-     "high": 22.58,
-     "text": "16.88-22.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "哪吒U Pro",
@@ -12963,13 +10743,7 @@
     "targets": null,
     "evaluationId": "1565149452472225793",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1565149452472225793",
-    "msrp_guide": {
-     "low": 21.99,
-     "high": 27.99,
-     "text": "21.99-27.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "零跑 C11",
@@ -12979,13 +10753,7 @@
     "targets": null,
     "evaluationId": "1565149452191207425",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1565149452191207425",
-    "msrp_guide": {
-     "low": 14.38,
-     "high": 16.58,
-     "text": "14.38-16.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "埃安 V PLUS",
@@ -13005,13 +10773,7 @@
     "targets": null,
     "evaluationId": "1565149450110832641",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1565149450110832641",
-    "msrp_guide": {
-     "low": 35.8,
-     "high": 37.3,
-     "text": "35.80-37.30万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "特斯拉Model3",
@@ -13021,13 +10783,7 @@
     "targets": null,
     "evaluationId": "1565149450559623170",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1565149450559623170",
-    "msrp_guide": {
-     "low": 23.55,
-     "high": 33.95,
-     "text": "23.55-33.95万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "起亚 KX3",
@@ -13067,13 +10823,7 @@
     "targets": null,
     "evaluationId": "1564915472221126658",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915472221126658",
-    "msrp_guide": {
-     "low": 11.59,
-     "high": 13.99,
-     "text": "11.59-13.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风行T5 EVO",
@@ -13083,13 +10833,7 @@
     "targets": null,
     "evaluationId": "1564915471822667777",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915471822667777",
-    "msrp_guide": {
-     "low": 9.99,
-     "high": 13.99,
-     "text": "9.99-13.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "广汽传祺传祺GS4",
@@ -13099,13 +10843,7 @@
     "targets": null,
     "evaluationId": "1564915471403237378",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915471403237378",
-    "msrp_guide": {
-     "low": 8.78,
-     "high": 12.58,
-     "text": "8.78-12.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "奔腾T99",
@@ -13125,13 +10863,7 @@
     "targets": null,
     "evaluationId": "1564915471180939266",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915471180939266",
-    "msrp_guide": {
-     "low": 11.99,
-     "high": 13.99,
-     "text": "11.99-13.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "宝马iX3",
@@ -13141,13 +10873,7 @@
     "targets": null,
     "evaluationId": "1565149451457204225",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1565149451457204225",
-    "msrp_guide": {
-     "low": 74.69,
-     "high": 84.69,
-     "text": "74.69-84.69万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "吉利星瑞",
@@ -13157,13 +10883,7 @@
     "targets": null,
     "evaluationId": "1564915472011411457",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915472011411457",
-    "msrp_guide": {
-     "low": 9.87,
-     "high": 14.67,
-     "text": "9.87-14.67万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "现代索纳塔",
@@ -13173,13 +10893,7 @@
     "targets": null,
     "evaluationId": "1564915471919136770",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915471919136770",
-    "msrp_guide": {
-     "low": 13.98,
-     "high": 17.38,
-     "text": "13.98-17.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "小鹏 P7",
@@ -13189,13 +10903,7 @@
     "targets": null,
     "evaluationId": "1565149450861613058",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1565149450861613058",
-    "msrp_guide": {
-     "low": 20.38,
-     "high": 30.18,
-     "text": "20.38-30.18万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "福特领界S",
@@ -13235,13 +10943,7 @@
     "targets": null,
     "evaluationId": "1564915470967029761",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915470967029761",
-    "msrp_guide": {
-     "low": 28.98,
-     "high": 40.28,
-     "text": "28.98-40.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "东风神奕炫",
@@ -13251,13 +10953,7 @@
     "targets": null,
     "evaluationId": "1564915470866366466",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915470866366466",
-    "msrp_guide": {
-     "low": 6.49,
-     "high": 11.18,
-     "text": "6.49-11.18万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "别克昂科威S",
@@ -13267,13 +10963,7 @@
     "targets": null,
     "evaluationId": "1564915470769897473",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915470769897473",
-    "msrp_guide": {
-     "low": 19.69,
-     "high": 20.49,
-     "text": "19.69-20.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "红旗 HS5",
@@ -13293,13 +10983,7 @@
     "targets": null,
     "evaluationId": "1564915469914259458",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915469914259458",
-    "msrp_guide": {
-     "low": 17.88,
-     "high": 25.68,
-     "text": "17.88-25.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "马自达昂克赛拉",
@@ -13319,13 +11003,7 @@
     "targets": null,
     "evaluationId": "1564915469700349954",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915469700349954",
-    "msrp_guide": {
-     "low": 9.79,
-     "high": 17.79,
-     "text": "9.79-17.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "捷达VS5",
@@ -13335,13 +11013,7 @@
     "targets": null,
     "evaluationId": "1564915469599686657",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915469599686657",
-    "msrp_guide": {
-     "low": 8.79,
-     "high": 12.19,
-     "text": "8.79-12.19万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田RAV4",
@@ -13351,13 +11023,7 @@
     "targets": null,
     "evaluationId": "1564915469494829058",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915469494829058",
-    "msrp_guide": {
-     "low": 16.98,
-     "high": 22.88,
-     "text": "16.98-22.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "比亚迪宋Pro",
@@ -13377,13 +11043,7 @@
     "targets": null,
     "evaluationId": "1564915469243170817",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915469243170817",
-    "msrp_guide": {
-     "low": 9.79,
-     "high": 11.99,
-     "text": "9.79-11.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "宝马3系",
@@ -13393,13 +11053,7 @@
     "targets": null,
     "evaluationId": "1564915470669234177",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915470669234177",
-    "msrp_guide": {
-     "low": 25.8,
-     "high": 33.8,
-     "text": "25.80-33.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "奔驰GLB",
@@ -13409,13 +11063,7 @@
     "targets": null,
     "evaluationId": "1564915470576959490",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915470576959490",
-    "msrp_guide": {
-     "low": 27.39,
-     "high": 31.19,
-     "text": "27.39-31.19万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田享域",
@@ -13455,13 +11103,7 @@
     "targets": null,
     "evaluationId": "1564915467116658690",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915467116658690",
-    "msrp_guide": {
-     "low": 9.99,
-     "high": 12.99,
-     "text": "9.99-12.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "荣威i5",
@@ -13471,13 +11113,7 @@
     "targets": null,
     "evaluationId": "1564915467225710594",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915467225710594",
-    "msrp_guide": {
-     "low": 6.89,
-     "high": 12.58,
-     "text": "6.89-12.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "宝骏530",
@@ -13507,13 +11143,7 @@
     "targets": null,
     "evaluationId": "1564915467561254913",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915467561254913",
-    "msrp_guide": {
-     "low": 15.98,
-     "high": 21.58,
-     "text": "15.98-21.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众速腾",
@@ -13523,13 +11153,7 @@
     "targets": null,
     "evaluationId": "1564915467678695425",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915467678695425",
-    "msrp_guide": {
-     "low": 9.38,
-     "high": 16.49,
-     "text": "9.38-16.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田凌派",
@@ -13559,13 +11183,7 @@
     "targets": null,
     "evaluationId": "1564915468014239746",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915468014239746",
-    "msrp_guide": {
-     "low": 13.99,
-     "high": 23.98,
-     "text": "13.99-23.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田INSPIRE",
@@ -13585,13 +11203,7 @@
     "targets": null,
     "evaluationId": "1564915468207177730",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915468207177730",
-    "msrp_guide": {
-     "low": 12.18,
-     "high": 42.03,
-     "text": "12.18-42.03万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "哈弗F7",
@@ -13621,13 +11233,7 @@
     "targets": null,
     "evaluationId": "1564915468513361922",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915468513361922",
-    "msrp_guide": {
-     "low": 7.99,
-     "high": 17.49,
-     "text": "7.99-17.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "丰田雷凌",
@@ -13637,13 +11243,7 @@
     "targets": null,
     "evaluationId": "1564915468622413826",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915468622413826",
-    "msrp_guide": {
-     "low": 11.38,
-     "high": 14.88,
-     "text": "11.38-14.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "长城VV6",
@@ -13663,13 +11263,7 @@
     "targets": null,
     "evaluationId": "1564915468827934721",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915468827934721",
-    "msrp_guide": {
-     "low": 25.18,
-     "high": 29.68,
-     "text": "25.18-29.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "现代途胜",
@@ -13679,13 +11273,7 @@
     "targets": null,
     "evaluationId": "1564915468928598018",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915468928598018",
-    "msrp_guide": {
-     "low": 16.98,
-     "high": 18.68,
-     "text": "16.98-18.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "吉利嘉际",
@@ -13735,13 +11323,7 @@
     "targets": null,
     "evaluationId": "1564915466680451073",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915466680451073",
-    "msrp_guide": {
-     "low": 8.98,
-     "high": 10.38,
-     "text": "8.98-10.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "标致308",
@@ -13781,13 +11363,7 @@
     "targets": null,
     "evaluationId": "1564915466177134593",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915466177134593",
-    "msrp_guide": {
-     "low": 12.58,
-     "high": 15.38,
-     "text": "12.58-15.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众朗逸",
@@ -13797,13 +11373,7 @@
     "targets": null,
     "evaluationId": "1564915466063888386",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915466063888386",
-    "msrp_guide": {
-     "low": 8.0,
-     "high": 15.19,
-     "text": "8.00-15.19万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "Jeep自由光",
@@ -13823,13 +11393,7 @@
     "targets": null,
     "evaluationId": "1564915465854173185",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465854173185",
-    "msrp_guide": {
-     "low": 15.98,
-     "high": 20.58,
-     "text": "15.98-20.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "本田冠道",
@@ -13839,13 +11403,7 @@
     "targets": null,
     "evaluationId": "1564915465753509889",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465753509889",
-    "msrp_guide": {
-     "low": 23.98,
-     "high": 29.28,
-     "text": "23.98-29.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "众泰T700",
@@ -13865,13 +11423,7 @@
     "targets": null,
     "evaluationId": "1564915465514434561",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465514434561",
-    "msrp_guide": {
-     "low": 6.01,
-     "high": 8.28,
-     "text": "6.01-8.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "大众途观L",
@@ -13881,13 +11433,7 @@
     "targets": null,
     "evaluationId": "1564915465405382658",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465405382658",
-    "msrp_guide": {
-     "low": 19.19,
-     "high": 20.79,
-     "text": "19.19-20.79万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "雪佛兰探界者",
@@ -13907,13 +11453,7 @@
     "targets": null,
     "evaluationId": "1564915465199861762",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465199861762",
-    "msrp_guide": {
-     "low": 7.99,
-     "high": 8.99,
-     "text": "7.99-8.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "小康风光S560",
@@ -13923,13 +11463,7 @@
     "targets": null,
     "evaluationId": "1564915465086615554",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915465086615554",
-    "msrp_guide": {
-     "low": 6.79,
-     "high": 9.99,
-     "text": "6.79-9.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "现代ix35",
@@ -13939,13 +11473,7 @@
     "targets": null,
     "evaluationId": "1564915464973369345",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915464973369345",
-    "msrp_guide": {
-     "low": 12.18,
-     "high": 14.28,
-     "text": "12.18-14.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "领克01",
@@ -13955,13 +11483,7 @@
     "targets": null,
     "evaluationId": "1564915464864317441",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915464864317441",
-    "msrp_guide": {
-     "low": 14.98,
-     "high": 18.18,
-     "text": "14.98-18.18万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "WEYVV5",
@@ -13981,13 +11503,7 @@
     "targets": null,
     "evaluationId": "1564915464646213633",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915464646213633",
-    "msrp_guide": {
-     "low": 18.59,
-     "high": 24.99,
-     "text": "18.59-24.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "马自达阿特兹",
@@ -14007,13 +11523,7 @@
     "targets": null,
     "evaluationId": "1564915464411332609",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915464411332609",
-    "msrp_guide": {
-     "low": 17.49,
-     "high": 24.69,
-     "text": "17.49-24.69万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "吉利博瑞",
@@ -14083,13 +11593,7 @@
     "targets": null,
     "evaluationId": "1564915463400505345",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915463400505345",
-    "msrp_guide": {
-     "low": 11.68,
-     "high": 15.58,
-     "text": "11.68-15.58万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "carName": "名爵6",
@@ -14109,13 +11613,7 @@
     "targets": null,
     "evaluationId": "1564915463085932545",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915463085932545",
-    "msrp_guide": {
-     "low": 8.88,
-     "high": 9.98,
-     "text": "8.88-9.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    }
   ],
   "c_icap": [
@@ -14137,13 +11635,7 @@
     },
     "evaluationId": "eefd45c3d383aac4ca0e2dc36f20636a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/eefd45c3d383aac4ca0e2dc36f20636a",
-    "msrp_guide": {
-     "low": 23.35,
-     "high": 38.99,
-     "text": "23.35-38.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14165,13 +11657,7 @@
     },
     "evaluationId": "bdff9eff63ab620912716bda08e4397a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/bdff9eff63ab620912716bda08e4397a",
-    "msrp_guide": {
-     "low": 18.38,
-     "high": 26.98,
-     "text": "18.38-26.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14192,13 +11678,7 @@
     },
     "evaluationId": "2d185fbd17b9fbbfb0da79bb7e81b589",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/2d185fbd17b9fbbfb0da79bb7e81b589",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 26.98,
-     "text": "24.98-26.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14219,13 +11699,7 @@
     },
     "evaluationId": "ffaec59706c8bb3a18be0d3923a9480a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/ffaec59706c8bb3a18be0d3923a9480a",
-    "msrp_guide": {
-     "low": 37.98,
-     "high": 42.38,
-     "text": "37.98-42.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14245,13 +11719,7 @@
     },
     "evaluationId": "8801cfdaded1cb7746ac3bc1ffc95919",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8801cfdaded1cb7746ac3bc1ffc95919",
-    "msrp_guide": {
-     "low": 26.58,
-     "high": 29.98,
-     "text": "26.58-29.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14272,13 +11740,7 @@
     },
     "evaluationId": "061951bc347baa2de85764ba5a8993fd",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/061951bc347baa2de85764ba5a8993fd",
-    "msrp_guide": {
-     "low": 20.99,
-     "high": 27.99,
-     "text": "20.99-27.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14319,13 +11781,7 @@
     },
     "evaluationId": "cec8bae1d9dbdb6df25deccb50eef9f8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cec8bae1d9dbdb6df25deccb50eef9f8",
-    "msrp_guide": {
-     "low": 31.59,
-     "high": 70.99,
-     "text": "31.59-70.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14345,13 +11801,7 @@
     },
     "evaluationId": "ecb71725a7c11d895ff271bc2cdab4b8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/ecb71725a7c11d895ff271bc2cdab4b8",
-    "msrp_guide": {
-     "low": 19.28,
-     "high": 25.59,
-     "text": "19.28-25.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14368,13 +11818,7 @@
     },
     "evaluationId": "0c6a457476cb2b134ba2129cdb567a11",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/0c6a457476cb2b134ba2129cdb567a11",
-    "msrp_guide": {
-     "low": 30.98,
-     "high": 37.98,
-     "text": "30.98-37.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14391,13 +11835,7 @@
     },
     "evaluationId": "cba3d04f72ebbfdfa5e922cd3511f2a8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cba3d04f72ebbfdfa5e922cd3511f2a8",
-    "msrp_guide": {
-     "low": 29.98,
-     "high": 32.68,
-     "text": "29.98-32.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14414,13 +11852,7 @@
     },
     "evaluationId": "76cc4a6cc90d6e7cc4a4695e00e5298d",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/76cc4a6cc90d6e7cc4a4695e00e5298d",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 24.98,
-     "text": "24.98-24.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14435,13 +11867,7 @@
     },
     "evaluationId": "fd39e41038ad961687e77b2621ca15e9",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/fd39e41038ad961687e77b2621ca15e9",
-    "msrp_guide": {
-     "low": 22.98,
-     "high": 32.98,
-     "text": "22.98-32.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14456,13 +11882,7 @@
     },
     "evaluationId": "e45fb38aacbd2f6e4afd9f24728b0a14",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e45fb38aacbd2f6e4afd9f24728b0a14",
-    "msrp_guide": {
-     "low": 47.98,
-     "high": 65.98,
-     "text": "47.98-65.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14477,13 +11897,7 @@
     },
     "evaluationId": "af03ef34519e2ed0c7afc5bdd20eed3d",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/af03ef34519e2ed0c7afc5bdd20eed3d",
-    "msrp_guide": {
-     "low": 19.99,
-     "high": 24.99,
-     "text": "19.99-24.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14498,13 +11912,7 @@
     },
     "evaluationId": "8fef19bc48306f3d021dd3c7479b9bbb",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8fef19bc48306f3d021dd3c7479b9bbb",
-    "msrp_guide": {
-     "low": 30.98,
-     "high": 36.98,
-     "text": "30.98-36.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14519,13 +11927,7 @@
     },
     "evaluationId": "46f237bb6f75a5c52161efec5c05fde1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/46f237bb6f75a5c52161efec5c05fde1",
-    "msrp_guide": {
-     "low": 12.99,
-     "high": 14.69,
-     "text": "12.99-14.69万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14542,13 +11944,7 @@
     },
     "evaluationId": "287c71b4d9ab738ecc3b147fd5bc70b2",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/287c71b4d9ab738ecc3b147fd5bc70b2",
-    "msrp_guide": {
-     "low": 25.98,
-     "high": 28.98,
-     "text": "25.98-28.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14564,13 +11960,7 @@
     },
     "evaluationId": "3ced7bb5add2fb7fbc46afba0c2fa8cb",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/3ced7bb5add2fb7fbc46afba0c2fa8cb",
-    "msrp_guide": {
-     "low": 17.68,
-     "high": 18.68,
-     "text": "17.68-18.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14600,13 +11990,7 @@
     },
     "evaluationId": "90d37faae8ecdb8c05bb43e3d6e7dc7b",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/90d37faae8ecdb8c05bb43e3d6e7dc7b",
-    "msrp_guide": {
-     "low": 28.99,
-     "high": 42.99,
-     "text": "28.99-42.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14632,13 +12016,7 @@
     },
     "evaluationId": "d833c962a08982bc8c653eebb7b25cd0",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d833c962a08982bc8c653eebb7b25cd0",
-    "msrp_guide": {
-     "low": 33.8,
-     "high": 35.0,
-     "text": "33.80-35.00万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14649,13 +12027,7 @@
     "targets": null,
     "evaluationId": "db0a9ecfdbfbdb0ed8fffc3dcce72a3f",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/db0a9ecfdbfbdb0ed8fffc3dcce72a3f",
-    "msrp_guide": {
-     "low": 29.99,
-     "high": 34.56,
-     "text": "29.99-34.56万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "empty"
    },
    {
@@ -14691,13 +12063,7 @@
     },
     "evaluationId": "471c9b6cf82efb9863e51d22d2de2eee",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/471c9b6cf82efb9863e51d22d2de2eee",
-    "msrp_guide": {
-     "low": 18.38,
-     "high": 26.98,
-     "text": "18.38-26.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14735,13 +12101,7 @@
     },
     "evaluationId": "0a6b6a6a27d8261e5cb5c91aaafaa4c3",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/0a6b6a6a27d8261e5cb5c91aaafaa4c3",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 26.98,
-     "text": "24.98-26.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14760,13 +12120,7 @@
     },
     "evaluationId": "49ce12df5c7c673fa4fed0a5c090fcaa",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/49ce12df5c7c673fa4fed0a5c090fcaa",
-    "msrp_guide": {
-     "low": 20.99,
-     "high": 27.99,
-     "text": "20.99-27.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14785,13 +12139,7 @@
     },
     "evaluationId": "cb5db7da3593088eba9c41ca75a2a4a1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cb5db7da3593088eba9c41ca75a2a4a1",
-    "msrp_guide": {
-     "low": 30.98,
-     "high": 33.98,
-     "text": "30.98-33.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14810,13 +12158,7 @@
     },
     "evaluationId": "c7ecffd5ae5352506f1e9ab0d18ccdf0",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c7ecffd5ae5352506f1e9ab0d18ccdf0",
-    "msrp_guide": {
-     "low": 26.58,
-     "high": 29.98,
-     "text": "26.58-29.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14834,13 +12176,7 @@
     },
     "evaluationId": "f6e526633697dacd5a2fdfbd2a19499a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/f6e526633697dacd5a2fdfbd2a19499a",
-    "msrp_guide": {
-     "low": 11.98,
-     "high": 16.28,
-     "text": "11.98-16.28万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14857,13 +12193,7 @@
     },
     "evaluationId": "956de87aa22acf60425f7eb554708ce1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/956de87aa22acf60425f7eb554708ce1",
-    "msrp_guide": {
-     "low": 31.8,
-     "high": 39.8,
-     "text": "31.80-39.80万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14881,13 +12211,7 @@
     },
     "evaluationId": "5d2e8b4bd3de5f61534f89aebe39247e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/5d2e8b4bd3de5f61534f89aebe39247e",
-    "msrp_guide": {
-     "low": 21.99,
-     "high": 30.39,
-     "text": "21.99-30.39万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14904,13 +12228,7 @@
     },
     "evaluationId": "fe6def8cdfffcdfec59c639d7ccdd650",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/fe6def8cdfffcdfec59c639d7ccdd650",
-    "msrp_guide": {
-     "low": 17.49,
-     "high": 24.69,
-     "text": "17.49-24.69万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14928,13 +12246,7 @@
     },
     "evaluationId": "6afa2bd4319eae7de169cab5cf99043e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/6afa2bd4319eae7de169cab5cf99043e",
-    "msrp_guide": {
-     "low": 18.68,
-     "high": 19.88,
-     "text": "18.68-19.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14952,13 +12264,7 @@
     },
     "evaluationId": "6631217ce8d7acffe6976eeacbb5692b",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/6631217ce8d7acffe6976eeacbb5692b",
-    "msrp_guide": {
-     "low": 30.98,
-     "high": 37.98,
-     "text": "30.98-37.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -14976,13 +12282,7 @@
     },
     "evaluationId": "887ece7cdc64eff102cd240fa90ce65b",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/887ece7cdc64eff102cd240fa90ce65b",
-    "msrp_guide": {
-     "low": 21.99,
-     "high": 30.99,
-     "text": "21.99-30.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -15018,13 +12318,7 @@
     },
     "evaluationId": "b6901c0628bb6cfcbc85ce3d8ae8dc4e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/b6901c0628bb6cfcbc85ce3d8ae8dc4e",
-    "msrp_guide": {
-     "low": 18.98,
-     "high": 31.98,
-     "text": "18.98-31.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
@@ -15042,31 +12336,26 @@
     },
     "evaluationId": "8e3b4d6008c3b5ce5f0f1ec0effab8a4",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8e3b4d6008c3b5ce5f0f1ec0effab8a4",
-    "msrp_guide": {
-     "low": 19.28,
-     "high": 25.59,
-     "text": "19.28-25.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
     "carName": "理想L6",
     "brand": "理想",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "94.1",
+    "targets": {
+     "车内空气": "96.2",
+     "健康用材": "84.0",
+     "电磁防护": "90.3",
+     "油耗": "100",
+     "续航": "94.2",
+     "汽车生命周期碳排放": "100"
+    },
     "evaluationId": "9f783f0bee9dd6adfd3a0aa99cebf932",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/9f783f0bee9dd6adfd3a0aa99cebf932",
-    "msrp_guide": {
-     "low": 24.98,
-     "high": 24.98,
-     "text": "24.98-24.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "msrp_guide": null,
+    "scrape_status": "ok"
    },
    {
     "carName": "沃尔沃EX30",
@@ -15082,31 +12371,25 @@
     },
     "evaluationId": "00d3b445bae27636d0b36d979fa99eb1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/00d3b445bae27636d0b36d979fa99eb1",
-    "msrp_guide": {
-     "low": 20.08,
-     "high": 26.38,
-     "text": "20.08-26.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
     "carName": "奇瑞智界S7",
     "brand": "智界",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "94.4",
+    "targets": {
+     "车内空气": "90.2",
+     "电磁防护": "100",
+     "续航": "81.8",
+     "充电": "100",
+     "碳排放": "100"
+    },
     "evaluationId": "4986f4dc971395bde3cbddea27837a66",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/4986f4dc971395bde3cbddea27837a66",
-    "msrp_guide": {
-     "low": 22.98,
-     "high": 32.98,
-     "text": "22.98-32.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "msrp_guide": null,
+    "scrape_status": "ok"
    },
    {
     "carName": "合创V09",
@@ -15129,18 +12412,18 @@
     "carName": "小鹏X9",
     "brand": "小鹏",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "94.3",
+    "targets": {
+     "车内空气": "89.4",
+     "电磁防护": "95.0",
+     "续航": "87.1",
+     "充电": "100",
+     "碳排放": "100"
+    },
     "evaluationId": "74ba77effa69cef5eea502309c2b1651",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/74ba77effa69cef5eea502309c2b1651",
-    "msrp_guide": {
-     "low": 30.98,
-     "high": 36.98,
-     "text": "30.98-36.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "msrp_guide": null,
+    "scrape_status": "ok"
    },
    {
     "carName": "极狐牌阿尔法T5",
@@ -15163,12 +12446,18 @@
     "carName": "东风奕派",
     "brand": "东风",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "90.3",
+    "targets": {
+     "车内空气": "90.1",
+     "电磁防护": "90.9",
+     "续航": "75.3",
+     "充电": "95.3",
+     "碳排放": "100"
+    },
     "evaluationId": "e795cb996e787fe7d3e8fb075cfe7b44",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e795cb996e787fe7d3e8fb075cfe7b44",
     "msrp_guide": null,
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "魏牌高山",
@@ -15183,31 +12472,24 @@
     },
     "evaluationId": "c9f7bae1ec6f2b30b1cf01eb725057d2",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c9f7bae1ec6f2b30b1cf01eb725057d2",
-    "msrp_guide": {
-     "low": 27.28,
-     "high": 35.38,
-     "text": "27.28-35.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
     "carName": "大通G90",
     "brand": "上汽",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "87.6",
+    "targets": {
+     "车内空气": "88.3",
+     "电磁防护": "67.6",
+     "油耗": "94.6",
+     "碳排放": "100"
+    },
     "evaluationId": "8d9140982a3b3cb3b985d0b4fd70fc81",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8d9140982a3b3cb3b985d0b4fd70fc81",
-    "msrp_guide": {
-     "low": 19.99,
-     "high": 24.99,
-     "text": "19.99-24.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "msrp_guide": null,
+    "scrape_status": "ok"
    },
    {
     "carName": "别克世纪",
@@ -15222,31 +12504,24 @@
     },
     "evaluationId": "7ad48eedf452c90e5b22b32452b4472a",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/7ad48eedf452c90e5b22b32452b4472a",
-    "msrp_guide": {
-     "low": 46.99,
-     "high": 69.99,
-     "text": "46.99-69.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
     "carName": "林肯航海家",
     "brand": "长安福特",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "95.8",
+    "targets": {
+     "车内空气": "92.8",
+     "电磁防护": "100",
+     "油耗": "90.2",
+     "碳排放": "100"
+    },
     "evaluationId": "34df1ce4991b15ff9f65d97c85ac43f0",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/34df1ce4991b15ff9f65d97c85ac43f0",
-    "msrp_guide": {
-     "low": 30.58,
-     "high": 46.88,
-     "text": "30.58-46.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "msrp_guide": null,
+    "scrape_status": "ok"
    },
    {
     "carName": "丰田凯美瑞",
@@ -15268,12 +12543,18 @@
     "carName": "极越01",
     "brand": "极越",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "92.7",
+    "targets": {
+     "车内空气": "90.4",
+     "电磁防护": "88.2",
+     "续航": "84.8",
+     "充电": "100",
+     "碳排放": "100"
+    },
     "evaluationId": "a9cdb01904bfdeb3dfb2ac89a0a5ac07",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/a9cdb01904bfdeb3dfb2ac89a0a5ac07",
     "msrp_guide": null,
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "宝马i5",
@@ -15289,31 +12570,25 @@
     },
     "evaluationId": "56554dd42bcf5ebb2b61216b6004d922",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/56554dd42bcf5ebb2b61216b6004d922",
-    "msrp_guide": {
-     "low": 43.99,
-     "high": 53.99,
-     "text": "43.99-53.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
     "carName": "智己LS6",
     "brand": "智己",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "87.3",
+    "targets": {
+     "车内空气": "89.1",
+     "电磁防护": "83.2",
+     "续航": "72.4",
+     "充电": "91.8",
+     "碳排放": "100"
+    },
     "evaluationId": "c21a66bb49ce6b3eb3f3490cc08e61b2",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c21a66bb49ce6b3eb3f3490cc08e61b2",
-    "msrp_guide": {
-     "low": 21.29,
-     "high": 28.49,
-     "text": "21.29-28.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "msrp_guide": null,
+    "scrape_status": "ok"
    },
    {
     "carName": "星途星纪元ES",
@@ -15336,18 +12611,18 @@
     "carName": "飞凡F7",
     "brand": "飞凡",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "85.9",
+    "targets": {
+     "车内空气": "87.5",
+     "电磁防护": "68.5",
+     "续航": "80.0",
+     "充电": "93.7",
+     "碳排放": "100"
+    },
     "evaluationId": "cfd65125fbb0d7834af4d7d75fab5bda",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cfd65125fbb0d7834af4d7d75fab5bda",
-    "msrp_guide": {
-     "low": 18.29,
-     "high": 18.29,
-     "text": "18.29-18.29万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "msrp_guide": null,
+    "scrape_status": "ok"
    },
    {
     "carName": "本田英仕派",
@@ -15362,31 +12637,25 @@
     },
     "evaluationId": "6ca640dbac0abfb1a0a8176dc5dcc690",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/6ca640dbac0abfb1a0a8176dc5dcc690",
-    "msrp_guide": {
-     "low": 18.28,
-     "high": 21.38,
-     "text": "18.28-21.38万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
     "carName": "阿维塔11",
     "brand": "阿维塔",
     "year": "2023",
-    "score": null,
-    "targets": null,
+    "score": "95.9",
+    "targets": {
+     "车内空气": "93.1",
+     "电磁防护": "98.3",
+     "续航": "88.0",
+     "充电": "100",
+     "碳排放": "100"
+    },
     "evaluationId": "6e1144be7e7cec4ec66b32c336ffb8ef",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/6e1144be7e7cec4ec66b32c336ffb8ef",
-    "msrp_guide": {
-     "low": 28.99,
-     "high": 42.99,
-     "text": "28.99-42.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "msrp_guide": null,
+    "scrape_status": "ok"
    },
    {
     "carName": "小鹏G9",
@@ -15402,25 +12671,24 @@
     },
     "evaluationId": "dadb6eab9dca2ecfb90439a271302e5c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/dadb6eab9dca2ecfb90439a271302e5c",
-    "msrp_guide": {
-     "low": 24.88,
-     "high": 27.88,
-     "text": "24.88-27.88万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    },
    {
     "carName": "吉利银河L7",
     "brand": "吉利",
     "year": "2023",
-    "score": null,
-    "targets": null,
+    "score": "98.6",
+    "targets": {
+     "车内空气": "94.5",
+     "电磁防护": "100",
+     "油耗": "100",
+     "碳排放": "100"
+    },
     "evaluationId": "ad1b9dd1f430975b61d0fdfd4fe6f05d",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/ad1b9dd1f430975b61d0fdfd4fe6f05d",
     "msrp_guide": null,
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "红旗HS3",
@@ -15435,13 +12703,7 @@
     },
     "evaluationId": "a3a8d7e9f469eff5db16b2c84888df81",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/a3a8d7e9f469eff5db16b2c84888df81",
-    "msrp_guide": {
-     "low": 14.98,
-     "high": 15.98,
-     "text": "14.98-15.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    },
+    "msrp_guide": null,
     "scrape_status": "ok"
    }
   ]
