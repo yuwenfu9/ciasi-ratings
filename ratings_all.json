@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-09-17T14:14:53+08:00",
+  "generated_at": "2026-09-18T14:01:01+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -19,7 +19,7 @@
    "c_icap": 25,
    "c_gcap": 38
   },
-  "scraped_at": "2026-09-17T14:15:00+08:00"
+  "scraped_at": "2026-09-18T14:01:05+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -309,7 +309,13 @@
     "repairability": "A",
     "nev_special": "G",
     "detail_url": "https://ciasi.org.cn/products/show-1010.html",
-    "msrp_guide": null
+    "msrp_guide": {
+     "low": 17.98,
+     "high": 23.98,
+     "text": "17.98-23.98万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
    },
    {
     "brand": "梅赛德斯-奔驰",
@@ -4862,9 +4868,9 @@
     "evaluationId": "d4b96cb5d99afb1de089a7339e42155c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d4b96cb5d99afb1de089a7339e42155c",
     "msrp_guide": {
-     "low": 9.88,
-     "high": 16.55,
-     "text": "9.88-16.55万",
+     "low": 16.88,
+     "high": 19.98,
+     "text": "16.88-19.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -5146,9 +5152,9 @@
     "evaluationId": "06d67b55bff6427dbfcec13311592813",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/06d67b55bff6427dbfcec13311592813",
     "msrp_guide": {
-     "low": 20.68,
-     "high": 23.88,
-     "text": "20.68-23.88万",
+     "low": 17.38,
+     "high": 22.18,
+     "text": "17.38-22.18万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -5666,9 +5672,9 @@
     "evaluationId": "c998e6842d3a4f7b9c13d34bac817608",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c998e6842d3a4f7b9c13d34bac817608",
     "msrp_guide": {
-     "low": 22.99,
-     "high": 25.99,
-     "text": "22.99-25.99万",
+     "low": 19.69,
+     "high": 20.49,
+     "text": "19.69-20.49万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -7972,9 +7978,9 @@
     "evaluationId": "87c358079f4c4cadb084c95b4da7d681",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/87c358079f4c4cadb084c95b4da7d681",
     "msrp_guide": {
-     "low": 22.99,
-     "high": 25.99,
-     "text": "22.99-25.99万",
+     "low": 19.69,
+     "high": 20.49,
+     "text": "19.69-20.49万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -11392,9 +11398,9 @@
     "evaluationId": "0fe029b2c6ea4dba94f7df555f474aa1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/0fe029b2c6ea4dba94f7df555f474aa1",
     "msrp_guide": {
-     "low": 41.06,
-     "high": 41.06,
-     "text": "41.06-41.06万",
+     "low": 29.99,
+     "high": 34.56,
+     "text": "29.99-34.56万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -12324,9 +12330,9 @@
     "evaluationId": "1968491184712069121",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1968491184712069121",
     "msrp_guide": {
-     "low": 7.98,
-     "high": 12.58,
-     "text": "7.98-12.58万",
+     "low": 9.98,
+     "high": 12.98,
+     "text": "9.98-12.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -12566,9 +12572,9 @@
     "evaluationId": "e3db6ce2cc31eed9f924e9bbf51fc68c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e3db6ce2cc31eed9f924e9bbf51fc68c",
     "msrp_guide": {
-     "low": 9.88,
-     "high": 16.55,
-     "text": "9.88-16.55万",
+     "low": 16.88,
+     "high": 19.98,
+     "text": "16.88-19.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -12776,9 +12782,9 @@
     "evaluationId": "1564915472573448194",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915472573448194",
     "msrp_guide": {
-     "low": 20.68,
-     "high": 23.88,
-     "text": "20.68-23.88万",
+     "low": 17.38,
+     "high": 22.18,
+     "text": "17.38-22.18万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
