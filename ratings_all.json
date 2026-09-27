@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-09-26T14:14:52+08:00",
+  "generated_at": "2026-09-27T15:00:17+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -19,7 +19,7 @@
    "c_icap": 25,
    "c_gcap": 38
   },
-  "scraped_at": "2026-09-26T14:15:56+08:00"
+  "scraped_at": "2026-09-27T15:00:24+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -584,9 +584,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-903.html",
     "msrp_guide": {
-     "low": 18.98,
-     "high": 24.98,
-     "text": "18.98-24.98万",
+     "low": 13.58,
+     "high": 17.58,
+     "text": "13.58-17.58万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -2370,9 +2370,9 @@
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-806.html",
     "msrp_guide": {
-     "low": 59.9,
-     "high": 59.9,
-     "text": "59.90-59.90万",
+     "low": 90.99,
+     "high": 90.99,
+     "text": "90.99-90.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -3896,9 +3896,9 @@
     "evaluationId": "cb1c4e2274d1dbd9a2ac38129c4c9c55",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cb1c4e2274d1dbd9a2ac38129c4c9c55",
     "msrp_guide": {
-     "low": 59.9,
-     "high": 59.9,
-     "text": "59.90-59.90万",
+     "low": 90.99,
+     "high": 90.99,
+     "text": "90.99-90.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -4868,9 +4868,9 @@
     "evaluationId": "d4b96cb5d99afb1de089a7339e42155c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/d4b96cb5d99afb1de089a7339e42155c",
     "msrp_guide": {
-     "low": 9.88,
-     "high": 16.55,
-     "text": "9.88-16.55万",
+     "low": 16.88,
+     "high": 19.98,
+     "text": "16.88-19.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -6496,9 +6496,9 @@
     "evaluationId": "e66094d9062c4dc0a53b02ccc89d08f4",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e66094d9062c4dc0a53b02ccc89d08f4",
     "msrp_guide": {
-     "low": 59.9,
-     "high": 59.9,
-     "text": "59.90-59.90万",
+     "low": 90.99,
+     "high": 90.99,
+     "text": "90.99-90.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -12578,9 +12578,9 @@
     "evaluationId": "e3db6ce2cc31eed9f924e9bbf51fc68c",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/e3db6ce2cc31eed9f924e9bbf51fc68c",
     "msrp_guide": {
-     "low": 9.88,
-     "high": 16.55,
-     "text": "9.88-16.55万",
+     "low": 16.88,
+     "high": 19.98,
+     "text": "16.88-19.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -14590,7 +14590,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "empty"
    },
    {
     "carName": "极狐牌阿尔法S",
@@ -14792,9 +14792,9 @@
     "evaluationId": "956de87aa22acf60425f7eb554708ce1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/956de87aa22acf60425f7eb554708ce1",
     "msrp_guide": {
-     "low": 59.9,
-     "high": 59.9,
-     "text": "59.90-59.90万",
+     "low": 90.99,
+     "high": 90.99,
+     "text": "90.99-90.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
@@ -15288,12 +15288,18 @@
     "carName": "星途星纪元ES",
     "brand": "星纪元",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "91.4",
+    "targets": {
+     "车内空气": "89.4",
+     "电磁防护": "84.9",
+     "续航": "82.6",
+     "充电": "100",
+     "碳排放": "100"
+    },
     "evaluationId": "b2cf1f4d826eff72eddb9b7f016ddf1e",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/b2cf1f4d826eff72eddb9b7f016ddf1e",
     "msrp_guide": null,
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "飞凡F7",
