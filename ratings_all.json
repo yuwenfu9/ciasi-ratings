@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-10-08T15:38:07+08:00",
+  "generated_at": "2026-10-09T15:34:06+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -19,7 +19,7 @@
    "c_icap": 25,
    "c_gcap": 38
   },
-  "scraped_at": "2026-10-08T15:38:12+08:00"
+  "scraped_at": "2026-10-09T15:34:14+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -5146,9 +5146,9 @@
     "evaluationId": "06d67b55bff6427dbfcec13311592813",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/06d67b55bff6427dbfcec13311592813",
     "msrp_guide": {
-     "low": 20.68,
-     "high": 23.88,
-     "text": "20.68-23.88万",
+     "low": 17.38,
+     "high": 22.18,
+     "text": "17.38-22.18万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -6113,7 +6113,13 @@
     },
     "evaluationId": "8230bd50a68746ea91f5382c49333b3f",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/8230bd50a68746ea91f5382c49333b3f",
-    "msrp_guide": null
+    "msrp_guide": {
+     "low": 24.98,
+     "high": 26.58,
+     "text": "24.98-26.58万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
    },
    {
     "carName": "丰田雷凌",
@@ -10755,7 +10761,13 @@
     },
     "evaluationId": "616f3f7541a546faa298a4e107a004c2",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/616f3f7541a546faa298a4e107a004c2",
-    "msrp_guide": null
+    "msrp_guide": {
+     "low": 24.98,
+     "high": 26.58,
+     "text": "24.98-26.58万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
    },
    {
     "carName": "标致408",
@@ -11422,9 +11434,9 @@
     "evaluationId": "0fe029b2c6ea4dba94f7df555f474aa1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/0fe029b2c6ea4dba94f7df555f474aa1",
     "msrp_guide": {
-     "low": 22.9,
-     "high": 28.56,
-     "text": "22.90-28.56万",
+     "low": 54.9,
+     "high": 70.08,
+     "text": "54.90-70.08万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -12354,9 +12366,9 @@
     "evaluationId": "1968491184712069121",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1968491184712069121",
     "msrp_guide": {
-     "low": 7.98,
-     "high": 12.58,
-     "text": "7.98-12.58万",
+     "low": 9.98,
+     "high": 12.98,
+     "text": "9.98-12.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -12800,9 +12812,9 @@
     "evaluationId": "1564915472573448194",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915472573448194",
     "msrp_guide": {
-     "low": 20.68,
-     "high": 23.88,
-     "text": "20.68-23.88万",
+     "low": 17.38,
+     "high": 22.18,
+     "text": "17.38-22.18万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
