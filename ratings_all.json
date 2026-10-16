@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-10-15T14:04:04+08:00",
+  "generated_at": "2026-10-16T14:00:24+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -19,7 +19,7 @@
    "c_icap": 25,
    "c_gcap": 38
   },
-  "scraped_at": "2026-10-15T14:04:58+08:00"
+  "scraped_at": "2026-10-16T14:00:32+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -2052,9 +2052,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-778.html",
     "msrp_guide": {
-     "low": 22.99,
-     "high": 25.99,
-     "text": "22.99-25.99万",
+     "low": 19.69,
+     "high": 20.49,
+     "text": "19.69-20.49万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -3036,9 +3036,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-845.html",
     "msrp_guide": {
-     "low": 22.99,
-     "high": 25.99,
-     "text": "22.99-25.99万",
+     "low": 19.69,
+     "high": 20.49,
+     "text": "19.69-20.49万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -5690,9 +5690,9 @@
     "evaluationId": "c998e6842d3a4f7b9c13d34bac817608",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c998e6842d3a4f7b9c13d34bac817608",
     "msrp_guide": {
-     "low": 22.99,
-     "high": 25.99,
-     "text": "22.99-25.99万",
+     "low": 19.69,
+     "high": 20.49,
+     "text": "19.69-20.49万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -8008,9 +8008,9 @@
     "evaluationId": "87c358079f4c4cadb084c95b4da7d681",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/87c358079f4c4cadb084c95b4da7d681",
     "msrp_guide": {
-     "low": 22.99,
-     "high": 25.99,
-     "text": "22.99-25.99万",
+     "low": 19.69,
+     "high": 20.49,
+     "text": "19.69-20.49万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -11446,9 +11446,9 @@
     "evaluationId": "0fe029b2c6ea4dba94f7df555f474aa1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/0fe029b2c6ea4dba94f7df555f474aa1",
     "msrp_guide": {
-     "low": 54.9,
-     "high": 70.08,
-     "text": "54.90-70.08万",
+     "low": 45.76,
+     "high": 59.98,
+     "text": "45.76-59.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -12378,9 +12378,9 @@
     "evaluationId": "1968491184712069121",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1968491184712069121",
     "msrp_guide": {
-     "low": 9.98,
-     "high": 12.98,
-     "text": "9.98-12.98万",
+     "low": 7.98,
+     "high": 12.58,
+     "text": "7.98-12.58万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -15346,8 +15346,13 @@
     "carName": "本田英仕派",
     "brand": "东风本田",
     "year": "2024",
-    "score": null,
-    "targets": null,
+    "score": "95.0",
+    "targets": {
+     "车内空气": "80.5",
+     "电磁防护": "100",
+     "油耗": "99.3",
+     "碳排放": "100"
+    },
     "evaluationId": "6ca640dbac0abfb1a0a8176dc5dcc690",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/6ca640dbac0abfb1a0a8176dc5dcc690",
     "msrp_guide": {
@@ -15357,7 +15362,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
+    "scrape_status": "ok"
    },
    {
     "carName": "阿维塔11",
