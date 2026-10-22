@@ -18556,6 +18556,36 @@
  ],
  "C-ICAP": [
   {
+   "evaluationId": "a1654a9c0d24496a0eccacfccf8bb6be",
+   "carName": "别克至境L7",
+   "score": null,
+   "carImage": null,
+   "targetList": null,
+   "level": null,
+   "testYear": "2026",
+   "brandImage": null,
+   "carKind": "轿车",
+   "carId": 758,
+   "manufacturer": "上汽通用汽车有限公司",
+   "ruleYear": null,
+   "ruleType": null
+  },
+  {
+   "evaluationId": "5a2c820d2cde34feca7be1fbad46bbd6",
+   "carName": "奇瑞风云T11",
+   "score": null,
+   "carImage": null,
+   "targetList": null,
+   "level": null,
+   "testYear": "2026",
+   "brandImage": null,
+   "carKind": "SUV",
+   "carId": 759,
+   "manufacturer": "奇瑞汽车股份有限公司",
+   "ruleYear": null,
+   "ruleType": null
+  },
+  {
    "evaluationId": "eefd45c3d383aac4ca0e2dc36f20636a",
    "carName": "小米YU7",
    "score": null,
