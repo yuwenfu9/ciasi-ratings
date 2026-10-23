@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-10-22T14:07:28+08:00",
+  "generated_at": "2026-10-23T14:07:52+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -19,7 +19,7 @@
    "c_icap": 27,
    "c_gcap": 38
   },
-  "scraped_at": "2026-10-22T14:08:08+08:00"
+  "scraped_at": "2026-10-23T14:08:25+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -590,9 +590,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-903.html",
     "msrp_guide": {
-     "low": 18.98,
-     "high": 24.98,
-     "text": "18.98-24.98万",
+     "low": 13.58,
+     "high": 17.58,
+     "text": "13.58-17.58万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -777,7 +777,13 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-992.html",
-    "msrp_guide": null
+    "msrp_guide": {
+     "low": 11.99,
+     "high": 15.89,
+     "text": "11.99-15.89万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
    },
    {
     "brand": "丰田",
@@ -2455,7 +2461,13 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-810.html",
-    "msrp_guide": null
+    "msrp_guide": {
+     "low": 35.8,
+     "high": 37.3,
+     "text": "35.80-37.30万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
    },
    {
     "brand": "启辰",
@@ -2717,13 +2729,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-827.html",
-    "msrp_guide": {
-     "low": 39.69,
-     "high": 47.49,
-     "text": "39.69-47.49万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "丰田",
@@ -4084,9 +4090,9 @@
     "evaluationId": "da82b7d6060e8e6da24e2abebd4f09c1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/da82b7d6060e8e6da24e2abebd4f09c1",
     "msrp_guide": {
-     "low": 19.38,
-     "high": 30.18,
-     "text": "19.38-30.18万",
+     "low": 9.98,
+     "high": 22.98,
+     "text": "9.98-22.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -4725,7 +4731,13 @@
     },
     "evaluationId": "9c7f4c7c1d2edf5be94a34ff1cfa7a37",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/9c7f4c7c1d2edf5be94a34ff1cfa7a37",
-    "msrp_guide": null
+    "msrp_guide": {
+     "low": 32.99,
+     "high": 70.99,
+     "text": "32.99-70.99万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
    },
    {
     "carName": "本田CR-V",
@@ -5152,9 +5164,9 @@
     "evaluationId": "06d67b55bff6427dbfcec13311592813",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/06d67b55bff6427dbfcec13311592813",
     "msrp_guide": {
-     "low": 20.68,
-     "high": 23.88,
-     "text": "20.68-23.88万",
+     "low": 17.38,
+     "high": 22.18,
+     "text": "17.38-22.18万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -5678,9 +5690,9 @@
     "evaluationId": "c998e6842d3a4f7b9c13d34bac817608",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/c998e6842d3a4f7b9c13d34bac817608",
     "msrp_guide": {
-     "low": 19.69,
-     "high": 20.49,
-     "text": "19.69-20.49万",
+     "low": 22.99,
+     "high": 25.99,
+     "text": "22.99-25.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -7990,9 +8002,9 @@
     "evaluationId": "87c358079f4c4cadb084c95b4da7d681",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/87c358079f4c4cadb084c95b4da7d681",
     "msrp_guide": {
-     "low": 19.69,
-     "high": 20.49,
-     "text": "19.69-20.49万",
+     "low": 22.99,
+     "high": 25.99,
+     "text": "22.99-25.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -11428,9 +11440,9 @@
     "evaluationId": "0fe029b2c6ea4dba94f7df555f474aa1",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/0fe029b2c6ea4dba94f7df555f474aa1",
     "msrp_guide": {
-     "low": 54.9,
-     "high": 70.08,
-     "text": "54.90-70.08万",
+     "low": 22.9,
+     "high": 28.56,
+     "text": "22.90-28.56万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -12360,9 +12372,9 @@
     "evaluationId": "1968491184712069121",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1968491184712069121",
     "msrp_guide": {
-     "low": 7.98,
-     "high": 12.58,
-     "text": "7.98-12.58万",
+     "low": 9.98,
+     "high": 12.98,
+     "text": "9.98-12.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -12495,7 +12507,13 @@
     "targets": null,
     "evaluationId": "6e9bcc2172fc1b919f4b77fdeb2b5fcd",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/6e9bcc2172fc1b919f4b77fdeb2b5fcd",
-    "msrp_guide": null
+    "msrp_guide": {
+     "low": 32.99,
+     "high": 70.99,
+     "text": "32.99-70.99万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
    },
    {
     "carName": "本田CR-V ",
@@ -12800,9 +12818,9 @@
     "evaluationId": "1564915472573448194",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1564915472573448194",
     "msrp_guide": {
-     "low": 20.68,
-     "high": 23.88,
-     "text": "20.68-23.88万",
+     "low": 17.38,
+     "high": 22.18,
+     "text": "17.38-22.18万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -12951,7 +12969,13 @@
     "targets": null,
     "evaluationId": "1565149450110832641",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/1565149450110832641",
-    "msrp_guide": null
+    "msrp_guide": {
+     "low": 35.8,
+     "high": 37.3,
+     "text": "35.80-37.30万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    }
    },
    {
     "carName": "特斯拉Model3",
@@ -14307,7 +14331,13 @@
     },
     "evaluationId": "cec8bae1d9dbdb6df25deccb50eef9f8",
     "detail_url": "https://www.c-ncap.org.cn/evaluation/cec8bae1d9dbdb6df25deccb50eef9f8",
-    "msrp_guide": null,
+    "msrp_guide": {
+     "low": 32.99,
+     "high": 70.99,
+     "text": "32.99-70.99万",
+     "source": "autohome",
+     "fetched_at": "2026-08-30"
+    },
     "scrape_status": "ok"
    },
    {
@@ -14632,7 +14662,7 @@
      "source": "autohome",
      "fetched_at": "2026-08-30"
     },
-    "scrape_status": "empty"
+    "scrape_status": "err:<urlopen error [Errno 111] Connection refused>"
    },
    {
     "carName": "极狐牌阿尔法S",
