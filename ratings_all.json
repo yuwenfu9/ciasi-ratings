@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-11-02T15:55:54+08:00",
+  "generated_at": "2026-11-03T16:00:45+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -19,7 +19,7 @@
    "c_icap": 0,
    "c_gcap": 0
   },
-  "scraped_at": "2026-11-02T15:55:54+08:00"
+  "scraped_at": "2026-11-03T16:00:45+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -329,13 +329,7 @@
     "repairability": "A",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-1011.html",
-    "msrp_guide": {
-     "low": 37.88,
-     "high": 50.98,
-     "text": "37.88-50.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "小米",
@@ -590,9 +584,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-903.html",
     "msrp_guide": {
-     "low": 13.98,
-     "high": 15.68,
-     "text": "13.98-15.68万",
+     "low": 18.98,
+     "high": 24.98,
+     "text": "18.98-24.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -611,8 +605,8 @@
     "detail_url": "https://ciasi.org.cn/products/show-906.html",
     "msrp_guide": {
      "low": 14.58,
-     "high": 18.18,
-     "text": "14.58-18.18万",
+     "high": 16.98,
+     "text": "14.58-16.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -731,8 +725,8 @@
     "detail_url": "https://ciasi.org.cn/products/show-980.html",
     "msrp_guide": {
      "low": 19.28,
-     "high": 25.59,
-     "text": "19.28-25.59万",
+     "high": 25.18,
+     "text": "19.28-25.18万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -1777,8 +1771,8 @@
     "detail_url": "https://ciasi.org.cn/products/show-763.html",
     "msrp_guide": {
      "low": 14.38,
-     "high": 16.58,
-     "text": "14.38-16.58万",
+     "high": 15.98,
+     "text": "14.38-15.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -2052,9 +2046,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-778.html",
     "msrp_guide": {
-     "low": 22.99,
-     "high": 25.99,
-     "text": "22.99-25.99万",
+     "low": 19.69,
+     "high": 20.49,
+     "text": "19.69-20.49万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -2139,13 +2133,7 @@
     "repairability": "P",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-783.html",
-    "msrp_guide": {
-     "low": 19.99,
-     "high": 36.99,
-     "text": "19.99-36.99万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "特斯拉",
@@ -3042,9 +3030,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-845.html",
     "msrp_guide": {
-     "low": 22.99,
-     "high": 25.99,
-     "text": "22.99-25.99万",
+     "low": 19.69,
+     "high": 20.49,
+     "text": "19.69-20.49万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -3402,9 +3390,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-866.html",
     "msrp_guide": {
-     "low": 19.99,
+     "low": 34.99,
      "high": 36.99,
-     "text": "19.99-36.99万",
+     "text": "34.99-36.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
