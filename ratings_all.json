@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-11-05T15:54:45+08:00",
+  "generated_at": "2026-11-06T16:04:46+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -19,7 +19,7 @@
    "c_icap": 0,
    "c_gcap": 0
   },
-  "scraped_at": "2026-11-05T15:54:45+08:00"
+  "scraped_at": "2026-11-06T16:04:46+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -2731,13 +2731,7 @@
     "repairability": "P",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-828.html",
-    "msrp_guide": {
-     "low": 17.88,
-     "high": 25.68,
-     "text": "17.88-25.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "吉利",
