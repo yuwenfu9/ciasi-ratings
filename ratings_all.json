@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-11-07T15:13:11+08:00",
+  "generated_at": "2026-11-08T15:31:24+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -19,7 +19,7 @@
    "c_icap": 0,
    "c_gcap": 0
   },
-  "scraped_at": "2026-11-07T15:13:11+08:00"
+  "scraped_at": "2026-11-08T15:31:24+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -115,13 +115,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-994.html",
-    "msrp_guide": {
-     "low": 25.58,
-     "high": 34.68,
-     "text": "25.58-34.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "大众",
@@ -269,13 +263,7 @@
     "repairability": "G",
     "nev_special": "G",
     "detail_url": "https://ciasi.org.cn/products/show-1008.html",
-    "msrp_guide": {
-     "low": 35.98,
-     "high": 45.98,
-     "text": "35.98-45.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "尚界",
@@ -563,13 +551,7 @@
     "repairability": "G",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-977.html",
-    "msrp_guide": {
-     "low": 47.98,
-     "high": 65.98,
-     "text": "47.98-65.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "比亚迪",
@@ -584,9 +566,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-903.html",
     "msrp_guide": {
-     "low": 18.98,
-     "high": 24.98,
-     "text": "18.98-24.98万",
+     "low": 13.98,
+     "high": 15.68,
+     "text": "13.98-15.68万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -1331,13 +1313,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-790.html",
-    "msrp_guide": {
-     "low": 26.99,
-     "high": 70.0,
-     "text": "26.99-70.00万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "红旗",
@@ -1453,13 +1429,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-729.html",
-    "msrp_guide": {
-     "low": 41.87,
-     "high": 66.62,
-     "text": "41.87-66.62万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "本田",
@@ -1681,13 +1651,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-750.html",
-    "msrp_guide": {
-     "low": 27.98,
-     "high": 38.98,
-     "text": "27.98-38.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "大众",
@@ -1869,13 +1833,7 @@
     "repairability": "M",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-768.html",
-    "msrp_guide": {
-     "low": 28.98,
-     "high": 32.98,
-     "text": "28.98-32.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "比亚迪",
@@ -2046,9 +2004,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-778.html",
     "msrp_guide": {
-     "low": 19.69,
-     "high": 20.49,
-     "text": "19.69-20.49万",
+     "low": 22.99,
+     "high": 25.99,
+     "text": "22.99-25.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -2247,13 +2205,7 @@
     "repairability": "--",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-799.html",
-    "msrp_guide": {
-     "low": 30.98,
-     "high": 39.98,
-     "text": "30.98-39.98万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "奔驰",
@@ -2963,13 +2915,7 @@
     "repairability": "--",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-842.html",
-    "msrp_guide": {
-     "low": 32.29,
-     "high": 55.89,
-     "text": "32.29-55.89万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "荣威",
@@ -3024,9 +2970,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-845.html",
     "msrp_guide": {
-     "low": 19.69,
-     "high": 20.49,
-     "text": "19.69-20.49万",
+     "low": 22.99,
+     "high": 25.99,
+     "text": "22.99-25.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
