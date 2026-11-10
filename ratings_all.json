@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-11-09T16:03:18+08:00",
+  "generated_at": "2026-11-10T16:32:09+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -19,7 +19,7 @@
    "c_icap": 0,
    "c_gcap": 0
   },
-  "scraped_at": "2026-11-09T16:03:18+08:00"
+  "scraped_at": "2026-11-10T16:32:09+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -96,9 +96,9 @@
     "nev_special": "G",
     "detail_url": "https://ciasi.org.cn/products/show-993.html",
     "msrp_guide": {
-     "low": 38.98,
+     "low": 40.98,
      "high": 46.98,
-     "text": "38.98-46.98万",
+     "text": "40.98-46.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -584,9 +584,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-903.html",
     "msrp_guide": {
-     "low": 13.98,
-     "high": 15.68,
-     "text": "13.98-15.68万",
+     "low": 18.98,
+     "high": 24.98,
+     "text": "18.98-24.98万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -1393,13 +1393,7 @@
     "repairability": "M",
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-794.html",
-    "msrp_guide": {
-     "low": 29.98,
-     "high": 32.68,
-     "text": "29.98-32.68万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "上汽通用别克",
@@ -1789,13 +1783,7 @@
     "repairability": "A",
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-764.html",
-    "msrp_guide": {
-     "low": 15.09,
-     "high": 19.59,
-     "text": "15.09-19.59万",
-     "source": "autohome",
-     "fetched_at": "2026-08-30"
-    }
+    "msrp_guide": null
    },
    {
     "brand": "福特",
