@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generated_at": "2026-11-15T15:54:16+08:00",
+  "generated_at": "2026-11-16T16:03:26+08:00",
   "price_fetched_at": "2026-08-30",
   "sources": {
    "c_iasi": "ciasi.org.cn（中保研）",
@@ -19,7 +19,7 @@
    "c_icap": 0,
    "c_gcap": 0
   },
-  "scraped_at": "2026-11-15T15:54:16+08:00"
+  "scraped_at": "2026-11-16T16:03:26+08:00"
  },
  "orgs": {
   "c_iasi": [
@@ -2028,9 +2028,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-778.html",
     "msrp_guide": {
-     "low": 19.69,
-     "high": 20.49,
-     "text": "19.69-20.49万",
+     "low": 22.99,
+     "high": 25.99,
+     "text": "22.99-25.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -2880,9 +2880,9 @@
     "nev_special": "--",
     "detail_url": "https://ciasi.org.cn/products/show-839.html",
     "msrp_guide": {
-     "low": 33.98,
-     "high": 51.8,
-     "text": "33.98-51.80万",
+     "low": 43.08,
+     "high": 49.78,
+     "text": "43.08-49.78万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
@@ -2994,9 +2994,9 @@
     "nev_special": "-- **",
     "detail_url": "https://ciasi.org.cn/products/show-845.html",
     "msrp_guide": {
-     "low": 19.69,
-     "high": 20.49,
-     "text": "19.69-20.49万",
+     "low": 22.99,
+     "high": 25.99,
+     "text": "22.99-25.99万",
      "source": "autohome",
      "fetched_at": "2026-08-30"
     }
